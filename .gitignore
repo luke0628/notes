@@ -1,0 +1,8 @@
+# Machine-local state — do not commit
+.env
+*.log
+__pycache__/
+.venv/
+venv/
+node_modules/
+.DS_Store
