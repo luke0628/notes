@@ -238,4 +238,229 @@
   📖 unjustified 同义 ≈ unwarranted / unreasonable / uncalled-for
   📖 反义 ≈ justified / warranted / substantiated / valid
 
-  ⚠️ 两个词在GRE SE中经常配对，意思在语境中一致（'缺乏合理依据'），但日常使用中unfounded偏"没事实依据"，unjustified偏"没道理/不应该"。在同义选句题中注意语境是否同时适合两个词。
+  ⚠️ 两个词在GRE SE中经常配对，意思在语境中一致（'缺乏合理依据'），但日常使用中unfounded偏'没事实依据'，unjustified偏'没道理/不应该'。在同义选句题中注意语境是否同时适合两个词。
+
+---
+
+## 3. 0629真题 · 考满分 5题（Q28-Q32）— 均为hard
+
+### Q28 · sec36 hard · 🔄因果（given that）
+> Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been _____.
+- A) **diffident** ✅ — 不自信的/畏缩的
+- B) meticulous ❌
+- C) straightforward ❌
+- D) implacable ❌
+- E) tenacious ❌
+
+**你的答案：** E) tenacious ❌
+**逻辑：** given that（➡️因果）= 鉴于/因为。投资人感激总检察长介入，因为监管机构**不敢查**（diffident）。tenacious（顽强的）是正面词——如果监管机构顽强尽责，总检察长就不需要介入了，逻辑不通。
+**💡** diffident = 畏缩的、不自信的
+
+### Q29 · sec37 hard · 🎭对比（while）
+> While the writer was best known for her much-ballyhooed _____, her impact reached far beyond memorable quips.
+- A) pensiveness ❌
+- B) **drollness** ✅ — 滑稽/幽默
+- C) stoicism ❌
+- D) fastidiousness ❌
+- E) congeniality ❌
+
+**你的答案：** B) drollness ✅
+**逻辑：** while（🎭对比）= 前后相反。后句说影响力超越了 memorable quips（俏皮话）→ 前句最出名的就是**说俏皮话的能力**。drollness = 诙谐幽默，完美对应 quips ✅
+**📖** quip = 俏皮话 · ballyhooed = 大肆宣传的 · drollness = 滑稽幽默
+
+### Q30 · sec38 hard · ➡️递进（SE）
+> It's hardly _____ the committee calls for: rudimentary competence would be an improvement on the current chaos.
+- A) accountability ❌
+- B) disarray ❌
+- C) unruliness ❌
+- D) **faultlessness** ✅
+- E) loyalty ❌
+- F) **perfection** ✅
+
+**你的答案：** A) accountability ❌
+**正确答案：** D+F) faultlessness + perfection
+**逻辑：** 分号后解释：rudimentary competence（基本能力）都算 improvement → 委员会要求的根本不是完美/高标准。hardly 表否定 → blank 应是高标准/完美 → faultlessness（完美无缺）+ perfection（完美）同义词对。
+**💡** SE 注意选两个同义词！accountability（问责制）不是完美维度。
+**📖** rudimentary = 基本的 · faultlessness = 完美无缺
+
+### Q31 · sec39 hard · ↔️转折（yet + wrong to）
+> The artist is known for making photographs that deal with politically charged subject matter, yet because her art is so evocative and open-ended, it would be wrong to characterize it as _____.
+- A) **polemical** ✅ — 好辩的/有争议性的
+- B) edifying ❌
+- C) unobservant ❌
+- D) innovative ❌
+- E) ambiguous ❌
+
+**你的答案：** A) polemical ✅
+**逻辑：** yet（↔️转折）→ 题材政治性强（按理应该是 polemical）→ but 因为作品 evocative + open-ended（唤起共鸣+开放解读）→ it would be wrong to call it polemical（所以不能简单定性为有立场的/偏袒一方的）。
+**💡** yet + wrong to = 先建立预期（政治题材→应该 polemical），再否定这个预期。
+**📖** polemical = 好辩的/有立场的 · evocative = 唤起共鸣的 · open-ended = 开放解读的
+
+### Q32 · sec38 hard · ↔️让步（Even if）SE
+> Even if the story now seems a surprisingly innocuous overture to the author's later, more fully developed narrations, it _____ some of the key traits of those bleaker tales.
+- A) avoids ❌
+- B) belies ❌
+- C) undercuts ❌
+- D) **anticipates** ✅
+- E) possesses ❌
+- F) **prefigures** ✅
+
+**你的答案：** F) prefigures ❌（只选了一个）
+**正确答案：** D+F) anticipates + prefigures
+**逻辑：** Even if（↔️让步）：虽然现在看起来 innocuous（无害的）→ 但它**预示/包含**了后来那些阴暗故事的 key traits。anticipates（预示）+ prefigures（预示）同义词对。
+**💡** SE 永远要选两个！possesses（具有）含义接近但不是同义词，侧重点不同——possesses 是已有，anticipates/prefigures 是预示。
+**📖** innocuous = 无害的 · overture = 序曲/开端 · prefigures = 预示 · anticipates = 预期/预示 · bleaker = 更阴郁的
+
+---
+
+## 4. 张巍填空机经2000题 第一组（0630 · 5题）
+
+### ① [Easy — test 4 sec 1 #1] 5选1
+> History teaches us that science is not ______ enterprise; indeed, it is quite the opposite, a motley assortment of tools designed to safeguard researchers against their own biases.
+- A. an opportunistic ❌
+- B. an anomalous ❌
+- C. a haphazard ❌
+- D. a collective ❌
+- E. **a monolithic** ✅
+
+**你的答案：** E ✅
+**逻辑：** indeed（➡️递进解释）。quite the opposite, a motley assortment（大杂烩）→ blank 应填 motley 的反义词。monolithic = 单一的/铁板一块的。
+**📖** motley assortment = 混杂的大杂烩 · monolithic = 单一的 · opportunistic = 机会主义的 · anomalous = 异常的
+
+### ② [Medium — test 9 sec 2 #5] SE
+> Taking to the mountains to escape the chaos occasioned by the collapse of the ruling dynasty, artists looked to nature for ______ and a serenity not evident in human society.
+- A. **an order** ✅
+- B. **a stability** ✅
+- C. a fragility ❌
+- D. a decadence ❌
+- E. an interaction ❌
+- F. a degeneracy ❌
+
+**你的答案：** A+B ✅
+**逻辑：** escape chaos（逃离混乱）→ 寻找反义词。order（秩序）+ stability（稳定）与 chaos 反义，serenity（宁静）是平行提示。
+**📖** serenity = 宁静 · decadence = 颓废 · degeneracy = 堕落
+
+### ③ [Medium — test 9 sec 2 #7] SE
+> The book aims to illuminate how science has changed the meaning of nothingness from ______ philosophical concept to something we can almost put under a microscope.
+- A. a tangible ❌
+- B. a palpable ❌
+- C. **a nebulous** ✅
+- D. a nettlesome ❌
+- E. an incontrovertible ❌
+- F. **a vague** ✅
+
+**你的答案：** C+F ✅
+**逻辑：** from _____ ... to something we can almost put under a microscope（从模糊到几乎能放显微镜下）。nebulous（模糊的）+ vague（模糊的）与 put under a microscope 构成反义。tangible/palpable（可触摸的）方向反了。
+**📖** nebulous = 模糊的 · tangible/palpable = 可触摸的/明确的 · nettlesome = 令人恼火的 · incontrovertible = 无可辩驳的
+
+### ④ [Hard — test 26 sec 2 #6] SE
+> Because movie studios, under pressure to generate international sales, have favored big-budget pictures with fantasy plots, the representation of everyday domestic life has largely been ______ other media, such as television and literature.
+- A. **left to** ✅
+- B. **ceded to** ✅
+- C. ascribed to ❌
+- D. attributed to ❌
+- E. substituted for ❌
+- F. replaced with ❌
+
+**你的答案：** A+B ✅
+**逻辑：** 电影公司偏 big-budget fantasy → 日常生活题材的电影少了 → 这个题材被让给/留给了电视和文学。left to（留给）+ ceded to（让给）表示转移。substituted for / replaced with 方向反了（表示电影取代其他媒体）。
+**📖** ceded to = 让给 · ascribed to = 归因于 · attributed to = 归因于
+
+### ⑤ [Hard — test 28 sec 1 #7] SE
+> Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not ______ his moderate political record.
+- A. defer to ❌
+- B. **conform to** ✅
+- C. accede to ❌
+- D. argue with ❌
+- E. meddle with ❌
+- F. **square with** ✅
+
+**你的答案：** B+F ✅
+**逻辑：** opponent 想把他描绘成 wild-eyed radical → 但 voters 会 reject 这个指控 → 因为指控和他的 moderate political record 不一致。conform to（符合）+ square with（与……一致）是同义词对。defer to / accede to 是遵从，语义不匹配。
+**📖** square with = 与……一致 · defer to = 遵从 · accede to = 同意/答应 · meddle with = 干预
+
+---
+
+## 5. 张巍填空机经2000题 第二组（0701 · 5题）
+
+### ① · ↔️转折
+> Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant: they are a dead end, the _____ of what science ought to be.
+- A) apotheosis ❌
+- B) archetype ❌
+- C) paradigm ❌
+- D) culmination ❌
+- E) **antithesis** ✅
+
+**逻辑：** but（↔️转折）→ 前半句 marvels of architecture（建筑杰作）→ but 中世纪物理化学 irrelevant + dead end → 它们是科学的**反面/对立面**。antithesis = 对立面。
+**💡** marvel（正面）↔️ antithesis（反面）
+**📖** antithesis = 对立面 · apotheosis = 典范/神化 · archetype = 原型 · paradigm = 范式 · culmination = 顶点
+
+### ② · ↔️转折
+> The senator's speech was surprisingly _______; rather than the bombastic rhetoric we had come to expect, she spoke with a directness and simplicity that caught everyone off guard.
+- A) grandiloquent ❌
+- B) **unpretentious** ✅
+- C) pompous ❌
+- D) histrionic ❌
+- E) oratorical ❌
+
+**逻辑：** surprisingly（出乎意料）+ rather than bombastic rhetoric（而非浮夸辞藻）+ directness and simplicity（直接简洁）→ blank = 不浮夸/朴素 → unpretentious（不矫饰的/朴实的）。
+**📖** unpretentious = 不矫饰的 · bombastic = 浮夸的 · grandiloquent/pompous/histrionic = 浮夸/做作 · oratorical = 演说术的
+
+### ③ · SE · ➡️因果
+> Poaching and habitat loss have made the survival of many species _______; indeed, their continued existence is anything but secure.
+- A) **precarious** ✅
+- B) **perilous** ✅
+- C) assured ❌
+- D) guaranteed ❌
+- E) inevitable ❌
+- F) certain ❌
+
+**逻辑：** anything but secure = 一点也不安全 → poaching + habitat loss → 物种生存**岌岌可危**。precarious（不稳定的）+ perilous（危险的）同义词对。
+**📖** precarious = 岌岌可危的 · perilous = 危险的 · anything but = 一点也不
+
+### ④ · SE · 🎭对比
+> Unlike the expansive vision of her predecessor, the new director's agenda was quite _______, focusing narrowly on a few key initiatives.
+- A) comprehensive ❌
+- B) **confined** ✅
+- C) **circumscribed** ✅
+- D) sweeping ❌
+- E) ambitious ❌
+- F) far-reaching ❌
+
+**逻辑：** Unlike（🎭对比）→ predecessor = expansive（广阔的）→ new = 相反 → confined（有限的）+ circumscribed（受限制的）同义词对。
+**📖** confined = 有限的 · circumscribed = 受限制的 · expansive = 广阔的
+
+### ⑤ · SE · ➡️递进
+> The critic's review was not merely critical; it was filled with _______, targeting not just the book's flaws but the author's character as well.
+- A) praise ❌
+- B) **animadversion** ✅
+- C) appreciation ❌
+- D) approval ❌
+- E) indifference ❌
+- F) admiration ❌
+
+**逻辑：** not merely critical → it was filled with _____（不仅仅是批评→充满了___）。criticism 升级版 → animadversion = 批评/指责/非难。
+**💡** not merely X → Y：Y 是 X 的升级版本，同维度递进。
+**📖** animadversion = 批评/非难（同义 ≈ criticism / censure）
+
+---
+
+## 6. 0701以后 · 生词整理（asked words）
+
+**diffident** — 不自信的、畏缩的（监管机构不敢履职→总检察长介入）
+**drollness** — 滑稽幽默、诙谐（quip = 俏皮话）
+**faultlessness** — 完美无缺（= perfection，SE同义词对）
+**perfection** — 完美
+**polemical** — 好辩的、有立场的
+**anticipates** — 预示/预期（= prefigures，SE同义词对）
+**prefigures** — 预示/预兆
+**invidious** — 令人反感的、不公平的（见上方 SE 部分完整笔记）
+**perfunctory** — 敷衍的、走过场的（见上方 SE 部分完整笔记）
+**unfounded / unjustified** — 没有根据的/不合理的（见上方 SE 部分完整笔记）
+**antithesis** — 对立面
+**unpretentious** — 不矫饰的、朴实的
+**precarious** — 岌岌可危的（= perilous，SE同义词对）
+**perilous** — 危险的
+**confined** — 有限的、受限制的（= circumscribed，SE同义词对）
+**circumscribed** — 受限制的
+**animadversion** — 批评、非难
