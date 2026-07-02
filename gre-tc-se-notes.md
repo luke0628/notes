@@ -1,90 +1,466 @@
-# TC / SE 练习记录
+# GRE TC & SE
+
+## TC
+- ❌ 01 · 0619 · 🔄倒装
+  > Particularly suspect in the prosecutor's case **was** the _______ testimony of the sole eyewitness.
+  🎯 **unreliable** 不可靠的 · 🚩无(suspect→负面)
+  💡 表语前置：`形+was+名 → 主语在后`
+  📖 suspect 可疑的 · testimony 证词 · sole 唯一的 · eyewitness 目击者
+
+- ❌ 02 · 0619 · ↔️转折
+  > **Although** the architect's design was widely _______ for its boldness, **critics argued** that it sacrificed functionality for visual impact.
+  🎯 **acclaimed** 受赞誉的 · 🚩although(↔️转折) → critics负面 → blank必正面
+  💡 转折句：信号词前后方向必相反
+  📖 boldness 大胆 · sacrificed 牺牲 · functionality 功能性
+
+- ❌ 03 · 0619 · 🔄倒装
+  > More _______ than the commissioner's ruling **was** the public's indifference to it **;** the decision was met with a collective shrug.
+  🎯 **disheartening** 令人沮丧的 · 🚩;(➡️递进) → shrug=冷漠 → blank=沮丧
+  💡 表语前置：`More+形+than X + was + Y` → 还原 `Y was more 形 than X`
+  📖 commissioner 专员 · ruling 裁决 · indifference 冷漠 · shrug 耸肩
+
+- ✅ 04 · 0619 · 🔄倒装
+  > **So** _______ **was** the ambassador's statement **that** it required three subsequent clarifications to undo the diplomatic damage.
+  🎯 **incendiary** 煽动性的 · 🚩so...that(➡️因果) → damage → blank=煽动性
+  💡 so...that倒装：`So+形+was+主+that...` → `主 was so 形 that...`
+  📖 ambassador 大使 · clarifications 澄清 · undo 挽回 · diplomatic 外交的
+
+- ❌ 05 · 0619 · ➡️递进
+  > The historian's account was **so** _______ **that** even scholars discovered details they had never encountered.
+  🎯 **exhaustive** 详尽的 · 🚩so...that(➡️递进) → new details → blank=详尽
+  💡 逻辑优先：先定方向，再选词 — exhaustive=详尽 / speculative=推测
+  📖 scholars 学者 · encountered 遇到
+
+- ✅ 06 · 0619 · 🎭表面对比
+  > The company's commitment to sustainability **proved** _______ **when** a memo revealed plans to **circumvent** regulations.
+  🎯 **illusory** 虚假的 · 🚩proved...when(⏳前后对比) → 背地违规 → blank=虚假
+  💡 时间对比型：前期承诺 vs 后期行为 → 方向相反
+  📖 sustainability 可持续性 · circumvent 规避 · memo 内部备忘录
+
+- ❌ 07 · 0622 · ↔️让步
+  > **Even** the most _______ observer would have struggled to detect the subtle forgery; the painting's provenance had fooled experts for decades.
+  🎯 **seasoned** 经验丰富的 · 🚩even(↔️让步) → 专家都被骗 → 最高水平的人也看不出
+  📋 A) indifferent 漠不关心的 · B) amateur 业余的 · C) seasoned 经验丰富的 · D) suspicious 多疑的 · E) disinterested 客观公正的
+  💡 even=让步：连最X都做不到 → blank取X的极端值；suspicious的人反而更易看出是赝品，方向反
+  📖 seasoned 老练的 · subtle 微妙的 · forgery 赝品 · provenance 来源
+
+- ❌ 08 · 0622 · ➡️递进
+  > The memoir was criticized for its _______ tone; the author seemed **incapable of acknowledging** any mistake or shortcoming in his own conduct.
+  🎯 **self-justifying** 自我辩护的 · 🚩;(➡️解释) → incapable of acknowledging = 不认错
+  📋 A) elegiac 挽歌式的 · B) self-deprecating 自嘲的 · C) conciliatory 安抚的 · D) self-justifying 自我辩护的 · E) dispassionate 冷静客观的
+  💡 分号后直接复述答案：不承认错误 → self-justifying；elegiac=挽歌的哀伤，跟"不认错"无关
+  📖 memoir 回忆录 · conciliatory 安抚的 · self-deprecating 自嘲的
+
+- ✅ 09 · 0622 · ↔️转折
+  > **Although** the CEO's public statements projected confidence, her private emails revealed a deeply _______ outlook on the company's future.
+  🎯 **pessimistic** 悲观的 · 🚩although(↔️转折) → public confidence → private必反面
+  💡 信号词前后方向必相反
+  📖 sanguine 乐观的 · bombastic 夸大的 · equivocal 模棱两可的
+
+- ✅ 10 · 0622 · ➡️递进
+  > The historian's account was **not merely** selective in its use of sources; it was **downright** _______, deliberately omitting evidence that contradicted her thesis.
+  🎯 **fraudulent** 欺诈性的 · 🚩not merely...downright(➡️递进) → selective升级为fraudulent
+  💡 not merely X → downright Y：Y是X的极端版本
+  📖 fastidious 挑剔的 · meticulous 一丝不苟的 · exhaustive 详尽的
+
+- ❌ 11 · 0622 · 🔄倒装
+  > **Especially** _______ **is** the argument that economic growth alone will remedy inequality, **given that** decades of expansion have only widened the gap.
+  🎯 **tenuous** 脆弱的/站不住脚的 · 🚩倒装还原「The argument is especially _______」→ given that反证 → 论点脆弱 (因果/推理)
+  💡 表语前置：Especially+形+is+主 → 找动词is，交换前后
+  📖 compelling 有说服力的 · equitable 公平的 · pragmatic 务实的
+
+- ❌ 12 · 0622 · 🎭对比
+  > **Where** her predecessor was known for _______ decrees issued without consultation, the new director made every decision through painstaking consensus-building.
+  🎯 **peremptory** 专横的/不容分说的 · 🚩where X...Y(🎭对比) → predecessor独断 vs new共识 → blank=专横
+  💡 where引导对比：前后两人行为方向对立
+  📖 conciliatory 安抚的 · solicitous 关切的 · deliberative 慎重的 · obsequious 谄媚的
+
+- ❌ 13 · 0622 · ↔️转折+生词
+  > **Far from** being a _______ of tradition, the composer's later works were **in fact** deeply rooted in the classical forms he claimed to reject.
+  🎯 **repudiation** 否定/摒弃 · 🚩far from...in fact(↔️转折) → rooted in tradition → 远非传统的摒弃者
+  💡 far from being X...in fact Y：表面否定X，实际是Y
+  📖 scion 后代 · pastiche 模仿作品 · resuscitation 复兴 · loath 不情愿的
+
+- ✅ 14 · 0628 · 🔄倒装
+  > **So** pervasive **was** the culture of secrecy within the organization **that** whistleblowers who came forward found themselves ostracized by colleagues.
+  🎯 **was** · 🚩so...that(➡️因果) → culture of secrecy 单数主谓一致
+  💡 So+形+was+主+that...倒装，主谓一致看主语 `the culture`
+  📖 pervasive 遍及的 · whistleblower 揭发者 · ostracized 被排斥的
+
+- ❌ 15 · 0628 · ↔️让步
+  > **Despite** the candidate's _______ record on environmental issues, many voters remained skeptical of her commitment, suspecting her stance was merely a campaign ploy.
+  🎯 **impeccable** 无可挑剔的 · 🚩despite(↔️转折) → voters skeptical → 表面记录必须正面
+  📋 A) unwavering 坚定的 · B) indifferent 漠不关心的 · C) ambiguous 模糊的 · D) impeccable 无可挑剔的 · E) deficient 不足的
+  💡 unwavering 通常修饰 commitment/stance，不搭配 record；impeccable record 是固定搭配；A考生凭感觉选了unwavering但搭配不对
+  📖 skeptical 怀疑的 · commitment 承诺 · ploy 策略/伎俩 · impeccable 无瑕疵的
+
+- ✅ 16 · 0628 · ➡️递进
+  > The report was **not merely** inaccurate in its conclusions; it was _______, fabricating data that had never existed.
+  🎯 **fraudulent** 欺诈性的 · 🚩not merely...it was(➡️递进) → inaccurate升级 → fabricating data直接对应
+  💡 not merely X → Y：Y是X的极端版本；inaccurate→fraudulent, selective→fraudulent(同Q10逻辑)
+  📖 fabricating 伪造
+
+- ❌ 17 · 0628 · 🎭对比
+  > **Where** the previous administration pursued a policy of _______ toward foreign competitors, the new government embraced protectionist measures.
+  🎯 **engagement** 接触/往来 · 🚩where X...Y(🎭对比) → new=protectionist(保护主义) → previous=相反=开放/接触
+  📋 A) autarky 自给自足 · B) engagement 接触 · C) isolation 孤立 · D) hostility 敌意 · E) self-sufficiency 自给自足
+  💡 where引导对比：前后方向相反；hostility(敌意)和protectionism(保护主义)是同向，不是对比
+  📖 administration 政府 · pursue 推行 · protectionist 保护主义的
+
+- ✅ 18 · 0628 · ↔️转折
+  > **Although** the drug showed great promise in early trials, its long-term side effects proved too _______ for regulatory approval.
+  🎯 **severe** 严重的 · 🚩although(↔️转折) → promise(前景好) → 副作用反面 → severe导致无法获批
+  💡 信号词前后方向必相反；too severe for approval 直接影响结果
+  📖 promise 前景 · trials 试验 · regulatory 监管的 · approval 批准
+
+- ❌ 19 · 0629 · ↔️转折
+  > **Although** the scientist's theory was initially _______ by the academic community, subsequent experiments confirmed its validity and eventually earned her a Nobel Prize.
+  🎯 **dismissed** 被否定/被驳回 · 🚩although(↔️转折) → confirmed validity+Nobel → 最初必须被否定
+  📋 A) dismissed 被否定 · B) embraced 被接受 · C) scrutinized 仔细审查 · D) ignored 被忽视 · E) celebrated 被赞扬
+  💡 转折要选最强反差的词：scrutinized(中性)力度不够，dismissed(否定)↔️获奖 反差最大
+  📖 confirmed 证实 · validity 有效性 · academic community 学术界
+
+- ✅ 20 · 0629 · 🎭对比
+  > **Where** the author's earlier novels were praised for their _______ prose style, her later work was criticized for being overwrought and excessively ornamented.
+  🎯 **restrained** 克制的/简约的 · 🚩where X...Y(🎭对比) → later=overwrought(过于华丽) → earlier=相反=restrained
+  💡 where对比：前后方向相反；elaborate/flamboyant/baroque/ornate都是华丽方向，跟later同向❌
+  📖 overwrought 过度雕琢的 · ornamented 装饰的 · prose 散文/文风
+
+- ❌ 21 · 0629 · ➡️递进
+  > The ambassador's statement was **not merely** provocative; it was _______, threatening to unravel years of painstaking diplomatic progress.
+  🎯 **incendiary** 煽动性的/纵火的 · 🚩not merely...it was(➡️递进) → provocative→同维度升级
+  📋 A) surprising 令人惊讶的 · B) calculated 精心策划的 · C) imprudent 不谨慎的 · D) reckless 鲁莽的 · E) incendiary 煽动性的
+  💡 reckless(鲁莽)跟provocative(挑衅)不是同维度→递进不成立；incendiary是provocative的极端版✅
+  📖 provocative 挑衅的 · unravel 瓦解 · painstaking 艰苦的 · diplomatic 外交的
+
+- ✅ 22 · 0629 · 🔄倒装
+  > **So** _______ **was** the company's quarterly report **that** even the most optimistic analysts revised their projections downward.
+  🎯 **disappointing** 令人失望的 · 🚩so...that(➡️因果) → revised downward → blank=负面
+  💡 So+形+was+主+that...倒装；后文决定方向
+  📖 quarterly report 季度报告 · analysts 分析师 · projections 预测 · downward 向下
+
+- ✅ 23 · 0629 · ↔️让步
+  > **Though** the documentary claimed to offer an objective account, its selection of interviews was far from _______; the filmmakers had clearly chosen subjects who shared their political leanings.
+  🎯 **impartial** 公正的/不偏不倚的 · 🚩though(↔️转折) → claimed objective → far from X → chose subjects with same leaning → X=公正
+  💡 far from + 褒义词 = 实际反面；biased(有偏见的)是far from的反面，方向错
+  📖 documentary 纪录片 · objective 客观的 · subjects 受访者 · leanings 倾向
+
+- ✅ 24 · 0629 · ↔️转折（真题 · sec14 easy）
+  > **Despite** the neighborhood's lingering reputation for _____, it has in fact become increasingly varied in its architecture and demographics.
+  🎯 **homogeneity** 同质性/单一性 · 🚩despite(↔️转折) → increasingly varied(日益多样化) → 名声的相反面
+  💡 despite转折：名声是X → 实际上多样了 → X=不多样=homogeneity；boisterousness/unpretentiousness/idiosyncrasy/accessibility都不跟varied直接反义
+  📖 homogeneity 同质性 · lingering 挥之不去的 · demographics 人口结构
+
+- ✅ 25 · 0629 · ↔️转折+双空（真题 · sec15 easy）
+  > **Although** movie critic Pauline Kael had a distaste for sycophancy, she also had a need for (i)_____; as a consequence of these competing feelings, she sent very (ii)_____ signals to friends and colleagues.
+  🎯 (i) **flattery** 奉承 · (ii) **contradictory** 矛盾的 · 🚩although(↔️转折) + competing feelings(➡️因果)
+  💡 双空题：分别判断每个blank的方向；blank(i)转折于distaste for sycophancy→need for flattery✅；blank(ii)competing feelings→contradictory signals✅
+  📖 sycophancy 谄媚 · distaste 厌恶 · autonomous 自主的 · solitude 独处 · contradictory 矛盾的
+
+- ❌ 26 · 0629 · ➡️递进（真题 · sec16 median）
+  > In protoscientific eras (for example, in ancient Greece), claims about the physical world were often accepted as true if they were reasonable; experimental verification, if thought necessary at all, was _____.
+  🎯 **perfunctory** 敷衍的/走过场的 · 🚩;(➡️解释) → 合理就信 → 实验验证不受重视 → 敷衍了事
+  💡 分号前后递进：前文"合理就信"→后文实验验证只是走过场；inductive(归纳的)像学术词但逻辑不通
+  📖 protoscientific 前科学的 · verification 验证 · perfunctory 敷衍的 · inductive 归纳的 · utilitarian 功利的 · egregious 极其恶劣的
+
+- ✅ 27 · 0629 · 🎭对比（真题 · sec37 hard）
+  > **Instead of** demonstrating the _____ of archaeological applications of electronic remote sensing, the pioneering study became, to some skeptics, an illustration of the imprudence of interpreting sites based on virtual archaeology.
+  🎯 **promise** 前景/潜力 · 🚩instead of(🎭对比) → became imprudence(轻率) → 本应展现正面
+  💡 Instead of X → became Y(负面)：X必须是正面词；limitation/redundancy(负面)跟became imprudence(负面)同向不成立；promise↔️imprudence✅
+  📖 archaeological 考古学的 · pioneering 开创性的 · imprudence 轻率 · virtual archaeology 虚拟考古
+
+## SE
+
+- · 0628 · invidious
+  **invidious** /ɪnˈvɪdiəs/ adj. 令人反感的、不公平且招人反感的
+  💡 核心逻辑：不公平的比较/区别对待 → 引起反感。≠ envious（嫉妒别人），invidious是「让别人嫉妒/反感」
+
+  **场景1 · 比较类（最常见）**
+  > The article drew an **invidious** comparison between the two artists, portraying one as a genius and the other as a mere imitator.
+  🚩 **invidious comparison** 固定搭配：不公平的捧一踩一
+
+  **场景2 · 处境类**
+  > She found herself in an **invidious** position: qualified to judge the competition yet also a close friend of one contestant.
+  🚩 双重角色冲突 → 无论怎么做都招致不满 → invidious position
+
+  **场景3 · 政策类**
+  > The policy created an **invidious** distinction between resident-owned and non-resident-owned businesses.
+  🚩 不合理区别对待 → policy creates invidious distinction
+
+  **场景4 · 行为类**
+  > The manager's habit of singling out employees for public criticism had an **invidious** effect on morale.
+  🚩 不公平的选择性批评 → invidious effect
+
+  📖 同义 ≈ objectionable / unfair / discriminatory
+  📖 反义 ≠ commendable / equitable
+
+- · 0629 · perfunctory
+  **perfunctory** /pərˈfʌŋktəri/ adj. 敷衍的、走过场的、草率的
+  💡 核心逻辑：为了应付而做的，缺乏投入和诚意
+
+  **场景1 · 工作/任务类**
+  > The intern gave a **perfunctory** review of the report, merely glancing at the title page before signing off.
+  🚩 glance at title page → 敷衍了事
+
+  **场景2 · 态度/行为类**
+  > The waiter's **perfunctory** smile suggested he was going through the motions rather than genuinely welcoming patrons.
+  🚩 going through the motions → perfunctory smile
+
+  **场景3 · 仪式/义务类**
+  > Their relationship had deteriorated to the point where even birthday wishes were exchanged with **perfunctory** texts.
+  🚩 敷衍的问候 — 有义务但无感情
+
+  **场景4 · 检查/验证类（对应Q26）**
+  > In protoscientific eras, experimental verification, if thought necessary at all, was **perfunctory**.
+  🚩 前科学时代：实验验证不受重视，走过场即可
+
+  📖 同义 ≈ cursory / superficial / half-hearted / mechanical
+  📖 反义 ≠ thorough / meticulous / painstaking / conscientious
+
+- · 0629 · unfounded + unjustified
+  **unfounded** /ʌnˈfaʊndɪd/ adj. 没有根据的、无事实依据的
+  **unjustified** /ʌnˈdʒʌstɪfaɪd/ adj. 不合理的、没有理由的
+  💡 核心逻辑：缺乏事实或合理依据来支持（SE同义词对，在GRE中常配对出现）
+
+  **场景1 · 情绪/观点类**
+  > The initial, widely shared pessimism turned out to be **unfounded** / **unjustified**, because it ignored the many things that could be done with resources left behind.
+  🚩 because后解释原因→悲观没有根据(unfounded/unjustified)
+
+  **场景2 · 指控类**
+  > The allegations against the senator were entirely **unfounded**, lacking any credible evidence.
+  🚩 allegations + lacking evidence → unfounded
+
+  **场景3 · 恐惧类**
+  > Public fears about the new technology proved **unjustified** after safety records were published.
+  🚩 事实证明恐惧是不合理的
+
+  📖 unfounded 同义 ≈ groundless / baseless / unwarranted
+  📖 unjustified 同义 ≈ unwarranted / unreasonable / uncalled-for
+  📖 反义 ≈ justified / warranted / substantiated / valid
+
+  ⚠️ 两个词在GRE SE中经常配对，意思在语境中一致（'缺乏合理依据'），但日常使用中unfounded偏'没事实依据'，unjustified偏'没道理/不应该'。在同义选句题中注意语境是否同时适合两个词。
 
 ---
 
-## 1. impecunious / indigent (SE)
+## 3. 0629真题 · 考满分 5题（Q28-Q32）— 均为hard
 
-**题目：**
-Despite the museum's reputation for attracting wealthy patrons, its new wing was funded largely by a bequest from an ________ poet who had lived modestly her entire life.
+### Q28 · sec36 hard · 🔄因果（given that）
+> Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been _____.
+- A) **diffident** ✅ — 不自信的/畏缩的
+- B) meticulous ❌
+- C) straightforward ❌
+- D) implacable ❌
+- E) tenacious ❌
 
-**选项：**
-- A. impecunious ✅
-- B. affluent ❌
-- C. indigent ✅
-- D. lavish ❌
-- E. prodigal ❌
-- F. parsimonious ❌
+**你的答案：** E) tenacious ❌
+**逻辑：** given that（➡️因果）= 鉴于/因为。投资人感激总检察长介入，因为监管机构**不敢查**（diffident）。tenacious（顽强的）是正面词——如果监管机构顽强尽责，总检察长就不需要介入了，逻辑不通。
+**💡** diffident = 畏缩的、不自信的
 
-**正确答案：** A (impecunious) 和 C (indigent)
+### Q29 · sec37 hard · 🎭对比（while）
+> While the writer was best known for her much-ballyhooed _____, her impact reached far beyond memorable quips.
+- A) pensiveness ❌
+- B) **drollness** ✅ — 滑稽/幽默
+- C) stoicism ❌
+- D) fastidiousness ❌
+- E) congeniality ❌
 
-**逻辑拆解：**
-- Despite → 转折：博物馆以吸引有钱赞助人闻名 → 但是捐钱的诗人没钱
-- who had lived modestly her entire life 是线索
-- impecunious = 手头拮据，indigent = 贫困的，两者都表示缺钱
-- parsimonious ❌：吝啬是性格（舍不得花），不是客观上缺钱；而且诗人捐了钱，吝啬的人不会捐
+**你的答案：** B) drollness ✅
+**逻辑：** while（🎭对比）= 前后相反。后句说影响力超越了 memorable quips（俏皮话）→ 前句最出名的就是**说俏皮话的能力**。drollness = 诙谐幽默，完美对应 quips ✅
+**📖** quip = 俏皮话 · ballyhooed = 大肆宣传的 · drollness = 滑稽幽默
 
-**各词释义：**
-- impecunious = 没钱的，拮据的
-- affluent = 富裕的（反义）
-- indigent = 贫困的，贫穷的
-- lavish = 奢侈的，挥霍的（反义）
-- prodigal = 挥霍无度的（反义）
-- parsimonious = 吝啬的，过度节俭的（≠ 缺钱，是性格）
+### Q30 · sec38 hard · ➡️递进（SE）
+> It's hardly _____ the committee calls for: rudimentary competence would be an improvement on the current chaos.
+- A) accountability ❌
+- B) disarray ❌
+- C) unruliness ❌
+- D) **faultlessness** ✅
+- E) loyalty ❌
+- F) **perfection** ✅
+
+**你的答案：** A) accountability ❌
+**正确答案：** D+F) faultlessness + perfection
+**逻辑：** 分号后解释：rudimentary competence（基本能力）都算 improvement → 委员会要求的根本不是完美/高标准。hardly 表否定 → blank 应是高标准/完美 → faultlessness（完美无缺）+ perfection（完美）同义词对。
+**💡** SE 注意选两个同义词！accountability（问责制）不是完美维度。
+**📖** rudimentary = 基本的 · faultlessness = 完美无缺
+
+### Q31 · sec39 hard · ↔️转折（yet + wrong to）
+> The artist is known for making photographs that deal with politically charged subject matter, yet because her art is so evocative and open-ended, it would be wrong to characterize it as _____.
+- A) **polemical** ✅ — 好辩的/有争议性的
+- B) edifying ❌
+- C) unobservant ❌
+- D) innovative ❌
+- E) ambiguous ❌
+
+**你的答案：** A) polemical ✅
+**逻辑：** yet（↔️转折）→ 题材政治性强（按理应该是 polemical）→ but 因为作品 evocative + open-ended（唤起共鸣+开放解读）→ it would be wrong to call it polemical（所以不能简单定性为有立场的/偏袒一方的）。
+**💡** yet + wrong to = 先建立预期（政治题材→应该 polemical），再否定这个预期。
+**📖** polemical = 好辩的/有立场的 · evocative = 唤起共鸣的 · open-ended = 开放解读的
+
+### Q32 · sec38 hard · ↔️让步（Even if）SE
+> Even if the story now seems a surprisingly innocuous overture to the author's later, more fully developed narrations, it _____ some of the key traits of those bleaker tales.
+- A) avoids ❌
+- B) belies ❌
+- C) undercuts ❌
+- D) **anticipates** ✅
+- E) possesses ❌
+- F) **prefigures** ✅
+
+**你的答案：** F) prefigures ❌（只选了一个）
+**正确答案：** D+F) anticipates + prefigures
+**逻辑：** Even if（↔️让步）：虽然现在看起来 innocuous（无害的）→ 但它**预示/包含**了后来那些阴暗故事的 key traits。anticipates（预示）+ prefigures（预示）同义词对。
+**💡** SE 永远要选两个！possesses（具有）含义接近但不是同义词，侧重点不同——possesses 是已有，anticipates/prefigures 是预示。
+**📖** innocuous = 无害的 · overture = 序曲/开端 · prefigures = 预示 · anticipates = 预期/预示 · bleaker = 更阴郁的
 
 ---
 
-## 2. 张巍填空机经2000题 第一组 (TC+SE 混合)
+## 4. 张巍填空机经2000题 第一组（0630 · 5题）
 
-**题目① [Easy — test 4 sec 1 #1] 5选1**
-History teaches us that science is not ______ enterprise; indeed, it is quite the opposite, a motley assortment of tools designed to safeguard researchers against their own biases.
-- A. an opportunistic
-- B. an anomalous
-- C. a haphazard
-- D. a collective
-- E. a monolithic ✅
+### ① [Easy — test 4 sec 1 #1] 5选1
+> History teaches us that science is not ______ enterprise; indeed, it is quite the opposite, a motley assortment of tools designed to safeguard researchers against their own biases.
+- A. an opportunistic ❌
+- B. an anomalous ❌
+- C. a haphazard ❌
+- D. a collective ❌
+- E. **a monolithic** ✅
 
-**逻辑：** indeed → 递进解释。"quite the opposite, a motley assortment"（大杂烩）→ 空缺应填 motley 的反义词。monolithic = 单一的，铁板一块的。opportunistic（机会主义的）、anomalous（异常的）、haphazard（随意的）、collective（集体的）都不与 motley 构成直接反义。
+**你的答案：** E ✅
+**逻辑：** indeed（➡️递进解释）。quite the opposite, a motley assortment（大杂烩）→ blank 应填 motley 的反义词。monolithic = 单一的/铁板一块的。
+**📖** motley assortment = 混杂的大杂烩 · monolithic = 单一的 · opportunistic = 机会主义的 · anomalous = 异常的
 
-**题目② [Medium — test 9 sec 2 #5] SE**
-Taking to the mountains to escape the chaos occasioned by the collapse of the ruling dynasty, artists looked to nature for ______ and a serenity not evident in human society.
-- A. an order ✅
-- B. a stability ✅
+### ② [Medium — test 9 sec 2 #5] SE
+> Taking to the mountains to escape the chaos occasioned by the collapse of the ruling dynasty, artists looked to nature for ______ and a serenity not evident in human society.
+- A. **an order** ✅
+- B. **a stability** ✅
 - C. a fragility ❌
 - D. a decadence ❌
 - E. an interaction ❌
 - F. a degeneracy ❌
 
-**逻辑：** escape chaos（逃离混乱）→ 寻找反义词。order（秩序）和 stability（稳定）与 chaos 反义，serenity（宁静）是平行提示。fragility（脆弱）、decadence（颓废）、degeneracy（堕落）都是负面词，方向反。
+**你的答案：** A+B ✅
+**逻辑：** escape chaos（逃离混乱）→ 寻找反义词。order（秩序）+ stability（稳定）与 chaos 反义，serenity（宁静）是平行提示。
+**📖** serenity = 宁静 · decadence = 颓废 · degeneracy = 堕落
 
-**题目③ [Medium — test 9 sec 2 #7] SE**
-The book aims to illuminate how science has changed the meaning of nothingness from ______ philosophical concept to something we can almost put under a microscope.
+### ③ [Medium — test 9 sec 2 #7] SE
+> The book aims to illuminate how science has changed the meaning of nothingness from ______ philosophical concept to something we can almost put under a microscope.
 - A. a tangible ❌
 - B. a palpable ❌
-- C. a nebulous ✅
+- C. **a nebulous** ✅
 - D. a nettlesome ❌
 - E. an incontrovertible ❌
-- F. a vague ✅
+- F. **a vague** ✅
 
-**逻辑：** from _____ ... to something we can almost put under a microscope（从模糊到几乎能放显微镜下）。nebulous（模糊的）和 vague（模糊的）与"put under a microscope"构成反义。tangible/palpable（可触摸的）和 incontrovertible（无可辩驳的）方向反了——它们已经是具体/明确的，而不是从模糊变具体。
+**你的答案：** C+F ✅
+**逻辑：** from _____ ... to something we can almost put under a microscope（从模糊到几乎能放显微镜下）。nebulous（模糊的）+ vague（模糊的）与 put under a microscope 构成反义。tangible/palpable（可触摸的）方向反了。
+**📖** nebulous = 模糊的 · tangible/palpable = 可触摸的/明确的 · nettlesome = 令人恼火的 · incontrovertible = 无可辩驳的
 
-**题目④ [Hard — test 26 sec 2 #6] SE**
-Because movie studios, under pressure to generate international sales, have favored big-budget pictures with fantasy plots, the representation of everyday domestic life has largely been ______ other media, such as television and literature.
-- A. left to ✅
-- B. ceded to ✅
+### ④ [Hard — test 26 sec 2 #6] SE
+> Because movie studios, under pressure to generate international sales, have favored big-budget pictures with fantasy plots, the representation of everyday domestic life has largely been ______ other media, such as television and literature.
+- A. **left to** ✅
+- B. **ceded to** ✅
 - C. ascribed to ❌
 - D. attributed to ❌
 - E. substituted for ❌
 - F. replaced with ❌
 
-**逻辑：** 电影公司偏 big-budget fantasy → 日常生活题材的电影少了 → 这个题材被"让给/留给"了电视和文学。left to（留给）和 ceded to（让给）表示转移。substituted for / replaced with 方向反了（表示电影取代其他媒体，但原文是电影不做→其他媒体做）。ascribed to / attributed to（归因于）语义不匹配。
+**你的答案：** A+B ✅
+**逻辑：** 电影公司偏 big-budget fantasy → 日常生活题材的电影少了 → 这个题材被让给/留给了电视和文学。left to（留给）+ ceded to（让给）表示转移。substituted for / replaced with 方向反了（表示电影取代其他媒体）。
+**📖** ceded to = 让给 · ascribed to = 归因于 · attributed to = 归因于
 
-**题目⑤ [Hard — test 28 sec 1 #7] SE**
-Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not ______ his moderate political record.
+### ⑤ [Hard — test 28 sec 1 #7] SE
+> Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not ______ his moderate political record.
 - A. defer to ❌
-- B. conform to ✅
+- B. **conform to** ✅
 - C. accede to ❌
 - D. argue with ❌
 - E. meddle with ❌
-- F. square with ✅
+- F. **square with** ✅
 
-**逻辑：** opponent 想把他描绘成 wild-eyed radical，但 voters 会 reject 这个指控，因为指控和他的 moderate political record 不一致。conform to（符合）和 square with（与……一致）是正确答案。defer to（遵从/听从某人）和 accede to（同意/答应）——虽然语法上能搭配"记录"，但语义不同：这里不是说"遵从"自己的记录，而是指控与记录对不上。
+**你的答案：** B+F ✅
+**逻辑：** opponent 想把他描绘成 wild-eyed radical → 但 voters 会 reject 这个指控 → 因为指控和他的 moderate political record 不一致。conform to（符合）+ square with（与……一致）是同义词对。defer to / accede to 是遵从，语义不匹配。
+**📖** square with = 与……一致 · defer to = 遵从 · accede to = 同意/答应 · meddle with = 干预
+
+---
+
+## 5. 张巍填空机经2000题 第二组（0701 · 5题）
+
+### ① · ↔️转折
+> Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant: they are a dead end, the _____ of what science ought to be.
+- A) apotheosis ❌
+- B) archetype ❌
+- C) paradigm ❌
+- D) culmination ❌
+- E) **antithesis** ✅
+
+**逻辑：** but（↔️转折）→ 前半句 marvels of architecture（建筑杰作）→ but 中世纪物理化学 irrelevant + dead end → 它们是科学的**反面/对立面**。antithesis = 对立面。
+**💡** marvel（正面）↔️ antithesis（反面）
+**📖** antithesis = 对立面 · apotheosis = 典范/神化 · archetype = 原型 · paradigm = 范式 · culmination = 顶点
+
+### ② · ↔️转折
+> The senator's speech was surprisingly _______; rather than the bombastic rhetoric we had come to expect, she spoke with a directness and simplicity that caught everyone off guard.
+- A) grandiloquent ❌
+- B) **unpretentious** ✅
+- C) pompous ❌
+- D) histrionic ❌
+- E) oratorical ❌
+
+**逻辑：** surprisingly（出乎意料）+ rather than bombastic rhetoric（而非浮夸辞藻）+ directness and simplicity（直接简洁）→ blank = 不浮夸/朴素 → unpretentious（不矫饰的/朴实的）。
+**📖** unpretentious = 不矫饰的 · bombastic = 浮夸的 · grandiloquent/pompous/histrionic = 浮夸/做作 · oratorical = 演说术的
+
+### ③ · SE · ➡️因果
+> Poaching and habitat loss have made the survival of many species _______; indeed, their continued existence is anything but secure.
+- A) **precarious** ✅
+- B) **perilous** ✅
+- C) assured ❌
+- D) guaranteed ❌
+- E) inevitable ❌
+- F) certain ❌
+
+**逻辑：** anything but secure = 一点也不安全 → poaching + habitat loss → 物种生存**岌岌可危**。precarious（不稳定的）+ perilous（危险的）同义词对。
+**📖** precarious = 岌岌可危的 · perilous = 危险的 · anything but = 一点也不
+
+### ④ · SE · 🎭对比
+> Unlike the expansive vision of her predecessor, the new director's agenda was quite _______, focusing narrowly on a few key initiatives.
+- A) comprehensive ❌
+- B) **confined** ✅
+- C) **circumscribed** ✅
+- D) sweeping ❌
+- E) ambitious ❌
+- F) far-reaching ❌
+
+**逻辑：** Unlike（🎭对比）→ predecessor = expansive（广阔的）→ new = 相反 → confined（有限的）+ circumscribed（受限制的）同义词对。
+**📖** confined = 有限的 · circumscribed = 受限制的 · expansive = 广阔的
+
+### ⑤ · SE · ➡️递进
+> The critic's review was not merely critical; it was filled with _______, targeting not just the book's flaws but the author's character as well.
+- A) praise ❌
+- B) **animadversion** ✅
+- C) appreciation ❌
+- D) approval ❌
+- E) indifference ❌
+- F) admiration ❌
+
+**逻辑：** not merely critical → it was filled with _____（不仅仅是批评→充满了___）。criticism 升级版 → animadversion = 批评/指责/非难。
+**💡** not merely X → Y：Y 是 X 的升级版本，同维度递进。
+**📖** animadversion = 批评/非难（同义 ≈ criticism / censure）
+
+---
+
+## 6. 0701以后 · 生词整理（asked words）
+
+**diffident** — 不自信的、畏缩的（监管机构不敢履职→总检察长介入）
+**drollness** — 滑稽幽默、诙谐（quip = 俏皮话）
+**faultlessness** — 完美无缺（= perfection，SE同义词对）
+**perfection** — 完美
+**polemical** — 好辩的、有立场的
+**anticipates** — 预示/预期（= prefigures，SE同义词对）
+**prefigures** — 预示/预兆
+**invidious** — 令人反感的、不公平的（见上方 SE 部分完整笔记）
+**perfunctory** — 敷衍的、走过场的（见上方 SE 部分完整笔记）
+**unfounded / unjustified** — 没有根据的/不合理的（见上方 SE 部分完整笔记）
+**antithesis** — 对立面
+**unpretentious** — 不矫饰的、朴实的
+**precarious** — 岌岌可危的（= perilous，SE同义词对）
+**perilous** — 危险的
+**confined** — 有限的、受限制的（= circumscribed，SE同义词对）
+**circumscribed** — 受限制的
+**animadversion** — 批评、非难

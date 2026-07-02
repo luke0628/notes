@@ -401,3 +401,28 @@
 
 **abide by = 遵守（规则/裁决）**
 > *abide by the law*
+
+---
+
+## marvels
+
+**释义：** ① n. 令人惊叹的事物、奇迹；② v. 感到惊叹、惊讶（marvel at）
+
+**词根：** 拉丁语 *mirabilis*（奇妙的）← *mirari*（惊叹）。同根：miracle（奇迹）、marvelous（极好的）、mirage（海市蜃楼）
+
+**场景：**
+- 科学/技术奇迹 — the marvels of modern medicine（现代医学的奇迹）
+- 自然奇观 — the marvels of nature（大自然的鬼斧神工）
+- 惊叹于某事物 — I marvel at how quickly technology advances
+
+**画面：** 古人穿越到现代，看着你刷手机点外卖——不是简单惊讶，而是"这太神奇了但我真心赞叹"
+
+**Synonyms:** wonders, miracles, prodigies, astonishments
+**Antonyms:** banality, commonplace, triviality
+
+**区分：**
+- marvels vs miracles：miracles偏宗教/超自然神迹，marvels偏人类成就或自然奇迹
+- marvel at vs wonder at：marvel更强调赞叹语气，wonder更偏好奇
+- marvels vs prodigies：prodigies更多指天才/神童或异常事物
+
+---
