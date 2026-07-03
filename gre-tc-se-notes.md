@@ -464,3 +464,78 @@
 **confined** — 有限的、受限制的（= circumscribed，SE同义词对）
 **circumscribed** — 受限制的
 **animadversion** — 批评、非难
+
+---
+
+## 7. 0702 · 张巍 test 1 s1 + test 27 s1/s2
+
+**[Easy] [TC]** test 1 s1 #1
+> It is a paradox of the Victorians that they were both [------] and, through their empire, cosmopolitan.
+- ✅ B. insular · ❌ A. capricious · ❌ E. intransigent
+- 🚩 paradox → 空与 cosmopolitan 取反
+- insular = 狭隘、封闭（vs cosmopolitan 世界主义）
+- capricious = 反复无常 · intransigent = 不妥协 → 都不是 cosmopolitan 的反义
+
+**[Easy] [SE]** test 1 s1 #4
+> ...even when individual researchers do [------] bias or partiality, others can correct them using a framework of evidence on which everyone broadly agrees.
+- ✅ C. succumb to + E. yield to · ❌ A. overreact to
+- 🚩 beauty of scientific approach → 即使研究者陷入偏见，别人也能纠正
+- succumb to = yield to = 屈服于/陷入（同义词对）
+- overreact to = 过度反应 → 语境不符
+
+**各词释义（按选项顺序）：**
+- A. overreact to = 过度反应 ❌
+- B. deviate from = 偏离
+- C. succumb to = 屈服于、陷入。词根：*sub-*（下）+ *cumbere*（躺）→ 躺倒在下面 ✅
+- D. recoil from = 退缩、畏惧
+- E. yield to = 屈服于、让位于。与 C 为 SE 同义词对 ✅
+- F. shrink from = 回避、退缩
+
+**[Medium] [SE]** test 3 s2 #6 (原题号)
+> ...labor relationships are inherently [------] : the interests of business owners are diametrically opposed to those of employees.
+- ✅ A. adversarial + D. antagonistic · ❌ 缺 D
+- 🚩 : 解释关系 → diametrically opposed = 完全对立
+- adversarial = antagonistic = 对抗的（同义词对）
+
+**各词释义（按选项顺序）：**
+- A. adversarial = 对抗性的。词根：*ad-*（向）+ *vertere*（转）→ 转向对面的 ✅
+- B. exploitative = 剥削性的
+- C. mercenary = 唯利是图的
+- D. antagonistic = 对抗性的。词根：*anti-*（反对）+ *agon*（竞赛）→ "与之斗争" ✅
+- E. variable = 可变的
+- F. changeable = 多变的
+
+**[Hard] [SE]** test 27 s2 #6
+> Films that critics have slumbered through rarely generate industry excitement, even though the critics [------] reception may be less the fault of the movie than of its unfortunate time slot near a fatiguing film festival conclusion.
+- ✅ A. somnolent + C. lethargic
+- 🚩 slumbered through（打瞌睡）→ 空内 = 困倦的
+- somnolent = lethargic = 昏昏欲睡的（同义词对）
+- ❌ laconic（简练的）· ❌ befuddled（困惑的）· ❌ evenhanded（公平的）
+
+**各词释义（按选项顺序）：**
+- A. somnolent = 昏昏欲睡的。词根：*somnus*（睡眠）→ insomnia/somnambulist 同根 ✅
+- B. impartial = 公正的
+- C. lethargic = 无精打采的、昏沉的。词根：*lethe*（遗忘/忘川）→ 像喝了忘川水一样萎靡 ✅
+- D. laconic = 简练的
+- E. befuddled = 困惑的、迷糊的
+- F. evenhanded = 公平的（= impartial）
+
+**[Hard] [TC]** test 27 s1 #1
+> Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been [------] .
+- ✅ A. diffident · ❌ B. meticulous
+- 🚩 对比逻辑：AG（检察长）介入查处 → 监管者（本该履职）却 diffident（畏缩/不自信）
+- meticulous = 一丝不苟 → 逻辑反了（细心履职就不需要 AG 介入了）
+
+**各词释义（按选项顺序）：**
+- A. diffident = 不自信的、畏缩的。词根：*dis-*（不）+ *fidere*（信任）→ 不信任自己 ✅
+- B. meticulous = 一丝不苟的。词根：*metus*（恐惧）→ 因害怕出错而极其仔细 ❌
+- C. straightforward = 直率的
+- D. implacable = 无法安抚的
+- E. tenacious = 坚韧不拔的
+
+**各词释义（按选项顺序）：**
+- A. capricious = 反复无常的。词根：*capra*（山羊）→ 像山羊乱跳。与题意不符——不是 cosmopolitan 的反义
+- B. insular = 狭隘封闭的（像岛屿一样隔绝）。词根：*insula*（岛）。paradox → 与 cosmopolitan 完美对立 ✅
+- C. mercenary = 唯利是图的
+- D. idealistic = 理想主义的
+- E. intransigent = 不妥协的。与题意不符
