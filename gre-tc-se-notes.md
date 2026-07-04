@@ -538,4 +538,84 @@
 - B. insular = 狭隘封闭的（像岛屿一样隔绝）。词根：*insula*（岛）。paradox → 与 cosmopolitan 完美对立 ✅
 - C. mercenary = 唯利是图的
 - D. idealistic = 理想主义的
-- E. intransigent = 不妥协的。与题意不符
+|- E. intransigent = 不妥协的。与题意不符
+
+---
+
+## 8. 0703 · 张巍 test 16 s1 + test 16 s2 + test 15 s1 + test 27 s2
+
+**[Easy] [TC]** test 16 s1 #1
+> Though humanitarian emergencies are frequent features of television news, such exposure seldom [------] the public, which rather seems resigned to a sense of impotency.
+- ✅ D. galvanizes
+- 🚩 resigned to a sense of impotency（听天由命）→ 很少激发行动
+- galvanize = 激励、刺激（使采取行动）
+- paralyze/demoralize/exasperate 都是负面方向，但公众本来已 impotent，问题不是"很少打击"而是"很少激发"
+
+**各词释义（按选项顺序）：**
+- A. paralyzes = 使瘫痪。词根：*para-*（旁）+ *lysis*（松解）→ 瘫在一边
+- B. demoralizes = 使气馁。词根：*de-*（去掉）+ *moral*（士气）
+- C. assuages = 缓解、平息
+- D. galvanizes = 激励、刺激（像电流一样激发行动）。词根：来自 Luigi Galvani（发现生物电的科学家）→ 通电后弹起 ✅
+- E. exasperates = 激怒、使恶化
+
+**[Medium] [SE]** test 16 s2 #1
+> The theory that the 1908 Tunguska event was the explosion of a cosmic body in the sky over Siberia is [------]: no one has yet found fragments of the object or any impact craters in the affected region.
+- ✅ E. unproven + F. speculative
+- 🚩 : 解释关系 → no fragments, no craters → 没有证据
+- unproven = 未经证实的 · speculative = 推测性的（同义词对）✅
+
+**各词释义（按选项顺序）：**
+- A. long-standing = 由来已久的 ❌
+- B. indisputable = 无可争辩的 ❌
+- C. plausible = 看似合理的 ❌
+- D. uncontested = 无争议的 ❌
+- E. unproven = 未经证实的。词根：*un-*（不）+ *prove*（证明）✅
+- F. speculative = 推测性的。词根：*spec-*（看）→ specula（瞭望台）→ 凭观察推测 ✅
+
+**[Medium] [TC]** test 15 s1 #1
+> There is [------] in the director's most recent film that keeps the melodramatic possibilities latent in its script safely at bay.
+- ✅ C. an austerity
+- 🚩 keeps the melodramatic possibilities at bay（压抑住了情节剧的可能）→ 电影风格是克制的/简约的
+- austerity = 朴素、克制、简约。mawkishness（多愁善感）、predictability（可预测）、ostentatiousness（炫耀）、emotiveness（情绪化）都跟 keep melodramatic at bay 矛盾
+- 💡 at bay = 使无法靠近/抑制住
+
+**各词释义（按选项顺序）：**
+- A. mawkishness = 多愁善感的、矫情的 ❌
+- B. predictability = 可预测性 ❌
+- C. austerity = 简朴、克制。词根：*austere*（严峻的/简朴的）→ 对应 keep at bay ✅
+- D. ostentatiousness = 炫耀、铺张 ❌
+- E. emotiveness = 情绪化 ❌
+
+**[Hard] [SE]** test 27 s2 #4
+> The Chavez Pass archaeological site was initially interpreted as indicative of [------] society, since it was thought to have been at the center of a cluster of smaller, contemporary settlements that it presumably controlled.
+- ✅ B. a hierarchical + F. a stratified · ❌ D. diverse + E. heterogeneous
+- 🚩 at the center → cluster of smaller settlements → controlled → 等级制社会（中心控制外围）
+- hierarchical = 等级制的 · stratified = 分层级的（同义词对）✅
+- diverse/heterogeneous = 多样的/异质的 → 与"中心控制外围"逻辑无关 ❌
+
+**各词释义（按选项顺序）：**
+- A. expansionist = 扩张主义的。与题意不符
+- B. hierarchical = 等级制的。词根：*hier-*（神圣）+ *arch-*（统治）→ 圣职等级制度 ✅
+- C. urban = 城市的。与题意不符
+- D. heterogeneous = 异质的。词根：*hetero-*（不同）+ *gen-*（种类）
+- E. diverse = 多样的
+- F. stratified = 分层级的。词根：*stratum*（层）→ 社会分层 ✅
+
+**[Hard] [SE]** test 27 s2 #5
+> Although the essayist's arguments did not [------] her most perceptive readers, the extreme subtlety of **the paints she made** explains why she was misinterpreted by most critics of her day.
+- ✅ B. confound + E. perplex · ❌ D. persuade + F. enlighten
+- 🚩 although（↔️转折）→ **两个层面**：arguments（文字论证）vs paints（绘画作品）
+  - 敏锐读者：能读懂她的文字 arguments → 没有被困惑
+  - 评论家：只看她的绘画（too subtle）→ 误解了
+  - 虽然文字上 she was clear enough，但绘画太微妙 → 评论家看不懂
+- confound = 使困惑 · perplex = 使困惑（同义词对）✅
+- persuade/enlighten = 说服/启发 — 如果敏锐读者被说服了，矛盾集中在评论家误解，但转折仍然成立（文字说服 vs 绘画误导），但不如 confound+perplex 精准 ❌
+- ⚠️ 注意原文是 **paints**（绘画），**不是 points（观点）**！两个不同载体
+
+**各词释义（按选项顺序）：**
+- A. convince = 说服 ❌
+- B. confound = 使困惑、使混淆。词根：*com-*（一起）+ *fundere*（倒）→ 混在一起分不清 ✅
+- C. entertain = 娱乐；怀有（想法）❌
+- D. persuade = 说服 ❌
+- E. perplex = 使困惑。词根：*per-*（彻底）+ *plex*（编织）→ 完全缠住 ✅
+- F. enlighten = 启发、启迪 ❌

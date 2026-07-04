@@ -469,3 +469,322 @@
 
 修正：
 > He **requited** the shame **at the hands of** his classmate **with scathing criticism**.
+
+---
+
+## tenuous
+
+**释义：** adj. 纤细的、薄弱的、站不住脚的
+
+**词根：** tenu-（薄的/细的）+ -ous ← 拉丁语 *tenuis*（薄的、细的、微弱的）
+同根：tenuity（稀薄）、attenuate（削弱）、extenuate（减轻罪过）
+原始画面：蜘蛛丝 — 肉眼几乎看不见，轻轻一吹就断
+
+**场景：** RCA发现唯一连接symptom和root cause的证据是一个没人确认过的counter value — 那个逻辑链条像蜘蛛丝一样tenuous
+
+**逻辑框架：**
+> tenuous + [connection/link/argument/evidence] — 存在但弱到随时消失
+
+**Synonyms:** flimsy, weak, slender, slight, insubstantial, fragile
+**Antonyms:** strong, solid, substantial, convincing, well-grounded
+
+**区分：**
+- tenuous = 强调"几乎没有强度"
+- flimsy = 强调"一碰就坏"
+- fragile = 强调"易碎"
+- precarious = 强调"随时会崩溃"
+- **注意区别 tentative（暂定的）vs tenuous（薄弱的）**
+
+---
+
+## ostracize
+
+**释义：** v. 排斥、放逐、孤立（社交层面驱逐）
+
+**词根：** ostrac-（陶片）+ -ize ← 古希腊 *ostrakon*（陶片）
+来源：古希腊陶片放逐制（ostracism）—市民在陶片上刻名投票，得票者驱逐10年
+原始画面：雅典广场，公民默默往投票罐扔陶片，每个都刻着同一个名字
+
+**场景：** 团队里有人犯了众怒，午餐没人叫他、Slack消息没人回 — 被ostracized了
+
+**逻辑框架：**
+> ostracize + [someone] + (for/from + [group]) — 因某原因被群体排斥
+> be ostracized by/from — 被孤立/排除在外
+
+**Synonyms:** exclude, shun（刻意回避）, banish, exile, blackball, send to Coventry
+**Antonyms:** accept, welcome, include, embrace
+
+**名词：** ostracism — 排斥行为/陶片放逐制
+
+---
+
+## impeccable
+
+**释义：** adj. 无懈可击的、完美无缺的
+
+**词根：** im-（不/无）+ pecc-（犯错/犯罪）+ -able
+同根：peccadillo（小过失）、peccant（有罪的）
+原始画面：剑从锻造到开刃每一道检查都完美，找不到任何可挑剔之处
+
+**场景：** Max第一次见你父母，从进门拖鞋到告别鞠躬每个动作恰到好处 — impeccable manners
+
+**常用搭配：** impeccable manners/taste/credentials/record/timing
+
+**Synonyms:** flawless, faultless, spotless, immaculate, unblemished, perfect
+**Antonyms:** flawed, imperfect, blemished, culpable（同根反义）
+
+---
+
+## repudiation & repudiate
+
+**释义：** n. 否认、拒绝接受、断绝关系 | v. 否认、拒绝、划清界限
+
+**词根：** re-（回/反）+ pudi-（感到羞耻）+ -ation ← 拉丁语 *repudium*（休妻）
+同根：impudent（厚颜无耻的）、pudency（羞怯）
+原始画面：古罗马丈夫当众把妻子送回娘家 — 单方面宣告关系不存在
+
+**场景：** CEO被爆出丑闻，公关部连夜声明"The company categorically repudiates this claim" — 不是简单说"不是真的"，是正式切割
+
+**逻辑框架：**
+> repudiate + [说法/指控/协议/信仰/义务] — 正式公开划清界限
+
+**Synonyms:** deny, reject, renounce, disavow, disown, rebuff
+**Antonyms:** accept, embrace, acknowledge, affirm, avow
+
+**区分：**
+- repudiate = 正式切割+否认关联（最彻底）
+- renounce = 宣布放弃（权利/信仰/头衔）
+- disavow = 否认自己与某事有关
+- rebuff = 断然拒绝（请求）
+
+---
+
+## provocative & provoke
+
+**释义：** adj. 挑衅的、煽动性的、引人思考的 | v. 激怒、引发
+
+**词根：** pro-（向前/出来）+ voc-（叫喊/声音）+ -ative ← 拉丁语 *vocāre*（召唤）
+同根：vocal, voice, advocate（向前呼喊→倡导者）, vocation（被召唤→天职）
+原始画面：人群中站出来对台上大吼一声 — 故意制造反应
+
+**三个义项：**
+1. 挑衅的（deliberately provocative remark）
+2. 引人思考的（a provocative question/theory）
+3. 挑逗的（provocative dress）
+
+**场景：** RCA复盘会你说"我觉得这是设计架构的缺陷不是硬件bug" — 全场安静，开始了真正的讨论
+
+**逻辑框架：**
+> provoke + [someone] + into + doing
+> provoke + [reaction/response]
+
+**Synonyms:** inflammatory（煽动仇恨的）, incendiary（纵火煽动的）, inciting, thought-provoking（正面）
+**Antonyms:** pacific, conciliatory, soothing, calming
+
+---
+
+## unravel
+
+**释义：** v. 解开、瓦解、弄清（谜团）
+
+**词根：** un-（反动作）+ ravel（缠绕/纠结）
+原始画面：抽毛衣一根线头轻轻一拉，整只袖子散开 — 从一点开始，连锁反应，整体崩塌
+
+**场景：** 历史遗留PFE crash case，三天后找到crash前3秒counter归零，倒着追出stack trace到microcode loop condition — 整件事像毛衣一样 unravel
+
+**三个义项：**
+1. 物理解开（unravel a knot/sweater）
+2. 瓦解崩溃（plan/relationship/marriage unravels）
+3. 弄清真相（unravel the mystery/secrets）
+
+**逻辑框架：**
+> unravel + [计划/关系/体制] — 从内部逐步瓦解
+> unravel + [谜团/真相] — 逐步揭开
+
+**Synonyms:** untangle, disentangle; fall apart, collapse; solve, decipher, resolve, elucidate
+**Antonyms:** entangle, tangle, knot, complicate
+
+**有趣：** unravel和ravel意思几乎相同 — ravel自身含对立含义（既"缠住"也"解开"），英语又加un-强化
+
+---
+
+## perfunctory
+
+**释义：** adj. 敷衍的、草率的、走过场的
+
+**词根：** per-（通过）+ funct-（执行/做）+ -ory ← 拉丁语 *fungī*（履行职责）
+同根：function, defunct（已死的）, dysfunction
+字面义：仅仅"把事做完"（只求通过，不求质量）
+
+**场景：** PR交上去，reviewer 5分钟后点了Approve，0 comments — perfunctory review
+
+**常用搭配：** perfunctory nod/glance/apology/inspection/manner
+
+**逻辑框架：**
+> perfunctory = 做完了，但没做好；完成了动作，但没投入诚意
+
+**Synonyms:** cursory（仓促）, superficial, halfhearted, token, mechanical, slipshod
+**Antonyms:** thorough, meticulous, conscientious, diligent, scrupulous, painstaking, earnest
+
+**区分：**
+- perfunctory = 做了但没用心（动机问题）
+- cursory = 做得太快所以不细（时间问题）
+- superficial = 只看到表面（深度问题）
+
+---
+
+## galvanize
+
+**释义：** v. 使震惊而行动、激励、电镀
+
+**词根：** 来自意大利科学家 Luigi Galvani — 死青蛙腿碰静电火花会抽搐
+原始画面：死青蛙腿被电到突然弹跳 — 被吓了一跳，然后立刻动起来
+
+**场景：** PFE crash case拖了两个月没人碰，你说"这个case从第一天就错了" — 所有人同时坐直了
+
+**逻辑框架：**
+> galvanize + [someone] + into + [action] — 用强烈刺激迫使行动
+
+**Synonyms:** spur, prod, jolt, stir, rouse, goad
+**Antonyms:** demoralize, discourage, paralyze（物理学反义词）
+
+**区分：**
+- galvanize = 被强烈刺激促使行动（往往是负面事件）
+- electrify = 让人兴奋激动（正面）
+- invigorate = 注入活力（温和）
+
+---
+
+## exasperate
+
+**释义：** v. 激怒、使恼火、使烦躁（持续积累到爆发）
+
+**词根：** ex-（完全）+ asper-（粗糙）+ -ate ← 拉丁语 *asper*（粗糙的）
+同根：asperity（粗暴/严酷）
+原始画面：砂纸在皮肤上来回摩擦 — 持续的、细碎的烦躁累积到顶点
+
+**场景：** 三天换三种hypothesis全部被推翻，最后发现第一天就漏了个关键值 — exasperation
+
+**逻辑框架：**
+> be exasperated at/by/with + [someone/something]
+
+**Synonyms（按强度升序）：** annoy → irritate → **exasperate** → infuriate/enrage
+vex, aggravate, gall
+**Antonyms:** soothe, appease, placate, mollify, pacify
+
+**名词：** exasperation
+
+**对比：** exasperate（累积烦躁）vs galvanize（刺激行动）
+
+---
+
+## impotence / impotency
+
+**释义：** n. 无力、无效、无能为力；阳痿
+
+**词根：** im-（不/无）+ pot-（能力/力量）+ -ence/-ency ← 拉丁语 *posse*（能够）
+同根：potent（有力的）、potential（潜力）、omnipotent（全能）
+
+**场景：** 想抄底PDD但Robinhood不给买OTC，只能眼睁睁看着涨回来 — impotency
+
+**逻辑框架：**
+> sense/feeling of impotency — 无力感
+> political/legal impotency — 政治/法律上的无力
+
+**区分：**
+- impotent（adj.）= 无力的/阳痿的 ← im-+pot-（力量不够）
+- incompetent（adj.）= 不胜任的 ← in-+compet-（能力不够）
+- **不存在 *incompotent* 这个词**
+
+---
+
+## resigned to
+
+**释义：** 听之任之、无奈地接受、认命
+
+**词根：** re-（回/向下）+ sign-（标记/签名）— 字面义：在不愿接受的条款上签字
+
+**逻辑框架：**
+> be resigned to + [不可改变的不如意现实]
+> resign oneself to + [sth]
+
+**Synonyms:** accept reluctantly, acquiesce, submit, capitulate
+
+---
+
+## austere & austerity
+
+**释义：** adj. 简朴的、严峻的、不加修饰的 | n. 朴素/严峻
+
+**词根：** 希腊语 *austēros*（干涩的、严酷的）— 同根：stern（严厉的）
+原始画面：只有白色墙壁、一把木椅、一束光的房间
+
+**场景：** 电影不加花哨配乐、镜头克制、配色冷淡 — austere style
+
+**区分：**
+- austere = 严肃简朴（不追求美，追求本质）
+- strict = 严格（规则层面）
+- severe = 严重/严厉（程度更强，带负面）
+
+---
+
+## latent
+
+**释义：** adj. 潜伏的、潜在的、隐而不显的
+
+**词根：** lat-（隐藏/潜伏）+ -ent ← 拉丁语 *latēre*（躲藏）
+原始画面：地雷埋在地下 — 看不见但随时可能被触发
+
+**逻辑框架：**
+> latent + [ability/conflict/talent/danger/disease/virus] — 已存在但尚不明显
+
+**Synonyms:** dormant（休眠的）, hidden, underlying, quiescent, unrealized, suppressed
+**Antonyms:** manifest, apparent, overt, active, evident
+
+**区分：**
+- latent = 已经存在，只是隐藏/未激活
+- potential = 将来可能发展成，目前还不存在
+
+---
+
+## at bay（固定搭配）
+
+**原始画面：** 猎狗把猎物追到海湾口，猎物转身面对狗群 — 狗近不了身
+
+**常见用法：**
+> keep/hold [sth/sb] at bay — 控制住、不让靠近、不让发作
+> be at bay — （猎物/人）被逼到绝境
+
+**Synonyms:** ward off（挡开）, stave off（推迟）, hold off（拖延）
+
+---
+
+## stratified
+
+**释义：** adj. 分层的、分阶层的
+
+**词根：** stratum（层）+ -ify（使成为）+ -ed
+原始画面：大峡谷岩壁 — 每层颜色不同，层间界限分明
+
+**两项：** 1. 地质分层（stratified rock）2. 社会分层（highly stratified society）
+
+**Synonyms:** layered, hierarchical, ranked
+**Antonyms:** homogeneous, uniform, egalitarian
+
+---
+
+## perceptive
+
+**释义：** adj. 敏锐的、有洞察力的、感知力强的
+
+**词根：** per-（通过/完全）+ cept-（拿取/抓住）+ -ive ← 拉丁语 *capere*（抓）
+同根：perceive（感知）、perception（洞察力）、receptive（善于接受的）
+
+**场景：** 散会大家都没说话，同事小声说"你注意到David提到deadline时一直在看地板吗" — perceptive
+
+**Synonyms:** insightful, astute, discerning, observant, shrewd, penetrating
+**Antonyms:** obtuse, dull, unobservant, imperceptive, shallow
+
+**区分：**
+- perceptive = 捕捉外部信息的能力（敏锐）
+- receptive = 接受外部信息的态度（开放/愿接受）
