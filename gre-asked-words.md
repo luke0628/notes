@@ -323,3 +323,149 @@
 **画面：** 歹徒在你面前抢劫，警察站在旁边刷手机——他有义务阻止但啥也没做，nonfeasance
 
 ---
+
+## engross
+
+**释义：** vt. 完全吸引（注意力/兴趣）
+
+**词根：** en-（进入）+ gross（大块）← 拉丁语 *grossus*（厚的、大的）
+原始含义：正式誊写契约（写成一整份大卷宗）→ 占据了全部篇幅 → 完全吸引注意力
+
+**场景：** 调PFE forwarding issue盯packet flow两小时，Max喊吃饭都没听见
+
+**逻辑框架：**
+> be engrossed in + (书/电影/谈话/工作/游戏) — 沉浸其中，外界一切被屏蔽
+
+**Synonyms:** absorbed, immersed, preoccupied, rapt, fascinated
+**Antonyms:** distracted, bored, indifferent
+
+---
+
+## pompous
+
+**释义：** adj. 自负的、浮夸的、装腔作势的
+
+**词根：** pomp（盛大排场）+ -ous（充满…的）← 拉丁语 *pompa*（队列/游行）
+本义：盛大排场 → 过分讲究排场 → 装腔作势
+
+**场景：** 新工程师回帖先写三行免责声明两行头衔一段引用文档，方案屁用没有
+
+**Synonyms:** pretentious, grandiose, bombastic（大词说话）, ostentatious（摆阔）, self-important
+**Antonyms:** humble, modest, unpretentious
+
+**区分：**
+- pompous = 态度/语气端架子
+- pretentious = 试图装得比实际高大上
+- bombastic = 说话爱用大字眼，内容空洞
+
+---
+
+## exude
+
+**释义：** v. 流露/散发（品质情感）；渗出（液体）
+
+**词根：** ex-（向外）+ sud-（汗/sweat）← 拉丁语 *sūdāre*（出汗）
+同根：sudor（汗）、perspire（流汗）
+本义：像出汗一样慢慢渗出 → 品质不知不觉散发出来
+
+**场景：** 资深L3不带title，一句"Let me check the PFE counters"全群安静 — exudes authority
+
+**逻辑框架：**
+> exude + [confidence/charm/authority] — 自然而强烈地散发特质
+
+**Synonyms:** radiate（感染力强）, emanate（来源发出）, emit（中性）, ooze（贬义）
+**Antonyms:** conceal, suppress, mask
+
+---
+
+## prohibitive
+
+**释义：** adj. （价格）高得令人却步的、阻碍性的
+
+**词根：** pro-（前）+ hibit-（持有/hold）+ -ive ← 拉丁语 *prohibēre*（在前面挡着）
+同根：inhibit（抑制）、exhibit（展出）、prohibit（禁止）
+原始画面：保安伸手臂拦住你 — "不准过去"
+
+**场景：** Vision Pro $3,499 — 不是买不起，是这价格prohibitive，自动帮你做"不买"决策
+
+**逻辑框架：**
+> The [price/cost] is prohibitive. = 价格高到实质上禁止购买
+
+**Synonyms:** exorbitant, extortionate, staggering, astronomical
+**Antonyms:** affordable, reasonable, cheap
+
+**注意：** prohibitive ≠ prohibited（被禁止的）
+
+---
+
+## insouciant
+
+**释义：** adj. 无忧无虑的、满不在乎的（常带该着急不着急的隐含批评）
+
+**词根：** in-（不）+ souci-（担忧/关心）← 法语 *souci*（担忧）
+同根反义：solicitous（关切的）
+字面义：不担忧的
+
+**场景：** 同事把production搞挂了还在群里发meme — insouciant态度让你血压飙升
+
+**逻辑框架：**
+> insouciant + about + [本该重视的事]
+
+**Synonyms:** nonchalant（冷静淡定）, blithe（轻快/轻率）, carefree, unconcerned
+**Antonyms:** anxious, worried, solicitous
+
+**区分：**
+- insouciant = 该在意但不在意
+- nonchalant = 面对压力不慌张（中性）
+- indifferent = 冷漠，完全不关心
+
+**名词：** insouciance
+
+---
+
+## scintillate
+
+**释义：** v. 闪烁闪耀、妙语连珠
+
+**词根：** scintill-（火花/闪光）+ -ate ← 拉丁语 *scintilla*（火花、火星）
+同根：scintilla（一丝/微量）— not a scintilla of evidence
+原始画面：敲击燧石飞溅的细小火星，一闪即逝
+
+**场景：** 同事开会随口一个比喻把复杂PFE问题讲清楚，大家"哦——原来如此"
+
+**逻辑框架：**
+> scintillating + [conversation/wit/repartee/performance] — 精彩到火花四溅
+
+**Synonyms:** sparkle, glitter, coruscate, effervescent
+**Antonyms:** dull, tedious, banal
+
+**注意：** scintillating（adj.精彩）比 scintillate（v.）更常见；口语几乎只用否定形式
+
+---
+
+## requite
+
+**释义：** v. 回报、报复（以相应方式还回去）
+
+**词根：** re-（回）+ quite（古义"清还的"）— 字面义：还回去
+
+**逻辑框架：**
+> requite + [行为] + with + [对应回报] — 以好报好（报答），以坏报坏（报复）
+
+**Synonyms:** repay, reciprocate, return the favor
+**Antonyms:** forgive, ignore, leave unrequited
+
+**注意：** "at the hands of"（由…造成）— 必须用复数hands
+
+---
+
+## requite 造句修复
+
+原句：*He requited the shame at the hand of his classmate by scathing.*
+
+问题：
+1. at the hand of → **at the hands of**（必须复数）
+2. by scathing → **with scathing criticism/remarks**（scathing是adj，缺名词）
+
+修正：
+> He **requited** the shame **at the hands of** his classmate **with scathing criticism**.
