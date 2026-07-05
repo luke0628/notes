@@ -1310,3 +1310,218 @@ vex, aggravate, gall
 - transgress: 逾越道德/社会界限（更正式）
 
 ---
+
+## scathing /ˈskeɪðɪŋ/
+
+**释义：** 尖刻的，严厉批判的，不留情面的
+
+**逻辑场景：** criticism/remark/review/attack 被描述为 scathing → 用词极其锋利，像刀割一样毫不留情地批评
+
+**搭配框架：**
+- scathing + [criticism/review/remark/attack/indictment/denunciation]
+- scathing about + [sb/sth]（对…严厉批评）
+- a scathing attack on + [sb/sth]
+
+**例句：**
+> The critic's **scathing** review described the film as "two hours of pretentious nonsense."
+> 评论家尖刻的评论称这部电影是"两小时的自命不凡的废话"。
+
+**画面感：** 一个人拿着手术刀，每一句话都精准地割向对方的要害——不是为了问候，是为了解剖。Scathing 不是普通的批评，是"文字版手术刀式"抨击。
+
+**易混辨析：**
+- scathing：尖刻抨击（批评力度最重）
+- caustic：刻薄讽刺（带腐蚀性幽默）
+- acerbic：尖酸（语气/风格，不一定攻击具体行为）
+- vitriolic：充满仇恨恶意的（程度最重，带毒液感）
+
+---
+
+## exploit /ɪkˈsplɔɪt/ v. — 利用（不公正地）；/ˈeksplɔɪt/ n. — 英雄事迹
+
+**释义 v.** (1) 利用（人/处境为自己谋利，常带贬义）；(2) 开发（资源）
+**释义 n.** 勇敢或引人注目的成就/事迹
+
+**逻辑场景 v.**：exploit + [labor/vulnerability/inexperience/system/loophole/resources] → 利用别人的弱点、漏洞或资源获利
+
+**搭配框架：**
+- exploit + [workers/the poor/consumers]（剥削）
+- exploit + [a loophole/weakness/vulnerability]（钻空子）
+- exploit + [natural resources/oil/minerals]（开发）
+
+**例句 v.:**
+> Unscrupulous lenders **exploited** the homeowners' desperate financial situation, charging predatory interest rates.
+> 无良贷方利用房主绝望的财务状况，收取掠夺性利率。
+
+**例句 n.:**
+> The book recounts the daring **exploits** of a young spy behind enemy lines.
+
+**画面感 v.:** 一个人骑在另一个人背上，把对方当垫脚石去够高处的果子。
+**画面感 n.:** 战士攀上悬崖顶端接受欢呼的场景。
+
+**GRE 考点提示：** exploit 做名词（重音在前/ˈeks-/）表"壮举"，做动词（重音在后/ɪkˈsplɔɪt/）表"利用/剥削"——音变义变。
+
+---
+
+## uncontested /ˌʌnkənˈtestɪd/
+
+**释义：** 无争议的，无人挑战的
+
+**逻辑场景：** election/claim/divorce/victory/seat 被描述为 uncontested → 没有人提出反对、竞争或质疑，直接通过
+
+**搭配框架：**
+- uncontested + [election/race/seat/divorce/lawsuit]
+- go uncontested（无人反对地通过）
+
+**例句：**
+> The incumbent ran **uncontested** for a third term — no opposition party even bothered to field a candidate.
+
+**画面感：** 一场拳击赛，你戴上手套走进擂台——对面空无一人，裁判直接举起你的手宣布胜利。
+
+**词源拆解：** un-（不）+ contest（争夺/质疑）+ -ed
+
+---
+
+## mercenary /ˈmɜːrsəneri/
+
+**释义：** 只为钱干的，唯利是图的
+
+**逻辑场景：** (1) adj. 动机只关乎金钱回报，无关忠诚、原则或感情；(2) n. 雇佣兵
+
+**搭配框架：**
+- mercenary + [motives/interest/concerns/attitude]
+- mercenary army/soldier（雇佣军/雇佣兵）
+
+**例句：**
+> His offer to help was purely **mercenary** — he only cared about the consulting fee.
+> The company's **mercenary** attitude toward layoffs — axing loyal employees to boost quarterly stock price — angered the public.
+
+**画面感：** 古罗马的日耳曼雇佣兵——谁给的钱多就为谁打仗，毫无忠诚可言。
+
+**易混辨析：**
+- mercenary：唯利是图（利益驱动，无忠诚）
+- venal：贪污腐败的（可被收买的，更贬义）
+- avaricious：贪婪的（对财富的渴望本身）
+
+**词源：** 来自拉丁语 merces（报酬/工资）
+
+---
+
+## tenacious /təˈneɪʃəs/
+
+**释义：** 坚韧不拔的，执着的，紧抓不放的
+
+**逻辑场景：** person/grip/memory/hold/belief 被描述为 tenacious → 不轻易放手，遇到阻力也不放弃
+
+**搭配框架：**
+- tenacious + [grip/hold/cling]（紧握不放）
+- tenacious + [memory]（记忆力强）
+- tenacious + [fighter/defender/advocate]（顽强的斗士/辩护者）
+- tenacious + [belief/faith/optimism]（坚定的信念）
+
+**例句：**
+> The **tenacious** reporter spent three years chasing the story, filing FOIA requests and interviewing dozens of reluctant witnesses.
+
+**画面感：** 一只斗牛梗咬住玩具就不松口，你拽它、摇它、提起来——它还是死死咬着不放。Tenacious 就是这种"咬住就不放"的劲头。
+
+**词源：** 来自拉丁语 tenax（抓住），与 tenere（持有）同源 → 同根词：tenure、tenable、tenet
+
+**易混辨析：**
+- tenacious：执着坚韧（褒义/中性，强调不放弃）
+- stubborn：固执（贬义，强调不讲理地坚持）
+- pertinacious：固执的/坚持的（更正式，可褒可贬）
+- obstinate：倔强的（贬义，顽固不化）
+
+---
+
+## exploitative /ɪkˈsplɔɪtətɪv/
+
+**释义：** 剥削性的，利用性的，压榨的
+
+**逻辑场景：** practice/behavior/system/relationship 被描述为 exploitative → 一方利用权力/信息/资源不对等，不公平地利用另一方
+
+**搭配框架：**
+- exploitative + [practices/labor practices/relationship/behavior]
+
+**例句：**
+> The gig economy has been criticized for its **exploitative** practices — offering workers no benefits, no job security, and below-minimum-wage pay after expenses.
+
+**画面感：** 一个人坐在另一个人肩膀上摘树上的果子，摘完把果子全自己吃了，把核扔给下面的人——你扛了所有重量但什么都没得到。
+
+**词源相关：** exploit v. → exploitative adj. 与 mercenary 同属"利益驱动"语义场但不同：mercenary 是动机，exploitative 是行为/结构。
+
+---
+
+## drollness /droʊlnəs/
+
+**释义：** 滑稽幽默，离奇古怪的趣味
+
+**逻辑场景：** humor/wit/expression/remark 被描述为 droll → 不是哈哈大笑的那种幽默，是古怪、离奇、引人会心一笑的冷幽默
+
+**搭配框架：**
+- droll + [humor/wit/expression/remark/smile/face]
+- a droll sense of humor（冷幽默感）
+
+**例句：**
+> The butler's **drollness** — delivering the darkest news with complete deadpan — kept the dinner guests in stitches.
+
+**画面感：** 一个管家面无表情地说："先生，您的茶——以及报告一下，温室屋顶刚刚塌了。"说完转身走开。
+
+**词源：** 来自法语 drôle（滑稽的/古怪的）
+
+---
+
+## polemical /pəˈlemɪkəl/
+
+**释义：** 论战性的，激辩的
+
+**逻辑场景：** writing/speech/tone/debate 被描述为 polemical → 强烈地攻击或辩护某一立场，火药味重的辩论文风
+
+**搭配框架：**
+- polemical + [writing/work/essay/tone/debate]
+- polemical style（论战风格）
+
+**例句：**
+> The author's **polemical** attack on free-market economics sparked heated responses from both sides of the aisle.
+
+**画面感：** 两个人站在肥皂箱上面对面互吼——不是讨论，是论战。Polemical 就是这种"站肥皂箱"式的激烈辩论。
+
+**词源：** 来自希腊语 polemos（战争）→ polemical = 文字战
+
+---
+
+## unfounded /ʌnˈfaʊndɪd/
+
+**释义：** 无根据的，没有事实基础的
+
+**逻辑场景：** allegation/claim/rumor/accusation/fear 被描述为 unfounded → 没有证据支持，纯属空穴来风
+
+**搭配框架：**
+- unfounded + [allegation/claim/rumor/accusation/fear/assertion]
+- completely/totally/utterly unfounded（完全无根据）
+
+**例句：**
+> The **unfounded** accusations of fraud damaged his reputation long before they were proven false.
+
+**画面感：** 一座没有地基的房子——看起来像房子，但一阵风来就倒了。Unfounded 就是这种"没有地基"的指控。
+
+**词源拆解：** un-（不）+ found（建立/根据）+ -ed
+
+---
+
+## perilous /ˈperələs/
+
+**释义：** 危险的，充满风险的
+
+**逻辑场景：** journey/path/situation/venture 被描述为 perilous → 不仅仅是危险，而且是危机四伏，稍有不慎就可能出事
+
+**搭配框架：**
+- perilous + [journey/path/situation/venture/enterprise]
+- perilous times/conditions（危险时期/条件）
+
+**例句：**
+> The hikers faced a **perilous** crossing of the frozen river, where one wrong step could mean hypothermia or worse.
+
+**画面感：** 一个人走在一根架在深谷上的绳索上，下面是刀削般的岩石和奔腾的河水——一步走错就完了。
+
+**词源：** 来自拉丁语 periculum（危险）→ 同根：peril（危险）、perilous（充满危险的）、imperil（危及）
+**注意：** perilous ≠ dangerous 的平替——perilous 含"危机四伏随时可能出事"的紧迫感，程度比 dangerous 更重。

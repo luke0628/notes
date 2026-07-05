@@ -722,3 +722,98 @@
 - **C. malleable** ❌ 可塑的、易受影响的
 - **D. egalitarian** ❌ 平等主义的
 - **E. autonomous** ❌ 自主的、自治的
+
+---
+
+## 6. 0704b · 张巍 test 2 s1 / test 12 s1 / test 33 s1 / test 34 s1
+
+**[Easy] [TC]** test 2 s1 #1
+> We often regard natural phenomena like rainfall as mysterious and unpredictable; although for short time spans and particular places they appear so, in fact on a truly global scale, nature has been a model of [------].
+- ✅ reliability · ❌ diversity / complexity / plasticity / discontinuity
+- 🚩 although 转折：看似 unpredictable → 实则 reliable
+- Logic breakdown: mysterious + unpredictable（短期/局部）→ although 转折 → 全球尺度上是相反的 → reliability（可靠性）
+
+**[Medium] [TC]** test 12 s1 #1
+> Blake's reputation for weakness is [------]: almost all who have worked with him say he is a disciplined, intellectually formidable, and very tough politician.
+- ✅ specious · ❌ pervasive / irreversible / trivial / ambivalent
+- 🚩 冒号解释说明：后半句描述实际为 disciplined + tough → reputation 是假的
+- Logic breakdown: reputation for weakness 与实际（disciplined, formidable, tough）矛盾 → 这个 reputation 是 specious（似是而非的）
+
+**[Medium] [SE]** test 12 s1 #6
+> Anne Carson's book Nox is, very deliberately, [------] literary object—the opposite of an e-reader, which is designed to vanish in your palm as you read on a train.
+- ✅ cumbersome · unwieldy · ❌ evanescent / immutable / ephemeral / flexible
+- 🚩 opposite of "vanish in your palm" → 笨重不便于携带
+- Logic breakdown: opposite of 轻便（vanish in your palm）→ 笨重的
+
+**[Hard] [TC]** test 33 s1 #1
+> The maps in this volume are meant not as guides but as [------]: they are designed to make the reader think anew about the city.
+- ✅ provocations · ❌ adornments / references / truisms / valedictions
+- 🚩 not X but Y 对比 + 冒号解释：make reader think anew
+- Logic breakdown: not as guides（不是引导）→ but as _____ that makes you think anew → provocations（引发思考的东西）
+
+**[Hard] [TC]** test 34 s1 #1
+> The science community's perennial lament over inadequate budgets has come to seem increasingly [------], because government support for science and engineering has never been greater.
+- ✅ disingenuous · ❌ vital / hopeless / poignant / condescending
+- 🚩 because 因果：support has never been greater → lament 不真诚
+- Logic breakdown: lament（抱怨）budgets inadequate → 实际 support 空前大 → 抱怨是虚伪的/不真诚的
+
+**各词释义（按题顺序）：**
+
+**Q1:**
+- **A. reliability** ✅
+  **释义+词根** 可靠性。rely（依赖）+ ability（能力）→ 可依赖的性质
+  **GRE场景** 与 unpredictable 构成反义对；常形容 data, source, measure 的可信赖度
+  > The reliability of the experimental results was confirmed through repeated trials.
+- **B. diversity** ❌ 多样性
+- **C. complexity** ❌ 复杂性
+- **D. plasticity** ❌ 可塑性
+- **E. discontinuity** ❌ 不连续性
+
+**Q2:**
+- **A. specious** ✅
+  **释义+词根** 似是而非的、外表好看的但实际不成立的。*speci-*（看起来）→ 看起来对但实际不对
+  **GRE场景** 常形容 argument, claim, reasoning, reputation — 表面上看合理但有根本缺陷
+  > The lawyer's specious argument sounded convincing but collapsed under scrutiny.
+- **B. pervasive** ❌ 普遍的、渗透的
+- **C. irreversible** ❌ 不可逆的
+- **D. trivial** ❌ 琐碎的
+- **E. ambivalent** ❌ 矛盾的（指情绪的复杂混合）
+
+**Q3:**
+- **A. evanescent** ❌ 转瞬即逝的
+  **GRE场景** 常形容 beauty, memory, light — 短暂易逝（但本题需要的是 vanish 的反面）
+- **B. cumbersome** ✅
+  **释义+词根** 笨重的、累赘的。cumber（阻碍）+ some（有…性质）→ 碍手碍脚的
+  **GRE场景** 形容设备/流程/制度过于庞大复杂难以处理；常与 unwieldy 同义
+  > The cumbersome bureaucratic process delayed the project by months.
+- **C. immutable** ❌ 不变的
+- **D. unwieldy** ✅
+  **释义+词根** 笨拙的、不易操作的。un-（不）+ wieldy（易操作的）
+  **GRE场景** 常形容物体太庞大不好拿、系统太复杂不好管理；与 cumbersome 为经典 SE 同义词对
+  > The unwieldy equipment required three people just to move it across the room.
+- **E. ephemeral** ❌ 短暂的（与 evanescent 同义）
+- **F. flexible** ❌ 灵活的
+- 🚩 cumbersome / unwieldy 是高频 SE 同义词对，表示"笨重不便于操作"
+
+**Q4:**
+- **A. adornments** ❌ 装饰品
+- **B. references** ❌ 参考、引用（与 guides 同向）
+- **C. truisms** ❌ 老生常谈、不言而喻的道理
+  **GRE场景** 常用来反驳的观点 — "that's just a truism" ⚠️ 但不是本题答案
+- **D. provocations** ✅
+  **释义+词根** 挑衅、激发思考的事物。pro-（向前）+ vocare（呼叫）→ 叫出来、激起反应
+  **GRE场景** 中性偏正面义 — 激发思考/反应/讨论。provocative 为其形容词形式
+  > The artist's work was intended as a provocation, challenging viewers to question their assumptions.
+- **E. valedictions** ❌ 告别辞、告别
+
+**Q5:**
+- **A. vital** ❌ 至关重要的
+- **B. hopeless** ❌ 绝望的
+- **C. poignant** ❌ 深刻的、辛酸的
+  **GRE场景** 形容记忆/故事/描写生动触动人 👈 但与本题逻辑不符
+- **D. condescending** ❌ 居高临下的
+- **E. disingenuous** ✅
+  **释义+词根** 不真诚的、虚伪的。dis-（不）+ ingenuous（真诚的、天真的）
+  **GRE场景** 常形容 statement, apology, concern — 表面说一套实际想另一套
+  > The politician's expression of concern seemed disingenuous given his voting record.
+- 🚩 disingenuous 的反义词 ingenuous = 天真的、坦率的（不是 genius）
