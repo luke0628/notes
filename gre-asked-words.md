@@ -419,9 +419,24 @@
 - nonchalant = 面对压力不慌张（中性）
 - indifferent = 冷漠，完全不关心
 
-**名词：** insouciance
-
----
+|**名词：** insouciance
+|
+|**补充：**
+|
+|**场景：**
+|- 批评人物对重大问题表现 insouciant——"government's insouciant disregard for the crisis"
+|- 文艺批评中描述轻松随性的文风
+|- 与 anxious / solicitous / concerned 形成对比，双空三空题中反向对应
+|
+|**画面：** 窗外股市暴跌熔断，他头也不抬地继续切牛排，手机屏幕朝下扣在桌上。
+|
+|**Synonyms（补充）：** casual
+|**Antonyms（补充）：** troubled, apprehensive
+|
+|**区分（补充）：**
+|- nonchalant 偏举止冷静，insouciant 偏内心不在乎；GRE 中 insouciant 常带负面色彩（该担心却不担心）。
+|
+|---
 
 ## scintillate
 
@@ -440,6 +455,27 @@
 **Antonyms:** dull, tedious, banal
 
 **注意：** scintillating（adj.精彩）比 scintillate（v.）更常见；口语几乎只用否定形式
+
+---
+
+## scintillating
+
+**释义：** 才华横溢的，妙趣横生的，闪耀的（指对话/表演极其精彩引人入胜）
+
+**词根：** 拉丁语 scintilla（火花/火星）→ scintillate（v. 闪烁火花）→ scintillating（adj. 闪耀的）。同根词：scintilla（n. 微量，一丁点，GRE常考）
+
+**场景：**
+- "a scintillating conversation" = 火花四溅、金句频出的对话
+- 形容演讲/表演/风格等令人眼花缭乱
+
+**画面：** 篝火旁两个人聊天，每句话都像往火堆里扔木屑，火星持续爆开——凌晨三点还不肯散的那种。
+
+**Synonyms:** brilliant, dazzling, sparkling, witty, luminous, effervescent, incisive
+**Antonyms:** dull, vapid, insipid, banal, tedious, prosaic
+
+**区分：**
+- scintillating vs brilliant: brilliant = 灯泡一直亮，scintillating = 烟花持续爆开
+- scintillating vs scintilla (同根反义): scintillating = 闪耀刺眼，scintilla = 一丁点几乎看不见
 
 ---
 
@@ -469,6 +505,29 @@
 
 修正：
 > He **requited** the shame **at the hands of** his classmate **with scathing criticism**.
+
+**补充场景：**
+- 爱情中未得回报 — 他倾尽全力的爱最终 remain **unrequited**，对方甚至不知道他的心意
+- 职场以德报怨 — 虽然被同事在会议上公开贬低，他 later **requited** the insult **with** genuine praise，让对方无地自容
+- 以牙还牙 — 两个帮派互相 **requite** violence **with** violence，仇恨的链条永无止境
+
+**反义词复习：** unrequited — 未得回报的（unrequited love 是最常见用法，GRE 阅读中注意这个词的出现）
+
+**补充场景（GRE 高频）：**
+- 命运的反讽 — 他一生致力于慈善，最终得到的确是世界的背弃 — life **requited** his kindness **with** cruelty
+- 法庭正义 — 受害者要求正义，希望法庭 **requite** the wrongs done to her family **with** a just sentence
+- 自然的馈赠 — 这片土地 **requited** 农民的辛勤耕作 **with** 丰硕的收成 — 自然以好报好
+
+**补充同义词：**
+- **retaliate** — 更强调\"报复\"（情绪化、以牙还牙），requite 可好可坏、更正式书面
+- **recompense** — 强调\"补偿/赔偿\"，常用于金钱或物质回报；requite 更情感化
+
+**补充辨析（require vs requite）：**
+| 词 | 含义 | 句式 |
+|---|---|---|
+| require | 要求/需要 | require sb to do / require that |
+| requite | 回报/报复 | requite sth with sth |
+GRE 阅读中这两个词容易看混，注意拼写 — **require** 多一个 r 在 qu 前，**requite** 没有。
 
 ---
 
@@ -788,3 +847,466 @@ vex, aggravate, gall
 **区分：**
 - perceptive = 捕捉外部信息的能力（敏锐）
 - receptive = 接受外部信息的态度（开放/愿接受）
+
+---
+
+## predilection
+
+**释义：** 偏好、偏爱（对某事物的特殊喜爱，常带有倾向性）
+
+**词根：** 拉丁语 *prae-*（提前/在前）+ *deligere*（选择）→ "预先选择"。同根词：*collect*（收集）、*elect*（选举）、*select*（选择）
+
+**场景：**
+- 审美偏好的概括 — 这位导演对黑白摄影有一种 predilection，几乎每部电影都刻意压低饱和度
+- 职业/学术倾向 — 经济学教授对古典自由市场理论有明显的 predilection，在所有分析中都默认政府干预无效
+- 个人口味 — 他虽然学的是计算机科学，但对古典文学一直有一种 predilection，业余时间都在读普鲁斯特
+
+**画面：** 走进一家老书店看着排排书架心里就高兴——不是需要某本书，而是对书的味道和氛围本身就有一种莫名的 predilection
+
+**Synonyms:** preference, partiality, fondness, inclination, penchant, propensity, proclivity, leaning
+**Antonyms:** aversion, antipathy, distaste, indifference
+
+**区分：**
+- **predilection** = 对自己喜欢的东西的一种"预先倾向"，常用于审美/风格/学术判断领域
+- **penchant** = 更强烈的沉迷/嗜好，可能有点上瘾的味道（a penchant for gambling）
+- **proclivity** = 更偏贬义、指向坏习惯或倾向的"癖好"（a proclivity for lying）
+- **propensity** = 最中性/学术化，指人/事物的"固有倾向"（propensity to save / propensity for violence）
+- **preference** = 最通用，不强调倾向的强度或来源
+
+---
+
+## exhortation / hortative
+
+**释义：**
+- **exhortation** (n.) — 极力劝勉、敦促、激励性的言辞（比简单的建议更有力，带着紧迫感）
+- **hortative** (adj.) — 劝勉性的、激励人的
+
+**词根：** 拉丁语 *hortari*（鼓励/催促/激励）。同根词：
+- *exhort* (v.) — 极力劝勉 ← ex-（向外/加强）+ hortari
+- *exhortation* (n.) — 劝勉的言行
+- *hortative* / *hortatory* (adj.) — 劝勉性的（*hortatory* 更常用）
+- *cohort* — 本意是古罗马军团（300-600人）的编制，来自 co-（一起）+ *hortari*（鼓励）→ "被召集起来互相打气的一群人"→ 延伸为"同伴/同僚群体"
+- *horticulture* — 园艺 ← *hortus*（花园），这个是 **不同根**的假朋友！拉丁词根 *hortus*（花园）跟 *hortari*（鼓励）无关
+
+**场景：**
+- 宗教布道 — 牧师的 exhortation 让会众热泪盈眶，当场决定捐出一个月薪水
+- 战前动员 — 将军在诺曼底登陆前对士兵发表 exhortation，要求他们为自由而战
+- 政治演讲 — 邱吉尔的 "We shall fight on the beaches" 是历史上最著名的 exhoration 之一
+
+**画面：** 马拉松跑到最后一公里时，队友在旁边喊"你可以的！不要停！"——那种热切到有点用力过猛的催促，就是 exhortation
+
+**Synonyms:** urging, admonition, encouragement, incitement, appeal, entreaty, persuasion
+**Antonyms:** dissuasion, deterrence, discouragement, prohibition
+
+**区分：**
+- **exhortation** = 积极的、带有鼓励性质的强烈建议/劝勉（用力推你去做）
+- **admonition** = 温和的警告/告诫（小心别做错）
+- **incitement** = 煽动（可以是中性的也可以是恶意的，常带法律含义）
+- **entreaty** = 恳求/哀求（请求者处于下位，exhortation 的说话者处于上位或平等）
+
+---
+
+## irascible
+
+**释义：** 易怒的、性情暴躁的（指人天性容易被激怒，不是偶尔发一次火）
+
+**词根：** 拉丁语 *ira*（愤怒）→ *irascī*（变得愤怒）→ *irascibilis*（易怒的）。同根词：
+- *ire* (n.) — 愤怒/怒气（文学用语，GRE 阅读常见）
+- *irate* (adj.) — 愤怒的（比 angry 正式，指具体某次发怒）
+- *ira* — 拉丁语"愤怒"（记住这个根，看到 ir- 开头的词往愤怒方向猜）
+
+**场景：**
+- 老教授脾性 — 那位 irascible 的历史教授以把迟到学生赶出教室而闻名，系里没有人敢在他的课上打瞌睡
+- 作家的暴躁形象 — 海明威晚年变得愈发 irascible，经常因为小事对朋友咆哮，老朋友都渐渐疏远了他
+- 文学原型 — 《呼啸山庄》的希斯克利夫是一个典型的 irascible 角色，任何轻微的冒犯都能引爆他的怒火
+
+**画面：** 年迈的老头坐在门廊摇椅上，邻居家的狗叫了三声，他直接把拐杖扔过去骂了一分钟——不为什么大事，这就是 irascible
+
+**Synonyms:** irritable, testy, cranky, cantankerous, peevish, petulant, choleric, splenetic
+**Antonyms:** placid, serene, good-natured, equable, imperturbable
+
+**区分：**
+- **irascible** = 天性暴躁，像火药桶随时会炸（人格特质）
+- **irate** = 对某事感到愤怒（状态/情绪，不一定易怒）
+- **petulant** = 耍小孩子脾气的、闹别扭的（更幼稚/任性，像小孩得不到玩具）
+- **cantankerous** = 脾气坏+爱抬杠（不只是暴躁，还喜欢跟人唱反调）
+
+---
+
+## at the hands of
+
+**释义：** 由……造成、出自……之手（指承受某种待遇，通常是不愉快的待遇，来自某人的行为）
+
+**场景：**
+- 遭受不公 — 许多移民在边境 detention centers 遭受了 severe mistreatment **at the hands of** 当地执法部门
+- 历史暴行 — 少数民族数百年来承受的 oppression **at the hands of** 专制统治者
+- 个人经历 — 他在前公司 **at the hands of** 专横的上司那里受尽了屈辱
+
+**画面：** 一个人站在雨中，远处的另一个人不断向他砸来石子——他身上每一个伤口都标记着"at the hands of"那个砸石子的人
+
+**Synonyms:** by the agency of, caused by, as a result of, through the action of
+
+**注意：** hands 必须用复数形式，不能写成 at the hand of（单数形式不正确）
+
+---
+
+## dampen
+
+**释义：** 抑制，减弱，使沮丧（降低强度/热情/效果）
+
+**词根：** damp（潮湿的）+ -en（动词后缀）= 弄湿 → 引申为"泼冷水、降火"
+
+**场景：**
+- 抑制热情/情绪："Nothing could dampen his enthusiasm for the project."
+- 削弱效果/影响："The criticism did little to dampen public confidence."
+- 经济学语境："Rising interest rates dampened consumer spending."
+
+**画面：** 大雨浇灭了露天演唱会的篝火，人群不情愿地散去——热情和火焰一起被 dampen 了。
+
+**Synonyms:** diminish, reduce, curb, temper, suppress, stifle, quell, check
+
+**Antonyms:** amplify, intensify, boost, enhance, kindle, inflame
+
+**区分：** dampen vs quell vs stifle: dampen 最温和（降低强度），quell 完全压制（平息暴乱），stifle 窒息扼杀。dampen 在 GRE 中几乎永远考比喻义"抑制"，不考字面义"弄湿"。
+
+---
+
+## compound
+
+**释义：** (GRE考点) v. 加剧，使恶化（使本已不好的情况变得更糟）
+
+**词根：** 拉丁语 componere（放在一起）= com-（一起）+ ponere（放）。同根词：component, compose, composite, composition
+
+**场景：**
+- GRE 填空高频：前面已有负面情况，compound 表示在同一方向继续恶化
+- "The drought compounded the region's already severe food shortage."
+- "His reckless statements only compounded the damage to his reputation."
+
+**第二义项：** v. 混合，调和（中性/正面义，GRE出现较少）
+- "The chemist compounded various ingredients to create a new medicine."
+
+**画面：** 大雨 + 屋顶漏水 + 水管工明天才来 → 你用桶接水 → 猫踢翻桶。坏事叠坏事，雪上加霜。
+
+**Synonyms（加剧义）:** exacerbate, aggravate, worsen, intensify, amplify
+**Antonyms（加剧义）:** alleviate, mitigate, ameliorate, soothe, relieve
+
+**区分：**
+- compound vs exacerbate: 几乎同义，但 compound 暗含"叠加"意象——新问题加在老问题之上增加了层次；exacerbate 只是"让更糟"
+- compound vs combine: combine 中性"合并"，compound GRE 中几乎永远负面方向
+
+---
+
+## sacrosanct
+
+**释义：** 神圣不可侵犯的；极其神圣的
+
+**词根：** *sacer*（神圣）+ *sanctus*（圣洁）→ 双重神圣，强化语义
+
+**场景：**
+- 某人态度被视为不可批评 — 神圣不可挑战的原则/传统
+- 摄影师把摄影当作 sacrosanct 艺术 → 即时摄影打破这种敬畏感
+
+**画面：** 寺庙里的圣物 — 没人敢碰，没人敢质疑。sacrosanct 就是"谁敢动我试试？"
+
+**Synonyms:** inviolable, hallowed, consecrated, venerated
+**Antonyms:** profane, desecrated, defiled, mundane
+
+**区分：**
+- sacred 强调"宗教性神圣"，sacrosanct 更强调"不可侵犯/不可挑战"的社会性敬畏
+- inviolable 偏法律/权利层面（不可侵犯的权利），sacrosanct 偏情感/态度层面
+
+---
+
+## antediluvian
+
+**释义：** 极其古老的、过时的
+
+**词根：** ante-（之前）+ diluvium（洪水）→ 大洪水之前的
+
+**场景：**
+- 老掉牙的公司/技术 — 拒绝创新的老企业
+- 极端过时的观念 — 像恐龙一样古老
+
+**画面：** 诺亚方舟之前的原始世界 — 文明还没开始，那种程度的古老。
+
+**Synonyms:** archaic, antiquated, obsolete, primordial, primeval
+**Antonyms:** modern, contemporary, current, innovative, novel
+
+**区分：**
+- antediluvian 比 archaic 更强烈，带"史前/大洪水前"的夸张感
+- archaic 是"古老的"，antediluvian 是"老掉牙到可笑的地步"
+
+---
+
+## egalitarian
+
+**释义：** 平等主义的；主张平等的
+
+**词根：** *égal*（平等，法语）← 拉丁语 *aequalis*（平等的）
+
+**场景：**
+- 与 authoritarian（专制的）形成对比 — 平易近人的领导
+- 主张人人平等的社会制度
+
+**画面：** 一个乐团的指挥和乐手坐在一起讨论曲目，而不是站在高台上挥舞指挥棒 — 权威 vs 平等。
+
+**Synonyms:** equitable, democratic, fair, just, equalitarian
+**Antonyms:** authoritarian, autocratic, elitist, hierarchical, unequal
+
+**区分：**
+- egalitarian 偏政治/社会制度层面，强调权利的平等
+- democratic 偏制度/选举层面，egalitarian 强调实际的平等态度
+
+---
+
+## encyclopedic
+
+**释义：** 百科全书式的；学识渊博的，全面详尽的
+
+**词根：** *en-*（在内）+ *kyklos*（圆）+ *paideia*（教育）→ 全面教育
+
+**场景：**
+- 面面俱到的学术著作 — 涵盖所有重要发现
+- 知识极其广博的人
+
+**画面：** 一卷百科全书 — 从 A 到 Z 你需要的都有了。
+
+**Synonyms:** comprehensive, exhaustive, all-encompassing, compendious, universal
+**Antonyms:** superficial, incomplete, cursory, sketchy, perfunctory
+
+**区分：**
+- encyclopedic 强调广度和全面性；exhaustive 强调深度和详尽程度
+- comprehensive = 覆盖面广，exhaustive = 不漏掉任何细节
+
+---
+
+## exhaustive
+
+**释义：** 详尽无遗的；彻底全面的
+
+**词根：** *ex-*（出）+ *haurire*（抽、汲取）→ 抽干了，一滴不剩
+
+**场景：**
+- 彻底的研究/搜索 — 查遍了所有资料
+- 完整的清单 — 没有遗漏任何一项
+
+**画面：** 把井水抽干见底 — 一滴不剩。
+
+**Synonyms:** thorough, comprehensive, encyclopedic, complete, all-inclusive
+**Antonyms:** incomplete, partial, selective, superficial, cursory
+
+**区分：**
+- exhaustive 强调"彻底到没有遗漏"；encyclopedic 强调"覆盖面广"
+- thorough 偏认真细致；exhaustive 偏全面完整
+
+---
+
+## hamper
+
+**释义：** 阻碍、妨碍、牵制
+
+**词根：** 可能与古英语 *hamelian*（阻挠、弄残）有关
+
+**场景：**
+- 缺乏清晰度/资源阻碍了进展
+- 官僚制度/tedious 流程阻挡效率
+- 笨重的装备妨碍活动自由
+
+**画面：** 穿着厚重的雨衣跑步 — 每一步都被牵制，跑不快。
+
+**Synonyms:** impede, hinder, obstruct, thwart, stymie
+**Antonyms:** facilitate, expedite, assist, aid, accelerate
+
+**区分：**
+- hamper vs impede: 几乎同义，hamper 常暗含"像负重一样拖累"，impede 更偏"设障阻挡"
+- hamper vs obstruct: obstruct 更物理化（挡路了），hamper 更抽象（牵制了）
+
+---
+
+## impede
+
+**释义：** 阻碍、妨碍
+
+**词根：** *im-*（入）+ *pes*（脚）→ 绊住脚
+
+**场景：**
+- 制度/命名不清阻碍了科学进步
+- 坏天气阻碍了行程
+- 语言障碍妨碍了交流
+
+**画面：** 跑步时脚下被藤蔓缠住 — 想跑但跑不了。
+
+**Synonyms:** hamper, hinder, obstruct, thwart, encumber
+**Antonyms:** facilitate, expedite, smooth, promote, advance
+
+**区分：**
+- impede 比 prevent（阻止）弱 — 是"阻碍减慢"，不是"完全阻止"
+- impede vs hinder: hinder 偏"延迟/拖后腿"，impede 偏"造成障碍/阻塞"
+
+---
+
+## flighty
+
+**释义：** 反复无常的，轻浮的，善变的（指人不可靠、三心二意、难以专注）
+
+**词根：** flight（逃跑/飞走）+ -y（形容词后缀）= 像鸟一样容易飞走，注意力/感情随时飘走
+
+**场景：**
+- 评价性格善变/靠不住，三分钟热度
+- GRE填空与 fickle, capricious, mercurial, volatile 同向；与 steadfast, stable, constant, reliable 反向
+
+**画面：** 鸟刚落在肩膀上还没捂热，看到别的东西就扑棱飞走了——flighty 的人手握不住，心留不下。
+
+**Synonyms:** fickle, capricious, mercurial, volatile, giddy, frivolous, inconstant
+**Antonyms:** steadfast, constant, reliable, stable, steady, resolute
+
+**区分：**
+- flighty vs capricious: flighty 偏"专注力差/三心二意"（被动飘忽），capricious 偏"任性/随心所欲"（主动想变就变）
+- flighty vs mercurial: mercurial 善变+情绪剧烈波动，flighty 只是轻浮靠不住
+- flighty vs fickle: 几乎同义，fickle 更常用感情，flighty 更常用兴趣/专注力
+
+---
+
+## chauvinistic
+
+**释义：** 沙文主义的，盲目爱国的，本性别至上主义的
+
+**词根：** 源自法国士兵 Nicolas Chauvin，对拿破仑极度狂热忠诚成为笑柄→名字成了"盲目狂热爱国者"的代名词
+
+**场景：**
+- 性别语境：male chauvinist = 大男子主义，认为男性天生优于女性
+- 民族/国家语境：chauvinistic patriotism = 不讲理的"我的国家永远对"，不同于健康的 patriotism
+- GRE填空：永远是负面词，暗示盲目/不理性/排外
+
+**画面：** 餐桌上一桌人聊女同事升职，他哼一声："那位置该给男人的。"
+
+**Synonyms:** jingoistic, bigoted, xenophobic, partisan, doctrinaire, narrow-minded
+**Antonyms:** cosmopolitan, open-minded, tolerant, egalitarian
+
+**区分：**
+- chauvinistic vs patriotic: patriotic = 健康的爱国（中立），chauvinistic = 狂热的排外的爱国（负面）
+- chauvinistic vs jingoistic: 几乎同义，jingoistic 特指好战的极端民族主义，chauvinistic 范围更广（性别/种族/国家）
+- chauvinistic vs sexist: sexist 侧重歧视行为，chauvinistic 侧重"本性别天生优越"的信念体系
+
+---
+
+## megalomaniacal
+
+**释义：** 妄自尊大的，权力狂的，自大狂的（对权力、地位、重要性有非理性执念）
+
+**词根：** 希腊语 megalo-（巨大的）+ mania（狂热/疯狂）= "对巨大的执念"。同根词：megalomania (n.), megalopolis (n.), megalith (n.), mania (n.), maniac (n.)
+
+**场景：**
+- 政治/历史人物描写：独裁者/暴君权力妄想
+- 商界/学界讽刺：野心膨胀到病态的人
+- GRE填空：与 egotistical, grandiose, delusional 同向；与 humble, modest, unassuming 反向
+
+**画面：** 办公室挂着十幅同一人的肖像——都是他自己挂的。站在落地窗前指着山的另一边说："那片也很快就会是我的了。"
+
+**Synonyms:** egomaniacal, grandiose, delusional, arrogant, pompous, imperious, overweening
+**Antonyms:** humble, modest, unassuming, self-effacing, meek
+
+**区分：**
+- megalomaniacal vs narcissistic: narcissistic = 觉得自己完美迷人（自我欣赏），megalomaniacal = 觉得自己该拥有无限权力（权力妄想）
+- megalomaniacal vs arrogant: arrogant 只是傲慢（程度轻），megalomaniacal 是病态非理性的权力欲望（临床级）
+|- megalomaniacal vs egotistical: egotistical 以自我为中心（谈自己多），megalomaniacal 认为自己该统治一切（权力妄想）
+
+---
+
+## long-winded
+
+**释义：** 冗长啰嗦的，讲话/写作拖沓的（绕来绕去说不到重点）
+
+**词根：** long（长）+ wind（呼吸/气）= "一口气能说很长"但让人听不下去
+
+**场景：**
+- 批评写作风格：文章/演讲冗长赘述
+- GRE对比题高频：与 concise, succinct, terse, pithy, laconic 标准反义对立
+- 形容人：a long-winded speaker 啰嗦的演讲者
+
+**画面：** 教授问学生几点了，学生开始讲钟表史、瑞士制表工艺……教授打断："我问的是时间。"
+
+**Synonyms:** verbose, wordy, prolix, garrulous, loquacious, discursive, rambling
+**Antonyms:** concise, succinct, terse, pithy, laconic, brief, curt
+
+**区分（GRE同义辨析）：**
+- long-winded: 啰嗦让人失去耐心
+- verbose: 用词过多有水分
+- prolix: 过度详细每个细节都写
+- garrulous: 爱闲聊没完没了（形容人）
+- loquacious: 话多（中性偏负面）
+- discursive: 偏离主题东拉西扯
+
+---
+
+## instigate
+
+**释义：** 煽动，唆使，挑起（尤其负面行为/事件）
+
+**词根：** 拉丁语 instigare（刺激/驱使）= in-（进入）+ stigare（刺/驱使）。同根词：stigma（耻辱的烙印）, sting（刺）, distinguish（区分）
+
+**场景：**
+- 几乎永远负面——煽动别人干坏事/挑衅
+- 常接：riot, rebellion, quarrel, conflict, violence
+- instigate a fight 挑事打架
+
+**画面：** 一个人从背后推了另一个人的后背，把他撞到别人身上——instigate 就是那只背后推手。
+
+**Synonyms:** incite, provoke, foment, stir up, spark, prompt, goad
+**Antonyms:** quell, suppress, pacify, deter, discourage, inhibit
+
+**区分：**
+- instigate vs incite: instigate 更强调密谋/背后策划，incite 更强调用言语煽动
+- instigate vs provoke: provoke 可以是正面（provoke thought），instigate 永远负面
+- instigate vs foment: foment 几乎只用于煽动叛乱/暴乱，instigate 范围更广
+
+---
+
+## malleable
+
+**释义：** 1. 可锻的，可延展的（物理）→ 2. 易受影响的，温顺的，可塑的（比喻义——GRE最常考）
+
+**词根：** 拉丁语 malleus（锤子）→ malleable = "可以用锤子敲打的"。同根词：malleus（锤骨）, mallet（木槌）
+
+**场景：**
+- GRE几乎永远考比喻义：性格/思想易被打造成任何形状
+- "Young children have malleable minds that are easily shaped by their environment."
+- "The dictator exploited the malleable populace."
+- GRE填空：与 impressionable, pliable, docile, tractable 同向；与 intransigent, obstinate, rigid, adamant 反向
+
+**画面：** 金子放在铁砧上，铁锤砸下去不变碎只是变扁——变成锤子想要的样子。malleable 的人也一样。
+
+**Synonyms（比喻义）:** pliable, pliant, docile, tractable, compliant, impressionable, yielding, adaptable
+**Antonyms:** intransigent, obstinate, stubborn, rigid, adamant, unyielding, obdurate
+
+**区分：**
+- malleable vs ductile: 物理上 malleable=锤成薄片，ductile=拉成细丝。比喻义中 malleable 更常用
+- malleable vs pliable: 几乎同义，malleable 暗含"被动接受外界塑造"更强
+- malleable vs compliant: compliant=主动顺从服从，malleable=被动可塑好捏
+- malleable vs impressionable: impressionable=容易被留下印象/被启发（中性偏正面），malleable=缺乏主见容易被操纵（偏负面）
+
+---
+
+## infringed /ɪnˈfrɪndʒd/
+
+**释义：** 侵犯，违反（法律、权利、协议等）
+
+**逻辑场景：** rights/patent/copyright/law 被 infringed → 某种边界或权利被越界践踏
+
+**搭配框架：**
+- infringe on/upon + [权利/领域/自由]
+- infringe + [法律/规则/专利/著作权]
+
+**例句：**
+> The company's patent was **infringed** by a competitor producing a nearly identical device.
+> 该公司专利被竞争对手侵犯，对方生产了几乎相同的设备。
+
+**画面感：** 穿过围栏上标着"禁止入内"的边界线——越界。
+
+**易混辨析：**
+- infringe: 侵犯权利/法律（抽象边界）
+- encroach: 逐步蚕食领土/空间（物理渐进）
+- violate: 违反规则/禁令（更强调违背）
+- transgress: 逾越道德/社会界限（更正式）
+
+---

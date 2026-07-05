@@ -619,3 +619,106 @@
 - D. persuade = 说服 ❌
 - E. perplex = 使困惑。词根：*per-*（彻底）+ *plex*（编织）→ 完全缠住 ✅
 - F. enlighten = 启发、启迪 ❌
+
+---
+
+## 5. 0704 · 张巍 test 6 s1 / test 10 s1 / test 11 s1 / test 30 s1 / test 31 s1
+
+**[Easy] [SE]** test 6 s1 #5
+> The company is so old-fashioned and opposed to innovation that it can seem downright [------].
+- ✅ antediluvian · archaic · ❌ flighty / chauvinistic / capricious / patronizing
+- 🚩 so... that... 因果结构
+- Logic breakdown: old-fashioned + opposed to innovation → 极度过时，所以 seem downright _____。填"古老的"同义词对。
+- 🚩信号词：so... that...（因果关系），downright（强调程度）
+
+**[Medium] [TC]** test 10 s1 #1
+> Because people expect theater directors to be authoritarians, many were surprised that Clark was so [------].
+- ✅ egalitarian · ❌ histrionic / megalomaniacal / indolent / charismatic
+- 🚩 转折对比：expect authoritarians → surprised
+- Logic breakdown: 预期是 authoritarian（专制的），但 surprise 提示相反 → egalitarian（平等主义的）
+
+**[Medium] [SE]** test 11 s1 #4
+> Well organized and researched and including all significant discoveries and medical scientists, this history of Western medicine has justly been called [------].
+- ✅ encyclopedic · exhaustive · ❌ long-winded / rambling / overbearing / undiscriminating
+- 🚩 同义复现：well organized + researched + including all significant discoveries → 全面性
+- Logic breakdown: 三个正面描述并列 → 总结为"全面详尽的"
+
+**[Hard] [SE]** test 30 s1 #4
+> Some have argued that naming scientific discoveries after the people who make them can [------] scientific progress, because the nomenclature lacks useful clarity, having no relationship to the underlying principles that govern nature.
+- ✅ hamper · impede · ❌ abet / instigate / obscure / nullify
+- 🚩 因果：nomenclature lacks clarity + no relationship to principles → 阻碍 progress
+- Logic breakdown: 命名不清晰、与原理无关 → 阻碍科学进步
+- nullify（使无效）程度过强，obscure（使模糊）≠ hinder
+
+**[Hard] [TC]** test 31 s1 #1
+> Many creative photographers were delighted to find in instant photography a mode that encouraged them to stop viewing photography as [------] and start viewing it as something they could handle with spontaneity, even derision.
+- ✅ sacrosanct · ❌ ephemeral / malleable / egalitarian / autonomous
+- 🚩 对比结构：stop viewing as _____ → start viewing as spontaneous, derision
+- Logic breakdown: spontaneous（随性随意）的反面 → 神圣不可侵犯的（sacrosanct）
+- ephemeral（短暂的）是常见陷阱 — spontaneity 的对立面不是"短暂"而是"不可随意触碰"
+
+**各词释义（按题顺序）：**
+
+**Q1:**
+- **A. antediluvian** ✅
+  **释义+词根** 极其古老的、过时的。ante-（前）+ diluvium（洪水）→ 大洪水前的
+  **GRE场景** 形容公司/技术/观念极度守旧，拒绝改变。常与 old-fashioned, obsolete 同现
+  > The company's antediluvian approach to technology left it far behind competitors.
+- **B. flighty** ❌ 轻浮的、反复无常的
+- **C. archaic** ✅
+  **释义+词根** 古老的、过时的。*archaios*（古老的，希腊语）
+  **GRE场景** 指语言用法/制度/工具已过时，比 old 正式。常与 outmoded, antiquated 同现
+  > The archaic filing system made it impossible to find any document quickly.
+- **D. chauvinistic** ❌ 沙文主义的、盲目爱国的
+- **E. capricious** ❌ 反复无常的、任性的。来自意大利语 *capriccio*（突发奇想）
+- **F. patronizing** ❌ 居高临下的、傲慢的
+
+**Q2:**
+- **A. histrionic** ❌ 做作的、戏剧化的
+- **B. megalomaniacal** ❌ 妄自尊大的
+- **C. egalitarian** ✅
+  **释义+词根** 平等主义的。*égal*（平等，法语）
+  **GRE场景** 与 authoritarian（专制的）构成经典反义对；常形容领导风格、社会制度、组织文化
+  > The new CEO's egalitarian approach was a welcome change from her predecessor's authoritarian style.
+- **D. indolent** ❌ 懒惰的
+- **E. charismatic** ❌ 有魅力的
+
+**Q3:**
+- **A. encyclopedic** ✅
+  **释义+词根** 百科全书式的、学识渊博的。*en-*（在内）+ *kyklos*（圆）+ *paideia*（教育）→ 全面教育
+  **GRE场景** 形容知识、著作、记忆的全面广博。常与 comprehensive, exhaustive 同向
+  > Her encyclopedic knowledge of art history made her an invaluable museum curator.
+- **B. long-winded** ❌ 冗长的
+- **C. exhaustive** ✅
+  **释义+词根** 详尽无遗的。*ex-*（出）+ *haurire*（抽、汲取）→ 抽干了，彻底完成
+  **GRE场景** 形容研究/搜索/分析的彻底全面，强调"不漏掉细节"。常与 thorough, meticulous 同现
+  > The detective conducted an exhaustive search of the crime scene, leaving no clue unexamined.
+- **D. rambling** ❌ 散漫的、东拉西扯的
+- **E. overbearing** ❌ 专横的、傲慢的
+- **F. undiscriminating** ❌ 不加区分的
+
+**Q4:**
+- **A. hamper** ✅
+  **释义+词根** 阻碍、妨碍。可能与古英语 *hamelian*（阻挠）有关
+  **GRE场景** 被动受阻（be hampered by...）；常接 progress, effort, communication。与 impede 为经典 SE 同义词对
+  > The lack of funding hampered the research team's ability to complete the study on time.
+- **B. abet** ❌ 怂恿、教唆（反义）
+- **C. instigate** ❌ 煽动、挑起（反义）
+- **D. obscure** ❌ 使模糊、使晦涩（不是"阻碍"）
+- **E. nullify** ❌ 使无效、抵消（程度过强）
+- **F. impede** ✅
+  **释义+词根** 阻碍、妨碍。*im-*（入）+ *pes*（脚）→ 绊住脚
+  **GRE场景** 与 hamper 同义，比 obstruct 抽象。常接 progress, development, movement
+  > Heavy bureaucracy impeded the implementation of the new policy.
+- 🚩 hamper / impede 是 GRE SE 高频同义词对，注意与 prevent（完全阻止）区分
+
+**Q5:**
+- **A. sacrosanct** ✅
+  **释义+词根** 神圣不可侵犯的。*sacer*（神圣）+ *sanctus*（圣洁）→ 双重神圣
+  **GRE场景** 形容不可挑战的原则/传统/信仰。常与 question, challenge, violate 构成否定搭配
+  > In academia, academic freedom is considered sacrosanct and not to be infringed upon.
+- **B. ephemeral** ❌ 短暂的、转瞬即逝的
+  **GRE场景** fame, beauty, joy 的常见修饰词；常与 fleeting, transient, momentary 同义（但本题不对）
+- **C. malleable** ❌ 可塑的、易受影响的
+- **D. egalitarian** ❌ 平等主义的
+- **E. autonomous** ❌ 自主的、自治的
