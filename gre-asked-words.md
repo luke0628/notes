@@ -1525,3 +1525,186 @@ vex, aggravate, gall
 
 **词源：** 来自拉丁语 periculum（危险）→ 同根：peril（危险）、perilous（充满危险的）、imperil（危及）
 **注意：** perilous ≠ dangerous 的平替——perilous 含"危机四伏随时可能出事"的紧迫感，程度比 dangerous 更重。
+
+---
+
+## prestige
+
+**释义：** 声望，威望，名望
+
+**词根：** 拉丁语 *praestigiae*（幻术/诱骗）→ 原义"令人眼花缭乱的表演"→ 引申为"名望/威信"
+
+**场景：**
+- 律师免费办案以 gain prestige → 名望帮助未来成功
+- 学术圈：prestigious university = 名牌大学
+- social prestige = 社会声望
+
+**Synonyms:** renown, acclaim, cachet, stature, eminence, kudos
+**Antonyms:** obscurity, notoriety (负面名气), infamy
+
+---
+
+## dissident
+
+**释义：** adj./n. 持不同意见的，持异议的；持不同政见者
+
+**词根：** *dis-*（分开）+ *sistere*（站立）→ 分开站 → 不站在同一立场
+
+**场景：**
+- 对权威/上级持异议的态度
+- political dissident = 持不同政见者（GRE阅读高频）
+- Marcus 和老板关系 dissident → 公然反对 boss
+
+**Synonyms:** dissenting, divergent, nonconformist, defiant, rebellious, opposing
+**Antonyms:** conformist, compliant, orthodox, docile, submissive
+
+---
+
+## sycophantic
+
+**释义：** 谄媚的，奉承的，拍马屁的
+
+**词根：** 希腊语 *sykophantes*（告密者）← *sykon*（无花果）+ *phainein*（显示）→ 字面"向人展示无花果"→ 告发走私无花果的人→ 引申为低下谄媚的人
+
+**场景：**
+- 对上级过度奉承的态度 — a sycophantic assistant who always agrees with the boss
+- 与 dissident（持异议）构成反义
+
+**Synonyms:** fawning, obsequious, servile, groveling, toadying, flattering
+**Antonyms:** forthright, independent, outspoken, dissident, assertive
+
+**区分：**
+- sycophantic = 为了私利而刻意奉承
+- obsequious = 顺从到卑微的（更偏态度卑躬屈膝）
+- servile = 奴隶般的（最贬义，丧失尊严）
+
+---
+
+## prosaic
+
+**释义：** 平庸的，枯燥乏味的，散文体的
+
+**词根：** 拉丁语 *prosa*（散文）← *proversa*（直白的语言）→ 像散文一样平铺直叙，缺乏诗意和想象力
+
+**场景：**
+- 说话/写作风格枯燥无味 — a prosaic writing style
+- 思想缺乏想象力 — his prosaic view of life
+- 日常/平凡 — the prosaic realities of daily life
+
+**Synonyms:** mundane, pedestrian, unimaginative, banal, commonplace, insipid, vapid
+**Antonyms:** imaginative, poetic, creative, inspired, eloquent, vivid
+
+**区分：**
+- prosaic vs pedestrian: 几乎同义，pedestrian 更偏"像步行一样缺乏激情"
+- prosaic vs mundane: mundane = 世俗的平凡的，中性；prosaic = 乏味的，贬义更强
+- prosaic vs insipid: insipid = 平淡无味（连味道都没有），prosaic = 像读散文一样枯燥
+
+---
+
+## inimical
+
+**释义：** 敌意的，有害的，不利的
+
+**词根：** 拉丁语 *inimicus*（敌人）← *in-*（不）+ *amicus*（朋友）→ 不是朋友
+
+**场景：**
+- 敌对关系 — an inimical relationship with the public
+- 条件不利 — conditions inimical to economic growth
+- 与 antagonistic 在 GRE SE 中作为同义词对出现
+
+**Synonyms:** hostile, antagonistic, adversarial, unfriendly, harmful, detrimental
+**Antonyms:** friendly, amicable, congenial, favorable, beneficial, propitious
+
+**GRE考点：** inimical 在 SE 常与 antagonistic / hostile 配对。Unlike hostile（明确敌对），inimical 语气更正式/文学化，可指"有害的/不利的"而不一定指人际敌意。
+
+---
+
+## sangfroid
+
+**释义：** 镇定，沉着，冷静（危险/压力下保持不动声色）
+
+**词根：** 法语 *sang*（血）+ *froid*（冷）→ 字面"冷血"→ 在压力下保持血液冷静
+
+**场景：**
+- 面对危险时的镇定 — remains imperturbable in face of danger → sangfroid
+- 金融市场崩盘中的冷静 — the trader's sangfroid during the crash saved the firm millions
+- 与 composure, equanimity, aplomb 同义
+
+**Synonyms:** composure, equanimity, aplomb, self-possession, poise, coolness
+**Antonyms:** panic, agitation, distress, perturbation, discomposure
+
+**GRE考点：** GRE 高频法语借词，常见于 TC 中描述镇定/沉着态度。
+
+---
+
+## percipience
+
+**释义：** 洞察力，感知力，认知能力
+
+**词根：** 拉丁语 *percipiens* ← *per-*（彻底）+ *capere*（抓取）→ 完全抓住 → 深入了解
+
+**场景：**
+- 敏锐的感知/洞察能力 — a critic of remarkable percipience
+- 与 perceptiveness 同义
+
+**Synonyms:** perceptiveness, discernment, insight, acumen, perspicacity, acuteness
+**Antonyms:** dullness, obtuseness, imperceptiveness
+
+**区分：**
+- percipience = 感知/洞察的**能力**
+- percipience vs perspicacity: perspicacity = 洞察的敏锐/犀利
+- percipience vs sagacity: sagacity = 智慧/判断力（更偏经验智慧）
+
+---
+
+## cachet
+
+**释义：** 声望，名望，高级别标志（某事物赋予的地位/尊贵感）
+
+**词根：** 法语 *cachet*（封印/印章）→ 盖上皇家封印 → 代表权威和档次
+
+**场景：**
+- 特定身份带来的尊贵 — the cachet of working on a Supreme Court case
+- 品牌/产品的 prestige 标志 — owning a Rolex carries a certain cachet
+- 常与 prestige 同义复现
+
+**Synonyms:** prestige, distinction, status, kudos, standing, clout
+**Antonyms:** disrepute, stigma, ignominy
+
+---
+
+## misadventures
+
+**释义：** 不幸的遭遇、倒霉事、历险记式的倒霉经历
+
+**词根：** mis-（坏的/错的）+ adventure（冒险）
+
+**场景：**
+- 旅行中的一连串倒霉事 — a series of misadventures, from missed flights to lost luggage
+- 带有喜剧/戏剧色彩的囧途 — comic misadventures（如电影"囧途"系列）
+- 讲述自己的倒霉经历 — recount one's misadventures
+
+**画面：** 出门旅行→订错票→错过车→钱包被偷→淋雨→酒店订错日期，整个过程一波三折
+
+**Synonyms:** mishap, misfortune, setback, accident, calamity
+**Antonyms:** success, triumph, fortune
+
+---
+
+## whimsical
+
+**释义：** 异想天开的、反复无常的、古怪有趣的（playful / charming）
+
+**词根：** whim（一时兴起的念头）+ -ical → 由 whim 驱动的
+
+**场景：**
+- 古怪有趣的设计/建筑 — whimsical architecture
+- 一时兴起的主意 — a whimsical notion to quit and travel
+- 反复无常的心情 — whimsical mood
+
+**画面：** 一个老头把自行车改成了会喷水的机械龙，在院子里追猫玩
+
+**同根词：** whim（名词：一时兴起），whimsy（名词：奇思妙想）
+**Synonyms:** fanciful, capricious, quirky, playful, eccentric
+**Antonyms:** practical, serious, predictable, mundane
+

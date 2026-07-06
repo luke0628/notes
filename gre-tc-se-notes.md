@@ -817,3 +817,82 @@
   **GRE场景** 常形容 statement, apology, concern — 表面说一套实际想另一套
   > The politician's expression of concern seemed disingenuous given his voting record.
 - 🚩 disingenuous 的反义词 ingenuous = 天真的、坦率的（不是 genius）
+
+---
+
+## 7. 0705 · 张巍 test 37 s1 / test 36 s2 / test 36 s1 / test 38 s2 / test 39 s1
+
+**[Easy] [TC]** test 37 s1 #1
+> Some ambitious lawyers are willing to work on Supreme Court cases without charge in an effort to gain [------]; they believe that this increased cachet will help them succeed in the future.
+- ✅ C. prestige · ❌ A. wisdom / B. certitude / D. integrity / E. humility
+- 🚩 同义复现：gain → increased cachet（声望/名望）= prestige
+- 💡 cachet = 名望、声望（与 blank 同义复现）
+
+**各词释义（按选项顺序）：**
+- A. wisdom = 智慧。词根：*wis-*（知道）→ 知道得多
+- B. certitude = 确信、确定性。词根：*cert-*（确定）→ certain 的名词形式
+- C. prestige = 声望、威望。词根：拉丁语 *praestigiae*（幻术/诱骗）→ 原义"令人眼花缭乱的表演"→ 引申为"名望/威信" ✅
+- D. integrity = 正直、诚实。词根：*in-*（不）+ *tangere*（碰）→ 未被触碰→完整→正直
+- E. humility = 谦逊。词根：*humus*（泥土）→ 脚踏实地→谦逊
+
+---
+
+**[Medium] [TC]** test 36 s2 #1
+> Having regarded Marcus's relationship to their boss as entirely [------], Jo was flabbergasted when Marcus publicly made clear his objections to some changes the boss was introducing.
+- ✅ D. dissident · ❌ A. professional / B. sycophantic / C. prosaic / E. collegial
+- 🚩 转折逻辑：Jo 原本以为关系是 dissident（持反对意见的）→ 但 Marcus **公开**表达反对时 Jo 仍 flabbergasted（震惊）→ 惊讶点在**公开化的程度**超出预期
+- 💡 本题较绕，理解关键：had regarded...as entirely dissident = Jo 过去（错误地）自以为对 Marcus 和老板的关系了如指掌，以为他们"完全是对抗关系"→ 但实际上 Jo 低估了 Marcus 的对抗程度——当 Marcus 公然在公开场合直接反对老板时，Jo 才意识到这比她想得更严重。
+
+**各词释义（按选项顺序）：**
+- A. professional = 职业的、专业的。不构成翻转逻辑 ❌
+- B. sycophantic = 谄媚的、奉承的。词根：*sykophantes*（告密者）→ 如果关系是谄媚的，Marcus 公开反对就完全反转 ❌
+- C. prosaic = 平庸的、枯燥的。词根：*prosa*（散文）→ 像散文一样平铺直叙
+- D. dissident = 持不同意见的、反对的。词根：*dis-*（分开）+ *sistere*（站立）→ 分开站→持异议 ✅
+- E. collegial = 同事间的、友好的。词根：*col-*（一起）+ *leg-*（选派）→ 被选在一起的人
+
+---
+
+**[Medium] [SE]** test 36 s1 #5
+> Many people remember a time when cutting-edge architects, who are these days treated like celebrities, had [------] relationship with the public: for much of the 1960s, big new buildings in cities were often cause for hostility, not celebration.
+- ✅ A. an antagonistic + B. an inimical · ❌ C. autocratic / D. symbiotic / E. indifferent / F. apathetic
+- 🚩 冒号解释关系：hostility, not celebration → 敌对的 → antagonistic = inimical
+
+**各词释义（按选项顺序）：**
+- A. antagonistic = 敌对的、对抗性的。词根：*anti-*（反对）+ *agon*（竞赛）→ 与之斗争 ✅
+- B. inimical = 敌意的、有害的。词根：拉丁语 *inimicus*（敌人）← *in-*（不）+ *amicus*（朋友）→ 不是朋友 ✅
+- C. autocratic = 独裁的、专制的。词根：*auto-*（自己）+ *kratos*（统治）→ 自己统治
+- D. symbiotic = 共生的、互利的。词根：*sym-*（一起）+ *bios*（生命）→ 一起生活 → 与 hostility 方向相反 ❌
+- E. indifferent = 漠不关心的。词根：*in-*（不）+ *differre*（区别于）→ 没区别→不在乎
+- F. apathetic = 冷漠的、无动于衷的。词根：*a-*（无）+ *pathos*（感情）→ 没感情
+- 💡 indifferent / apathetic 是"冷漠不关心"而非"敌对"，与 hostility 不完全对应 ❌
+
+---
+
+**[Hard] [TC]** test 38 s2 #1
+> In the final scene of the movie, the character exhibits an almost unbelievable [------], remaining imperturbable in the face of intense and immediate physical danger.
+- ✅ D. sangfroid · ❌ A. cunning / B. endurance / C. arrogance / E. percipience
+- 🚩 同位语解释：remaining imperturbable（保持镇定）→ blank = 镇定/沉着
+
+**各词释义（按选项顺序）：**
+- A. cunning = 狡猾、狡猾。词根：古英语 *cunnan*（知道/会）→ 知道怎么算计人
+- B. endurance = 忍耐力。词根：*en-*（使）+ *durus*（硬/持久）→ 使持久
+- C. arrogance = 傲慢。词根：*ad-*（向）+ *rogare*（要求）→ 向别人无礼要求
+- D. sangfroid = 镇定、沉着（法语，字面"冷血"）。法语 *sang*（血）+ *froid*（冷）→ 冷静沉着 ✅
+- E. percipience = 洞察力、感知力。词根：*per-*（彻底）+ *cipere*（抓）→ 完全抓住
+- 💡 sangfroid 是法语借词，GRE 高频词。与 composure、equanimity、aplomb 同义。
+
+---
+
+**[Hard] [SE]** test 39 s1 #4
+> Despite the general [------] of Roman archaeological studies toward the major cities and their monuments, archaeology has contributed much to a better understanding of rural developments in Roman territory.
+- ✅ E. bias + F. orientation · ❌ A. openness / B. indifference / C. hostility / D. animus
+- 🚩 Despite 转折：despite 倾向大城市 → 实际贡献了乡村理解 → blank = 偏向/倾向
+
+**各词释义（按选项顺序）：**
+- A. openness = 开放性 → 与 toward major cities 搭配但逻辑不通（openness toward = 对…开放 → 那就不会忽视乡村）❌
+- B. indifference = 漠不关心 → indifference toward 说得通 ✓ 但 Despite 后面不应该接 indifference（无倾向不构成转折）
+- C. hostility = 敌意 → hostility toward 说得通 ✓ 但考古学不可能对大城市有敌意
+- D. animus = 敌意、恶意 → 同上 ❌
+- E. bias = 偏向、偏好。词根：希腊语 *bios*（生命）→ 偏向生命→偏见/偏好 ✅
+- F. orientation = 倾向、方向。词根：*oriri*（升起）→ 朝向东方→定位/倾向 ✅
+- 💡 bias toward = 偏向/倾向于某方向；orientation toward = 以…为导向。两个词在这里都是"倾向于研究大城市"的意思。indifference 不能接 toward（一般说 indifference to）+ 语义上"尽管对大城市冷漠"也不构成好的转折（冷漠并不会阻碍理解乡村）。
