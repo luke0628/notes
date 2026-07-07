@@ -1708,3 +1708,64 @@ vex, aggravate, gall
 **Synonyms:** fanciful, capricious, quirky, playful, eccentric
 **Antonyms:** practical, serious, predictable, mundane
 
+---
+
+## reprobate
+
+**释义：** 堕落的人、道德败坏者；放荡不羁的人
+
+**词根：** re-（回/反）+ probate（probe「测试检验」→ probus「正直的」）。字面「背离正直的人」。
+
+**场景：**
+- 弃义背德、死不悔改的人——reprobate 的核心是做了坏事且不以为耻
+- 顽固的罪人，多见于宗教/道德语境
+- 文学/老派用法：a reprobate scoundrel
+
+**画面：** A reprobate dies meeting his maker, and all he can say is "took you long enough."
+
+**Synonyms:** degenerate, miscreant, scoundrel, roué, depraved
+**Antonyms:** virtuous, righteous, upright, saintly
+
+**GRE考点：**
+- 常考名词含义，不考adj/动词
+- 题眼信号词：without remorse, unrepentant, depraved
+- 反义对立词：ascetic（苦行者）, philanthropist（慈善家）, altruist（利他者）
+- 易混：profligate（挥霍放荡，侧重浪费+放纵）
+
+---
+
+## apprise
+
+**释义：** 通知、告知（正式用语）
+
+**词根：** a-（向）+ prise（抓住、理解，源自法语 prendre「取」）。字面「使抓住」→ 使了解。
+
+**场景：**
+- 正式/书面语中告知某人某事，搭配 apprise sb of sth
+- 常见于公文汇报：Please keep me apprised of any developments.
+- GRE SE题中常与 appraise 互为拼写干扰项
+
+**画面：** A spy whispers to his handler: "I have been apprised of the target's location."
+
+**Synonyms:** inform, notify, acquaint, advise
+**Antonyms:** conceal, withhold, keep in the dark
+
+**区分：**
+- appri**s**e = 通知（s像say——说话告知）
+- apprai**s**e = 评估（ai像aim——瞄准价值）
+- apprise更正式，有「持续通报」语感；notify偏官方通知
+
+---
+
+## apprise vs. appraise — GRE易混词对比
+
+| 角度 | apprise | appraise |
+|---|---|---|
+| 含义 | 通知、告知 | 评估、估价 |
+| 记忆法 | **s**像say→说话告知 | **ai**像aim→瞄准价值 |
+| 搭配 | apprise sb **of** sth | appraise sth |
+| 词源 | 法语prendre「取」 | 拉丁语appretiare「定价」 |
+| GRE角色 | SE填空/同义替换 | 阅读/填空「评估价值」 |
+
+GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。看到 value, worth, assess 线索 → 选 appraise。
+
