@@ -1769,6 +1769,3 @@ vex, aggravate, gall
 
 GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。看到 value, worth, assess 线索 → 选 appraise。
 
-
----
-Last synced: 2026-07-09 10:55 PDT
