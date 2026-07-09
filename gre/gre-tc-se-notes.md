@@ -538,4 +538,361 @@
 - B. insular = 狭隘封闭的（像岛屿一样隔绝）。词根：*insula*（岛）。paradox → 与 cosmopolitan 完美对立 ✅
 - C. mercenary = 唯利是图的
 - D. idealistic = 理想主义的
-- E. intransigent = 不妥协的。与题意不符
+|- E. intransigent = 不妥协的。与题意不符
+
+---
+
+## 8. 0703 · 张巍 test 16 s1 + test 16 s2 + test 15 s1 + test 27 s2
+
+**[Easy] [TC]** test 16 s1 #1
+> Though humanitarian emergencies are frequent features of television news, such exposure seldom [------] the public, which rather seems resigned to a sense of impotency.
+- ✅ D. galvanizes
+- 🚩 resigned to a sense of impotency（听天由命）→ 很少激发行动
+- galvanize = 激励、刺激（使采取行动）
+- paralyze/demoralize/exasperate 都是负面方向，但公众本来已 impotent，问题不是"很少打击"而是"很少激发"
+
+**各词释义（按选项顺序）：**
+- A. paralyzes = 使瘫痪。词根：*para-*（旁）+ *lysis*（松解）→ 瘫在一边
+- B. demoralizes = 使气馁。词根：*de-*（去掉）+ *moral*（士气）
+- C. assuages = 缓解、平息
+- D. galvanizes = 激励、刺激（像电流一样激发行动）。词根：来自 Luigi Galvani（发现生物电的科学家）→ 通电后弹起 ✅
+- E. exasperates = 激怒、使恶化
+
+**[Medium] [SE]** test 16 s2 #1
+> The theory that the 1908 Tunguska event was the explosion of a cosmic body in the sky over Siberia is [------]: no one has yet found fragments of the object or any impact craters in the affected region.
+- ✅ E. unproven + F. speculative
+- 🚩 : 解释关系 → no fragments, no craters → 没有证据
+- unproven = 未经证实的 · speculative = 推测性的（同义词对）✅
+
+**各词释义（按选项顺序）：**
+- A. long-standing = 由来已久的 ❌
+- B. indisputable = 无可争辩的 ❌
+- C. plausible = 看似合理的 ❌
+- D. uncontested = 无争议的 ❌
+- E. unproven = 未经证实的。词根：*un-*（不）+ *prove*（证明）✅
+- F. speculative = 推测性的。词根：*spec-*（看）→ specula（瞭望台）→ 凭观察推测 ✅
+
+**[Medium] [TC]** test 15 s1 #1
+> There is [------] in the director's most recent film that keeps the melodramatic possibilities latent in its script safely at bay.
+- ✅ C. an austerity
+- 🚩 keeps the melodramatic possibilities at bay（压抑住了情节剧的可能）→ 电影风格是克制的/简约的
+- austerity = 朴素、克制、简约。mawkishness（多愁善感）、predictability（可预测）、ostentatiousness（炫耀）、emotiveness（情绪化）都跟 keep melodramatic at bay 矛盾
+- 💡 at bay = 使无法靠近/抑制住
+
+**各词释义（按选项顺序）：**
+- A. mawkishness = 多愁善感的、矫情的 ❌
+- B. predictability = 可预测性 ❌
+- C. austerity = 简朴、克制。词根：*austere*（严峻的/简朴的）→ 对应 keep at bay ✅
+- D. ostentatiousness = 炫耀、铺张 ❌
+- E. emotiveness = 情绪化 ❌
+
+**[Hard] [SE]** test 27 s2 #4
+> The Chavez Pass archaeological site was initially interpreted as indicative of [------] society, since it was thought to have been at the center of a cluster of smaller, contemporary settlements that it presumably controlled.
+- ✅ B. a hierarchical + F. a stratified · ❌ D. diverse + E. heterogeneous
+- 🚩 at the center → cluster of smaller settlements → controlled → 等级制社会（中心控制外围）
+- hierarchical = 等级制的 · stratified = 分层级的（同义词对）✅
+- diverse/heterogeneous = 多样的/异质的 → 与"中心控制外围"逻辑无关 ❌
+
+**各词释义（按选项顺序）：**
+- A. expansionist = 扩张主义的。与题意不符
+- B. hierarchical = 等级制的。词根：*hier-*（神圣）+ *arch-*（统治）→ 圣职等级制度 ✅
+- C. urban = 城市的。与题意不符
+- D. heterogeneous = 异质的。词根：*hetero-*（不同）+ *gen-*（种类）
+- E. diverse = 多样的
+- F. stratified = 分层级的。词根：*stratum*（层）→ 社会分层 ✅
+
+**[Hard] [SE]** test 27 s2 #5
+> Although the essayist's arguments did not [------] her most perceptive readers, the extreme subtlety of **the paints she made** explains why she was misinterpreted by most critics of her day.
+- ✅ B. confound + E. perplex · ❌ D. persuade + F. enlighten
+- 🚩 although（↔️转折）→ **两个层面**：arguments（文字论证）vs paints（绘画作品）
+  - 敏锐读者：能读懂她的文字 arguments → 没有被困惑
+  - 评论家：只看她的绘画（too subtle）→ 误解了
+  - 虽然文字上 she was clear enough，但绘画太微妙 → 评论家看不懂
+- confound = 使困惑 · perplex = 使困惑（同义词对）✅
+- persuade/enlighten = 说服/启发 — 如果敏锐读者被说服了，矛盾集中在评论家误解，但转折仍然成立（文字说服 vs 绘画误导），但不如 confound+perplex 精准 ❌
+- ⚠️ 注意原文是 **paints**（绘画），**不是 points（观点）**！两个不同载体
+
+**各词释义（按选项顺序）：**
+- A. convince = 说服 ❌
+- B. confound = 使困惑、使混淆。词根：*com-*（一起）+ *fundere*（倒）→ 混在一起分不清 ✅
+- C. entertain = 娱乐；怀有（想法）❌
+- D. persuade = 说服 ❌
+- E. perplex = 使困惑。词根：*per-*（彻底）+ *plex*（编织）→ 完全缠住 ✅
+- F. enlighten = 启发、启迪 ❌
+
+---
+
+## 5. 0704 · 张巍 test 6 s1 / test 10 s1 / test 11 s1 / test 30 s1 / test 31 s1
+
+**[Easy] [SE]** test 6 s1 #5
+> The company is so old-fashioned and opposed to innovation that it can seem downright [------].
+- ✅ antediluvian · archaic · ❌ flighty / chauvinistic / capricious / patronizing
+- 🚩 so... that... 因果结构
+- Logic breakdown: old-fashioned + opposed to innovation → 极度过时，所以 seem downright _____。填"古老的"同义词对。
+- 🚩信号词：so... that...（因果关系），downright（强调程度）
+
+**[Medium] [TC]** test 10 s1 #1
+> Because people expect theater directors to be authoritarians, many were surprised that Clark was so [------].
+- ✅ egalitarian · ❌ histrionic / megalomaniacal / indolent / charismatic
+- 🚩 转折对比：expect authoritarians → surprised
+- Logic breakdown: 预期是 authoritarian（专制的），但 surprise 提示相反 → egalitarian（平等主义的）
+
+**[Medium] [SE]** test 11 s1 #4
+> Well organized and researched and including all significant discoveries and medical scientists, this history of Western medicine has justly been called [------].
+- ✅ encyclopedic · exhaustive · ❌ long-winded / rambling / overbearing / undiscriminating
+- 🚩 同义复现：well organized + researched + including all significant discoveries → 全面性
+- Logic breakdown: 三个正面描述并列 → 总结为"全面详尽的"
+
+**[Hard] [SE]** test 30 s1 #4
+> Some have argued that naming scientific discoveries after the people who make them can [------] scientific progress, because the nomenclature lacks useful clarity, having no relationship to the underlying principles that govern nature.
+- ✅ hamper · impede · ❌ abet / instigate / obscure / nullify
+- 🚩 因果：nomenclature lacks clarity + no relationship to principles → 阻碍 progress
+- Logic breakdown: 命名不清晰、与原理无关 → 阻碍科学进步
+- nullify（使无效）程度过强，obscure（使模糊）≠ hinder
+
+**[Hard] [TC]** test 31 s1 #1
+> Many creative photographers were delighted to find in instant photography a mode that encouraged them to stop viewing photography as [------] and start viewing it as something they could handle with spontaneity, even derision.
+- ✅ sacrosanct · ❌ ephemeral / malleable / egalitarian / autonomous
+- 🚩 对比结构：stop viewing as _____ → start viewing as spontaneous, derision
+- Logic breakdown: spontaneous（随性随意）的反面 → 神圣不可侵犯的（sacrosanct）
+- ephemeral（短暂的）是常见陷阱 — spontaneity 的对立面不是"短暂"而是"不可随意触碰"
+
+**各词释义（按题顺序）：**
+
+**Q1:**
+- **A. antediluvian** ✅
+  **释义+词根** 极其古老的、过时的。ante-（前）+ diluvium（洪水）→ 大洪水前的
+  **GRE场景** 形容公司/技术/观念极度守旧，拒绝改变。常与 old-fashioned, obsolete 同现
+  > The company's antediluvian approach to technology left it far behind competitors.
+- **B. flighty** ❌ 轻浮的、反复无常的
+- **C. archaic** ✅
+  **释义+词根** 古老的、过时的。*archaios*（古老的，希腊语）
+  **GRE场景** 指语言用法/制度/工具已过时，比 old 正式。常与 outmoded, antiquated 同现
+  > The archaic filing system made it impossible to find any document quickly.
+- **D. chauvinistic** ❌ 沙文主义的、盲目爱国的
+- **E. capricious** ❌ 反复无常的、任性的。来自意大利语 *capriccio*（突发奇想）
+- **F. patronizing** ❌ 居高临下的、傲慢的
+
+**Q2:**
+- **A. histrionic** ❌ 做作的、戏剧化的
+- **B. megalomaniacal** ❌ 妄自尊大的
+- **C. egalitarian** ✅
+  **释义+词根** 平等主义的。*égal*（平等，法语）
+  **GRE场景** 与 authoritarian（专制的）构成经典反义对；常形容领导风格、社会制度、组织文化
+  > The new CEO's egalitarian approach was a welcome change from her predecessor's authoritarian style.
+- **D. indolent** ❌ 懒惰的
+- **E. charismatic** ❌ 有魅力的
+
+**Q3:**
+- **A. encyclopedic** ✅
+  **释义+词根** 百科全书式的、学识渊博的。*en-*（在内）+ *kyklos*（圆）+ *paideia*（教育）→ 全面教育
+  **GRE场景** 形容知识、著作、记忆的全面广博。常与 comprehensive, exhaustive 同向
+  > Her encyclopedic knowledge of art history made her an invaluable museum curator.
+- **B. long-winded** ❌ 冗长的
+- **C. exhaustive** ✅
+  **释义+词根** 详尽无遗的。*ex-*（出）+ *haurire*（抽、汲取）→ 抽干了，彻底完成
+  **GRE场景** 形容研究/搜索/分析的彻底全面，强调"不漏掉细节"。常与 thorough, meticulous 同现
+  > The detective conducted an exhaustive search of the crime scene, leaving no clue unexamined.
+- **D. rambling** ❌ 散漫的、东拉西扯的
+- **E. overbearing** ❌ 专横的、傲慢的
+- **F. undiscriminating** ❌ 不加区分的
+
+**Q4:**
+- **A. hamper** ✅
+  **释义+词根** 阻碍、妨碍。可能与古英语 *hamelian*（阻挠）有关
+  **GRE场景** 被动受阻（be hampered by...）；常接 progress, effort, communication。与 impede 为经典 SE 同义词对
+  > The lack of funding hampered the research team's ability to complete the study on time.
+- **B. abet** ❌ 怂恿、教唆（反义）
+- **C. instigate** ❌ 煽动、挑起（反义）
+- **D. obscure** ❌ 使模糊、使晦涩（不是"阻碍"）
+- **E. nullify** ❌ 使无效、抵消（程度过强）
+- **F. impede** ✅
+  **释义+词根** 阻碍、妨碍。*im-*（入）+ *pes*（脚）→ 绊住脚
+  **GRE场景** 与 hamper 同义，比 obstruct 抽象。常接 progress, development, movement
+  > Heavy bureaucracy impeded the implementation of the new policy.
+- 🚩 hamper / impede 是 GRE SE 高频同义词对，注意与 prevent（完全阻止）区分
+
+**Q5:**
+- **A. sacrosanct** ✅
+  **释义+词根** 神圣不可侵犯的。*sacer*（神圣）+ *sanctus*（圣洁）→ 双重神圣
+  **GRE场景** 形容不可挑战的原则/传统/信仰。常与 question, challenge, violate 构成否定搭配
+  > In academia, academic freedom is considered sacrosanct and not to be infringed upon.
+- **B. ephemeral** ❌ 短暂的、转瞬即逝的
+  **GRE场景** fame, beauty, joy 的常见修饰词；常与 fleeting, transient, momentary 同义（但本题不对）
+- **C. malleable** ❌ 可塑的、易受影响的
+- **D. egalitarian** ❌ 平等主义的
+- **E. autonomous** ❌ 自主的、自治的
+
+---
+
+## 6. 0704b · 张巍 test 2 s1 / test 12 s1 / test 33 s1 / test 34 s1
+
+**[Easy] [TC]** test 2 s1 #1
+> We often regard natural phenomena like rainfall as mysterious and unpredictable; although for short time spans and particular places they appear so, in fact on a truly global scale, nature has been a model of [------].
+- ✅ reliability · ❌ diversity / complexity / plasticity / discontinuity
+- 🚩 although 转折：看似 unpredictable → 实则 reliable
+- Logic breakdown: mysterious + unpredictable（短期/局部）→ although 转折 → 全球尺度上是相反的 → reliability（可靠性）
+
+**[Medium] [TC]** test 12 s1 #1
+> Blake's reputation for weakness is [------]: almost all who have worked with him say he is a disciplined, intellectually formidable, and very tough politician.
+- ✅ specious · ❌ pervasive / irreversible / trivial / ambivalent
+- 🚩 冒号解释说明：后半句描述实际为 disciplined + tough → reputation 是假的
+- Logic breakdown: reputation for weakness 与实际（disciplined, formidable, tough）矛盾 → 这个 reputation 是 specious（似是而非的）
+
+**[Medium] [SE]** test 12 s1 #6
+> Anne Carson's book Nox is, very deliberately, [------] literary object—the opposite of an e-reader, which is designed to vanish in your palm as you read on a train.
+- ✅ cumbersome · unwieldy · ❌ evanescent / immutable / ephemeral / flexible
+- 🚩 opposite of "vanish in your palm" → 笨重不便于携带
+- Logic breakdown: opposite of 轻便（vanish in your palm）→ 笨重的
+
+**[Hard] [TC]** test 33 s1 #1
+> The maps in this volume are meant not as guides but as [------]: they are designed to make the reader think anew about the city.
+- ✅ provocations · ❌ adornments / references / truisms / valedictions
+- 🚩 not X but Y 对比 + 冒号解释：make reader think anew
+- Logic breakdown: not as guides（不是引导）→ but as _____ that makes you think anew → provocations（引发思考的东西）
+
+**[Hard] [TC]** test 34 s1 #1
+> The science community's perennial lament over inadequate budgets has come to seem increasingly [------], because government support for science and engineering has never been greater.
+- ✅ disingenuous · ❌ vital / hopeless / poignant / condescending
+- 🚩 because 因果：support has never been greater → lament 不真诚
+- Logic breakdown: lament（抱怨）budgets inadequate → 实际 support 空前大 → 抱怨是虚伪的/不真诚的
+
+**各词释义（按题顺序）：**
+
+**Q1:**
+- **A. reliability** ✅
+  **释义+词根** 可靠性。rely（依赖）+ ability（能力）→ 可依赖的性质
+  **GRE场景** 与 unpredictable 构成反义对；常形容 data, source, measure 的可信赖度
+  > The reliability of the experimental results was confirmed through repeated trials.
+- **B. diversity** ❌ 多样性
+- **C. complexity** ❌ 复杂性
+- **D. plasticity** ❌ 可塑性
+- **E. discontinuity** ❌ 不连续性
+
+**Q2:**
+- **A. specious** ✅
+  **释义+词根** 似是而非的、外表好看的但实际不成立的。*speci-*（看起来）→ 看起来对但实际不对
+  **GRE场景** 常形容 argument, claim, reasoning, reputation — 表面上看合理但有根本缺陷
+  > The lawyer's specious argument sounded convincing but collapsed under scrutiny.
+- **B. pervasive** ❌ 普遍的、渗透的
+- **C. irreversible** ❌ 不可逆的
+- **D. trivial** ❌ 琐碎的
+- **E. ambivalent** ❌ 矛盾的（指情绪的复杂混合）
+
+**Q3:**
+- **A. evanescent** ❌ 转瞬即逝的
+  **GRE场景** 常形容 beauty, memory, light — 短暂易逝（但本题需要的是 vanish 的反面）
+- **B. cumbersome** ✅
+  **释义+词根** 笨重的、累赘的。cumber（阻碍）+ some（有…性质）→ 碍手碍脚的
+  **GRE场景** 形容设备/流程/制度过于庞大复杂难以处理；常与 unwieldy 同义
+  > The cumbersome bureaucratic process delayed the project by months.
+- **C. immutable** ❌ 不变的
+- **D. unwieldy** ✅
+  **释义+词根** 笨拙的、不易操作的。un-（不）+ wieldy（易操作的）
+  **GRE场景** 常形容物体太庞大不好拿、系统太复杂不好管理；与 cumbersome 为经典 SE 同义词对
+  > The unwieldy equipment required three people just to move it across the room.
+- **E. ephemeral** ❌ 短暂的（与 evanescent 同义）
+- **F. flexible** ❌ 灵活的
+- 🚩 cumbersome / unwieldy 是高频 SE 同义词对，表示"笨重不便于操作"
+
+**Q4:**
+- **A. adornments** ❌ 装饰品
+- **B. references** ❌ 参考、引用（与 guides 同向）
+- **C. truisms** ❌ 老生常谈、不言而喻的道理
+  **GRE场景** 常用来反驳的观点 — "that's just a truism" ⚠️ 但不是本题答案
+- **D. provocations** ✅
+  **释义+词根** 挑衅、激发思考的事物。pro-（向前）+ vocare（呼叫）→ 叫出来、激起反应
+  **GRE场景** 中性偏正面义 — 激发思考/反应/讨论。provocative 为其形容词形式
+  > The artist's work was intended as a provocation, challenging viewers to question their assumptions.
+- **E. valedictions** ❌ 告别辞、告别
+
+**Q5:**
+- **A. vital** ❌ 至关重要的
+- **B. hopeless** ❌ 绝望的
+- **C. poignant** ❌ 深刻的、辛酸的
+  **GRE场景** 形容记忆/故事/描写生动触动人 👈 但与本题逻辑不符
+- **D. condescending** ❌ 居高临下的
+- **E. disingenuous** ✅
+  **释义+词根** 不真诚的、虚伪的。dis-（不）+ ingenuous（真诚的、天真的）
+  **GRE场景** 常形容 statement, apology, concern — 表面说一套实际想另一套
+  > The politician's expression of concern seemed disingenuous given his voting record.
+- 🚩 disingenuous 的反义词 ingenuous = 天真的、坦率的（不是 genius）
+
+---
+
+## 7. 0705 · 张巍 test 37 s1 / test 36 s2 / test 36 s1 / test 38 s2 / test 39 s1
+
+**[Easy] [TC]** test 37 s1 #1
+> Some ambitious lawyers are willing to work on Supreme Court cases without charge in an effort to gain [------]; they believe that this increased cachet will help them succeed in the future.
+- ✅ C. prestige · ❌ A. wisdom / B. certitude / D. integrity / E. humility
+- 🚩 同义复现：gain → increased cachet（声望/名望）= prestige
+- 💡 cachet = 名望、声望（与 blank 同义复现）
+
+**各词释义（按选项顺序）：**
+- A. wisdom = 智慧。词根：*wis-*（知道）→ 知道得多
+- B. certitude = 确信、确定性。词根：*cert-*（确定）→ certain 的名词形式
+- C. prestige = 声望、威望。词根：拉丁语 *praestigiae*（幻术/诱骗）→ 原义"令人眼花缭乱的表演"→ 引申为"名望/威信" ✅
+- D. integrity = 正直、诚实。词根：*in-*（不）+ *tangere*（碰）→ 未被触碰→完整→正直
+- E. humility = 谦逊。词根：*humus*（泥土）→ 脚踏实地→谦逊
+
+---
+
+**[Medium] [TC]** test 36 s2 #1
+> Having regarded Marcus's relationship to their boss as entirely [------], Jo was flabbergasted when Marcus publicly made clear his objections to some changes the boss was introducing.
+- ✅ D. dissident · ❌ A. professional / B. sycophantic / C. prosaic / E. collegial
+- 🚩 转折逻辑：Jo 原本以为关系是 dissident（持反对意见的）→ 但 Marcus **公开**表达反对时 Jo 仍 flabbergasted（震惊）→ 惊讶点在**公开化的程度**超出预期
+- 💡 本题较绕，理解关键：had regarded...as entirely dissident = Jo 过去（错误地）自以为对 Marcus 和老板的关系了如指掌，以为他们"完全是对抗关系"→ 但实际上 Jo 低估了 Marcus 的对抗程度——当 Marcus 公然在公开场合直接反对老板时，Jo 才意识到这比她想得更严重。
+
+**各词释义（按选项顺序）：**
+- A. professional = 职业的、专业的。不构成翻转逻辑 ❌
+- B. sycophantic = 谄媚的、奉承的。词根：*sykophantes*（告密者）→ 如果关系是谄媚的，Marcus 公开反对就完全反转 ❌
+- C. prosaic = 平庸的、枯燥的。词根：*prosa*（散文）→ 像散文一样平铺直叙
+- D. dissident = 持不同意见的、反对的。词根：*dis-*（分开）+ *sistere*（站立）→ 分开站→持异议 ✅
+- E. collegial = 同事间的、友好的。词根：*col-*（一起）+ *leg-*（选派）→ 被选在一起的人
+
+---
+
+**[Medium] [SE]** test 36 s1 #5
+> Many people remember a time when cutting-edge architects, who are these days treated like celebrities, had [------] relationship with the public: for much of the 1960s, big new buildings in cities were often cause for hostility, not celebration.
+- ✅ A. an antagonistic + B. an inimical · ❌ C. autocratic / D. symbiotic / E. indifferent / F. apathetic
+- 🚩 冒号解释关系：hostility, not celebration → 敌对的 → antagonistic = inimical
+
+**各词释义（按选项顺序）：**
+- A. antagonistic = 敌对的、对抗性的。词根：*anti-*（反对）+ *agon*（竞赛）→ 与之斗争 ✅
+- B. inimical = 敌意的、有害的。词根：拉丁语 *inimicus*（敌人）← *in-*（不）+ *amicus*（朋友）→ 不是朋友 ✅
+- C. autocratic = 独裁的、专制的。词根：*auto-*（自己）+ *kratos*（统治）→ 自己统治
+- D. symbiotic = 共生的、互利的。词根：*sym-*（一起）+ *bios*（生命）→ 一起生活 → 与 hostility 方向相反 ❌
+- E. indifferent = 漠不关心的。词根：*in-*（不）+ *differre*（区别于）→ 没区别→不在乎
+- F. apathetic = 冷漠的、无动于衷的。词根：*a-*（无）+ *pathos*（感情）→ 没感情
+- 💡 indifferent / apathetic 是"冷漠不关心"而非"敌对"，与 hostility 不完全对应 ❌
+
+---
+
+**[Hard] [TC]** test 38 s2 #1
+> In the final scene of the movie, the character exhibits an almost unbelievable [------], remaining imperturbable in the face of intense and immediate physical danger.
+- ✅ D. sangfroid · ❌ A. cunning / B. endurance / C. arrogance / E. percipience
+- 🚩 同位语解释：remaining imperturbable（保持镇定）→ blank = 镇定/沉着
+
+**各词释义（按选项顺序）：**
+- A. cunning = 狡猾、狡猾。词根：古英语 *cunnan*（知道/会）→ 知道怎么算计人
+- B. endurance = 忍耐力。词根：*en-*（使）+ *durus*（硬/持久）→ 使持久
+- C. arrogance = 傲慢。词根：*ad-*（向）+ *rogare*（要求）→ 向别人无礼要求
+- D. sangfroid = 镇定、沉着（法语，字面"冷血"）。法语 *sang*（血）+ *froid*（冷）→ 冷静沉着 ✅
+- E. percipience = 洞察力、感知力。词根：*per-*（彻底）+ *cipere*（抓）→ 完全抓住
+- 💡 sangfroid 是法语借词，GRE 高频词。与 composure、equanimity、aplomb 同义。
+
+---
+
+**[Hard] [SE]** test 39 s1 #4
+> Despite the general [------] of Roman archaeological studies toward the major cities and their monuments, archaeology has contributed much to a better understanding of rural developments in Roman territory.
+- ✅ E. bias + F. orientation · ❌ A. openness / B. indifference / C. hostility / D. animus
+- 🚩 Despite 转折：despite 倾向大城市 → 实际贡献了乡村理解 → blank = 偏向/倾向
+
+**各词释义（按选项顺序）：**
+- A. openness = 开放性 → 与 toward major cities 搭配但逻辑不通（openness toward = 对…开放 → 那就不会忽视乡村）❌
+- B. indifference = 漠不关心 → indifference toward 说得通 ✓ 但 Despite 后面不应该接 indifference（无倾向不构成转折）
+- C. hostility = 敌意 → hostility toward 说得通 ✓ 但考古学不可能对大城市有敌意
+- D. animus = 敌意、恶意 → 同上 ❌
+- E. bias = 偏向、偏好。词根：希腊语 *bios*（生命）→ 偏向生命→偏见/偏好 ✅
+- F. orientation = 倾向、方向。词根：*oriri*（升起）→ 朝向东方→定位/倾向 ✅
+- 💡 bias toward = 偏向/倾向于某方向；orientation toward = 以…为导向。两个词在这里都是"倾向于研究大城市"的意思。indifference 不能接 toward（一般说 indifference to）+ 语义上"尽管对大城市冷漠"也不构成好的转折（冷漠并不会阻碍理解乡村）。
