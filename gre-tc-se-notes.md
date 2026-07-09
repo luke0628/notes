@@ -896,3 +896,5 @@
 - E. bias = 偏向、偏好。词根：希腊语 *bios*（生命）→ 偏向生命→偏见/偏好 ✅
 - F. orientation = 倾向、方向。词根：*oriri*（升起）→ 朝向东方→定位/倾向 ✅
 - 💡 bias toward = 偏向/倾向于某方向；orientation toward = 以…为导向。两个词在这里都是"倾向于研究大城市"的意思。indifference 不能接 toward（一般说 indifference to）+ 语义上"尽管对大城市冷漠"也不构成好的转折（冷漠并不会阻碍理解乡村）。
+---
+Last synced: 2026-07-09 12:25 PDT
