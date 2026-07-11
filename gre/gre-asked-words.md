@@ -1769,3 +1769,122 @@ vex, aggravate, gall
 
 GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。看到 value, worth, assess 线索 → 选 appraise。
 
+---
+
+## calumniate
+
+**释义：** 诽谤、诬蔑、中伤——故意散布虚假言论以损害他人名誉。
+
+**词根：** 拉丁 *calumnia*（诬告、诡计）→ *calvi*（欺骗、戏弄）。同根词：*calumny*（n. 诽谤），*calumnious*（adj. 造谣中伤的）
+
+**场景：**
+- 政治对手之间的抹黑攻讦——蓄意编造谣言损坏对方声誉
+- 被诬告者反讽式辩护——"如果不是无心之失，那你就是在诽谤我"
+- 文人政客间的文字狱 / 学术声誉摧毁——用扭曲事实的方式攻击对方
+
+**画面：** 一个穿西装的人站在麦克风前，对着台下记者逐字编造对手的"黑料"。
+
+**Synonyms:** slander, defame, malign, vilify, libel
+**Antonyms:** vindicate, exonerate, applaud, extol
+
+**区分：**
+- **calumniate vs. slander：** *slander* 更日常口头上诽谤；*calumniate* 更正式，暗示有预谋地散布谣言
+- **calumniate vs. defame：** *defame* 偏法律术语，*calumniate* 偏文学修辞
+
+---
+
+## spurious
+
+**释义：** 伪造的、虚假的、不正宗的——外表看似真实，但本质上是假的。
+
+**词根：** 拉丁 *spurius*（私生子）→ 名义上"父亲的孩子"但实际上不是
+
+**场景：**
+- 学术造假——spurious correlation（伪相关）、spurious argument（伪论证）
+- 假冒身份/物品——spurious document、spurious heir
+- 虚假推理——看似合理实则站不住脚的逻辑
+
+**画面：** 考古学家举着"恐龙化石"给媒体拍照，背面标签写着 "Made in China"
+
+**Synonyms:** counterfeit, fake, fraudulent, bogus, sham
+**Antonyms:** genuine, authentic, legitimate, bona fide
+
+**区分：**
+- **spurious vs. apocryphal：** *apocryphal* 专指"真实性可疑的传说"，*spurious* 范围更广
+- **spurious vs. specious：** *specious* 偏"看似有理实则谬误的论证"，*spurious* 可以指实物也可指论点
+
+---
+
+## genial
+
+**释义：** 亲切友善的、温和的、宜人的
+
+**词根：** 拉丁 *genialis*（属于生育之神的、欢乐的）→ *genius*（守护神）
+
+**场景：**
+- 人物性格——a genial host / a genial old man
+- 气候/环境——genial climate（温和宜人）
+
+**画面：** 老爷爷坐在壁炉前端着茶杯对你笑。
+
+**Synonyms:** affable, cordial, amiable, warm, convivial
+**Antonyms:** cold, surly, morose, hostile
+
+---
+
+## genius
+
+**释义：** 天才、天赋——极高的智力或创造力。名词。
+
+**词根：** 拉丁 *genius*（守护神、天生的守护灵）
+
+**场景：**
+- 天才能人——Einstein was a genius
+- 特殊天赋——a genius for diplomacy
+
+**注意：** 易错拼写 *genious* 是错的，正确拼写 genius，复数 geniuses
+
+---
+
+## ingenious
+
+**释义：** 巧妙的、机灵的、富有创造力的——形容解决问题的方法聪明、设计精巧。
+
+**词根：** 拉丁 *ingenium*（天生的能力）→ *in-*（在内）+ *gignere*（产生）→ 与 genius 同源
+
+**场景：**
+- 发明设计——an ingenious device
+- 解决方案——an ingenious way to get around the problem
+- 人物——an ingenious engineer
+
+**Synonyms:** clever, inventive, resourceful, innovative
+**Antonyms:** clumsy, uninspired, unimaginative
+
+**区分（genial vs genius vs ingenious 一览表）：**
+| 词 | 词性 | 核心 | 典型搭配 |
+| genial | adj | 待人温和的 | a genial host |
+| genius | n | 天才 | a mathematical genius |
+| ingenious | adj | 方法巧妙的 | an ingenious solution |
+
+---
+
+## genuine
+
+**释义：** 真正的、货真价实的、真诚的——不是伪造的，也不是装出来的。
+
+**词根：** 拉丁 *genuinus*（天生的、自然的）→ 一说源自 *genu*（膝盖），古罗马父亲将新生儿放在膝盖上承认为亲生
+
+**场景：**
+- 物品真伪——genuine leather、genuine antique
+- 情感真挚——genuine concern、genuine remorse
+- 人格——a genuine person（表里如一）
+
+**Synonyms:** authentic, real, bona fide, legitimate
+**Antonyms:** counterfeit, fake, spurious, fraudulent
+
+**区分（GRE 高频考点）：**
+- **genuine vs. authentic：** *authentic* 强调"来源可信经验证"；*genuine* 强调"天生如此非人为伪造"
+- **genuine vs. sincere：** *sincere* 只形容人/情感；*genuine* 范围更广
+- **genuine vs. ingenuous：** *ingenuous* = 天真坦率（单纯到容易上当），*genuine* = 真实不假
+- **genuine vs. spurious：** 直接反义对
+
