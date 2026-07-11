@@ -1882,9 +1882,25 @@ GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。
 **Synonyms:** authentic, real, bona fide, legitimate
 **Antonyms:** counterfeit, fake, spurious, fraudulent
 
-**区分（GRE 高频考点）：**
+- **区分（GRE 高频考点）：**
 - **genuine vs. authentic：** *authentic* 强调"来源可信经验证"；*genuine* 强调"天生如此非人为伪造"
 - **genuine vs. sincere：** *sincere* 只形容人/情感；*genuine* 范围更广
 - **genuine vs. ingenuous：** *ingenuous* = 天真坦率（单纯到容易上当），*genuine* = 真实不假
 - **genuine vs. spurious：** 直接反义对
 
+---
+
+## commodious /kəˈmoʊdiəs/
+
+**含义**：宽敞的、有充足空间的（roomy and spacious）
+
+**场景法**：Something commodiously accommodates someone — 某物宽敞地容纳某人
+
+**逻辑关系**：
+- 同向：spacious, roomy, capacious, ample
+- 反向：cramped, confined, constricted
+
+**画面感**：一个老式图书馆，高天花板、深色橡木书架、皮革扶手椅散落各处，你可以在里面舒展手臂而不会碰到任何东西，甚至能在书架间骑自行车绕圈。
+
+**GRE 考点**：常出现在文学/描述性语境中，与 cramped/confined 构成对比。不是特别高频，但认识可以秒杀。
+|
