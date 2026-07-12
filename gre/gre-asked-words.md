@@ -1904,3 +1904,22 @@ GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。
 
 **GRE 考点**：常出现在文学/描述性语境中，与 cramped/confined 构成对比。不是特别高频，但认识可以秒杀。
 |
+|---
+|
+|## be resigned to /rɪˈzaɪnd/
+|
+|**含义**：顺从地接受（不愉快的现实），听任，只好接受（resignedly accept something unpleasant）
+|
+|**场景法**：Someone resigns oneself to something — 某人（无奈地）接受/听任某事
+|
+|**词根拆解**：re-（回/反复）+ sign-（标记/签字）。字面"反复画押"→"签字把职位交回去"（辞职）→ 引申为"放弃抵抗、听任安排"
+|
+|**逻辑关系**：
+|- 同向：acquiesce to, submit to, yield to, reconcile oneself to
+|- 反向：resist, fight, rebel against, defy
+|
+|**GRE 考点**：
+|- 常考搭配：be resigned to + noun/gerund
+|- 常见在文学语境中描述角色对命运/困境的态度
+|- resigned 作形容词比动词 resign (from) 更可能在填空出现
+|
