@@ -162,6 +162,27 @@
 | Section | 难度 | 已做题号 | 来源 |
 |---------|------|---------|------|
 | s1 #1   | Easy | ✅ 07/05 · lawyers pro bono gain prestige | 📗 |
+| s1 #2   | Easy | ✅ 07/16 · ancient writers vapid jejune | 📗 |
+
+## test 17
+
+| Section | 难度 | 已做题号 | 来源 |
+|---------|------|---------|------|
+| s1 #1   | Easy | ✅ 07/16 · ancient writers vapid jejune | 📗 |
+
+## test 18
+
+| Section | 难度 | 已做题号 | 来源 |
+|---------|------|---------|------|
+| s1 #4   | Medium | ✅ 07/16 · prior donations portend magnitude | 📗 |
+| s1 #6   | Medium | ✅ 07/16 · dour lugubrious+gloomy | 📗 |
+
+## test 42
+
+| Section | 难度 | 已做题号 | 来源 |
+|---------|------|---------|------|
+| s1 #4   | Hard | ✅ 07/16 · treat teachers reverence+consideration | 📗 |
+| s1 #7   | Hard | ✅ 07/16 · criminal behavior contingent+circumstantial | 📗 |
 
 ---
 
