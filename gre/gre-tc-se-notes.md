@@ -896,3 +896,82 @@
 - E. bias = 偏向、偏好。词根：希腊语 *bios*（生命）→ 偏向生命→偏见/偏好 ✅
 - F. orientation = 倾向、方向。词根：*oriri*（升起）→ 朝向东方→定位/倾向 ✅
 - 💡 bias toward = 偏向/倾向于某方向；orientation toward = 以…为导向。两个词在这里都是"倾向于研究大城市"的意思。indifference 不能接 toward（一般说 indifference to）+ 语义上"尽管对大城市冷漠"也不构成好的转折（冷漠并不会阻碍理解乡村）。
+
+---
+
+**[Hard] [SE]** test 42 s1 #7
+> The sociologist argued that criminal behavior is an impermanent condition because it is the result of cyclical forces operating through [------] factors, not the manifestation of deeply rooted personal characteristics.
+- ✅ A. contingent + C. circumstantial (SE) · ❌ B. alarming / D. proliferating / E. unsustainable / F. intensifying
+- 🚩 impermanent + not deeply rooted → blank = 偶然的、情境性的。because 因果逻辑：impermanent → cyclical forces → blank factors → 与 deeply rooted 对立
+
+**各词释义（按选项顺序）：**
+- A. contingent = 偶然的、视情况而定的。词根：*com-*（一起）+ *tangere*（触及）→ 碰在一起 → 偶然发生 ✅
+- B. alarming = 令人警觉的 → 不能与 impermanent/circumstantial 构成同义 ✅
+- C. circumstantial = 视情况而定的、环境性的。词根：*circum-*（环绕）+ *stare*（站立）→ 周围站着的事物 → 环境/情境 → 情景性的 ✅
+- D. proliferating = 激增的、扩散的 → 不匹配
+- E. unsustainable = 不可持续的 → 不匹配
+- F. intensifying = 加剧的 → 不匹配
+- 💡 contingent + circumstantial 是 SE 常见搭配，都表示"取决于具体情境的"、"非固有/非本质的"。该句核心对比：cyclical forces × contingent factors ↔ deeply rooted personal characteristics（周期性外力 × 偶然因素 ↔ 根深蒂固的个人特质）。
+
+---
+
+**[Easy] [TC]** test 17 s1 #1
+> Many readers today consider the moral sentiments expressed in the ancient writers' work to be quite vapid, and in the seventeenth century they were similarly regarded as [------].
+- ✅ A. jejune · ❌ B. didactic / C. dogmatic / D. tendentious / E. arcane
+- 🚩 vapid（乏味/空洞）+ similarly regarded as → blank = vapid 的同义词。similarly 表明古今一致评价
+
+**各词释义（按选项顺序）：**
+- A. jejune = 空洞乏味的、幼稚的。词根：拉丁语 *jejunus*（禁食/饥饿）→ 空乏的 → 空洞无内容 ✅
+- B. didactic = 说教的、教导的 → 与 vapid 不同义
+- C. dogmatic = 教条的、武断的 → 不匹配
+- D. tendentious = 有倾向性的、有偏见的 → 不匹配
+- E. arcane = 神秘的、晦涩难懂的 → 不匹配
+- 💡 jejune 是 GRE 高频词，常与 vapid、banal、insipid 构成同义复现。注意 jejune 还有 "幼稚" 的意思（= naive/immature），但此处取 "空洞乏味" 义。
+
+---
+
+**[Medium] [TC]** test 18 s1 #4
+> Tompkinson's prior donations to the university, while very generous, failed to [------] the magnitude of her latest gift.
+- ✅ B. portend · ❌ A. compensate for / C. clarify / D. predict / E. offset / F. undermine
+- 🚩 while（虽然让步）+ failed to → 以前的捐赠虽然慷慨，但无法预示最近那次捐赠的规模大小。magnitude（规模/巨大）是关键：此前捐赠无法预示最新捐赠的宏大
+
+**各词释义（按选项顺序）：**
+- A. compensate for = 补偿 → 虽然 generous 但不能补偿最新捐赠的 magnitude → 逻辑：compensate 强调"弥补不足"，但句意是"不能预示其规模"，不是"不足以补偿"
+- B. portend = 预示、预兆。词根：*por-*（向前）+ *tendere*（伸展）→ 向前伸展→预示 ✅
+- C. clarify = 澄清 → 不匹配
+- D. predict = 预言 → 近义但不如 portend 准确（portend 更强调通过迹象预示）
+- E. offset = 抵消 → 同 compensate for，逻辑不对 ❌
+- F. undermine = 削弱 → 不匹配
+- 💡 portend = foreshadow / presage，强调通过现有迹象预示未来的事情。此处 prior donations → latest gift 的大小关系正是"通过已知预示未知"。
+
+---
+
+**[Medium] [SE]** test 18 s1 #6
+> Mortoris is dour and [------], seemingly incapable of smiling, let alone laughing.
+- ✅ E. lugubrious + F. gloomy · ❌ A. mirthful / B. jovial / C. intelligent / D. tepid
+- 🚩 dour（阴郁/严厉）+ incapable of smiling → blank = dour 的同义词。and 连接并列关系
+
+**各词释义（按选项顺序）：**
+- A. mirthful = 欢乐的 → 反义 ❌
+- B. jovial = 快活的 → 反义 ❌
+- C. intelligent = 聪明的 → 不相关
+- D. tepid = 微温的、不冷不热的 → 程度不够
+- E. lugubrious = 忧郁的、悲戚的。词根：拉丁语 *lugere*（哀悼）→ 哀悼般的阴郁 ✅
+- F. gloomy = 阴郁的、悲观的 ✅
+- 💡 dour + lugubrious + gloomy 是三连阴郁词。lugubrious 比 gloomy 更夸张/戏剧化一些（过度的悲伤，常带滑稽感）。注意不要混淆 lugubrious 和 lucrative（有利可图的）。
+
+---
+
+**[Hard] [SE]** test 42 s1 #4
+> Although the parents do not think highly of the educational system "as a whole", they fail to treat teachers with [------] equally.
+- ✅ A. consideration + E. reverence · ❌ B. veneration / C. lucubration / D. opprobrium / F. disdain
+- 🚩 Although 转折：虽然不看好整个教育系统 → 但对老师应该... → blank = 尊重/敬意。fail to treat with ___ equally = 没有用___对待老师
+
+**各词释义（按选项顺序）：**
+- A. consideration = 尊重、体谅 ✅
+- B. veneration = 崇敬、敬仰（程度过重，venerate 是对神灵/圣人的崇敬）
+- C. lucubration = 刻苦钻研、学究式著作（罕见词，与尊重无关）
+- D. opprobrium = 谴责、耻辱（反义 ❌）
+- E. reverence = 尊敬、敬畏 ✅
+- F. disdain = 鄙夷（反义 ❌）
+- 💡 consideration 和 reverence 都是"尊重"，但程度不同：consideration 偏"体谅、顾及"，reverence 偏"敬重、敬畏"。此处用 cannot fill with consideration/reverence equally，SE 配对成立。veneration 太强（常用于宗教/圣人语境），且 Unlike consideration/reverence，veneration 与 fail to treat with 搭配不自然。
