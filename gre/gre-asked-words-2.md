@@ -28,183 +28,150 @@ infraction（违规/违法）vs affliction（痛苦/折磨）
 
 **区分：** effulgent vs. resplendent — 两者都指光辉闪耀，但 effulgent 更强调光源本身向外发射的极亮光（如太阳、神光），resplendent 更强调物体表面的灿烂反光或华丽装饰（如珠宝、宫殿）。
 
-**另见：** 同根词 refulgent（辉煌闪耀的）、fulgent（闪耀的）见本文件下方
-
 ---
 
 ## refulgent
 
-**释义：** 辉煌闪耀的、灿烂的（光线反射或发出的光辉，尤指光辉灿烂的景象）
+**释义：** 辉煌闪耀的、光辉灿烂的（强调反射光的辉煌 / 被光照亮后的闪耀状态）
 
-**词根：** 拉丁语 re-（强调/回）+ fulgere（闪耀）→ "强烈闪耀"。同根词：fulgent（闪耀的）、effulgent（光芒四射的）。
+**词根：** 拉丁语 re-（强调/回）+ fulgere（闪耀）→ "强烈闪耀"。与 effulgent 同根（ex-向外 + fulgere闪光），但 refulgent 更强调"回光/反光"的效果。
 
 **场景：**
-- **文学/审美描述（GRE阅读）** — 描述夕阳、宫殿、辉煌场景的反光美感，如 "the refulgent glow of the sunset"
-- **填空逻辑/程度对应** — 与 effulgent 近似同义，但 refulgent 更强调反射的闪耀而非光源本身的直射，在 GRE 填空中常作为程度匹配词（高程度光辉）
+- **日落/建筑描写（阅读）** — 描摹被阳光照亮的物体表面：a refulgent sunset gilded the cathedral's dome（金光闪闪的日落镀满大教堂穹顶）
+- **成就/荣誉隐喻** — 描述某人/某物的辉煌成就：a refulgent career in diplomacy（外交生涯的辉煌）
+- **文学/诗歌** — 与 effulgent 互换使用，但 refulgent 更偏物表反光，effulgent 更偏光源直射
 
 **画面：** 黄昏时分，落日余晖洒在大理石宫殿的立面上，整面墙像镀了一层金，发出温暖而壮丽的 refulgence。
 
 **Synonyms:** effulgent, radiant, brilliant, luminous, resplendent
 **Antonyms:** dim, dull, murky, tenebrous
 
-**区分：** refulgent vs. effulgent — refulgent 强调反光的辉煌（如金箔反射、夕阳映照）；effulgent 强调光源自身的极度闪耀（如太阳直射、神光）。两者常可互换，但 GRE 中细微差别在于 effulgent 更"刺眼"，refulgent 更"华丽"。
-
 ---
 
 ## fulgent
 
-**释义：** 闪耀的、灿烂的（形容词，文学/古语用法）
+**释义：** 闪耀的、灿烂的（现较少用，多出现于诗歌或 GRE 高级词汇题中）
 
-**词根：** 拉丁语 fulgere（闪耀）→ 直译 "闪耀的"。同根词：effulgent（向外闪耀）、refulgent（强烈闪耀）。
+**词根：** 拉丁语 *fulgere*（闪耀）。同根词：*effulgent* (向外闪耀)、*refulgent* (回光闪耀)、*fulgur* (闪电)。*Fulgent* 是基础形，*effulgent* 和 *refulgent* 是它的加强版前缀派生词。
 
 **场景：**
-- **GRE阅读/文学用语** — 多见于古典文学或诗歌体文本，作为简短的闪耀描绘，常与 eyes/star/crown 等词搭配
-- **填空逻辑/同义词** — 与 bright/shining 同义，但属于高阶词汇，在六选二中与 effulgent/refulgent 互为同义选项
+- **GRE 同根词辨析题** — 常与 effulgent/refulgent 一同出现，注意 fulgent 是最基础形，力量最弱
+- **文学/古文阅读** — 古体诗歌中修饰星辰/宝石：the fulgent stars（闪耀的星辰）
 
-**画面：** 夜空中一颗孤星，没有云层的遮挡，干净利落地闪着 fulgent 的光芒——不刺眼但清晰可见。
+**画面：** 夜空中最亮的那颗星，不像满街霓虹灯那样刺眼，但安静、坚定地闪耀，那就是 fulgent。
 
-**Synonyms:** bright, shining, brilliant, glowing, effulgent, refulgent
-**Antonyms:** dim, dark, dull
+**Synonyms:** bright, shining, radiant, brilliant
+**Antonyms:** dim, dull, lackluster
 
-**区分：** fulgent vs. effulgent/refulgent — fulgent 是最简单的基础词根形态，意思最窄，就是"闪耀的"；effulgent 加了 ex-（向外），强调光芒向外辐射；refulgent 加了 re-（强调），强调强烈的辉煌。GRE 中遇到这三个词需要区分程度：fulgent（普通闪耀）→ refulgent（辉煌闪耀）→ effulgent（光芒四射/刺眼亮）。
-
----
-
-## contempt / contemptible / contemptuous 区分
-
-**contempt** /kənˈtempt/ — n. **鄙视、蔑视、藐视**
-
-**用法：**
-- **hold ... in contempt** = 轻视、蔑视
-- **contempt of court** = 藐视法庭
-- **beneath contempt** = 不屑一顾（程度最重，连鄙视都嫌多余）
-
-**contemptible** — adj. **可鄙的、卑劣的**（描述被鄙视的对象）
-- *a contemptible lie* 卑鄙的谎言
-- *His behavior was contemptible.* 他的行为可鄙。
-
-**contemptuous** — adj. **鄙视的、傲慢的**（描述鄙视者的态度）
-- *a contemptuous sneer* 鄙夷的冷笑
-- *She was contemptuous of his efforts.* 她对他的努力嗤之以鼻。
-
-**区分口诀：** -ible 给对象（他真可鄙），-uous 给态度（我鄙夷他）
-
-**Synonyms:** scorn, disdain, derision, opprobrium
-**Antonyms:** respect, admiration, esteem, veneration
+**区分：** fulgent vs. effulgent vs. refulgent — 三词同根（*fulgere* 闪光）。fulgent 最简单："闪耀的"；effulgent = ex-（向外）+ fulgent = "光芒四射的"（从内部向外辐射）；refulgent = re-（强调/回）+ fulgent = "辉煌的"（反射光或被照亮后的闪耀）。三者中 effulgent 最强（刺眼），fulgent 最弱（安静明亮），refulgent 居中（华丽闪耀）。
 
 ---
 
-## disclaim / disdain / disown 区分
+## malleable
 
-**disclaim** = 否认、放弃（声称不拥有或不相关）
-- *He disclaimed any knowledge of the incident.* 他声称对该事件一无所知。
+**释义：** （金属）可锻造的、可延展的；（性格/思想）易受影响的、温顺的
 
-**disdain** = 鄙视、蔑视（认为不值得）
-- *词根：** dis-（不）+ dignari（认为值得）← dignus（值得）
-- *同根词族：* dignity（尊严）、dignify（使有尊严）、indignant（愤慨的）、condign（应得的）
-- **反义词：** veneration, reverence
+**词根：** 拉丁语 *malleus*（锤子）→ *malleare*（锤打）→ *malleabilis*（可锤打的）。同根词：*mallet*（木槌）、*malleus*（锤骨，中耳中的小骨）。
 
-**disown** = 断绝关系、否认属于自己
-- *He disowned his son after the scandal.* 丑闻后他同儿子断绝了关系。
+**场景：**
+- 材料科学/比喻（填空/阅读） — 直接原义：gold is the most malleable metal（黄金是最可延展的金属）。
+- 人物/性格描写（填空高频） — 形容人易受影响、缺乏主见：a malleable young mind easily swayed by peer pressure。GRE 常考与 intransigent, stubborn, obdurate, adamant 对立。
+- 政治/社会评论（阅读） — 形容公众舆论或选民易被操控：the malleable electorate was swayed by the latest campaign ads。
+- 经济/制度（阅读） — 形容灵活的制度或体系：a malleable legal framework that adapts to changing circumstances（此时偏褒义）。
 
----
+**画面：** The dictator's propaganda machine targeted the malleable minds of the youth, molding them into obedient citizens before they could develop independent thoughts.
 
-## preoccupation
+**Synonyms:** pliable, ductile, tractable, impressionable, yielding
+**Antonyms:** intransigent, obdurate, adamant, inflexible, refractory
 
-**preoccupation** /priːˌɑːkjəˈpeɪʃən/ — n. **全神贯注、念念不忘、心头大事**
-
-**拼写：** pre-（前）+ occupy（占据）+ -ation → "提前被占据"
-
-**用法：**
-1. **全神贯注** — *preoccupation with work* 全心扑在工作上
-2. **心头大事/牵挂** — *Her main preoccupation was her son's health.*
-
-**辨析：**
-- preoccupation — 中性，心里总想着某事（专注或担忧）
-- obsession — 负面，痴迷/执念（带病态感）
-- concern — 较轻，担心/关心
-
-**反义词：** indifference（冷漠）
+**区分：**
+- malleable vs. ductile — malleable 强调"可锤打成薄片"，ductile 强调"可拉成细丝"。物理上不同，但比喻义中可互换。
+- malleable vs. pliable — 几乎同义。pliable 偏"可弯曲的"，malleable 偏"可锤打的"。GRE 填空常视作同义替换。
+- malleable vs. tractable — tractable 偏"听话的、顺从的"（形容人好管理），malleable 偏"易塑形的"（强调可以被外部力量改变形状/性质）。在形容人时 malleable 比 tractable 更有"被动被改变"的含义。
 
 ---
 
-## scintillate
+## sangfroid
 
-**scintillate** /ˈsɪntɪleɪt/ — v. **闪烁、闪耀**（星光闪烁/才华闪现）
+**释义：** 冷静沉着、镇定自若（尤指危险/压力下）
 
-**常见形式：** 形容词 **scintillating** 更常用
-- *scintillating conversation* 妙趣横生的对话
-- *scintillating wit* 才智闪耀
+**词根：** 法语 *sang-froid*（冷血）← *sang*（血）+ *froid*（冷）。与 *sang* 同根词：*sanguine*（乐观的/血色的）、*consanguineous*（同宗的/同血缘的）
 
-**同义词链：**
-sparkle（最常用）→ glitter（闪耀，可带贬义）→ shimmer（微光闪烁）→ twinkle（星星眨眼）→ scintillate（正式/文雅）
+**场景：**
+- **GRE 填空（高频）** — 常与 imperturbable、composure、equanimity、aplomb 同义复现，描写面临危险时的冷静态度
+- **军事/极限场景** — 狙击手在敌军包围中保持 sangfroid，精确完成任务
+- **危机管理** — 公司 CEO 在股价暴跌时展现 sangfroid，稳定投资者情绪
 
----
+**画面：** 炸弹即将爆炸的房间里，拆弹专家额头冒汗但手一点都不抖，平稳地剪断最后一根线——那不是勇敢，那是 sangfroid，一种超自然的冷静
 
-## spur
+**Synonyms:** composure, equanimity, aplomb, imperturbability, poise
+**Antonyms:** panic, agitation, discomposure, perturbation, hysteria
 
-**spur** /spɜːr/ — n. 马刺；v. **激励、刺激、促进**
-
-**GRE核心义：v. 鞭策/驱策**
-
-- *The bonus spurred employees to work harder.*
-- *Competition spurred innovation.*
-
-**习语：** on the spur of the moment = 一时冲动/心血来潮
-
-**同义词辨析：**
-spur（驱策，紧迫）→ prod（轻推/催促）→ goad（烦人地激将）→ incite（煽动，负面）
-
-**注意：** goad（赶牛的刺棒）和 spur（骑马的马刺）词源上都来自"用尖刺驱赶"，都带有迫使行动的紧迫感。
+**区分：**
+- **sangfroid vs. composure** — composure 最通用，sangfroid 更强调危险/压力环境下的冷静
+- **sangfroid vs. equanimity** — equanimity 偏"心理平衡/情绪稳定"，可指日常情绪；sangfroid 专门指危机中的冷酷镇定
+- **sangfroid vs. aplomb** — aplomb 偏"自信自如"（如公众演讲），sangfroid 偏"面对危险的镇定"
+- 别以为 sangfroid 是 "cruelty"（冷血无情）——它专指冷静态度，不含残忍义
 
 ---
 
-## lugubrious
+## bootless
 
-**lugubrious** /ləˈɡuːbriəs/ — adj. **悲哀的、忧郁的**（夸张得像喜剧的悲伤）
+**释义：** 徒劳的、无益的、无用的
 
-**核心：** exaggeratedly mournful — 哭丧着脸的，过分悲哀的
+**词根：** 古英语 *bōt*（补救/改善）+ *-less*（无）→ 无法补救的 → 徒劳无效的。同根词：*boot*（古义为"好处/补救"，现代英语中仅存于 *to boot* "而且/此外" 习语中）
 
-- *a lugubrious expression* 一脸哭相
-- *a lugubrious howl* 哀嚎
+**场景：**
+- **GRE 填空（低频但特征词）** — 常与 subverted、ineffective 等词并列，表示"被压制到基本无效"
+- **文学/古语** — 描写努力白费：all his efforts were bootless（他一切努力都是徒劳的）
+- **政治/运动语境** — a bootless campaign（一场徒劳的运动）
 
-**辨析：**
-- lugubrious — 夸张得有点滑稽的悲伤
-- mournful — 真诚的哀伤
-- doleful — 愁苦
-- somber — 阴沉严肃
-- melancholy — 忧郁（文艺/内敛）
+**画面：** 一个囚犯在牢房里使劲撞墙想逃出去，撞得头破血流但墙纹丝不动——他所有的努力都是 bootless。
 
-**同义词：** mournful, doleful, sorrowful, plaintive
-**反义词：** cheerful, jovial, jocund, blithe
+**Synonyms:** futile, vain, fruitless, unavailing, ineffectual, nugatory
+**Antonyms:** effective, fruitful, productive, efficacious, potent
+
+**区分：**
+- **bootless vs. futile** — 几乎等同；futile 更常用，bootless 更偏文学/古雅
+- **bootless vs. nugatory** — nugatory 比 bootless 更强：不仅"无效"还"微不足道/毫无价值"
+- **bootless vs. ineffectual** — ineffectual 多形容人/行为缺乏能力导致无效；bootless 更强调结果本身的无用性
 
 ---
 
-## opprobrium / probrum 词根词族
+## irresolution
 
-**opprobrium** /əˈproʊbriəm/ — n. **公开谴责、耻辱、骂名**
+**释义：** 犹豫不决、优柔寡断（inability to make decisions）
 
-- *faced international opprobrium* 遭到国际社会谴责
+**词根：** *in-*（不）+ *resolvere*（解开/解决）→ 无法解决 → 做不出决定。同根词：*resolve*（决心/解决）、*resolution*（决心/决议）、*resolute*（坚定的）
 
-**词根拆解：** ob-（对着）+ probrum（不光彩的行为）→ "当众指责不光彩行为"
+**场景：**
+- **GRE 填空（SE高频）** — 常与 vacillation 组成 SE 配对，与 decisive、resolute 构成反义
+- **领导力批判** — 描述管理层的优柔寡断：the committee's irresolution cost them the contract
+- **心理描写** — 描写人物在面对重要抉择时的内心挣扎
 
-**probrum 词根树（拉丁语 probrum = shameful act）：**
+**画面：** 站在两条岔路口的人，左看看右看看，天快黑了还决定不了走哪条——那不是谨慎，是 irresolution。
 
-| 词根 | 含义 | 派生词 |
-|---|---|---|
-| **probrum** | 不光彩、羞耻 | opprobrium, opprobrious |
-| **probare** | 测试、证明、赞同 | approbation, reprobate, probation |
+**Synonyms:** indecision, hesitancy, vacillation, wavering, dithering
+**Antonyms:** resolution, decisiveness, determination, resolve, certitude
 
-**注意：probrum ≠ probare！** 两个不同词根：
-- opprobrium（谴责）← probrum（不光彩）
-- approbation（认可）← probare（赞同）
+---
 
-**相关词：**
-- **opprobrious** — adj. 辱骂的、可耻的
-- **opprobrium 反义词：** approbation（认可/赞许）
+## vacillation
 
-**六选二常考分组：**
-- **正面（尊敬组）：** consideration → reverence → veneration
-- **负面（鄙视组）：** opprobrium → disdain → contempt
-- **干扰项：** lucubration（苦心钻研）
+**释义：** 摇摆不定、优柔寡断（反复改变主意/立场）
 
+**词根：** 拉丁语 *vacillare*（摇摆/晃动）→ 像钟摆一样来回摆动。同根词：*vacillating*（摇摆不定的）
+
+**场景：**
+- **GRE 填空（SE高频）** — 与 irresolution 配对。注意 vacillation 强调"来回变来变去"，irresolution 强调"无法做出决定"
+- **政治评论** — 描述政客立场摇摆：voters distrust candidates with a history of vacillation on key issues
+- **经济决策** — 央行的 vacillation 导致市场不确定性加剧
+
+**画面：** 一个人在餐馆翻菜单，先想点牛排又想点鱼，服务员来了三次，他还在"嗯…要不我再想想"——这就是 vacillation。
+
+**Synonyms:** indecision, wavering, irresolution, hesitancy, fluctuation
+**Antonyms:** steadfastness, resolution, constancy, stability, firmness
+
+**区分：** irresolution vs. vacillation — irresolution 更强调"做不出决定"的停滞状态；vacillation 更强调"反复改变已有决定"的动态摇摆。在 SE 中它们是互补同义词对。
+
+---

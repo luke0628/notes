@@ -930,16 +930,17 @@
 
 ---
 
-**[Medium] [TC]** test 18 s1 #4
+**[Medium] [SE]** test 18 s1 #4
 > Tompkinson's prior donations to the university, while very generous, failed to [------] the magnitude of her latest gift.
-- ✅ B. portend · ❌ A. compensate for / C. clarify / D. predict / E. offset / F. undermine
-- 🚩 while（虽然让步）+ failed to → 以前的捐赠虽然慷慨，但无法预示最近那次捐赠的规模大小。magnitude（规模/巨大）是关键：此前捐赠无法预示最新捐赠的宏大
+- ✅ B. portend + D. predict · ❌ A. compensate for / C. clarify / E. offset / F. undermine
+- 🚩 while（虽然让步）+ failed to → 以前的捐赠虽然慷慨，但无法**预示**最近那次捐赠的规模大小。magnitude（规模/巨大）是关键：此前捐赠无法预示最新捐赠的宏大
+- 💡 这是 **SE（六选二）** 题，portend + predict 是同义词对：两者都表示\"提前告知/预示\"。主语是 prior donations（事物），portend 是\"事物作为征兆预示\"，predict 在 GRE 中可以用于事物\"预示\"（= forecast/indicate）。
 
 **各词释义（按选项顺序）：**
 - A. compensate for = 补偿 → 虽然 generous 但不能补偿最新捐赠的 magnitude → 逻辑：compensate 强调"弥补不足"，但句意是"不能预示其规模"，不是"不足以补偿"
 - B. portend = 预示、预兆。词根：*por-*（向前）+ *tendere*（伸展）→ 向前伸展→预示 ✅
 - C. clarify = 澄清 → 不匹配
-- D. predict = 预言 → 近义但不如 portend 准确（portend 更强调通过迹象预示）
+- D. predict = 预言、预示。词根：*pre-*（前）+ *dicere*（说）→ 提前说出。在 GRE 中可用于事物作主语：= forecast / indicate。与 portend 为 SE 同义词对 ✅
 - E. offset = 抵消 → 同 compensate for，逻辑不对 ❌
 - F. undermine = 削弱 → 不匹配
 - 💡 portend = foreshadow / presage，强调通过现有迹象预示未来的事情。此处 prior donations → latest gift 的大小关系正是"通过已知预示未知"。
@@ -974,4 +975,97 @@
 - C. lucubration = 刻苦钻研、学究式著作（罕见词，与尊重无关）
 - D. opprobrium = 谴责、耻辱（反义 ❌）
 - E. reverence = 尊敬、敬畏 ✅
-- F. disdain = 鄙夷（反义 ❌）
+|- F. disdain = 鄙夷（反义 ❌）
+
+---
+
+**[Easy] [TC]** test 54 s1 #1
+> Some species' camouflage patterns may be [------], granting those species a higher chance of survival in a heterogeneous environment.
+- ✅ A. plastic · ❌ E. imitable
+- 🚩 无信号词，直接因果：camouflage patterns must be adaptable to survive in heterogeneous（异质）environment → plastic = 可塑的/灵活的
+- 💡 plastic 在 GRE 中常考"可塑的、易变形的"义，与 malleable、pliable 同义。heterogeneous environment（异质环境）需要动物伪装能随环境变化 → 非 persistent/固定不变
+
+**各词释义（按选项顺序）：**
+- A. **plastic** = 可塑的、灵活易变的。词根：希腊语 *plastikos*（可塑造的）← *plassein*（塑造）。与 malleable（可锤打的）、pliable（可弯曲的）同属"可塑"词族 ✅
+- B. subtle = 微妙的、不易察觉的 → 在异质环境中反而是劣势（不易察觉意味着固定花纹无法适应不同环境）
+- C. singular = 单一的、独特的 → 与 heterogeneous 矛盾
+- D. consistent = 一致的、不变的 → 与 heterogeneous 矛盾；固定花纹无法在多变环境中生存
+- E. imitable = 可模仿的 → 被动属性。不是"自己能变化"而是"能被别人模仿"，逻辑反 ❌
+- 💡 plastic vs. consistent/plastic vs. fixed 是 GRE 常见对立 pair
+
+---
+
+**[Medium] [SE]** test 38 s1 #7
+> What they see in Jimenez is the one candidate capable of decisive leadership, in stark contrast to Diaz, whose team in office has been marred by [------].
+- ✅ C. irresolution + D. vacillation (SE) · ❌ DE (vacillation+belligerence)
+- 🚩 **in stark contrast to**（强烈对比）：Jimenez = decisive leadership → Diaz 的团队必是 indecisive/hesitant。marred by（被...损害）也指向负面特性
+- 💡 对比类 SE：先找出对比方的极端值。decisive（果断）的反面是 irresolution（犹豫不决）+ vacillation（摇摆不定），不是 belligerence（好斗）。belligerence + pugnacity 是另一对同义词，但与 decisive 无对比关系
+
+**各词释义（按选项顺序）：**
+- A. defensiveness = 防御性 → 不匹配
+- B. corruption = 腐败 → 不匹配；与 decisive 没有直接对比
+- C. irresolution = 犹豫不决。词根：*in-*（不）+ *resolvere*（解决）→ 无法解决 → 犹豫不决 ✅
+- D. vacillation = 摇摆不定、优柔寡断。词根：拉丁语 *vacillare*（摇摆）→ 像钟摆一样来回晃动 ✅
+- E. belligerence = 好斗、好战。词根：*bellum*（战争）+ *gerere*（进行）→ 好战 ❌
+- F. pugnacity = 好斗、爱吵架。词根：拉丁语 *pugnax*（好斗的）← *pugnus*（拳头）❌
+- 💡 irresolution + vacillation 是高频 SE 搭配，描述决策无能/优柔寡断。注意 vacillation 强调"来回摇摆"，irresolution 强调"无法做决定"。
+
+---
+
+**[Medium] [SE]** test 38 s1 #5
+> The women's rights movement has been mostly [------] in the Middle East, but it is likely that activists will be newly galvanized by the political upheavals currently sweeping the region.
+- ✅ A. subverted + D. bootless · ❌ BE (quiescent+abeyant) 
+- 🚩 but（转折）→ newly galvanized（重新激发活力）← 当前状态是"被压制/无效"。galvanized 原义为"通电"，在此 metaphorically 表示被激发
+- 💡 关键陷阱：quiescent/abeyant 看似合理（"暂时静止"），但语气太温和。"大部分是静止的"→"但将被激发"的逻辑通顺但不是最准确的。正确答案 subverted（被颠覆/压制）+ bootless（徒劳无效）更准确地表达了"运动被压制到基本无效"的状态。注意子选项：subverted = 被内部破坏而非正面镇压；bootless = futile/ineffective
+
+**各词释义（按选项顺序）：**
+- A. subverted = 被颠覆、被暗中破坏。词根：*sub-*（下）+ *vertere*（转）→ 从下面翻转 → 暗中破坏 ✅
+- B. quiescent = 静止的、休眠的。词根：拉丁语 *quiescere*（休息）← *quies*（安静）→ 暂时安静的 ❌
+- C. interminable = 无休止的、冗长的 → 不匹配
+- D. bootless = 徒劳的、无益的。词根：古英语 *bōt*（补救）+ *-less*（无）→ 无补救作用的 → 无效的 ✅
+- E. abeyant = 暂搁的、中止的。词根：古法语 *abéance*（期待/悬而未决）→ 暂时搁置状态 ❌
+- F. feckless = 无能的、不负责任的。词根：*effect* 的苏格兰变体 + *-less* → 无效果的 → 不匹配
+- 💡 subverted vs. quiescent：subverted 强调运动本身被破坏/压制，quiescent 是自然休眠。在 but 转折语境中，由被压制状态→被重新激活，比静止→被激活更有张力
+
+---
+
+**[Hard] [TC]** test 38 s2 #1
+> In the final scene of the movie, the character exhibits an almost unbelievable [------], remaining imperturbable in the face of intense and immediate physical danger.
+- ✅ D. sangfroid · ❌ E. percipience
+- 🚩 **remaining imperturbable**（保持镇定自若）= blank 的直接定义。in the face of intense physical danger（面对人身危险时）→ 需要"冷静"而非"洞察力"
+- 💡 sangfroid 是法语借词（sang=血 + froid=冷），字面"冷血"，意为"在危险/压力下保持冷静沉着"。GRE 常与 imperturbable、composure、equanimity 同义复现
+
+**各词释义（按选项顺序）：**
+- A. cunning = 狡猾的 → 与 imperturbable 无关
+- B. endurance = 忍耐力 → 与"镇定自若"不同，更偏"忍受痛苦"
+- C. arrogance = 傲慢 → 不匹配
+- D. sangfroid = 冷静沉着、镇定自若。法语 *sang-froid*（冷血）→ 面临危险时的冷静 ✅
+- E. percipience = 洞察力、感知力。词根：拉丁语 *percipere*（感知）→ 与镇定无关 ❌
+- 💡 sangfroid 发音：/sɒŋˈfrwɑː/（松-夫瓦），注意 g 不发音
+
+---
+
+**[Hard] [SE]** test 38 s1 #6
+> Beatified by the Catholic Church in 1765, Italian cleric Ludovico Sabbatini is [------] each year on the day of his death, June 1.
+- ✅ B. evoked + F. christened · ❌ CD (deified+venerated)
+- 🚩 **Beatified**（被宣福 = 死后被教会认可进入天堂的步骤之一）+ **each year on the day of his death** → 每年在他忌日被**唤起纪念**/这**被命名为**纪念日
+- 💡 这里的 evoked 取"唤起（记忆/感受）"的引申义 = 被追思纪念。christened 取"(被)命名为/起名为"义 = 6月1日被命名为他的纪念日。注意这是 SE 题，两个词在"某日作为纪念/命名"这个语境下趋于同义。deified（神化）程度过强——beatified 只是宣福，不是封神；venerated（尊崇）语义虽合理但不在正确答案中
+
+**各词释义（按选项顺序）：**
+- A. pledged = 发誓/承诺 → 不匹配
+- B. evoked = 唤起、引起（记忆/情感）。词根：拉丁语 *ex-*（出）+ *vocare*（叫）→ 叫出来。在此引申为"被纪念/被唤起记忆" ✅
+- C. deified = 被神化。词根：*deus*（神）+ *-fy*（使）→ 使之成神 ❌（程度过强）
+- D. venerated = 被尊崇、被敬奉。词根：拉丁语 *venerari*（崇拜）→ 语义合理但不在答案中 ❌
+- E. honored = 被尊敬 → 太普通，不是正确答案
+- F. christened = 被命名为。词根：拉丁语 *christianizare*（使成为基督徒）→ 引申为"为...命名/起名" ✅
+- 💡 这道题比较特殊：evoked 在此取"被唤起/被纪念"的引申义，christened 取"被命名"义。两者在"定下某日纪念某人"这个场景中构成近义。注意这是大坑题：venerated 看起来完全正确，但不是 SE 配对——正确答案是 evoked + christened。
+
+---
+
+## + 练习_5题.md 补充题 · SE · ↔️转折
+
+> The critic claims that, contrary to its reputation for _____, the novelist's prose is full of opaque language games.
+- ✅ B. simplicity + D. artlessness
+- 🚩 contrary to（↔️转折）→ reputation 与实际相反 → 实际是 opaque（晦涩）→ reputation 应是 simple（简单/朴实）
+- simplicity = 简单 · artlessness = 朴实无华（同义词对）✅
+- 📖 scrupulousness = 审慎 · mendacity = 虚假 · polish = 优雅精致
