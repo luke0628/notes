@@ -962,16 +962,16 @@
 
 ---
 
-**[Hard] [SE]** test 42 s1 #4
+|**[Hard] [SE]** test 42 s1 #4  ⚠️ 修正版
 > Although the parents do not think highly of the educational system "as a whole", they fail to treat teachers with [------] equally.
-- ✅ A. consideration + E. reverence · ❌ B. veneration / C. lucubration / D. opprobrium / F. disdain
-- 🚩 Although 转折：虽然不看好整个教育系统 → 但对老师应该... → blank = 尊重/敬意。fail to treat with ___ equally = 没有用___对待老师
+- ❌ ~~旧答案：A. consideration + E. reverence（错误分析）~~
+- ✅ **正确答案：D. opprobrium + F. disdain**
+- 🚩 **⚠️ 陷阱题！** 关键：`as a whole` + `fail to ... equally`。父母不看好整个教育系统（按理应鄙视老师）→ 但他们 fail to treat teachers with opprobrium/disdain equally（**没有一视同仁地鄙视**）→ 对老师有区别对待。`Although` 前后：不看好系统（整体否定）↔ 没有一致否定老师（差别对待），**方向不同 → 转折 ✅**。错误原因：忽略 `fail to` + `equally` 双重结构 + `as a whole` 语境。`fail to treat with consideration` = **没有**尊重（不是"没有不尊重"），方向反了。
 
 **各词释义（按选项顺序）：**
-- A. consideration = 尊重、体谅 ✅
+|- A. consideration = 尊重、体谅 ❌（本题错误选项）
 - B. veneration = 崇敬、敬仰（程度过重，venerate 是对神灵/圣人的崇敬）
 - C. lucubration = 刻苦钻研、学究式著作（罕见词，与尊重无关）
 - D. opprobrium = 谴责、耻辱（反义 ❌）
 - E. reverence = 尊敬、敬畏 ✅
 - F. disdain = 鄙夷（反义 ❌）
-- 💡 consideration 和 reverence 都是"尊重"，但程度不同：consideration 偏"体谅、顾及"，reverence 偏"敬重、敬畏"。此处用 cannot fill with consideration/reverence equally，SE 配对成立。veneration 太强（常用于宗教/圣人语境），且 Unlike consideration/reverence，veneration 与 fail to treat with 搭配不自然。
