@@ -175,3 +175,72 @@ infraction（违规/违法）vs affliction（痛苦/折磨）
 **区分：** irresolution vs. vacillation — irresolution 更强调"做不出决定"的停滞状态；vacillation 更强调"反复改变已有决定"的动态摇摆。在 SE 中它们是互补同义词对。
 
 ---
+
+## mendacity
+
+**释义：** 虚假，谎言，不诚实（正式用语，比 lying 更书面化）
+
+**词根：** 拉丁文 *mendax*（说谎的）。同根词：mendacious (adj.)
+⚠️ 别跟 mendicant（乞丐/乞讨）搞混，后者来自拉丁 *mendicus*（贫穷的）。
+
+**场景：**
+- **填空逻辑对立** — 与 veracity / truthfulness / candor 构成反义对立，常出现在「表面 vs 实际」结构
+- **政治/媒体考点** — 攻击对手的 mendacity 是 GRE 阅读中政论类文章的常见主题
+- **道德/义务** — 指责某人 moral mendacity（道德虚伪），比 simple dishonesty 更重
+
+**画面：** The politician's mendacity wasn't a lapse — it was a lifestyle, each lie building a monument to his own corruption.
+
+**Synonyms:** dishonesty, deceit, duplicity, falsehood
+**Antonyms:** veracity, truthfulness, candor, honesty
+
+**区分：**
+- mendacity vs. **perjury** — perjury 特指法庭上作伪证，mendacity 泛指一切不诚实
+- mendacity vs. **prevarication** — prevarication 是回避/搪塞，mendacity 是直接说谎
+
+---
+
+## scrupulous
+
+**释义：** 一丝不苟的；审慎正直的（带道德良心色彩）
+
+**词根：** 拉丁 *scrupulus*（小尖石 → 良心刺痛 → 顾虑）。同根词：scruple (n. 顾忌，v. 有顾虑)
+
+**场景：**
+- **学术论证** — scrupulous research / scrupulous attention to detail（批判科学家的严谨）
+- **道德/义务** — scrupulous honesty 指连小便宜都不占的正直，比 honest 强
+- **法律/司法** — scrupulous fairness（法官的公正不容置疑）
+
+**画面：** He was so scrupulous about fairness that he'd split the last cookie in half with a micrometer.
+
+**Synonyms:** meticulous, conscientious, punctilious, scrupulously honest
+**Antonyms:** unscrupulous, careless, remiss, negligent
+
+**区分：**
+- scrupulous vs. **meticulous** — meticulous 只是"细致"（中性），scrupulous 带"道德正直"的含义
+- scrupulous vs. **punctilious** — punctilious 强调遵守礼仪/规则细节，scrupulous 强调道德良心
+- GRE 最爱考 **unscrupulous**（肆无忌惮的，不道德的）
+
+---
+
+## beatified
+
+**释义：** 受宣福的，被赐福的；beatify 的过去分词
+
+**词根：** 拉丁 *beatus*（幸福的）+ *facere*（做）。同根词：beatific (adj.), beatification (n.), beatitude (n.)
+
+**场景：**
+- **阅读人物刻画** — 描写人物时的反讽/夸张：某种被神圣化的状态
+- **历史评价** — 历史/宗教类文章中真实使用（天主教宣福礼）
+- **文学/修辞** — beatific smile / beatific vision（极乐表情/至福景象）
+
+**画面：** As she bit into the molten chocolate cake, her expression was positively beatific — pure, transportive bliss.
+
+**Synonyms:** sanctified, blessed, glorified
+**Antonyms:** damned, condemned, cursed
+
+**区分：**
+- beatified vs. **canonized** — 天主教两步：先 beatified（宣福），后 canonized（封圣）— 但 GRE 不考宗教细节
+- beatified vs. **beautified** — 发音极像但意思完全不同，beautified = 美化，GRE 可能利用发音混淆设干扰
+- beatified vs. **blessed** — blessed 更通用（上帝保佑），beatified 是天主教正式术语
+
+---
