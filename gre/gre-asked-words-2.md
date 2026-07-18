@@ -244,3 +244,74 @@ infraction（违规/违法）vs affliction（痛苦/折磨）
 - beatified vs. **blessed** — blessed 更通用（上帝保佑），beatified 是天主教正式术语
 
 ---
+
+## evanescent
+
+**释义：** 转瞬即逝的、迅速消失的
+
+**词根：** 拉丁 *e-*（出/外）+ *vanescere*（消失）→ 逐渐消失。同根词：*vanish*（消失）、*vanity*（虚浮）
+
+**场景：**
+- 描写短暂的现象、记忆、美感——彩虹、青春、流行趋势
+- 填空对立：与 enduring / permanent / perpetual 构成反义
+- 常见修饰：beauty, fame, moment, memory, pleasure
+
+**画面：** 肥皂泡在阳光下飘起，七彩流光在破灭前的两三秒——最美的画面，最 evanescent 的存在。
+
+**Synonyms:** fleeting, transient, ephemeral, fugitive
+**Antonyms:** enduring, permanent, perpetual, abiding, perennial
+
+**区分：**
+- *Evanescent ≈ ephemeral*：最接近。Ephemeral 字面"只活一天"，强调寿命极短；evanescent 强调"正在消退的过程中"
+- *Evanescent > fleeting*：evanescent 更文学化诗意化；fleeting 更日常
+- *Transient*：更中性，"临时的"
+
+---
+
+## poignant
+
+**释义：** 令人心酸的、深深打动人的、辛辣的（引起强烈悲伤或同情）
+
+**词根：** 古法语 *poindre*（刺）← 拉丁 *pungere*（刺/扎）。同根词：*pungent*（辛辣刺鼻）、*puncture*（刺穿）
+
+**场景：**
+- 描写引发强烈情感的事物——老照片、告别时刻 `a poignant farewell`
+- 文艺评论中形容作品深刻有力 `a poignant documentary`
+- 反义语境：与 bland / insipid / vapid 构成对比
+
+**画面：** 女儿婚礼上父亲播放她三岁时录的视频——"daddy I love you"——全场 silent。不是悲伤而是被深深撞击了内心。
+
+**Synonyms:** touching, moving, affecting, heartrending, bittersweet
+**Antonyms:** bland, insipid, vapid, unaffecting
+
+**区分：**
+- *Poignant vs. piquant*：同源（pungere "刺"），poignant 刺情感（心酸），piquant 刺味觉（辛辣）或兴趣
+- *Poignant vs. pungent*：pungent 气味/评论，poignant 只用于情感
+- *Poignant > moving*：poignant 一定带悲凉伤感，moving 更中性
+
+---
+
+## perennial
+
+**释义：** 长期的、持久的、反复出现的；（植物）多年生的
+
+**词根：** 拉丁 *per-*（贯穿）+ *annus*（年）= 贯穿全年 → 多年不断。同根词：*annual*（一年生的）、*anniversary*（周年）、*annuity*（年金）
+
+**场景：**
+- 长期反复的问题 `the perennial problem of urban congestion`
+- 政治/社论中永恒议题 `Housing is a perennial concern`
+- 植物学比喻 → 引申为持续活跃的事物
+- 反义：与 ephemeral / evanescent / transient / fleeting 构成对比
+
+**画面：** 每年春天小区门口那棵老槐树自己发芽开花——不用重新种，年年回来，这就是 perennial。
+
+**Synonyms:** enduring, lasting, perpetual, persistent, abiding
+**Antonyms:** ephemeral, evanescent, transient, fleeting, momentary
+
+**区分：**
+- *Perennial vs. perpetual* — perpetual 强调"永不停止"无间断，perennial 强调"周期性重复"
+- *Perennial vs. enduring* — enduring 更偏"经得起考验"，perennial 更偏"年复一年重现"
+- *Perennial vs. evanescent* — 完美反义词：多年生 vs 转瞬即逝
+
+---
+
