@@ -1639,21 +1639,21 @@ vex, aggravate, gall
 
 ## percipience
 
-**释义：** 洞察力，感知力，认知能力
+**释义：** 洞察力；敏锐的感知/理解能力（尤指能洞察事物本质或细微差别的敏锐心智）
 
-**词根：** 拉丁语 *percipiens* ← *per-*（彻底）+ *capere*（抓取）→ 完全抓住 → 深入了解
+**词根：** per-（完全/彻底）+ -cip-（拿/抓取）= 完全抓住 → 透彻理解。同根词：perceive（感知）、perception（感知/认知）、perceptive（敏锐的）、conceive（构想）、deceive（欺骗）
 
 **场景：**
-- 敏锐的感知/洞察能力 — a critic of remarkable percipience
-- 与 perceptiveness 同义
+- 学术/人物刻画（阅读常考）：用来形容思想家、评论家或小说人物对人性/社会的深刻理解。如 "the percipience of a great novelist in capturing human contradictions"
+- 填空逻辑（同义复现）：与 insight、acumen、discernment 等价，常与 insightful、astute、penetrating 构成同义对应
+- 领导力/管理场景：形容能迅速抓住问题核心的人，与 obtuse（迟钝的）形成逻辑对立
 
-**Synonyms:** perceptiveness, discernment, insight, acumen, perspicacity, acuteness
-**Antonyms:** dullness, obtuseness, imperceptiveness
+**画面：** A chess master sits in silence for three minutes, then moves one pawn — the audience sees only the pawn, but he saw the checkmate fifteen moves ahead.
 
-**区分：**
-- percipience = 感知/洞察的**能力**
-- percipience vs perspicacity: perspicacity = 洞察的敏锐/犀利
-- percipience vs sagacity: sagacity = 智慧/判断力（更偏经验智慧）
+**Synonyms:** insight, discernment, acumen, perspicacity, penetration, sagacity
+**Antonyms:** obtuseness, dullness, impercipience, stupidity
+
+**区分：** percipience vs. perspicacity：几乎同义，但 perspicacity 更多强调精明/判断力（商业/政治语境），percipience 偏重感知/理解力（哲学/文学语境）。percipience vs. acumen：acumen 是特定领域的敏锐（business acumen），percipience 更通用、更偏"看透本质"的能力。
 
 ---
 

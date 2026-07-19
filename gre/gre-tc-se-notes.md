@@ -969,13 +969,13 @@
 - ✅ **正确答案：D. opprobrium + F. disdain**
 - 🚩 **⚠️ 陷阱题！** 关键：`as a whole` + `fail to ... equally`。父母不看好整个教育系统（按理应鄙视老师）→ 但他们 fail to treat teachers with opprobrium/disdain equally（**没有一视同仁地鄙视**）→ 对老师有区别对待。`Although` 前后：不看好系统（整体否定）↔ 没有一致否定老师（差别对待），**方向不同 → 转折 ✅**。错误原因：忽略 `fail to` + `equally` 双重结构 + `as a whole` 语境。`fail to treat with consideration` = **没有**尊重（不是"没有不尊重"），方向反了。
 
-**各词释义（按选项顺序）：**
-|- A. consideration = 尊重、体谅 ❌（本题错误选项）
-- B. veneration = 崇敬、敬仰（程度过重，venerate 是对神灵/圣人的崇敬）
-- C. lucubration = 刻苦钻研、学究式著作（罕见词，与尊重无关）
-- D. opprobrium = 谴责、耻辱（反义 ❌）
-- E. reverence = 尊敬、敬畏 ✅
-|- F. disdain = 鄙夷（反义 ❌）
+|**各词释义（按选项顺序）：**
+||- A. consideration = 尊重、体谅 ❌（父母不希望一视同仁地尊重）
+|- B. veneration = 崇敬、敬仰 ❌（程度过重，venerate 是对神灵/圣人的崇敬）
+|- C. lucubration = 刻苦钻研、学究式著作 ❌（罕见词，与题意无关）
+|- D. opprobrium = 谴责、耻辱 ✅（fail to treat with opprobrium equally = 没有一视同仁地谴责）
+|- E. reverence = 尊敬、敬畏 ❌（父母既然不看好教育系统，不应选正面词⊗equally 结构）
+||- F. disdain = 鄙夷 ✅（与 opprobrium 同义配对，fail to treat with disdain equally = 没有一视同仁地鄙夷）
 
 ---
 
@@ -1014,18 +1014,18 @@
 
 **[Medium] [SE]** test 38 s1 #5
 > The women's rights movement has been mostly [------] in the Middle East, but it is likely that activists will be newly galvanized by the political upheavals currently sweeping the region.
-- ✅ A. subverted + D. bootless · ❌ BE (quiescent+abeyant) 
-- 🚩 but（转折）→ newly galvanized（重新激发活力）← 当前状态是"被压制/无效"。galvanized 原义为"通电"，在此 metaphorically 表示被激发
-- 💡 关键陷阱：quiescent/abeyant 看似合理（"暂时静止"），但语气太温和。"大部分是静止的"→"但将被激发"的逻辑通顺但不是最准确的。正确答案 subverted（被颠覆/压制）+ bootless（徒劳无效）更准确地表达了"运动被压制到基本无效"的状态。注意子选项：subverted = 被内部破坏而非正面镇压；bootless = futile/ineffective
+- ✅ B. quiescent + E. abeyant · ❌ AD (subverted+bootless)
+- 🚩 **but**（↔️转折）+ **newly galvanized**（重新被激活）→ 之前的状态是**沉寂/暂停的** → quiescent = abeyant
+- 💡 张巍答案文件原写 AD（subverted+bootless），经考满分确认答案为 BE（正确率51%，难度4），和 #6 一样是该 section 的笔误条目。galvanized = 给…通电/激励，quiescent = 静止的，abeyant = 暂时中止的——这是最简单的转折取反逻辑。
 
 **各词释义（按选项顺序）：**
-- A. subverted = 被颠覆、被暗中破坏。词根：*sub-*（下）+ *vertere*（转）→ 从下面翻转 → 暗中破坏 ✅
-- B. quiescent = 静止的、休眠的。词根：拉丁语 *quiescere*（休息）← *quies*（安静）→ 暂时安静的 ❌
+- A. subverted = 被颠覆、被暗中破坏。词根：*sub-*（下）+ *vertere*（转）→ 从下面翻转。说"被颠覆"与 but 后"被重新激活"不太构成自然转折 ❌
+- B. quiescent = 静止的、休眠的。词根：拉丁语 *quiescere*（休息）← *quies*（安静）→ 暂时安静的 ✅
 - C. interminable = 无休止的、冗长的 → 不匹配
-- D. bootless = 徒劳的、无益的。词根：古英语 *bōt*（补救）+ *-less*（无）→ 无补救作用的 → 无效的 ✅
-- E. abeyant = 暂搁的、中止的。词根：古法语 *abéance*（期待/悬而未决）→ 暂时搁置状态 ❌
+- D. bootless = 徒劳的、无益的。词根：古英语 *bōt*（补救）+ *-less*（无）→ 无补救作用的。语义方向可接受但非正确答案 ❌
+- E. abeyant = 暂搁的、中止的。词根：古法语 *abéance*（期待/悬而未决）→ 暂时搁置状态 ✅
 - F. feckless = 无能的、不负责任的。词根：*effect* 的苏格兰变体 + *-less* → 无效果的 → 不匹配
-- 💡 subverted vs. quiescent：subverted 强调运动本身被破坏/压制，quiescent 是自然休眠。在 but 转折语境中，由被压制状态→被重新激活，比静止→被激活更有张力
+- 💡 quiescent / abeyant 都是"暂时不活跃/休眠"的意思，与 but 后 galvanized（被激活）形成最直接的转折对应。注意张巍答案文件已知笔误，和 #6 一样 AD 是错的。
 
 ---
 
@@ -1047,18 +1047,18 @@
 
 **[Hard] [SE]** test 38 s1 #6
 > Beatified by the Catholic Church in 1765, Italian cleric Ludovico Sabbatini is [------] each year on the day of his death, June 1.
-- ✅ B. evoked + F. christened · ❌ CD (deified+venerated)
-- 🚩 **Beatified**（被宣福 = 死后被教会认可进入天堂的步骤之一）+ **each year on the day of his death** → 每年在他忌日被**唤起纪念**/这**被命名为**纪念日
-- 💡 这里的 evoked 取"唤起（记忆/感受）"的引申义 = 被追思纪念。christened 取"(被)命名为/起名为"义 = 6月1日被命名为他的纪念日。注意这是 SE 题，两个词在"某日作为纪念/命名"这个语境下趋于同义。deified（神化）程度过强——beatified 只是宣福，不是封神；venerated（尊崇）语义虽合理但不在正确答案中
+- ✅ D. venerated + E. honored · ❌ BF (evoked+christened)
+- 🚩 **Beatified**（被宣福）+ **each year on the day of his death** → 被宣福的人，信徒会在其忌日**崇敬/纪念**他 → venerated = honored
+- 💡 最简单的取同义题：beatified（被宣福/被尊为真福者）→ blank 取 beatified 的广义同义 = venerated（崇敬）/ honored（纪念）。注意张巍答案文件原本写了 BF，经对照考满分（正确率63%，难度3）确认为 DE。
 
 **各词释义（按选项顺序）：**
-- A. pledged = 发誓/承诺 → 不匹配
-- B. evoked = 唤起、引起（记忆/情感）。词根：拉丁语 *ex-*（出）+ *vocare*（叫）→ 叫出来。在此引申为"被纪念/被唤起记忆" ✅
-- C. deified = 被神化。词根：*deus*（神）+ *-fy*（使）→ 使之成神 ❌（程度过强）
-- D. venerated = 被尊崇、被敬奉。词根：拉丁语 *venerari*（崇拜）→ 语义合理但不在答案中 ❌
-- E. honored = 被尊敬 → 太普通，不是正确答案
-- F. christened = 被命名为。词根：拉丁语 *christianizare*（使成为基督徒）→ 引申为"为...命名/起名" ✅
-- 💡 这道题比较特殊：evoked 在此取"被唤起/被纪念"的引申义，christened 取"被命名"义。两者在"定下某日纪念某人"这个场景中构成近义。注意这是大坑题：venerated 看起来完全正确，但不是 SE 配对——正确答案是 evoked + christened。
+- A. pledged = 发誓/承诺 → 完全不相关
+- B. evoked = 唤起、引起（记忆/情感）。词根：拉丁语 *ex-*（出）+ *vocare*（叫）→ 叫出来。被动"被唤起"放在这里说不通——人不能被"唤起" ❌
+- C. deified = 被神化。词根：*deus*（神）+ *-fy*（使）→ 使之成神。程度过重——beatified 只是宣福（真福品），不是 canonized（封圣），更不是变成神 ❌
+- D. venerated = 被尊崇、被敬奉。词根：拉丁语 *venerari*（崇拜/敬奉）→ 与 beatified 同义对应 ✅
+- E. honored = 被尊敬、被纪念 → 与 venerated 同义配对 ✅
+- F. christened = 被命名为/受洗。词根：拉丁语 *christianizare*（使成为基督徒）。宣福是在人死后多年才进行的，不可能再"施洗/命名" ❌
+- 💡 注意这是张巍答案文件的已知笔误（原写 BF），正确答案为 DE：venerated ≈ honored。
 
 ---
 
