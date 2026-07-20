@@ -449,3 +449,65 @@
 **Antonyms:** restrained, understated, austere, sober, muted
 
 ---
+
+## manifestation
+
+**释义：** 表现、体现、显示；（宗教语境）显灵、显化
+
+**词根：** 拉丁语 *manifestus*（明显的）= *manus*（手）+ *-festus*（击打）= "用手击打使之显现" → 使明显可见。同根词：manifest（明显的、显示）、manifesto（宣言）
+
+**场景：**
+- **抽象概念的具体体现（填空/阅读高频）** — 抗议是民怨的 manifestation（a manifestation of underlying discontent）
+- **临床症状（医学类阅读）** — 该疾病的临床 manifestations 包括发热和皮疹
+- **核扩散/事态发展（国际政治类阅读）** — nuclear proliferation 是冷战紧张局势的另一种 manifestation
+
+**画面：** 烟囱里的烟雾是工厂内部燃烧的 visible manifestation——你看不到火焰，但看到烟就知道它在烧。
+
+**Synonyms:** embodiment, expression, demonstration, indication, evidence
+**Antonyms:** concealment, suppression, latency
+
+---
+
+## proliferate
+
+**释义：** 激增、迅速繁殖、扩散
+
+**词根：** pro-（向前）+ lifer-（后代/子嗣）+ -ate（动词后缀）= 大量产生后代 → 激增。同根词：prolific（多产的）、proliferation（激增/扩散）
+
+**场景：**
+- **负面扩散（填空常考——虚假信息/武器/谣言）** — Social media has allowed misinformation to proliferate at an alarming rate.
+- **生物/医学（细胞/种群）** — Cancer cells proliferate uncontrollably.
+- **核扩散（GRE阅读高频短语）** — nuclear proliferation——核武器/核材料的扩散
+- **商业/经济（公司/初创企业）** — Startups proliferated during the dot-com boom.
+
+**画面：** 兔子被引入没有天敌的澳洲——几年内从24只 proliferate 到数亿只，原生物种被大量侵占。
+
+**Synonyms:** multiply, burgeon, mushroom, explode, propagate, flourish
+**Antonyms:** dwindle, diminish, decrease, decline, stagnate, shrink
+
+**区分：**
+- proliferate vs. propagate: proliferate 强调\"数量激增\"（自动发生），propagate 强调\"主动传播/繁殖\"（人或自然充当媒介）。Plants propagate through seeds; rumors proliferate through social media.
+- proliferate vs. burgeon: burgeon 偏\"迅速成长/发芽\"（生机勃勃），proliferate 偏\"大量出现/扩散\"（可以是中性和负面）
+
+---
+
+## dict- 词根词族
+
+**词根：** *dict* = to say / to speak（说、宣告）
+
+**词汇速查：**
+| 词 | 拆解 | 含义 |
+|---|---|---|
+| dictate | dict+ate | 口述、命令、支配 |
+| dictator | dict+ator | 独裁者 |
+| predict | pre(前)+dict | 预言、预测 |
+| contradict | contra(反)+dict | 反驳、矛盾 |
+| verdict | ver(真)+dict | 裁决 |
+| edict | e(出)+dict | 法令 |
+| dictum | dict+um | 格言 |
+| diction | dict+ion | 措辞 |
+| addict | ad(向)+dict | 上瘾 |
+| indict | in(加强)+dict | 起诉 |
+| benediction | bene(好)+dict+ion | 祝福 |
+| malediction | male(坏)+dict+ion | 诅咒 |
+| jurisdiction | juris(法律)+dict+ion | 司法管辖权 |
