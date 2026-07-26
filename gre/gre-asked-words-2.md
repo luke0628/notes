@@ -486,8 +486,8 @@
 **Antonyms:** dwindle, diminish, decrease, decline, stagnate, shrink
 
 **区分：**
-- proliferate vs. propagate: proliferate 强调\"数量激增\"（自动发生），propagate 强调\"主动传播/繁殖\"（人或自然充当媒介）。Plants propagate through seeds; rumors proliferate through social media.
-- proliferate vs. burgeon: burgeon 偏\"迅速成长/发芽\"（生机勃勃），proliferate 偏\"大量出现/扩散\"（可以是中性和负面）
+- proliferate vs. propagate: proliferate 强调"数量激增"（自动发生），propagate 强调"主动传播/繁殖"（人或自然充当媒介）。Plants propagate through seeds; rumors proliferate through social media.
+- proliferate vs. burgeon: burgeon 偏"迅速成长/发芽"（生机勃勃），proliferate 偏"大量出现/扩散"（可以是中性和负面）
 
 ---
 
@@ -511,3 +511,43 @@
 | benediction | bene(好)+dict+ion | 祝福 |
 | malediction | male(坏)+dict+ion | 诅咒 |
 | jurisdiction | juris(法律)+dict+ion | 司法管辖权 |
+
+---
+
+## wax
+
+**释义：** v. （月亮）渐盈、变大；v. 上蜡、打蜡；v. 滔滔不绝地谈论（wax eloquent/lyrical/philosophical）；n. 蜂蜡
+
+**词根：** 古英语 *weaxan*「生长、增加」→ 与德语 *wachsen* 同源。蜡的含义来自古英语 *weax*「蜂蜡」。
+
+**场景：**
+- 🌙 自然/天文 — GRE 阅读描写：wax and wane（月亮的盈亏）→ 比喻事物的兴衰起伏。"The empire waxed in power throughout the 16th century, only to wane after the succession crisis."
+- 🗣️ 人物刻画 — GRE 阅读：wax eloquent / wax lyrical / wax philosophical → 形容人物突然开始滔滔不绝地高谈阔论。"The normally taciturn professor would wax philosophical after his second glass of sherry."
+- ⚖️ 填空逻辑对立：wax ↔ wane 是经典反义对，wax ↔ ebb/decline/diminish 也是常见对立。
+
+**画面：** 一个沉默寡言的图书管理员，每晚对着逐渐盈满的月亮 wax poetic about medieval poetry——月越圆，话越多。
+
+**Synonyms:** increase, grow, expand, enlarge, swell（渐盈义）；polish, buff, coat（打蜡义）
+**Antonyms:** wane, ebb, decline, diminish, decrease
+
+---
+
+## pensive
+
+**释义：** adj. 沉思的；忧郁地深思的（陷入沉思，往往带一丝忧伤/严肃）
+
+**词根：** pens-（称量/思考）+ -ive（形容词后缀）= 在脑子里掂量事情。同根词：ponder（沉思）、compensate（补偿）、dispense（分配）、expense（花费）——都是「称量/权衡」义的延伸。
+
+**场景：**
+- 🎭 人物刻画 — GRE 阅读：形容人物沉默深思、若有所思的神态。"a pensive expression"、"He sat in pensive silence after hearing the news."
+- ✍️ 填空逻辑：与 reflective/contemplative/meditative 近义，与 carefree/lighthearted/flippant 反义。GRE 常考「pensive = 认真深思」vs「flippant = 轻浮不认真」的对比。
+- 📖 文学分析：形容作品/诗歌的沉思基调。
+
+**画面：** 一个人坐在窗边，手托着下巴，看着外面的雨——他不是在发呆，而是在脑子里反复掂量一个没有答案的问题。
+
+**Synonyms:** reflective, contemplative, meditative, thoughtful, brooding
+**Antonyms:** carefree, lighthearted, flippant, unthinking, frivolous
+
+**区分：**
+- pensive vs. brooding：pensive 偏中性（认真思考），brooding 偏负面（阴沉地闷闷不乐地沉思）
+- pensive vs. reflective：几乎同义，reflective 更理性，pensive 多一层淡淡的忧伤感
