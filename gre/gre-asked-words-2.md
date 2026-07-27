@@ -853,3 +853,434 @@
 - *poignant vs. pungent：* pungent 是气味辛辣刺鼻，poignant 是情感刺人
 
 ---
+
+## peremptory
+
+**释义：** 专横的，不容反驳的，命令式的；（法律）绝对的
+
+**词根：** 拉丁语 *peremptorius*（致命的、决定性的）← *perimere*（消灭）← *per-*（彻底）+ *emere*（拿取）→ 不容争辩
+
+**场景：**
+- 👑 GRE 填空·人物态度：*peremptory tone/command/order* — 不容商量
+- ⚖️ GRE 填空·逻辑对立：*peremptory* vs. *deferential / equivocal / tentative / open to debate*
+- 🏛️ GRE 阅读·法律：*peremptory challenge* — 无理由否决陪审员
+
+**画面：** 老板走到桌前扔下一句"周五前交"，你刚想开口他已转身——那不容你多说半个字的架势就是 *peremptory*。
+
+**Synonyms:** imperious, dictatorial, overbearing, dogmatic, commanding, high-handed
+**Antonyms:** deferential, humble, open-minded, equivocal, tentative, accommodating
+
+**区分：** 
+- *peremptory vs. preemptive：* preemptive 是「先发制人」抢先手，peremptory 是「我说了算」不容辩
+- *peremptory vs. perfunctory：* ⚠️ GRE 高频易混！perfunctory = 敷衍了事，peremptory = 霸道命令式
+- 拼写：p-e-r-e-m-p-t-o-r-y，不是 pre- 开头也不是两个 r
+
+---
+
+## numinous
+
+**释义：** 超自然的，神圣的，令人敬畏的
+**词根：** 拉丁语 *numen*（神祇、灵）
+**GRE 场景：** 填空/阅读中与 sacred、spiritual、supernatural 同义，形容宗教/神秘体验
+
+---
+
+## clamorous
+
+**释义：** 吵闹的，喧嚷的；大声疾呼的
+**词根：** 拉丁语 *clamor*（呼喊）
+**GRE 场景：** 与 vociferous、strident 同义，贬义指喧闹嘈杂/强烈抗议
+
+---
+
+## invidious
+
+**释义：** 惹人反感的，招嫉妒的；不公平的
+**词根：** 拉丁语 *invidia*（嫉妒、反感）
+**GRE 场景：** invidious comparison（不公平的对比）、invidious distinction（招人反感的区别对待）；≠ envious（嫉妒别人）
+
+---
+
+## sonorous
+
+**释义：** 洪亮的，铿锵有力的；能发出响亮声音的
+**词根：** 拉丁语 *sonor*（声音）
+**GRE 场景：** 形容声音/演讲/文风有力和悦耳；与 resonant、mellifluous 近义
+
+---
+
+## perfunctory
+
+**释义：** 敷衍的，草率的，走过场的
+**词根：** 拉丁语 *perfunctorius*（走过场的）
+**GRE 场景：** 与 cursory、superficial、half-hearted 近义；反义：thorough、meticulous
+
+---
+
+## exacting
+
+**释义：** 苛求的，严格的；要求极高的
+**词根：** *ex-*（出）+ *agere*（驱动）→ 把一切逼出来
+**GRE 场景：** exacting standards / exacting task；反义：lenient（宽容的）
+
+---
+
+## antithesis
+
+**释义：** 对立面，反面；对偶
+**词根：** *anti-*（反）+ *thesis*（放置）→ 放在对立面
+**GRE 场景：** "the very antithesis of X" = X 的极端反面；与 opposite、contrary 同义
+
+---
+
+## exemplar
+
+**释义：** 典范，楷模；典型例子
+**词根：** 拉丁语 *exemplum*（例子、样本）
+**GRE 场景：** 某类事物的杰出代表；与 paragon、archetype、epitome 近义；反义：antithesis
+
+---
+
+## dilution
+
+**释义：** 稀释，冲淡；削弱
+**词根：** 拉丁语 *diluere*（冲洗掉）
+**GRE 场景：** 抽象义——力量/纯度/效果的削弱；近义：weakening、attenuation
+
+---
+
+## somnolent
+
+**释义：** 昏昏欲睡的；催眠的
+**词根：** 拉丁语 *somnus*（睡眠）
+**GRE 场景：** 与 lethargic、drowsy、torpid 近义；同根词：insomnia（失眠）、somnambulist（梦游者）
+
+---
+
+## lethargic
+
+**释义：** 昏睡的，无精打采的，萎靡的
+**词根：** 希腊语 *lethargos*（健忘 + 怠惰）
+**GRE 场景：** 与 somnolent、listless、sluggish、torpid 近义；常见 SE 配对：somnolent + lethargic
+
+---
+
+## laconic
+
+**释义：** 简洁的，精炼的（用极少词语表达的）
+**词根：** 希腊 *Lakōnikos*（拉科尼亚人 = 斯巴达人，说话极其简洁）
+**GRE 场景：** 与 terse、succinct、concise、pithy 近义；反义：verbose、loquacious、garrulous
+
+---
+
+## befuddled
+
+**释义：** 困惑的，迷糊的；头脑不清的
+**词根：** *be-*（使）+ *fuddle*（使醉/使迷糊）
+**GRE 场景：** 与 confused、perplexed、baffled 近义
+
+---
+
+## profusion
+
+**释义：** 大量，充沛，丰富
+**词根：** 拉丁语 *profusus*（倾泻而出的）
+**GRE 场景：** a profusion of... = 大量的…；与 abundance、wealth、plethora 近义；SE 常与 wealth 配对
+
+---
+
+## resurgence
+
+**释义：** 复苏，复兴；再次兴起
+**词根：** 拉丁语 *resurgere*（再升起）
+**GRE 场景：** a resurgence of interest / popularity / nationalism；近义：revival、renewal、comeback
+
+---
+
+## enigma
+
+**释义：** 谜，费解的事物；神秘的人或物
+
+**词根：** 希腊语 *ainigma*（谜语，隐晦的话），源自 *ainissesthai*（说谜语）
+
+**场景：**
+- 填空：remain an enigma → 提示因果链或对立的线索点
+- 学术：scientific enigma / historical enigma
+
+**画面：** A black box with a question mark on it sits on a scientist's desk — every time she thinks she's solved it, a new keyhole appears.
+
+**Synonyms:** mystery, puzzle, riddle, conundrum
+**Antonyms:** clarity, obviousness
+
+---
+
+## derivative
+
+**释义：** 缺乏独创的，派生的（adj）；衍生物（n）
+
+**词根：** 拉丁语 *derivare*（从源头引出），de-（离开）+ rivus（溪流）
+
+**场景：**
+- 填空：derivative research = 不新颖的研究
+- 学术：derivative work / derivative ideas
+- 对比 original, novel, pioneering
+
+**画面：** A painter tracing over someone else's masterpiece with tracing paper — the lines are the same, but the soul is gone.
+
+**Synonyms:** unoriginal, imitative, secondhand, borrowed
+**Antonyms:** original, innovative, pioneering, novel
+
+---
+
+## tendentious
+
+**释义：** 有倾向性的，偏颇的（带有强烈观点或目的，不客观）
+
+**词根：** 拉丁语 *tendere*（倾向，伸展）+ -ious（形容词后缀）= 有倾向的
+
+**场景：**
+- 填空：tendentious description → grossly misleading
+- 学术/评论：tendentious reporting / tendentious scholarship
+- 同根词：tendency（趋势）、tender（温柔的 / 投标）、extend（延伸）
+
+**画面：** A news anchor holding a microphone that's clearly bent toward one political party — the mic has a visible curve.
+
+**Synonyms:** biased, partisan, prejudiced, slanted
+**Antonyms:** impartial, objective, unbiased, neutral
+
+---
+
+## esoteric
+
+**释义：** 深奥难懂的，只有少数人能理解的；秘传的
+
+**词根：** 希腊语 *esoterikos*（内部的），源自 *eso*（在里面）
+
+**场景：**
+- 填空：esoteric scholarship → 深奥难懂的学术研究
+- 学术：esoteric knowledge / esoteric terminology
+- 对比：accessible, commonplace, exoteric（面向大众的）
+
+**画面：** A dusty book in a hidden library section, written in a language only three people in the world can read.
+
+**Synonyms:** arcane, recondite, abstruse, cryptic
+**Antonyms:** accessible, commonplace, exoteric, familiar
+
+---
+
+## dubiously
+
+**释义：** 可疑地，不确定地（adv）；dubious 的副词形式
+
+**词根：** 拉丁语 *dubius*（犹豫不决的），源自 duo（二）= 在两者之间摇摆
+
+**场景：**
+- 填空：dubiously supported = 支撑不力的
+- 学术：a dubiously sourced claim
+- 同根词：doubt、dubious、indubitable
+
+**画面：** A scientist presents a graph held up by a single toothpick — it wobbles dangerously, about to collapse.
+
+**Synonyms:** questionably, uncertainly, suspiciously
+**Antonyms:** certainly, unquestionably, convincingly
+
+---
+
+## augmentation
+
+**释义：** 增大，增加；强化
+
+**词根：** 拉丁语 *augere*（增加），同根词：augment、auction（拍卖=价格增加）、author（创造者）
+
+**场景：**
+- 填空：augmentation ≈ expansion（同义近义对）
+- 科技：data augmentation / reality augmentation
+- 对比：diminution、reduction
+
+**画面：** A balloon slowly inflating — you can see it getting visibly bigger every second, stretching outward.
+
+**Synonyms:** expansion, enlargement, increase, amplification
+**Antonyms:** reduction, diminution, contraction, shrinkage
+
+---
+
+## omnipresence
+
+**释义：** 无所不在，遍在（在任何地方同时存在）
+
+**词根：** omni-（全，所有）+ presence（在场）= 到处都在
+
+**场景：**
+- 填空："a century of omnipresence" 逻辑倒置 — 无所不在是结果不是原因
+- 同根词：omnipotent（全能的）、omniscient（全知的）、omnivorous（杂食的）
+
+**画面：** Wi-Fi signals radiating from every corner of a city — invisible waves connecting everything, everywhere, all at once.
+
+**Synonyms:** ubiquity, pervasiveness, everywhereness
+**Antonyms:** absence, scarcity, rarity
+
+---
+
+## ubiquity
+
+**释义：** 无处不在，普遍存在
+
+**词根：** 拉丁语 *ubique*（到处），ubi（哪里）+ que（和/也）
+
+**场景：**
+- 填空：the ubiquity of smartphones / social media
+- SE 近义：ubiquity ≈ omnipresence ≈ pervasiveness
+- 对比：rarity、scarcity
+
+**画面：** Dandelion seeds in spring — no matter where you look, there's one floating by your window.
+
+**Synonyms:** omnipresence, pervasiveness, universality
+**Antonyms:** rarity, scarcity, uncommonness
+
+---
+
+## salutary
+
+**释义：** 有益的（尤指虽然有不好的一面但最终有益）
+
+**词根：** 拉丁语 *salus*（健康，安全），同根词：salute（致敬/祝健康）、salubrious（有益健康的）
+
+**场景：**
+- 填空：常出现在"not A or even B"递进结构中
+- 学术：salutary effect / salutary lesson / salutary reminder
+- 对比：harmful、detrimental、pernicious
+
+**画面：** A bitter medicine that makes you grimace — but three days later, you're healthier than you've been in months.
+
+**Synonyms:** beneficial, advantageous, helpful, wholesome
+**Antonyms:** harmful, detrimental, pernicious, deleterious
+
+---
+
+## inevitable
+
+**释义：** 必然的，不可避免的
+
+**词根：** 拉丁语 *inevitabilis*，in-（不）+ evitare（避免）= 无法避免的
+
+**场景：**
+- 填空："not instantaneous or even inevitable" = 递进结构
+- 常见搭配：the inevitable outcome / inevitable consequence
+- 对比：avoidable、preventable、contingent
+
+**画面：** A domino chain stretching for miles — once the first one tips, every single one will fall, no exceptions.
+
+**Synonyms:** unavoidable, inescapable, certain, inexorable
+**Antonyms:** avoidable, preventable, contingent, uncertain
+
+---
+
+## momentary
+
+**释义：** 短暂的，瞬间的
+
+**词根：** 拉丁语 *momentum*（运动，时刻），源自 movere（移动）
+
+**场景：**
+- 填空：与 instantaneous 同向，形不成递进
+- 常见搭配：momentary lapse / momentary hesitation
+- 对比：lasting、enduring、permanent
+
+**画面：** A camera flash in a dark room — blinding white for a split second, then everything returns to darkness.
+
+**Synonyms:** fleeting, transient, ephemeral, brief
+**Antonyms:** lasting, enduring, permanent, prolonged
+
+---
+
+## defied
+
+**释义：** 藐视，公然反抗；违背（defy 的过去式）
+
+**词根：** 古法语 *defier*（不信任，拒绝忠诚），dis-（分离）+ fidus（忠诚的）
+
+**场景：**
+- 填空：claims that defied logic = 违背逻辑的主张
+- 常见搭配：defy expectations / defy explanation / defy convention
+- SE 近义：defy ≈ disregard ≈ flout
+
+**画面：** A protester standing alone in front of a tank — refusing to move, refusing to bow, refusing to obey.
+
+**Synonyms:** challenged, flouted, resisted, disobeyed
+**Antonyms:** obeyed, complied, conformed, submitted
+
+---
+
+## disregarded
+
+**释义：** 无视，不顾（认为不重要而忽略）
+
+**词根：** dis-（不/去除）+ regard（关注/看待）= 不关注
+
+**场景：**
+- 填空：claims that disregarded logic = 无视逻辑的主张
+- SE 近义：disregard ≈ defy ≈ ignore ≈ flout
+- 对比：heed、respect、follow
+
+**画面：** A "WET PAINT" sign on a bench — someone sits down anyway, phone in hand, completely oblivious.
+
+**Synonyms:** ignored, overlooked, flouted, dismissed
+**Antonyms:** heeded, respected, observed, followed
+
+---
+
+## refute / defy
+
+**refute （动词）**
+**释义：** 驳斥、反驳——用证据或逻辑证明某说法错误。GRE 核心陷阱：refute ≠ deny，refute 要求 proof，光嘴上否定不是 refute。
+
+**defy （动词）**
+**释义：** 公然违抗、蔑视、挑战——拒绝服从或抵抗权威/规则/预期。不强调逻辑论证，重点在姿态上的对抗。
+
+**核心区分：**
+| refute | defy |
+|---|---|
+| 方式：用证据/逻辑推翻 | 用行动公开抗拒 |
+| 对象：论点、指控、理论 | 权威、规则、常识/预期 |
+| 是否需 proof：✅ | ❌ |
+| 反义词：confirm, corroborate | obey, comply, submit |
+
+**场景：**
+- 填空逻辑对立 — refute 搭配 claim/argument/theory；defy 搭配 authority/convention/explanation，信号 defies easy categorization
+- 阅读人物刻画 — 作者 refute 前人理论（逻辑推翻）；现象 defies 现有模型解释（抵抗被理解）
+- 学术论证 — 数据 refute 假说；异常数据 defy 预期 → 暗示范式危机
+
+**画面：** The scientist defied her advisor's orders to drop the project, then spent three years gathering data to refute the dominant theory — she didn't just rebel, she proved them wrong.
+
+**GRE 填空陷阱：** refute 被误用为「否认」是经典错误选项。"he denied the accusation but failed to ___ it" → 答案 refute。deny 只需嘴上说不，refute 需要举证。
+
+**Synonyms:**
+- refute: rebut, disprove, invalidate, counter
+- defy: resist, flout, challenge, disobey, brave
+
+**Antonyms:**
+- refute: confirm, corroborate, validate, substantiate
+- defy: obey, comply, submit, yield, acquiesce
+
+---
+
+## autumnal
+
+**释义：** *adj.* 秋天的；秋天般的；（比喻）成熟后期的、暮年的、衰退中的
+
+**词根：** 拉丁语 *autumnus*（秋天）→ autumn → autumnal
+
+**场景：**
+- **GRE 阅读·人物刻画：** 描述一个人步入晚年（autumnal years），带有成熟、沉静、但隐隐衰落的意味——常与 youthful/vital/vernal 形成对比
+- **GRE 填空·逻辑对立：** 比喻一个文明、时代或事业的「秋天」——已过巅峰、开始衰退但仍有余晖，对立面是 nascent/burgeoning/efflorescent（初兴的/蓬勃的）
+
+**画面：** 满树金红色的枫叶，灿烂至极——但每一片都在往下落。autumnal 就是那一刻的美：辉煌与凋零并存。
+
+**Synonyms:** autumn-like, mature, mellow, declining, waning
+**Antonyms:** vernal, youthful, nascent, burgeoning, efflorescent
+
+**区分：**
+- autumnal vs vernal：季节性对立（秋 vs 春），比喻衰退 vs 新生
+- autumnal vs wintry：autumnal 暗示成熟后的衰退（尚有温度），wintry 更冷峻、贫瘠
+
+---

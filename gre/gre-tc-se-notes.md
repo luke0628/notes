@@ -110,7 +110,7 @@
 - ✅ 18 · 0628 · ↔️转折
   > **Although** the drug showed great promise in early trials, its long-term side effects proved too _______ for regulatory approval.
   🎯 **severe** 严重的 · 🚩although(↔️转折) → promise(前景好) → 副作用反面 → severe导致无法获批
-  💡 信号词前后方向必相反；too severe for approval 直接影响结果
+  💡 信号词前后方向必相反
   📖 promise 前景 · trials 试验 · regulatory 监管的 · approval 批准
 
 - ❌ 19 · 0629 · ↔️转折
@@ -969,7 +969,7 @@
 - ✅ **正确答案：D. opprobrium + F. disdain**
 - 🚩 **⚠️ 陷阱题！** 关键：`as a whole` + `fail to ... equally`。父母不看好整个教育系统（按理应鄙视老师）→ 但他们 fail to treat teachers with opprobrium/disdain equally（**没有一视同仁地鄙视**）→ 对老师有区别对待。`Although` 前后：不看好系统（整体否定）↔ 没有一致否定老师（差别对待），**方向不同 → 转折 ✅**。错误原因：忽略 `fail to` + `equally` 双重结构 + `as a whole` 语境。`fail to treat with consideration` = **没有**尊重（不是"没有不尊重"），方向反了。
 
-|**各词释义（按选项顺序）：**
+||**各词释义（按选项顺序）：**
 ||- A. consideration = 尊重、体谅 ❌（父母不希望一视同仁地尊重）
 |- B. veneration = 崇敬、敬仰 ❌（程度过重，venerate 是对神灵/圣人的崇敬）
 |- C. lucubration = 刻苦钻研、学究式著作 ❌（罕见词，与题意无关）
@@ -1069,3 +1069,132 @@
 - 🚩 contrary to（↔️转折）→ reputation 与实际相反 → 实际是 opaque（晦涩）→ reputation 应是 simple（简单/朴实）
 - simplicity = 简单 · artlessness = 朴实无华（同义词对）✅
 - 📖 scrupulousness = 审慎 · mendacity = 虚假 · polish = 优雅精致
+
+---
+
+## 8. 0726 · 张巍 test 1 s2 #1, test 9 s2 #1 #5, test 26 s2 #1 #6
+
+### ✅ [Easy] [TC] test 1 s2 #1 — numinous (C)
+
+> My grandma has a strong belief in all things [------]: she insists, for example, that the house in which she lived as a child was haunted.
+
+- ✅ C. numinous · ❌ A/B/D/E
+- 🚩 冒号解释说明 → haunted（闹鬼）→ 超自然信仰
+- 逻辑类型：解释说明（冒号后举例）
+
+**各词释义（A→E）：**
+- A. clamorous = 吵闹的，喧嚷的 · 词根：clamor（呼喊）
+- B. invidious = 惹人反感的，招嫉妒的 · 词根：invidia（嫉妒）· GRE 常考：invidious comparison
+- C. numinous = 超自然的，神圣的，令人敬畏的 · 词根：numen（神祇、灵）
+- D. empirical = 经验主义的，凭经验的 · 词根：empeiria（经验）
+- E. sonorous = 洪亮的，铿锵有力的 · 词根：sonor（声音）
+
+---
+
+### ✅ [Medium] [TC] test 9 s2 #1 — confused (A)
+
+> In a production process that is complex and often unpredictable, roles that start out discretely defined may become quite [------].
+
+- ✅ A. confused · ❌ B/C/D/E
+- 🚩 对比转折：discretely defined（界限分明）→ complex/unpredictable → confused（模糊混乱）
+- 逻辑类型：对比转折（起点 vs 结果）
+
+**各词释义（A→E）：**
+- A. confused = 混乱的，模糊不清的
+- B. perfunctory = 敷衍的，草率的 · 词根：perfunctorius（走过场）
+- C. independent = 独立的（与原文相反）
+- D. overt = 公开的，明显的 · 词根：aperire（打开）· 反义：covert
+- E. exacting = 苛求的，严格的 · 反义：lenient
+
+---
+
+### ✅ [Medium] [SE] test 9 s2 #5 — wealth + profusion (AD)
+
+> Despite the [------] of medical information available through e-mail, the Internet, and mobile devices, not many patients are taking advantage of the potential of electronic communications for health-related needs.
+
+- ✅ AD · ❌ B/C/E/F
+- 🚩 转折让步：Despite + "not many taking advantage" → 前面必须说信息"多"
+- 逻辑类型：转折让步
+- SE 近义对：wealth（丰富）+ profusion（大量）= 信息极大丰富
+
+**各词释义（A→F）：**
+- A. wealth = 丰富，大量 · 搭配：a wealth of information
+- B. complexity = 复杂性
+- C. intricacy = 错综复杂
+- D. profusion = 大量，充沛 · 词根：profusus（倾泻而出）· 搭配：a profusion of
+- E. resurgence = 复苏，复兴 · 词根：resurgere（再升起）
+- F. overload = 超负荷，过载
+
+---
+
+### ✅ [Hard] [TC] test 26 s2 #1 — antithesis (E)
+
+> Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant, at best a dead end, at worst the very [------] of what science is supposed to be.
+
+- ✅ E. antithesis · ❌ A/B/C/D
+- 🚩 递进结构：at best dead end → at worst [极端反面] → antithesis
+- 逻辑类型：递进（at best... at worst... 程度升级）
+
+**各词释义（A→E）：**
+- A. exemplar = 典范，楷模 · 词根：exemplum（例子）· 反义：antithesis
+- B. glorification = 颂扬，美化
+- C. reflection = 反映，映像
+- D. dilution = 稀释，冲淡 · 词根：diluere（冲掉）
+- E. antithesis = 对立面，反面 · 词根：anti-（反）+ thesis（放置）→ 对立
+
+---
+
+### ✅ [Hard] [SE] test 26 s2 #6 — somnolent + lethargic (AC)
+
+> Films that critics have slumbered through rarely generate industry excitement, even though the critics' [------] reception may be less the fault of the movie than of its unfortunate time slot near a fatiguing film festival's conclusion.
+
+- ✅ AC · ❌ B/D/E/F
+- 🚩 同义复现：slumbered through → fatiguing → [------] reception → 困倦/昏昏欲睡
+- 逻辑类型：同义复现（slumbered/fatiguing 呼应空）
+- SE 近义对：somnolent（昏昏欲睡的）+ lethargic（无精打采的）
+
+**各词释义（A→F）：**
+- A. somnolent = 昏昏欲睡的 · 词根：somnus（睡眠）· 同根：insomnia, somnolence
+- B. impartial = 公正的，不偏不倚的 · 词根：im-（不）+ partial（偏袒）
+- C. lethargic = 昏睡的，无精打采的 · 词根：lethargos（健忘+怠惰）
+- D. laconic = 简洁的，精炼的 · 词根：Laconia（斯巴达地区，人说话简洁）
+- E. befuddled = 困惑的，迷糊的 · be- + fuddle（使醉）
+- F. evenhanded = 公正的，不偏不倚的 · 同义于 impartial
+
+---
+
+### ✅ [Medium] [SE] test 9 s2 #6 — prescient + prophetic (BC)
+
+> The political upheaval caught most people by surprise: despite the [------] warnings of some commentators, it had never seemed that imminent.
+
+- ✅ BC · ❌ A/D/E/F
+- 🚩 转折让步：despite + "caught by surprise / never seemed imminent" → 空 = 预见性的
+- 逻辑类型：转折让步
+- SE 近义对：prescient（有先见之明的）+ prophetic（预言的）
+
+**各词释义（A→F）：**
+- A. stern = 严厉的，坚定的
+- B. prescient = 有先见之明的 · 词根：pre-（前）+ scire（知道）
+- C. prophetic = 预言的，先知的 · 词根：prophetes（预言者）
+- D. indifferent = 漠不关心的 · 词根：in-（不）+ differre（区分）
+- E. repeated = 重复的
+- F. apathetic = 冷漠的 · 词根：a-（无）+ pathos（感情）
+
+---
+
+### ✅ [Hard] [SE] test 26 s2 #7 — conform to + square with (BF)
+
+> Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not [------] his moderate political record.
+
+- ✅ BF · ❌ A/C/D/E
+- 🚩 因果：because → wild-eyed radical ≠ moderate record → 空 = 符合/一致
+- 逻辑类型：因果关系
+- SE 近义对：conform to（符合）+ square with（一致）
+
+**各词释义（A→F）：**
+- A. defer to = 遵从，听从 · defer（推迟/遵从）
+- B. conform to = 符合，遵守 · 词根：con-（共同）+ forma（形状）
+- C. accede to = 同意，加入 · 词根：accedere（走近）
+- D. argue with = 与…争论
+- E. meddle with = 干涉，插手
+- F. square with = 与…一致，相符
