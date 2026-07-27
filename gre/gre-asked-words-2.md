@@ -551,3 +551,305 @@
 **区分：**
 - pensive vs. brooding：pensive 偏中性（认真思考），brooding 偏负面（阴沉地闷闷不乐地沉思）
 - pensive vs. reflective：几乎同义，reflective 更理性，pensive 多一层淡淡的忧伤感
+
+---
+
+## martinet
+
+**释义：** 严格执行纪律的人；刻板的规章至上者（常带贬义，指过分强调规则、不容变通的严苛上级）
+
+**词根：** 源自法国人名 **Jean Martinet**（17世纪路易十四时期的法军军官），以严酷的训练体系闻名，发明现代军事操练制度。Martinet 用鞭子训练士兵，要求绝对服从。名字从此成为"严苛纪律狂"的代名词。
+
+**场景：**
+- 📖 GRE 阅读·人物刻画：描述一个改革派领导者，批评者称其为 martinet，暗示其改革手段过于粗暴、不近人情
+- 🧩 GRE 填空·逻辑对立：与 lax / permissive / lenient 构成对立，常出现在"尽管他私下很随和，但在工作中是个 martinet"这类让步结构
+- ⚖️ GRE 填空·社会/官僚语境：描述死守规章制度的中层管理者，对应题干的 stickler for rules / stickler for protocol
+
+**画面：** 一个戴单片眼镜的法国军官拿着尺子量士兵的胡须长度，差一毫米罚跑十圈——二战征兵海报里从来不缺这张脸，但你一看到就知道：这就是个 martinet。
+
+**Synonyms:** stickler, disciplinarian, taskmaster, authoritarian, drill sergeant
+**Antonyms:** lax, permissive, lenient, easygoing, indulgent
+
+**区分：**
+- martinet vs authoritarian：martinet 强调对规则细节的偏执（document every field trip, three signatures for a pencil），authoritarian 更强调权力控制和压制异议
+- martinet vs pedant：martinet 针对的是一套行为规范（rules of conduct），pedant 针对的是知识/学识的精确性（grammar, facts, academic minutiae）
+
+---
+
+## ruthless
+
+**释义：** 冷酷无情的，毫不留情的（做任何必要之事达成目标，不因他人感受而动摇）
+
+**词根：** ruth（古英语"怜悯、同情"）+ -less（无）。ruth 本身来自 rue（后悔、悲叹），所以 ruthless = 不后悔、不同情他人的痛苦。
+
+**场景：**
+- 📖 GRE 阅读·人物刻画：描述商业巨头或政治领袖，被称为 ruthless competitor / ruthless pragmatist，暗示其不惜一切代价达成目的
+- 🧩 GRE 填空·逻辑对立：与 compassionate / merciful / magnanimous 构成对立
+- ⚔️ GRE 填空·竞争/自然选择：形容竞争环境、淘汰机制，如 ruthless efficiency / ruthless cost-cutting
+
+**画面：** 《纸牌屋》Frank Underwood 敲了两下戒指，转过来对镜头说"我不在乎你怎么死，我只在乎你死没死"——教科书级别的 ruthless。
+
+**Synonyms:** merciless, pitiless, remorseless, unrelenting, cutthroat
+**Antonyms:** compassionate, merciful, lenient, magnanimous, soft-hearted
+
+**区分：**
+- ruthless vs cruel：cruel 以制造痛苦为乐（sadistic pleasure），ruthless 是为达目的不惜造成痛苦，但不以痛苦本身为目的
+
+---
+
+## seamless
+
+**释义：** 无缝的；天衣无缝的；浑然一体的（过渡/整合/衔接上没有明显断点或瑕疵）
+
+**词根：** seam（接缝，衣物的缝合线）+ -less（无）。字面义"没有缝的"→ 引申为"衔接完美的"。
+
+**场景：**
+- 🔬 GRE 填空·科技/数据：描述系统集成、用户体验的流畅性，如 seamless integration / seamless transition
+- 📖 GRE 阅读·学术论证：描述论证的连贯性，作者称赞某个理论提供 seamless explanation
+- 🎭 GRE 阅读·叙事/艺术：形容叙事结构的无缝衔接——时间线跳跃、视角切换不突兀
+
+**画面：** 你从 iPhone 复制一段文字，在 Mac 上直接粘贴——中间的"缝"被苹果填得干干净净。这就是 seamless 在科技语境里的标准画面。
+
+**Synonyms:** smooth, flawless, uninterrupted, coherent, fluid
+**Antonyms:** disjointed, clunky, fragmented, jarring, ragged
+
+**区分：**
+- seamless vs smooth：seamless 强调结构上没有断点（no structural break），smooth 强调体验上没有颠簸（no turbulence）。一个无缝的过渡可能在审美上不讨喜；二者侧重不同
+
+---
+
+## execrate
+
+**释义：** 憎恶，诅咒；痛骂（强烈表达反感、厌恶，常用于道德或宗教语境中的谴责）
+
+**词根：** 拉丁语 ex-（出，向外）+ sacrare（奉献给神）→ exsecrari（把某人献给神来诅咒）→ execrate。与 sacred / consecrate 同源（sacr- 皆与"神圣"相关），但 execrate 是反向操作——把人"踢出神圣的保护圈"并加以诅咒。
+
+**场景：**
+- ⛪ GRE 填空·道德/义务：出现在宗教或道德谴责语境中，比简单的 hate 更有仪式感和严肃性。execrate a crime / execrate the tyrant
+- 📖 GRE 阅读·人物刻画：描述道德家、改革者激烈谴责社会弊病，execrate corruption / execrate injustice
+- 🧩 GRE 填空·力度递进：与 dislike → abhor → execrate 构成递进，execrate 是最强烈的端点（不仅憎恶，还要公开诅咒）
+
+**画面：** 古罗马元老院，一个白发议员站起来，手指指向广场中央："Exsecror te ad inferos!"（我咒你下地狱！）——声音回荡在大理石柱之间。这不是普通的生气，这是召唤神明来见证的终极厌恶。
+
+**Synonyms:** abhor, detest, loathe, anathematize, revile, denounce
+**Antonyms:** bless, praise, extol, laud, venerate, commend
+
+**区分：**
+- execrate vs abhor：abhor 是内心深处的厌恶（feel revulsion），execrate 除了厌恶还包含公开表达、诅咒的仪式性动作。你可以在心里 abhor 一个人，但 execrate 需要说出来或写出来
+- execrate vs anathematize：二者几乎可以互换，但 anathematize 带有更强的宗教/教条色彩（教会正式宣布某人为 anathema），execrate 可以用于世俗语境
+
+---
+
+## sponger
+
+**释义：** 寄生虫，吃白食的人（依赖他人资源生活、不付出回报的人，类似于海吸纳水只进不出）
+
+**词根：** sponge（海绵）+ -er（…的人）。海绵吸水却不回吐 → 一个只会吸取别人的金钱/资源却不回报的人。动词：sponge off sb = 蹭某人的。
+
+**场景：**
+- 📖 GRE 阅读·人物刻画：描述一个游手好闲的角色寄居在富有的亲戚或朋友家中，living as a sponger on his wealthy uncle
+- 🧩 GRE 填空·道德批判：与 self-reliant / industrious / productive 构成对立，常出现在批判惰性或寄生行为的语境
+- 🏛️ GRE 填空·社会/政治：抨击福利制度滥用或某个群体"白吃白喝"的政治修辞
+
+**画面：** 大学宿舍里那个从不买洗发水、从来不点外卖但永远准时出现在你桌边夹菜的室友——你叫他 free rider 已经客气了，出题人会用 sponger，因为他不仅是 free rider，他还理所当然。
+
+**Synonyms:** parasite, freeloader, leech, moocher, hanger-on
+**Antonyms:** provider, benefactor, breadwinner, self-starter
+
+**区分：**
+- sponger vs parasite：近义，parasite 更生物学/医学化，sponger 更日常/口语化。GRE 中 sponger 出现在文学人物评论里更常见，parasite 更可能出现在社会科学/经济语境
+- sponger vs sycophant：sycophant 是拍马屁以换取好处（flattery for gain），sponger 不一定奉承，纯靠白嫖
+
+---
+
+## commencing / commence
+
+**释义：** 开始，着手（正式地启动某事，用于正式的、庄重的或程序性的语境）
+
+**词根：** 拉丁语 com-（一起）+ initiare（开始，initiate）→ 古法语 comencier → 中古英语 commencen。与 initiate / initial 共享 init- 词根。
+
+**场景：**
+- 🏛️ GRE 填空·正式/法律语境：描述正式程序的启动，如 commencing legal proceedings / commencing the ceremony。强调仪式感和正式性，不同于随便的 start
+- 📖 GRE 阅读·叙述时间标记：用于学术/历史叙述中标记事件起点，commencing in 1848, the movement spread rapidly
+- 🧩 GRE 填空·逻辑搭配：commencement（毕业典礼）← 同一个词根——毕业典礼的本质不是庆祝结束，而是标记新生活的正式启动
+
+**画面：** 法槌落下，法官说 "The trial is now commencing." 这一敲代表的不只是时间上的开始，而是一整套程序、法律、命运的齿轮开始转动。你用 start 形容打开一罐可乐，用 commence 形容开启一场审判。
+
+**Synonyms:** begin, initiate, launch, inaugurate, embark on
+**Antonyms:** conclude, terminate, cease, halt, finish
+
+**区分：**
+- commence vs begin：begin 是通用词，commence 带有正式感（formality）和程序性。日常说 "I began reading" 正常，说 "I commenced reading" 除非你在讽刺自己的仪式感
+- commence vs initiate：initiate 强调首次启动一个过程或计划（尤其是创新性的），commence 只强调"开始"本身，不强调首次/新颖
+
+---
+
+## diaphanous
+
+**释义：** （布料、材料）轻薄透明的，半透明的；引申为精致、纤弱、飘逸的
+
+**词根：** 希腊语 *diaphanēs* — *dia-*（穿过）+ *phainein*（显示）→ 光穿透过去
+
+**场景：**
+- 👗 GRE 阅读·人物刻画：描写女性角色的服装，*diaphanous gown/silk/veil*，与 aristocratic / ethereal / delicate 搭配
+- ⚖️ GRE 填空·逻辑对立：与 *opaque / heavy / substantial / coarse* 反义，考「轻薄 ↔ 厚重」对比
+- 🎨 GRE 阅读·文艺评论：形容画作光影、薄纱层次，或喻论证「空洞无物、经不起推敲」
+
+**画面：** 晨光穿过薄如蝉翼的窗帘，能看见窗外树叶轮廓但看不清细节——那种朦胧通透感就是 diaphanous。
+
+**Synonyms:** gossamer, translucent, sheer, ethereal, gauzy, filmy, vaporous
+**Antonyms:** opaque, substantial, dense, heavy, thick, coarse
+
+**区分：** 
+- *diaphanous vs. ephemeral：* diaphanous 是视觉上的轻薄通透，ephemeral 是时间上的短暂
+- *diaphanous vs. ethereal：* ethereal 侧重超脱凡俗的灵性美，diaphanous 侧重物理半透明
+
+
+---
+
+## adventitious
+
+**释义：** 偶然发生的，外来的，非本质的；（生物）异位生长的，不定的
+
+**词根：** 拉丁语 *adventicius* — "coming from abroad" ← *advenire*（到达）→ *ad-*（朝）+ *venire*（来）→ 从外部"降临"的，非内生的
+
+**场景：**
+- ⚖️ GRE 填空·逻辑对立：与 *inherent / intrinsic / essential / innate* 构成核心反义对，考「偶然外来 ↔ 内在本质」对比。真题高频：*adventitious circumstances* vs. *essential characteristics*
+- 📚 GRE 阅读·学术论证：作者驳斥某发现是 *adventitious*（偶然所得），强调是严谨实验设计的必然结果
+- 🧬 GRE 阅读·生物：*adventitious roots/buds* — 不定根/不定芽，考生物学术语精确理解
+
+**画面：** 你在海边散步，一块冲上岸的浮木上居然长出了新芽——那不是树计划的一部分，纯粹是海水和阳光碰巧促成的 adventitious 生命。
+
+**Synonyms:** accidental, incidental, fortuitous, contingent, extrinsic, casual, serendipitous
+**Antonyms:** inherent, intrinsic, essential, innate, integral, indigenous, native
+
+**区分：** 
+- *adventitious vs. fortuitous：* fortuitous 偏向「幸运的巧合」，adventitious 中性「非本质的、外来的」——不暗示好坏
+- *adventitious vs. extrinsic：* extrinsic 强调「来源在外部」，adventitious 强调「非计划/非本质」——后者不一定来自外部
+
+---
+
+## vexed / vex
+
+**释义：** （adj.）恼怒的，烦恼的；（v.）使恼怒，使困惑 / 长期困扰
+
+**词根：** 拉丁语 *vexare* — "to shake, toss, harass" ← *vehere*（携带、运送）→ 反复折腾 → 令人烦躁
+
+**场景：**
+- 😤 GRE 填空·情感态度：*vexed by / at* → 因某事持续烦恼，比 *angry* 更克制持久。常见：*vexed question/problem*（棘手的难题）
+- 📖 GRE 阅读·人物刻画：作者被某矛盾现象 *vexed* → 困惑+轻微恼怒，不是暴怒
+- ⚖️ GRE 填空·逻辑对立：*vexed* vs. *placated / mollified / unperturbed*
+
+**画面：** 你第十遍经过儿子房间，门口还是堆着袜子——深吸一口气，不说也不吵，但那团堵在胸口的闷火就是 *vexed*。
+
+**Synonyms:** annoyed, irritated, irked, nettled, exasperated, peeved, perturbed
+**Antonyms:** placated, mollified, appeased, calmed, unperturbed, composed
+
+**区分：** 
+- *vexed vs. irate：* irate 是暴怒发作，vexed 是闷闷持续不爆发的烦恼
+- *vexed vs. perplexed：* 两者都有困惑，但 vexed 带恼怒，perplexed 纯粹困惑
+
+---
+
+## secede
+
+**释义：** （组织、国家等）正式退出，脱离
+
+**词根：** 拉丁语 *secedere* — *se-*（分开，离开）+ *cedere*（走，让步）→ 走开 → 脱离组织
+
+**场景：**
+- 🏛️ GRE 阅读·历史/政治：美国南方各州南北战争前 *seceded from the Union*。也用于政党分裂、地区脱离联邦
+- ⚖️ GRE 填空·逻辑对立：*secede* vs. *accede / federate / unite*，考「脱离 ↔ 加入/联合」
+- 🔤 GRE 填空·词根类比：*secede : union :: abdicate : throne*，与 *cede / recede / concede / precede* 系列捆绑考
+
+**画面：** 俱乐部里一群人吵了半年终于受不了了，一个派系站起来拍桌子说"我们不玩了"，推门而出——那个正式决裂的动作就是 *secede*。
+
+**Synonyms:** withdraw, break away, separate, split off, disaffiliate, pull out
+**Antonyms:** accede, join, unite, federate, affiliate, merge, incorporate
+
+**区分：** 
+- *secede vs. recede：* recede 是物理后退（潮水 *recedes*），secede 是政治退出
+- *secede vs. cede：* cede 是把领土/权利让给别人，secede 是自己退出组织
+
+---
+
+## precipitate / precipitous
+
+**precipitate （adj./v.）**
+**释义：** 仓促的，鲁莽的；使突然发生，加速；（化学）沉淀
+**词根：** 拉丁语 *praecipitare* — 头朝前扔下去
+
+**precipitous （adj.）**
+**释义：** 陡峭的；骤然发生的
+**词根：** *precipice*（悬崖）← 拉丁语 *praecipitium*
+
+**核心区分：**
+- *precipitate* 侧重点：仓促鲁莽（人的行为）→ 典型搭配 *precipitate action/decision*
+- *precipitous* 侧重点：陡峭 / 骤然（物理或趋势）→ 典型搭配 *precipitous cliff/decline/drop*
+
+**场景：**
+- ⚖️ GRE 填空·逻辑对立：*precipitate* vs. *deliberate / circumspect / prudent*；*precipitous* vs. *gradual / measured*
+- 📚 GRE 阅读·因果：*precipitate a crisis/war* → 加速引发危机
+- 🏔️ GRE 阅读·描写：*precipitous slope/drop* → 极其陡峭
+
+**画面：** *Precipitate* 是你没看路就冲下悬崖；*precipitous* 是那个悬崖本身。
+
+**precipitate Synonyms:** hasty, rash, impetuous, impulsive, reckless
+**precipitate Antonyms:** deliberate, circumspect, prudent, cautious, measured
+
+**precipitous Synonyms:** steep, sheer, abrupt, sharp
+**precipitous Antonyms:** gradual, gentle, sloping, measured
+
+---
+
+## humility / humane
+
+### humility (n.)
+**释义：** 谦逊，谦卑
+**词根：** 拉丁语 *humilitas* ← *humilis*（低的）← *humus*（泥土）→ 把自己放低
+**场景：**
+- 🎭 GRE 填空·逻辑对立：*humility* vs. *hubris / arrogance / vainglory* — 超高频反义对
+- 📖 GRE 阅读·人物刻画：*false humility* — 假谦虚实则炫耀
+**Synonyms:** modesty, meekness, humbleness, unpretentiousness
+**Antonyms:** hubris, arrogance, vainglory, pretension, haughtiness
+
+### humane (adj.)
+**释义：** 仁慈的，人道的（尤其对受苦者）
+**词根：** 拉丁语 *humanus*（人的）→ 有人性的
+**场景：**
+- ⚖️ GRE 填空·逻辑对立：*humane* vs. *cruel / callous / ruthless / barbaric*
+- 📖 GRE 阅读·社会议题：*humane treatment of prisoners/animals*
+**Synonyms:** compassionate, merciful, kind, benevolent, tender
+**Antonyms:** cruel, callous, ruthless, barbaric, inhumane
+
+### 核心区分
+- *humility* 对自己（谦逊），*humane* 对他人（仁慈）
+- *humility* 来自 *humus*（土），*humane* 来自 *humanus*（人）
+- GRE 陷阱：humility ≠ humiliation；humane ≠ humanitarian
+
+**画面：** *Humility* 是你获奖时说"都是团队的功劳"；*humane* 是你路边看到受伤的猫停下来送它去医院。
+
+---
+
+## poignant
+
+**释义：** （情感上）深刻而辛酸的，尖锐动人的；令人感伤的
+
+**词根：** 拉丁语 *pungere* — "to prick, pierce, sting"（刺、扎）→ 直戳内心
+
+**场景：**
+- 😢 GRE 阅读·情感描写：*poignant moment/scene/memory* — 苦甜交织，悲中有美
+- ⚖️ GRE 填空·逻辑对立：*poignant* vs. *detached / unemotional / bland / insipid*
+- ✍️ GRE 阅读·文艺评论：形容文字/表演精准深刻、戳中要害
+
+**画面：** 整理旧物翻到妈妈十年前写的便条，上面只有一句"冰箱里有饺子"——鼻子一酸、心被扎了一下的感觉就是 *poignant*。
+
+**Synonyms:** touching, moving, affecting, bittersweet, piercing, evocative, heartfelt
+**Antonyms:** detached, unemotional, bland, insipid, anodyne, unmoving
+
+**区分：** 
+- *poignant vs. sad：* sad 是单纯悲伤，poignant 是苦甜交织——悲中带温情
+- *poignant vs. maudlin：* maudlin 过度伤感自怜（贬义），poignant 真挚动人（褒义）
+- *poignant vs. pungent：* pungent 是气味辛辣刺鼻，poignant 是情感刺人
+
+---
