@@ -1931,3 +1931,96 @@
 **Antonyms:** certainty, inevitability, necessity
 
 **区分：** contingent (adj.) = 取决于…的，搭配 contingent on/upon；contingency (n.) = 意外事件/应急，搭配 contingency plan/fund。同根 tangible（可触摸的）。
+
+---
+
+## pensiveness
+
+**释义：** n. 沉思、忧郁的沉思 — 一种深陷思考、常带有淡淡忧伤的状态。不是单纯的"思考"，而是带着 wistful/melancholy 色彩的出神。
+
+**词根：** 拉丁 *pensare*（称重、思量）→ 法语 *penser*（思考）→ 英语 *pensive*。同根词：*pensive*（adj. 沉思的）、*recompense*（补偿←称量回来）。
+
+**场景（GRE 考点）：**
+- 阅读·人物刻画 — 描写角色陷入若有所思的沉默，常有 wistful/melancholy undertone
+- 填空·情感对立 — 与 levity（轻浮）、joviality（欢快）构成反义对比
+
+**画面：** 一个人靠在窗边，盯着雨滴沿玻璃滑下，一言不发半小时 — *lost in pensiveness*。
+
+**Synonyms:** thoughtfulness, contemplation, reflectiveness, wistfulness
+**Antonyms:** levity, lightheartedness, thoughtlessness
+
+---
+
+## stoicism
+
+**释义：** n. 斯多葛式的坚忍 — 面对痛苦、逆境时不流露情绪、泰然自若的态度。GRE 考得极多，常与 *resignation*（逆来顺受）、*impassivity*（无动于衷）捆绑。
+
+**词根：** 希腊 *stoa*（柱廊）→ 古希腊哲学家 Zeno 在雅典 Stoa Poikile（彩绘柱廊）讲学，学派因此得名 Stoicism。核心教义：情绪不随外物起伏，理性克制。
+
+**场景（GRE 考点）：**
+- 填空·态度评价 — 某人面对苦难表现出 stoicism → praised for fortitude / criticized as emotional detachment
+- 阅读·人物刻画 — 战士/领袖面对失败时的 stoic composure，常与 *unflinching, impassive, resigned* 搭配
+
+**画面：** 医生宣布坏消息，病人面无表情只说了句"知道了，下一步怎么办" — *remarkable stoicism in the face of devastating news*。
+
+**Synonyms:** fortitude, impassivity, resignation, forbearance, equanimity
+**Antonyms:** volatility, emotionalism, hysteria, excitability
+
+---
+
+## fastidiousness
+
+**释义：** n. 过分讲究、挑剔 — 对细节、清洁、精确度有极高的甚至苛求的标准。可偏中性（meticulous）也可贬义（finicky/picky）。
+
+**词根：** 拉丁 *fastidium*（厌恶、挑剔）← *fastus*（傲慢）+ *taedium*（厌倦）。强调"因为觉得不够好而产生反感"。
+
+**场景（GRE 考点）：**
+- 填空·性状评价 — 实验中 *fastidious attention to detail* → 褒义（一丝不苟）；生活中 *fastidious about cleanliness* → 可褒可贬
+- 阅读·人物刻画 — 描写贵族/精英的挑剔品位，常带负面色彩，暗示难以取悦
+
+**画面：** 一个人在高级餐厅换了三次餐具，因为杯子上有一枚 0.5 毫米的水渍 — *fastidious to a fault*。
+
+**Synonyms:** meticulousness, scrupulousness, squeamishness, finickiness
+**Antonyms:** sloppiness, carelessness, negligence, slovenliness
+
+---
+
+## congeniality
+
+**释义：** n. 合得来、意气相投 — 性格、兴趣、品味上的和谐融洽。强调"相处愉快"而非表面礼貌。
+
+**词根：** 拉丁 *con-*（共同）+ *genius*（天性/精神）→ *congenialis*（天性相合的）。同根词：*genial*（adj. 和蔼的）、*genius*（天才←守护精灵）。
+
+**场景（GRE 考点）：**
+- 填空·人际关系 — *congeniality among colleagues* → 同事间志趣相投、氛围融洽
+- 阅读·职场/学术 — 面试时不仅看能力还看 *congeniality*（是否 fit the culture）
+
+**画面：** 两个陌生人在火车上聊了一路，下车时互留电话 — *an instant congeniality that surprised them both*。
+
+**Synonyms:** amiability, affability, agreeableness, compatibility, geniality
+**Antonyms:** animosity, hostility, incompatibility, aloofness
+
+---
+
+## ballyhoo / ballyhooed
+
+**释义：** v./n. 大肆宣传、炒作 — 用夸张喧闹的方式推销或吹捧某物。GRE 中常用于描写媒体炒作、过度营销、或对某事物名声与实质不匹配的评价。作形容词 *ballyhooed* 表示「被大肆吹捧的」。
+
+**词根：** 词源不确定，可能源自 19 世纪末美国马戏团/游乐场招揽顾客的吆喝声（barker's cry），约 1900 年进入美式英语。暗示 lowbrow 的、煽动性的宣传手法。
+
+**场景（GRE 考点）：**
+- 填空·媒体炒作 — 某产品/电影/政策在推出前被媒体大肆吹捧（ballyhooed），但实际效果令人失望。常与 hype, tout, trumpet 构成逻辑等价
+- 阅读·商业评价 — 描述被投资界 ballyhooed 的 IPO 或新科技，上市后表现惨淡。常搭配 *much-ballyhooed* 表示反讽语气
+- 填空·名实不符 — 前后形成 contrast：前面 ballyhooed / highly touted / heralded，后面 actual performance 惨淡
+
+**画面：** 一部预告片轰炸了半年的"年度巨制"，上映后豆瓣 3.2 分 — *the much-ballyhooed blockbuster turned out to be a colossal flop*。
+
+**Synonyms:** tout, hype, trumpet, promote, publicize, sensationalize, puff
+**Antonyms:** downplay, understate, disparage, belittle, soft-pedal
+
+**区分：**
+- ballyhoo vs hype — 近乎同义，但 ballyhoo 更带马戏团式喧闹、低俗的贬义色彩；hype 更通用，可中性可贬义
+- ballyhoo vs tout — tout 侧重积极推荐/兜售（如 tout the benefits），语气可专业；ballyhoo 必带过度夸大、哗众取宠的负面判断
+- ballyhoo vs herald — herald（预报/宣告）可褒义（a heralded breakthrough），ballyhoo 几乎纯贬义
+
+---
