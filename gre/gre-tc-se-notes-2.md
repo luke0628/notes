@@ -172,3 +172,182 @@ C. redundant 多余的          | F. invalidating 使无效
 A. exasperating 令人恼火的   | B. unsurprising 不意外的     | C. satisfying 令人满意的  
 D. predictable 可预测的       | E. remarkable 非凡的         | F. frustrating 令人沮丧的 
 ```
+## 67. 2025-07-28 · test_10_s2 #4, test_100_s2 #1, test_100_s1 #4, test_102_s1 #2, test_102_s1 #5
+
+### ✅ [Easy] [TC3] test_10_s2 #4 — altruistic + illusory + contradicts (AEI)
+
+> Common sense tells me some people are more (i)[------] than others. The claim that these differences are (ii)[------], or that deep down, everybody acts only to further their own interests, (iii)[------] our everyday observations and deep-seated human practices of moral evaluation.
+
+- ✅ AEI
+- **信号：** common sense tells me vs the claim that → 常识 vs 声称 → 对立
+- **逻辑：** (i) 常识说人有利他差异 → (ii) 声称差异是虚幻的 → (iii) 这个声称与日常观察矛盾
+
+**各词释义：**
+```
+A. altruistic 利他的 · 词根：alter（他人）    | B. adaptable 能适应的 · adapt           | C. disciplined 有纪律的 · discipline
+```
+```
+D. growing 增长的 · grow                     | E. illusory 虚幻的 · illusion          | F. relevant 相关的 · relate
+```
+```
+G. mimics 模仿 · mimic                       | H. explains 解释 · explain              | I. contradicts 矛盾 · contradict
+```
+
+### ❌ [Medium] [TC单] test_100_s2 #1 — appurtenances (B) · answered C
+
+> Writing accessories such as letter openers, pen trays, and memorandum pads became tremendously popular during the Victorian era, and by far the most ubiquitous of such [------] was the letter box.
+
+- ❌ C. vexations
+- ✅ B. appurtenances
+- **信号：** letter openers, pen trays, memorandum pads → letter box → 同类列举
+- **逻辑：** 前后都是文具配件，需要"附属品/配件"的同位概括词
+- ⚠️ 错因：词义不熟，vexation = 烦恼，与文具无关
+
+**各词释义：**
+```
+A. epistles 书信              | B. appurtenances 附属物、配件   | C. vexations 烦恼、恼怒
+D. vestiges 遗迹、残余         | E. frugalities 节俭、朴素      |
+```
+
+### ❌ [Medium] [SE] test_100_s1 #4 — exculpated + absolved (BF) · answered AD
+
+> The Chancellor castigated one regime for its mistreatment of political opponents, whereas he inexplicably [------] another that had committed similar acts.
+
+- ❌ A. adjured · D. neglected
+- ✅ B. exculpated · F. absolved
+- **信号：** castigated ↔ whereas + inexplicably
+- **逻辑：** 对比 — 谴责一个，却 inexplicably _____ 另一个。需要"宽恕/放过"
+- **SE 近义对：** exculpated + absolved = 开脱、赦免
+- ⚠️ 错因：neglected（忽视）不是主动宽恕，adjured（恳求）完全不相关
+
+**各词释义：**
+```
+A. adjured 恳求、命令         | B. exculpated 开脱、证明无罪    | C. impugned 质疑、抨击
+D. neglected 忽视              | E. cosseted 溺爱、宠爱          | F. absolved 赦免、宣告无罪
+```
+
+### ✅ [Hard] [TC双] test_102_s1 #2 — perfectly harmonious + overdrawn (BF)
+
+> Although Kito Hiroshi's portrait of Edo Japan as (i)[------] is certainly (ii)[------], the fundamental factors of population stability and resource renewal generally did favor social maintenance and even economic growth.
+
+- ✅ BF
+- **信号：** Although... certainly... → 让步；后文 favor social maintenance → 暗示前文描述过度美化
+- **逻辑：** (i) Hiroshi 的描述 = 完美和谐；(ii) 这个描述 = 夸张的。Although 引出：虽然描述夸张，但基础因素确实有利
+
+**各词释义：**
+```
+A. outwardly aggressive 外表攻击性的  | B. perfectly harmonious 完美和谐的  | C. slowly developing 缓慢发展的
+```
+```
+D. derivative 衍生的、缺乏原创的       | E. positive 积极的                | F. overdrawn 夸张的、过头的
+```
+
+### ❌ [Hard] [SE] test_102_s1 #5 — consequential + indispensable (CD) · answered BF
+
+> The Federal Reserve Bank is one of the most [------] institutions in the United States, yet many are not aware of the important operations and activities it has carried out during its lifetime.
+
+- ❌ B. secretive · F. mysterious
+- ✅ C. consequential · D. indispensable
+- **信号：** yet + not aware → 转折；important 在后文对应
+- **逻辑：** yet 要求前后矛盾。Fed 很重要 → 但人们不了解 = 转折。Fed 很神秘 → 人们不了解 = 顺承，yet 白费
+- **SE 近义对：** consequential + indispensable = 重要的、不可或缺的
+- ⚠️ 错因：只看到"not aware"的暗示而忽略 yet 转折。考满分确认答案 CD。
+- **考满分解析：** yet跟not抵消，空格对应important取同
+
+**各词释义：**
+```
+A. distinguished 杰出的、著名的  | B. secretive 秘密的、守口如瓶的   | C. consequential 重要的、有影响的
+D. indispensable 不可或缺的       | E. misunderstood 被误解的         | F. mysterious 神秘的
+```
+
+---
+
+## 68. 2025-07-28 · test_117_s2 #4, test_101_s1 #1, test_100_s1 #5, test_102_s2 #2, test_106_s2 #5
+
+### ❌ [Easy] [TC3] test_117_s2 #4 — total + accommodations + incorporate (AFG) · answered BEG
+
+> Victories in intellectual battles in the human sciences are rarely (i)[------]. While factionalism may persist, (ii)[------] also tend to occur, as reigning paradigms selectively (iii)[------] those revisionist contributions that offer greater analytical comprehension or enrich our range of empirical reference.
+
+- ❌ B. acknowledged · E. distortions · G. incorporate
+- ✅ A. total · F. accommodations · G. incorporate
+- **信号：** rarely (i) + While factionalism may persist → 虽然派系斗争持续
+- **逻辑：** (i) rarely total = 胜利很少彻底；(ii) accommodations 调和也会发生；(iii) 范式选择性吸收修正贡献
+- ⚠️ 错因：(i) acknowledged（被承认）和"rarely"不构成"尽管派系持续但..."的转折；distortions（扭曲）方向反了
+
+**各词释义：**
+```
+A. total 彻底的、完全的            | B. acknowledged 被承认的         | C. benign 良性的
+```
+```
+D. betrayals 背叛                  | E. distortions 扭曲             | F. accommodations 调和、适应
+```
+```
+G. incorporate 吸收、纳入           | H. expunge 删除、抹去           | I. misrepresent 歪曲
+```
+
+### ❌ [Medium] [TC单] test_101_s1 #1 — chicanery (A) · answered D
+
+> It ought to be surprising that the bank falsified the numbers on its accounts; it is truly shocking that such [------] was documented, in black and white, and that regulators found it and did nothing about it.
+
+- ❌ D. sagacity
+- ✅ A. chicanery
+- **信号：** falsified numbers → such _____ → 同义复指造假行为
+- **逻辑：** 递进（surprising → truly shocking），需要"欺骗/诡计"
+- ⚠️ 错因：词义不熟。sagacity = 睿智（褒义，与造假无关）
+
+**各词释义：**
+```
+A. chicanery 欺骗、诡计     | B. raillery 嘲弄、取笑       | C. enmity 敌意、仇恨
+D. sagacity 睿智、精明       | E. probity 正直、诚实        |
+```
+
+### ❌ [Medium] [SE] test_100_s1 #5 — inchoate + incipient (AD) · answered AE
+
+> She had a feeling that was not yet fully articulated, [------] sense that something extraordinary and wonderful awaited her.
+
+- ❌ A. an inchoate · E. a foreboding
+- ✅ A. an inchoate · D. an incipient
+- **信号：** not yet fully articulated → 未成形 → 初步的
+- **逻辑：** 同位解释（feeling = sense），需要"萌芽/初步的"
+- **SE 近义对：** inchoate + incipient = 初步的、刚开始的
+- ⚠️ 错因：foreboding = 不祥预感，和后文"extraordinary and wonderful"方向相反
+
+**各词释义：**
+```
+A. an inchoate 初步的、未成形的     | B. an onerous 繁重的            | C. a burdensome 沉重的
+D. an incipient 刚开始的、萌芽的     | E. a foreboding 不祥预感        | F. an enchanting 迷人的
+```
+
+### ❌ [Hard] [TC双] test_102_s2 #2 — omissions + telling (BD) · answered AD
+
+> While catalogs of record labels that specialize in Native American music are useful indices of Native American consumers' preferences, their (i)[------] are also (ii)[------]: some genres of Native American music have been deemed inappropriate to record because of their special cultural significance.
+
+- ❌ A. strategies · D. telling
+- ✅ B. omissions · D. telling
+- **信号：** 冒号解释 → 有些音乐因文化意义不适合录制
+- **逻辑：** 目录缺了这些音乐 ≠ 目录没用。缺失本身反而"说明问题"（telling）
+- ⚠️ 错因：strategies（策略）与冒号解释不匹配。omissions = 遗漏，目录里少的东西
+
+**各词释义：**
+```
+A. strategies 策略               | D. telling 说明问题的、有揭示性的
+B. omissions 遗漏、省略           | E. misleading 误导的
+C. inconsistencies 不一致         | F. surprising 令人惊讶的
+```
+
+### ❌ [Hard] [SE] test_106_s2 #5 — onerous + arduous (CE) · (未答)
+
+> Although torrential rains can sometimes be highly destructive, human survival generally proves much more [------] without rain than during periods of its overabundance.
+
+- ❌ (未答)
+- ✅ C. onerous · E. arduous
+- **信号：** Although + destructive → 转折：暴雨虽破坏 → 但没雨更 _____
+- **逻辑：** 比较结构 more ___ without rain than during overabundance → 没雨更艰难
+- **SE 近义对：** onerous + arduous = 艰难的、费力的
+- ⚠️ 错因：未作答
+
+**各词释义：**
+```
+A. ponderous 笨重的、沉闷的       | B. unmanageable 难以管理的      | C. onerous 繁重的、艰难的
+D. tedious 单调乏味的              | E. arduous 艰巨的、费力的       | F. unlikely 不太可能的
+```
