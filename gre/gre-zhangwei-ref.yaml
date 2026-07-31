@@ -356,6 +356,7 @@ test_5_s2:
       blanks: 1
       ans: E
       preview: The artist’s career was remarkable partly because it...
+      completed: '2026-07-31'
     q2:
       type: TC
       blanks: 2
@@ -710,6 +711,7 @@ test_10_s1:
       blanks: 2
       ans: BD
       preview: It would be (i)_____ not to (ii)_____ these tabloid ...
+      completed: '2026-07-31'
     q3:
       type: TC3
       blanks: 3
@@ -1096,6 +1098,7 @@ test_15_s1:
       blanks: 2
       ans: AE
       preview: Despite dispute between the sisters lasted all summe...
+      completed: '2026-07-31'
     q3:
       type: TC3
       blanks: 3
@@ -2571,6 +2574,7 @@ test_34_s1:
       blanks: 1
       ans: DF
       preview: The concept of increasing complexity of organisms ha...
+      completed: '2026-07-31'
     q5:
       type: SE
       blanks: 1
@@ -2846,6 +2850,7 @@ test_37_s2:
       blanks: 1
       ans: BE
       preview: The women's rights movement has been mostly _____ in...
+      completed: '2026-07-31'
     q6:
       type: SE
       blanks: 1
@@ -3385,6 +3390,7 @@ test_44_s2:
       blanks: 1
       ans: DF
       preview: It may not seem like a big deal for produce distribu...
+      completed: '2026-07-31'
     q6:
       type: SE
       blanks: 1
@@ -3532,6 +3538,7 @@ test_46_s2:
       blanks: 3
       ans: CFG
       preview: People love to talk about their commutes to and from...
+      completed: '2026-07-31'
     q5:
       type: SE
       blanks: 1
@@ -5195,6 +5202,7 @@ test_68_s2:
       blanks: 1
       ans: A
       preview: Given the many thematic strands that the book seeks ...
+      completed: '2026-07-31'
     q3:
       type: TC
       blanks: 2
@@ -6018,6 +6026,7 @@ test_79_s1:
       blanks: 1
       ans: CE
       preview: 'He found his new acquaintance to be _____: trying to...'
+      completed: '2026-07-31'
 test_79_s2:
   difficulty: easy
   questions:
@@ -6041,6 +6050,7 @@ test_79_s2:
       blanks: 3
       ans: CEG
       preview: Based on the evidence available, it would be (i)____...
+      completed: '2026-07-31'
     q5:
       type: SE
       blanks: 1

@@ -351,3 +351,164 @@ C. inconsistencies 不一致         | F. surprising 令人惊讶的
 A. ponderous 笨重的、沉闷的       | B. unmanageable 难以管理的      | C. onerous 繁重的、艰难的
 D. tedious 单调乏味的              | E. arduous 艰巨的、费力的       | F. unlikely 不太可能的
 ```
+
+---
+
+## 69. 2026-07-31 · test_5_s2 #1, test_79_s2 #4, test_15_s1 #2, test_79_s1 #7, test_44_s2 #5
+
+### ✅ [Easy] [TC单] test_5_s2 #1 — abbreviated (E) · answered E
+
+> The artist's career was remarkable partly because it was so [------]: she died, with only a few paintings to her credit, while still in her twenties.
+
+- ✅ E · ✅ E
+- **信号：** 冒号解释 → "died... while still in her twenties" + "only a few paintings"
+- **逻辑：** 因果 — 二十多岁去世、仅几幅画 → 职业生涯短暂
+
+**各词释义：**
+```
+A. felicitous 恰当的、幸福的 | B. prolific 多产的       | C. enduring 持久的
+D. conventional 传统的       | E. abbreviated 简短的 ✅ |                   
+```
+
+### ❌ [Easy] [TC3] test_79_s2 #4 — facile + thoughtful + unexceptional (CEG) · answered CEH
+
+> Based on the evidence available, it would be (i)[------] to insist on a wholly negative portrayal of King Prajadhipok. In his own writings and pronouncements as well as in firsthand accounts offered by others, Prajadhipok consistently emerges as (ii)[------] and even-tempered, though (iii)[------].
+
+- ✅ CEG · ❌ CEH（(iii) 错）
+- **信号：** (i) "wholly negative" + "evidence available" → 坚持全盘否定是轻率的。(ii) "even-tempered" 并列 → 正面词。(iii) "though" 转折 → 轻微不足
+- **逻辑：** (i) 因果 (ii) 并列 (iii) 让步转折
+- ⚠️ 错因：H. vicious（邪恶的）与 even-tempered 直接矛盾。though 引入温和保留（"虽品行好但能力普通"），不是强烈对立
+
+**各词释义：**
+```
+A. accurate 准确的          | D. whimsical 反复无常的     | G. unexceptional 平凡的 ✅
+B. convenient 方便的        | E. thoughtful 深思熟虑的 ✅ | H. vicious 邪恶的         
+C. facile 轻率的、肤浅的 ✅ | F. ingenious 有独创性的     | I. innovative 创新的      
+```
+
+### ✅ [Medium] [TC双] test_15_s1 #2 — intransigent + uncompromising (AE) · answered AE
+
+> Despite dispute between the sisters lasted all summer, Megan remained (i)[------] and Lauren was equally (ii)[------].
+
+- ✅ AE · ✅ AE
+- **信号：** "Despite dispute... lasted all summer" → 争一夏天 = 都不让步。"equally" 并列
+- **逻辑：** 因果 + 并列同义 — 两人都固执
+
+**各词释义：**
+```
+A. intransigent 不妥协的 ✅ | D. indolent 懒惰的           
+B. feckless 无能的          | E. uncompromising 不让步的 ✅
+C. munificent 慷慨的        | F. taciturn 沉默寡言的       
+```
+
+### ❌ [Medium] [SE] test_79_s1 #7 — unfathomable + inscrutable (CE) · answered F
+
+> He found his new acquaintance to be [------]: trying to understand her personality was like peering into an unknown dimension.
+
+- ✅ CE · ❌ F（只选 1 个，SE 必须选 2 个）
+- **信号：** 冒号解释 → "like peering into an unknown dimension" = 难以理解
+- **逻辑：** 同义重复 — 她让人琢磨不透
+- **SE 近义对：** unfathomable（深不可测的）+ inscrutable（难以理解的）= 神秘难懂
+- ⚠️ 错因：F. imperturbable = 沉着冷静，不符合"unknown dimension"方向。SE 选 1 个无效
+
+**各词释义：**
+```
+A. vacuous 空洞的  | B. unflappable 镇定的        | C. unfathomable 深不可测的 ✅
+D. obdurate 固执的 | E. inscrutable 难以理解的 ✅ | F. imperturbable 沉着的      
+```
+
+### ✅ [Hard] [SE] test_44_s2 #5 — origin + provenance (DF) · answered DF
+
+> It may not seem like a big deal for produce distributors to mix together soybeans from different farms, but a growing number of buyers are willing to pay a premium for soybeans the [------] of which is known: they like to know exactly where their food came from.
+
+- ✅ DF · ✅ DF
+- **信号：** 冒号解释 → "know exactly where their food came from" = 来源
+- **逻辑：** 同义重复 — 知道出处/来源
+- **SE 近义对：** origin（来源）+ provenance（出处）= 来源、出身
+
+**各词释义：**
+```
+A. purity 纯度    | B. output 产量 | C. heterogeneity 异质性
+D. origin 来源 ✅ | E. yield 产量  | F. provenance 出处 ✅
+```
+
+---
+
+## 70. 2026-07-31 · test_46_s2 #4, test_68_s2 #2, test_10_s1 #2, test_37_s2 #5, test_34_s1 #4
+
+### ❌ [Easy] [TC3] test_46_s2 #4 — gloat + circumspect + candid in (CFG) · answered AEG
+
+> People love to talk about their commutes to and from work: those with an easy commute tend to (i)[------], while those who hate their commute think and speak of it as a core affliction, like a chronic illness. Once you raise the subject, the testimonies pour out, and, if your ears are tuned to it, you begin overhearing commute talk everywhere. People who are normally (ii)[------] may, when describing their commutes, be unexpectedly (iii)[------] divulging the intimate details of their lives.
+
+- ✅ CFG · ❌ AEG（(i)(ii) 全错）
+- **信号：** (i) "easy commute" vs "core affliction" → while 对比。轻松 → gloat（炫耀），不是 grumble。(ii) "normally ___" + "unexpectedly ___" → 反差。平时 circumspect（谨慎）→ 谈通勤 candid（坦诚）
+- **逻辑：** (i) 对比 (ii)(iii) 反差转折
+- ⚠️ 错因：(i) grumble 方向反——轻松通勤的人抱怨什么？(ii) garrulous 和 candid 无反差，平时絮叨的人谈通勤坦诚不"意外"
+
+**各词释义：**
+```
+A. grumble 抱怨      | D. inattentive 不注意的  | G. candid in 坦诚于 ✅   
+B. commiserate 同情  | E. garrulous 絮叨的      | H. economical in 节约于  
+C. gloat 洋洋得意 ✅ | F. circumspect 谨慎的 ✅ | I. flustered about 慌张于
+```
+
+### ❌ [Easy] [TC单] test_68_s2 #2 — synthesis (A) · answered D
+
+> Given the many thematic strands that the book seeks to draw together into a continuous cord of narrative, it is perforce a work of [------], which is not to say that the author's research fails to provide sufficient detail about each of his chosen themes.
+
+- ✅ A · ❌ D
+- **信号：** "many thematic strands... draw together into a continuous cord" → 多条线索编成一股绳
+- **逻辑：** 因果 — 把独立主题捏合 → synthesis（综合/合成）
+- ⚠️ 错因：reconstruction = 重建（之前存在→拆→重建），原文无此逻辑。synthesis = 独立元素合成为整体
+
+**各词释义：**
+```
+A. synthesis 综合、合成 ✅ | B. conjecture 推测      | C. analysis 分析
+D. reconstruction 重建     | E. accretion 积累、堆积 |                 
+```
+
+### ❌ [Medium] [TC双] test_10_s1 #2 — churlish + admire (BD) · answered BF
+
+> It would be (i)[------] not to (ii)[------] these tabloid journalists for thriving in hard times: they deserve credit for doing well in a profession in financial straits.
+
+- ✅ BD · ❌ BF（(ii) 错）
+- **信号：** "they deserve credit" → 应该被赞美
+- **逻辑：** (i) 不赞美 = churlish（无礼的）(ii) 赞美 = admire。emulate ≠ 赞美
+- ⚠️ 错因：emulate = 效仿、模仿。"deserve credit" = deserve admiration，不是 deserve imitation
+
+**各词释义：**
+```
+A. apropos 恰当的         | D. admire 钦佩、赞美 ✅
+B. churlish 粗鲁无礼的 ✅ | E. envy 嫉妒           
+C. cagey 谨慎的           | F. emulate 效仿、模仿  
+```
+
+### ✅ [Medium] [SE] test_37_s2 #5 — quiescent + abeyant (BE) · answered BE
+
+> The women's rights movement has been mostly [------] in the Middle East, but it is likely that activists will be newly galvanized by the political upheavals currently sweeping the region.
+
+- ✅ BE · ✅ BE
+- **信号：** "but... newly galvanized" → 之前是休眠状态
+- **逻辑：** 转折 — 之前沉寂，现在要被唤醒
+- **SE 近义对：** quiescent（静止的）+ abeyant（搁置的）= 休眠、暂停
+
+**各词释义：**
+```
+A. subverted 被颠覆的 | B. quiescent 静止的 ✅ | C. interminable 无休止的
+D. bootless 无用的    | E. abeyant 搁置的 ✅   | F. feckless 无能的      
+```
+
+### ✅ [Hard] [SE] test_34_s1 #4 — contentious + fraught (DF) · answered DF
+
+> The concept of increasing complexity of organisms has [------] history among evolutionary biologists, and yet many laypeople would unhesitatingly say that the pattern applies to the history of life on Earth.
+
+- ✅ DF · ✅ DF
+- **信号：** "and yet laypeople would unhesitatingly say" → 外行毫不怀疑，内行不这样
+- **逻辑：** 对比 — 生物学家争议不休，外行却毫不怀疑
+- **SE 近义对：** contentious（有争议的）+ fraught（充满问题的）= 争议不断
+
+**各词释义：**
+```
+A. an illustrious 辉煌的     | B. a sordid 肮脏的        | C. a curious 奇怪的       
+D. a contentious 有争议的 ✅ | E. a distinguished 卓越的 | F. a fraught 充满问题的 ✅
+```
