@@ -293,6 +293,7 @@
 **Antonyms:** destination, terminus
 
 **区分：** ⚠️ provenance vs. providence（天意/神佑）— 经典拼写陷阱，差一个字母意思完全不同 | pedigree（限血统/品系纯正）| provenience（考古学变体，GRE不考）
+
 ---
 
 ## facile
@@ -485,3 +486,294 @@
 **Antonyms:** calm, untroubled, smooth, serene
 
 **区分：** ⚠️ fraught 在现代英语中几乎总是负面。"The negotiations were fraught" = 谈判充满紧张，不是"谈判内容很丰富"。
+
+---
+
+## illustrious
+
+**释义：** *adj.* 著名的，杰出的，显赫的 — 形容人或事业因卓越成就而享有极高声望和光辉荣誉。
+
+**词根：** 拉丁语 *illustris* = "lit up, bright, distinguished"，源自 *illustrare*（照亮、使明亮）。同根词：**illustrate**（阐明 → 用光"照亮"概念）、**luster**（光泽）、**lustrous**（有光泽的）。核心意象是"被光芒照耀的 → 耀眼的 → 杰出的"。
+
+**场景：**
+- 🔹 **GRE 阅读 · 人物刻画：** *The historian devoted an entire chapter to the general's illustrious but ultimately tragic career.* 描写历史名将的辉煌生涯，常与后续的转折（tragic, decline）形成对比。
+- 🔹 **GRE 填空 · 逻辑对立：** *Though his early work was obscure, he later enjoyed an illustrious reputation.* 与 obscure（默默无闻）构成时间对比，填空经典对立。
+- 🔹 **GRE 阅读 · 学术论证：** *She was the latest in an illustrious line of scholars at the university.* 形容学术世家或机构的传承荣耀，常见于阅读烘托出身。
+
+**画面：** 🎭 Imagine a Nobel laureate stepping onto a brilliantly lit stage at Stockholm, the spotlight following every move — that glow of a lifetime of achievement is the essence of *illustrious*.
+
+**Synonyms:** eminent, renowned, celebrated, distinguished, preeminent, luminous, glorious
+**Antonyms:** obscure, unknown, ignominious, undistinguished, inglorious
+
+**区分：**
+- *illustrious* vs *lustrous* — 同根但完全不同：前指"有名望"，后指"有光泽的"（lustrous hair / pearls）
+- *illustrious* vs *notorious* — 一褒一贬：illustrious = 光荣显赫，notorious = 臭名昭著
+- *illustrious* vs *eminent* — 非常近义，但 illustrious 更强调"光辉"和"荣耀光环"，eminent 更中性偏"地位高"
+
+---
+
+## munificent
+
+**释义：** *adj.* 极慷慨的，出手大方的 — 形容人在金钱/资源上极其大方，远超常态的慷慨（不止是 generous，而是 lavish generosity）。
+
+**词根：** 拉丁语 *munificus* = *munus*（礼物、公共义务）+ *facere*（做、制造）= 字面义"制造礼物的人"。同源词：**munificence** (n. 慷慨)、**municipal**（市政的 ← 公共义务）、**remunerate**（酬劳 ← re-回 + munus-礼物）、**immune**（免除义务的 ← im-无 + munis-义务）。
+
+**场景：**
+- 🔹 **GRE 填空 · 人物刻画：** *The munificent donor's gift single-handedly funded the new library wing.* 形容慈善家/捐赠人的极度慷慨，常与 parsimonious/stingy 构成对比。
+- 🔹 **GRE 填空 · 逻辑对立：** *Though personally frugal, she was munificent in her support of the arts.* frugal ↔ munificent 是经典对立：对己节俭，对人慷慨。
+- 🔹 **GRE 阅读 · 历史评价：** *The monarch's munificent patronage attracted the finest artists and scholars to the court.* 形容君主/权贵的慷慨赞助，历史类文章常见。
+
+**画面：** 💰 A reclusive billionaire who, without a word of publicity, pays off the student loans of an entire graduating class — not for recognition, but because they can. That silent, overwhelming generosity is *munificent*.
+
+**Synonyms:** generous, bountiful, lavish, magnanimous, liberal, openhanded, beneficent, unstinting
+**Antonyms:** stingy, parsimonious, miserly, niggardly, penurious, tightfisted, ungenerous
+
+**区分：**
+- *munificent* vs *generous* — generous 是普通"大方"，munificent 是"极其大方、挥金如土级别"，程度远超 generous
+- *munificent* vs *magnanimous* — munificent 侧重**金钱/物质**层面的慷慨（giving money），magnanimous 侧重**精神/气度**层面的宽宏大量（forgiving enemies, noble in spirit）
+- *munificent* vs *philanthropic* — philanthropic 强调"慈善/人道主义目的"，munificent 只强调"给的多"，不一定有慈善动机
+
+---
+
+## taciturn
+
+**释义：** *adj.* 沉默寡言的，不爱说话的 — 形容天生性格沉默，习惯性少言寡语，不是一时不想说，而是一贯如此。
+
+**词根：** 拉丁语 *taciturnus* ← *tacitus*（沉默的）← *tacere*（保持沉默）。同根词：**tacit**（adj. 心照不宣的、默示的 — tacit agreement）、**taciturnity**（n. 沉默寡言）、**reticent**（re-再 + tacere → 缄默的）。
+
+**场景：**
+- 🔹 **GRE 填空 · 人物刻画：** *The taciturn farmer answered every question with a monosyllable, if he answered at all.* 形容人沉默成性，阅读/填空中常作为"话少"的极端表达。
+- 🔹 **GRE 填空 · 逻辑对立：** *Though taciturn in private, the professor became remarkably voluble in the lecture hall.* taciturn ↔ voluble/loquacious/garrulous 是 GRE 最高频对立词群：沉默寡言 ↔ 话多。
+- 🔹 **GRE 阅读 · 文学评论：** *The taciturn protagonist's emotional depth is revealed through action rather than dialogue.* 文学人物分析中，沉默型主角通过行动而非语言展露内心。
+
+**画面：** 🤐 The old rancher who sits on his porch every evening, and when a neighbor waves and asks how he's doing, he just tips his hat and says "Fine." — one word, every time, for forty years. That is *taciturn*.
+
+**Synonyms:** reticent, laconic, reserved, silent, uncommunicative, tight-lipped, closemouthed
+**Antonyms:** loquacious, garrulous, voluble, talkative, effusive, chatty, verbose
+
+**区分：**
+- *taciturn* vs *reticent* — **GRE 高频陷阱！** taciturn = 天性沉默寡言（habitual silence, by nature），reticent = 对某话题刻意缄口不谈（unwilling to speak about a specific topic）。一个人可以 reticent about his past but not taciturn in daily life.
+- *taciturn* vs *laconic* — laconic = 用极少词表达（like Spartans），侧重**简洁**；taciturn = 根本就不说话，侧重**沉默**
+- *taciturn* vs *tacit* — tacit (adj.) = 不用语言表达的、心照不宣的（tacit consent 默许），共享词根但意思完全不同
+
+---
+
+## arduous
+
+**释义：** *adj.* 艰难的，费力的，艰巨的 — 形容任务/过程极其费力，像爬陡坡一样每一步都在消耗大量精力。
+
+**词根：** 拉丁语 *arduus* = "steep, high, difficult to climb"（陡峭的、高耸的、难以攀爬的）。核心意象从古罗马地理而来——爬起来很陡的山 → 引申为任何事情"费力难做"。同根词：**ardor**（n. 热情，字面义"燃烧"——另一拉丁词根 *ardere* 燃烧，别搞混）。
+
+**场景：**
+- 🔹 **GRE 填空 · 任务/过程：** *The arduous trek through the Himalayas tested even the most experienced climbers.* 形容体力/精神上极度费力的任务，与 facile/effortless 形成对立。
+- 🔹 **GRE 填空 · 逻辑对立：** *What appeared to be a simple task proved far more arduous than anticipated.* 简单表象 ↔ 艰难现实，填空经典转折。
+- 🔹 **GRE 阅读 · 学术/历史：** *The committee faced the arduous task of reconciling decades of contradictory data.* 学术论证中形容"耗时费力"的整合/梳理工作。
+
+**画面：** 🏔️ You're halfway up a scree-covered slope at 14,000 feet — every step forward slides you half a step back, your lungs burn, and the summit still looks impossibly far. That grinding, gasping effort is *arduous*.
+
+**Synonyms:** strenuous, laborious, grueling, onerous, taxing, demanding, punishing, backbreaking
+**Antonyms:** easy, effortless, facile, simple, undemanding, light, painless
+
+**区分：**
+- *arduous* vs *onerous* — arduous 侧重**体力/精神上的费力**（physically/mentally demanding），onerous 侧重**负担/义务的沉重**（burdensome obligation，如 onerous contract terms）。GRE 中 onerous 更偏"法律/财务重负"。
+- *arduous* vs *laborious* — laborious 强调**耗时长+枯燥**（slow, tedious, requiring many steps），arduous 强调**每一步都难**（steep difficulty）。抄写整本字典是 laborious，爬珠峰是 arduous。
+- *arduous* vs *grueling* — grueling = 极其 punishing/exhausting，程度比 arduous 更重，带有"折磨人"的意味
+
+---
+
+## inchoate
+
+**释义：** *adj.* 初期的，未成形的，混乱不完整的 — 刚刚开始但杂乱无章、结构不清，尚未形成明确形态。
+
+**词根：** 拉丁语 *inchoatus* ← *inchoare* = "to begin, to hitch up"（套上犁具 → 开始耕作）。意象：刚套上牛犁，田还没翻 → 才开始，混乱无序。
+
+**场景：**
+- 🔹 **GRE 填空 · 想法/情感：** *His political views remained inchoate, a jumble of contradictions rather than a coherent ideology.* inchoate ↔ coherent/organized — 零乱 ↔ 条理清晰。
+- 🔹 **GRE 阅读 · 学术论证：** *The field was still in its inchoate phase, with competing theories and no agreed-upon methodology.* 形容学科早期混沌状态。
+
+**画面：** 🎨 A canvas with a few random brushstrokes — blue here, red there — no one, not even the painter, can tell what it's going to be. That messy, unformed beginning is *inchoate*.
+
+**Synonyms:** rudimentary, amorphous, formless, embryonic, nascent, undeveloped
+**Antonyms:** developed, mature, organized, coherent, fully-formed
+
+**区分：**
+- *inchoate* vs *incipient* — inchoate = 结构混乱的初期（disorganized），incipient = 方向已明的初期（identifiable but small）。inchoate ideas（一团乱麻的想法）vs incipient rebellion（刚萌芽但已清晰的叛乱）
+- *inchoate* vs *nascent* — nascent 只强调"刚诞生"，中性；inchoate 强调"未成形+混乱"
+
+---
+
+## incipient
+
+**释义：** *adj.* 初期的，刚开始出现的 — 刚刚开始显现，但结构已清晰可辨，只是规模/程度尚小。
+
+**词根：** 拉丁语 *incipere* = *in-*（里）+ *capere*（拿取）= to begin, to take in hand。同根词：**inception**（开端）、**incipient**（刚开始的）。
+
+**场景：**
+- 🔹 **GRE 填空 · 趋势/变化：** *The incipient rebellion, though small, alarmed the authorities enough to prompt a crackdown.* 刚冒头但方向已明，只是规模小。
+- 🔹 **GRE 阅读 · 医学/科学：** *The drug slowed the progression of incipient Alzheimer's disease.* 疾病"早期/初期"，病理清晰可辨。
+
+**画面：** 🌱 A tiny green shoot poking through the soil — you can already tell it's going to be a tomato plant, not a weed. It's small but its identity is clear. That's *incipient*.
+
+**Synonyms:** nascent, emerging, budding, beginning, initial, embryonic
+**Antonyms:** mature, full-blown, developed, terminal
+
+**区分：**
+- *incipient* vs *inchoate* — incipient = 方向已明的初期，inchoate = 混乱未成形的初期
+- *incipient* vs *nascent* — 非常近义，incipient 强调"开始显现（通常指不好的事）"，常带 ominous 意味
+
+---
+
+## enmity
+
+**释义：** *n.* 敌意，仇恨，敌对 — 人与人/群体/国家之间的深刻敌意和仇视，比 hostility 更持久、更根深蒂固。
+
+**词根：** 古法语 *enemistié* ← 拉丁语 *inimicus* = *in-*（不）+ *amicus*（朋友）= 不是朋友 → 敌人。同根词：**enemy**（n. 敌人）、**inimical**（adj. 敌意的、不利的）。
+
+**场景：**
+- 🔹 **GRE 填空 · 人际关系：** *Years of professional rivalry had hardened into personal enmity.* 竞争升级为仇恨，与 amity（友好）构成填空经典对立。
+- 🔹 **GRE 阅读 · 历史/政治：** *The centuries-old enmity between the two nations thwarted every peace negotiation.* 世仇/民族仇恨阻碍和平进程，历史政治文章高频。
+- 🔹 **GRE 填空 · 逻辑对立：** *The two leaders, once bound by enmity, eventually forged an unlikely friendship.* enmity ↔ friendship/amity — 仇恨 ↔ 友谊。
+
+**画面：** ⚔️ Two families who haven't spoken in three generations — nobody even remembers what started it, but the cold glare across the village square never wavers. That fossilized hatred is *enmity*.
+
+**Synonyms:** hostility, animosity, antagonism, rancor, antipathy, ill will, acrimony
+**Antonyms:** amity, friendship, goodwill, camaraderie, affinity, concord
+
+**区分：**
+- *enmity* vs *animosity* — enmity 更**长期/深层/结构性**（如民族世仇），animosity 可指较**局部/临时的敌意**（如同事间摩擦）
+- *enmity* vs *hostility* — hostility 可指一时的敌对行为/态度，enmity 指深入骨髓的仇恨状态
+- *enmity* vs *antipathy* — antipathy = 天生的反感/厌恶（gut-level dislike），enmity = 长期积累的仇恨（built over time）
+
+---
+
+## chicanery
+
+**释义：** *n.* 诡计，欺骗，花招 — 尤指法律/政治中用花言巧语、钻空子、似是而非的论调来欺骗，不是直白的谎言而是"技术性耍诈"。
+
+**词根：** 法语 *chicaner* = "to quibble, to split hairs"（狡辩、抠字眼）。17世纪进入英语，特指法律诉讼中用程序把戏拖延/欺骗对方。
+
+**场景：**
+- 🔹 **GRE 填空 · 法律/政治：** *The senator's defense of the tax loophole was pure chicanery, cloaked in the language of economic growth.* chicanery ↔ honesty/candor。
+- 🔹 **GRE 阅读 · 司法/商业：** *The court sanctioned the attorney for engaging in chicanery rather than presenting a legitimate argument.* 法律语境中的"狡辩/程序欺诈"。
+- 🔹 **GRE 填空 · 逻辑对立：** *What he called "creative accounting" was, in the auditor's view, outright chicanery.* 美化标签 ↔ 真实本质。
+
+**画面：** 🦊 A lawyer who knows his client is guilty, so instead of arguing innocence, he spends six months filing motions about the font size on the search warrant — and gets the case dismissed. That's *chicanery*.
+
+**Synonyms:** trickery, deception, sophistry, subterfuge, duplicity, casuistry, legerdemain, skulduggery
+**Antonyms:** honesty, forthrightness, candor, probity, straightforwardness, integrity
+
+**区分：**
+- *chicanery* vs *sophistry* — sophistry = 看似有理实则谬误的论证（哲学逻辑层面），chicanery = 利用规则漏洞/程序伎俩欺骗（法律/政治实操）
+- *chicanery* vs *duplicity* — duplicity = 表里不一的欺骗（double-dealing），chicanery = 技术性狡辩/钻空子
+- *chicanery* vs *subterfuge* — subterfuge = 任何形式的规避/托词（广），chicanery = 法律政治语境中的诡辩（窄）
+
+---
+
+## raillery
+
+**释义：** *n.* 善意的揶揄，戏谑，打趣 — 朋友间不带恶意的开玩笑，带着好感的调侃。
+
+**词根：** 法语 *railler* = "to mock, to tease"（嘲笑、打趣）。17世纪进入英语，始终保留"善意玩笑"基调。注意：*rail* (v. 怒骂) 不同词源，不要混淆。
+
+**场景：**
+- 🔹 **GRE 填空 · 社交互动：** *The dinner party was filled with witty raillery, the guests trading affectionate jabs across the table.* 轻松的社交调侃，与 acerbity/derision 构成对立。
+- 🔹 **GRE 阅读 · 文学人物：** *The author's raillery, never cruel, revealed a deep fondness for his subjects.* 文学评论中作者对笔下人物的"善意打趣"。
+- 🔹 **GRE 填空 · 逻辑对立：** *What she dismissed as harmless raillery, he perceived as cutting derision.* raillery ↔ derision — 善意玩笑 ↔ 恶意嘲讽。
+
+**画面：** 🍻 Two old friends at a bar, one says "Remember when you tripped on stage at graduation?" — the other laughs louder than anyone, then fires back "Remember when you set the kitchen on fire making toast?" Both grinning. That warm, needle-free trading of jabs is *raillery*.
+
+**Synonyms:** banter, teasing, badinage, persiflage, jesting, repartee, joshing
+**Antonyms:** flattery, seriousness, solemnity, gravity, insult
+
+**区分：**
+- *raillery* vs *derision* — 填空关键对立！raillery = 善意玩笑（affectionate teasing），derision = 恶意嘲讽（contemptuous mockery）
+- *raillery* vs *banter* — banter 更日常"斗嘴/吐槽"，raillery 更正式/文学化
+- *raillery* vs *rail* — rail (v.) = 怒骂、咆哮指责，与 raillery 完全无关
+
+---
+
+## sage
+
+**释义：** *n.* 智者，贤人 / *adj.* 睿智的，贤明的 — 因阅历深厚而见解超凡。
+
+**词根：** 拉丁语 *sapere* = "to taste, to be wise"（品尝 → 辨别 → 智慧）→ 古法语 *sage*。同根词：**sagacious**、**sagacity**、**sapient**、**savor**（品味，同源"品尝"义）。
+
+**场景：**
+- 🔹 **GRE 填空 · 人物刻画：** *The CEO sought the advice of the company's sage founder before making the acquisition.* sage counsel — 德高望重的智慧长者。
+- 🔹 **GRE 阅读 · 历史/哲学：** *Confucius is often depicted as a wandering sage imparting wisdom to disciples.* 圣贤形象。
+- 🔹 **GRE 填空 · 逻辑对立：** sage ↔ foolish/ignorant/charlatan
+
+**画面：** 🧙 The village elder who listens to three hours of heated argument, then says one sentence that makes everyone go silent — and they all realize that's the answer. *Sage*.
+
+**Synonyms:** (n.) philosopher, guru, pundit, savant, luminary; (adj.) wise, judicious, prudent, sagacious, discerning
+**Antonyms:** (n.) fool, charlatan, ignoramus; (adj.) foolish, unwise, imprudent
+
+**区分：**
+- *sage* vs *guru* — guru 带精神导师/宗教色彩，sage 更中性偏"阅历深厚的长者智囊"
+- *sage* (n.) vs *sagacity* (n.) — sage = 人，sagacity = 品质
+
+---
+
+## sagacity
+
+**释义：** *n.* 睿智，洞察力，远见卓识 — 敏锐判断力+实践经验结合的智慧，不是书本知识而是"看得透"的能力。
+
+**词根：** 拉丁语 *sapere* = to taste, to be wise + *-acity* 名词后缀"品质"。
+
+**场景：**
+- 🔹 **GRE 填空 · 能力评价：** *The detective's sagacity was legendary — she could unravel a case from a single overlooked detail.* 从细微线索洞察全局的敏锐。
+- 🔹 **GRE 阅读 · 商业/政治：** *The investor's sagacity in predicting the market crash earned him a fortune.* 远见/先见之明。
+
+**画面：** 🔍 Sherlock Holmes glancing at a stranger for two seconds and rattling off their entire life story — all from a smudge on the collar. That uncanny penetration is *sagacity*.
+
+**Synonyms:** discernment, perspicacity, acumen, shrewdness, astuteness, insight, wisdom
+**Antonyms:** folly, foolishness, obtuseness, shortsightedness, ignorance
+
+**区分：**
+- *sagacity* vs *sapience* — sagacity = 实践智慧+敏锐判断（street smart），sapience = 理论/哲学智慧（deep thinking）
+- *sagacity* vs *perspicacity* — 非常近义；perspicacity 偏向"穿透表象的洞察"，sagacity 偏向"基于经验的明智判断"
+
+---
+
+## expunge
+
+**释义：** *v.* 删除，抹去，擦掉 — 从记录/记忆中彻底消除，不留痕迹。比 delete 更正式，常用于法律/正式文书语境。
+
+**词根：** 拉丁语 *expungere* = *ex-*（出）+ *pungere*（刺、点）= 古罗马编辑在要删除的文字下打点标记 → 彻底删除。同根词：**puncture**（刺破）、**pungent**（辛辣刺鼻的）、**compunction**（良心刺痛）、**poignant**（尖锐辛酸的）。
+
+**场景：**
+- 🔹 **GRE 填空 · 法律/记录：** *The judge ordered the conviction expunged from his record, as if it had never occurred.* 法律语境中从档案中彻底抹去。
+- 🔹 **GRE 填空 · 逻辑对立：** *The dictator sought to expunge all traces of dissent, yet underground resistance persisted.* expunge ↔ preserve/retain。
+- 🔹 **GRE 阅读 · 历史/记忆：** *The regime attempted to expunge the massacre from the nation's collective memory.* 从历史记忆中抹去。
+
+**画面：** 🧹 A whiteboard with a single name written on it — the teacher erases it so thoroughly that not even a smudge remains, as though the name was never there.
+
+**Synonyms:** erase, delete, obliterate, efface, eradicate, annihilate, excise, strike out
+**Antonyms:** preserve, retain, insert, add, record, inscribe
+
+**区分：**
+- *expunge* vs *expurgate* — expunge = 彻底删除不留痕迹（erase completely），expurgate = 选择性删改不当内容保留主体（censor/cleanse）。expunge a criminal record vs expurgate a novel for schools
+- *expunge* vs *efface* — efface = 擦去表面痕迹使之模糊（self-effacing = 谦逊低调），expunge = 从记录中正式/彻底删除（更多法律/正式语境）
+- *expunge* vs *excise* — excise = 切除/删除（像外科手术切掉一部分），expunge = 抹去/删除（像擦掉）
+
+---
+
+## factionalism
+
+**释义：** *n.* 派系主义，内斗 — 组织/政党/团体内部因派系分裂而产生对立和内耗。
+
+**词根：** 拉丁语 *factio* = "a political party, a group acting together" ← *facere* (to do)。faction → factional → factionalism。同根词：**faction**（派系）、**factious**（adj. 好内斗的）。
+
+**场景：**
+- 🔹 **GRE 填空 · 政治/组织：** *The party's factionalism paralyzed decision-making, as each wing blocked the other's proposals.* factionalism ↔ unity/cohesion。
+- 🔹 **GRE 阅读 · 历史分析：** *Historians attribute the empire's decline more to internal factionalism than to external threats.* 内部分裂 vs 外部威胁。
+- 🔹 **GRE 填空 · 逻辑对立：** *The leader's appeal for unity was undermined by rampant factionalism within the ranks.* factionalism ↔ unity/solidarity。
+
+**画面：** 🏛️ A political party with 12 members and 13 subcommittees — every meeting devolves into three hours of procedural knife-fighting over who chairs what, while the actual agenda gathers dust.
+
+**Synonyms:** divisiveness, sectarianism, infighting, partisanship, discord, schism
+**Antonyms:** unity, solidarity, cohesion, harmony, concord, consensus
+
+**区分：**
+- *factionalism* vs *sectarianism* — factionalism = 任何组织内的派系内斗，sectarianism = 特指宗教/教派之间的对立冲突
+- *factionalism* vs *partisanship* — partisanship = 盲目的党派忠诚（支持己方不管对错），factionalism = 派系分裂和内斗（多方互斗而非二元对立）
