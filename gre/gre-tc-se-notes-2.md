@@ -512,3 +512,91 @@ D. bootless 无用的    | E. abeyant 搁置的 ✅   | F. feckless 无能的
 A. an illustrious 辉煌的     | B. a sordid 肮脏的        | C. a curious 奇怪的       
 D. a contentious 有争议的 ✅ | E. a distinguished 卓越的 | F. a fraught 充满问题的 ✅
 ```
+
+---
+
+## 71. 2026-07-31 · test_88_s1 #3, test_6_s1 #1, test_16_s2 #3, test_80_s2 #6, test_44_s2 #7
+
+### ❌ [Easy] [TC3] test_88_s1 #3 — recoil from + deliberative + defies (BDG) · answered ADH
+
+> Genetic researchers have recently suggested that our political leanings may be determined by our DNA, a view that tends to undermine our reflective self-flattery. We (i)[------] the idea that personal politics are entirely (ii)[------]. The genetic explanation for ideology (iii)[------] our belief that we are persuaded only by rational arguments.
+
+- ✅ BDG · ❌ ADH（(iii) 错）
+- **信号：** "undermine our reflective self-flattery" → DNA 决定论打击了我们的自恋 → 因为我们相信政治立场是理性思考的结果
+- **逻辑：** (i) 我们**排斥**（recoil from）政治立场纯属 (ii)**理性思考**（deliberative）的观点 → (iii) 基因解释**颠覆**（defies）我们只被理性说服的信念
+- ⚠️ 错因：H. entails（蕴含/导致）方向反了——基因解释不"蕴含"理性信念，而是"推翻"它
+
+**各词释义：**
+```
+A. recoil from 排斥、畏缩 ✅         | D. deliberative 深思熟虑的、理性的 ✅ | G. defies 挑战、违抗 ✅
+B. revel in 陶醉于                   | E. inexpensive 廉价的                  | H. entails 必然包含、导致
+C. puzzle over 困惑于                | F. self-serving 利己的                  | I. parallels 与...平行
+```
+
+---
+
+### ✅ [Easy] [TC1] test_6_s1 #1 — outstrips (D) · answered D
+
+> The province has long claimed to be just another developing region, even as its economy [------] those of other regions and threatens to eclipse the rest of the country combined.
+
+- ✅ D · ✅ D
+- **信号：** "even as" + "threatens to eclipse" → 声称只是发展中地区，但经济已经**超越**其他地区
+- **逻辑：** 对比反差 — claims to be ordinary → but economy outstrips + threatens to eclipse
+
+**各词释义：**
+```
+A. parallels 与...平行  | B. bolsters 支持、增强 | C. corroborates 证实
+D. outstrips 超越、超过 ✅ | E. engages 参与       |                   
+```
+
+---
+
+### ✅ [Medium] [TC2] test_16_s2 #3 — trivial + importance (BD) · answered BD
+
+> Collecting such fragments of contemporary popular culture as postcards, newspaper clippings, and wallpaper patterns, Susan Hiller transforms these seemingly (i)[------] artifacts into objects of (ii)[------] by making them the centerpieces in her compositions.
+
+- ✅ BD · ✅ BD
+- **信号：** "seemingly ___" → "transforms... into..." → 从看似 X 变成 Y，X 与 Y 对立
+- **逻辑：** 看似琐碎（trivial）→ 变成有重要性（importance）的对象。中心位置（centerpieces）呼应重要性
+
+**各词释义：**
+```
+A. extravagant 奢侈的、过度的           | D. importance 重要性 ✅
+B. trivial 琐碎的、微不足道的 ✅          | E. uniformity 一致性
+C. archaic 古老的、过时的                | F. banality 平庸、陈腐
+```
+
+---
+
+### ❌ [Medium] [SE] test_80_s2 #6 — undergirded by + dependent on (BD) · answered DE
+
+> Some consider the theorem Emmy Noether first published in 1918 to be as important as Einstein's theory of relativity, since much of today's vanguard research in physics is [------] Noether's theorem.
+
+- ✅ BD · ❌ DE（E 错）
+- **信号：** "as important as" + "since..." → 原因解释：前沿研究**基于**Noether定理
+- **逻辑：** 因果 — 定理很重要，因为当今研究依赖于它
+- **SE 近义对：** undergirded by（由...支撑）+ dependent on（依赖于）= 基于、依赖
+- ⚠️ 错因：devoted to = 致力于/专注于（投入方向），与 dependent on（理论依赖）不构成近义 pair
+
+**各词释义：**
+```
+A. contradicted by 被...反驳         | B. undergirded by 被...支撑、基于 ✅ | C. incompatible with 与...不兼容
+D. dependent on 依赖于 ✅             | E. devoted to 致力于、专注于         | F. elucidated by 被...阐明
+```
+
+---
+
+### ✅ [Hard] [SE] test_44_s2 #7 — mitigated + abated (EF) · answered EF
+
+> Flash floods are common in desert regions and were widespread before the evolution of trees and woodland soils; in contrast, flash floods are [------] in woodlands, where floodwaters, impeded by trees, form ponds.
+
+- ✅ EF · ✅ EF
+- **信号：** "in contrast" + "impeded by trees, form ponds" → 沙漠 vs 林地：山洪被树木阻挡 → 减弱
+- **逻辑：** 对比 — 沙漠山洪肆虐，林地山洪被树木**减弱/缓解**
+- **SE 近义对：** mitigated（减轻）+ abated（减弱）= 削弱、缓和
+
+**各词释义：**
+```
+A. overshadowed 被遮蔽、相形见绌    | B. redirected 被改变方向        | C. obscured 被模糊、被掩盖
+D. precluded 被阻止、被排除         | E. mitigated 被减轻、被缓和 ✅   | F. abated 减弱、消退 ✅
+```
