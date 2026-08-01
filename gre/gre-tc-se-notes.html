@@ -3,1027 +3,502 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>GRE 单词学习记录</title>
+<title>GRE TC & SE Notes</title>
 <style>
 :root {
     --bg: #1a1a2e; --card: #16213e; --card-alt: #1a2744;
     --text: #e0e0e0; --accent: #7c9ff5; --accent2: #f59e7c;
-    --divider: #2a3a5e; --syn-bg: #1a3a2a; --ant-bg: #3a1a1a;
+    --divider: #2a3a5e; --green: #4caf84; --red: #e0556a;
+    --gold: #e0b860; --code-bg: #0f1525;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Segoe UI',system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.7; max-width:840px; margin:0 auto; padding:2rem 1.5rem; }
-h1 { text-align:center; color:var(--accent); font-size:2rem; margin-bottom:2.5rem; padding-bottom:1rem; border-bottom:2px solid var(--divider); }
-.word-card { background:var(--card); border-radius:10px; margin:1.5rem 0; padding:1.5rem 1.8rem; border-left:4px solid var(--accent); }
-.word-card:nth-child(even) { background:var(--card-alt); border-left-color:var(--accent2); }
-.word-title { color:var(--accent); font-size:1.6rem; font-weight:700; margin-bottom:0.8rem; }
-.word-card:nth-child(even) .word-title { color:var(--accent2); }
-.section { margin:0.6rem 0; }
-.label { font-weight:700; color:#bdceff; margin-right:0.3rem; }
-.syns,.ants { display:inline-block; padding:0.15rem 0.5rem; border-radius:4px; margin:0.15rem; font-size:0.9rem; }
-.syns { background:var(--syn-bg); color:#7ce8a0; }
-.ants { background:var(--ant-bg); color:#e87c7c; }
-.tag-list { margin:0.3rem 0; }
-.scene { color:#c8d6e5; }
-.image { background:#1a2035; border-radius:6px; padding:0.8rem 1rem; margin:0.6rem 0; font-style:italic; color:#b0c0d8; border-left:3px solid #4a6a9a; }
-.etymology { color:#b8a8d0; }
-.distinction { color:#d0c8a8; }
-.see-also { color:#a8d0c0; font-size:0.9rem; }
+body { font-family:'Segoe UI',system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.7; max-width:880px; margin:0 auto; padding:2rem 1.5rem; }
+h1 { text-align:center; color:var(--accent); font-size:2rem; margin-bottom:2rem; padding-bottom:1rem; border-bottom:2px solid var(--divider); }
+h2 { color:var(--accent2); font-size:1.4rem; margin:2rem 0 1rem; padding:0.5rem 0; border-bottom:1px solid var(--divider); }
+h3 { color:var(--accent); font-size:1.15rem; margin:1.5rem 0 0.8rem; }
+.entry { background:var(--card); border-radius:10px; margin:1.2rem 0; padding:1.2rem 1.5rem; border-left:4px solid var(--accent); overflow:hidden; }
+.entry.wrong { border-left-color:var(--red); }
+.entry.correct { border-left-color:var(--green); }
+.entry-header { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.6rem; flex-wrap:wrap; }
+.badge { display:inline-block; padding:0.15rem 0.6rem; border-radius:4px; font-size:0.8rem; font-weight:700; }
+.badge-ok { background:#1a4a2a; color:var(--green); }
+.badge-err { background:#4a1a2a; color:var(--red); }
+.badge-type { background:#2a3a4a; color:#8ab4d8; }
+.badge-diff { background:#2a2a4a; color:#b0b0d8; }
+.badge-sig { background:#3a2a1a; color:var(--gold); font-size:0.75rem; }
+.badge-date { background:var(--divider); color:#a0a0c0; font-size:0.75rem; }
+.answer { margin:0.5rem 0; font-size:1.05rem; }
+.answer .correct-ans { color:var(--green); font-weight:700; }
+.answer .wrong-ans { color:var(--red); text-decoration:line-through; margin-left:0.5rem; }
+.quote { background:#0d1525; border-radius:6px; padding:0.8rem 1rem; margin:0.6rem 0; font-style:italic; color:#c0c8d8; border-left:3px solid #4a6a9a; line-height:1.6; }
+.signal { color:var(--gold); margin:0.3rem 0; }
+.logic { color:#b8c8e0; margin:0.3rem 0; }
+.vocab { color:#a0b0c0; font-size:0.9rem; margin:0.3rem 0; }
+.se-pair { color:var(--green); font-size:0.9rem; margin:0.3rem 0; }
+.why-wrong { color:var(--red); font-size:0.9rem; margin:0.3rem 0; }
+.options { margin:0.8rem 0; }
+.opt-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:0.4rem 1rem; }
+.opt-item { padding:0.2rem 0; font-size:0.9rem; }
+.opt-item .letter { color:var(--accent); font-weight:700; }
+.opt-item .word { color:#c0c8d8; }
+.opt-item .meaning { color:#8090a8; }
+.opt-item .check { color:var(--green); }
+.opt-item .cross { color:var(--red); }
+.section-label { color:var(--accent2); font-weight:700; font-size:0.85rem; margin:0.5rem 0 0.2rem; }
+.note { color:#9098b0; font-size:0.85rem; margin:0.3rem 0; border-left:2px solid #3a4a6a; padding-left:0.6rem; }
 </style>
 </head>
 <body>
 <h1>GRE TC &amp; SE</h1>
-<div class="word-card">
-  <div class="word-title">TC</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 01 · 0619 · 🔄倒装</div>
-  <div class="section">> Particularly suspect in the prosecutor's case <strong>was</strong> the _______ testimony of the sole eyewitness.</div>
-  <div class="section">🎯 <strong>unreliable</strong> 不可靠的 · 🚩无(suspect→负面)</div>
-  <div class="section">💡 表语前置：`形+was+名 → 主语在后`</div>
-  <div class="section">📖 suspect 可疑的 · testimony 证词 · sole 唯一的 · eyewitness 目击者</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 02 · 0619 · ↔️转折</div>
-  <div class="section">> <strong>Although</strong> the architect's design was widely _______ for its boldness, <strong>critics argued</strong> that it sacrificed functionality for visual impact.</div>
-  <div class="section">🎯 <strong>acclaimed</strong> 受赞誉的 · 🚩although(↔️转折) → critics负面 → blank必正面</div>
-  <div class="section">💡 转折句：信号词前后方向必相反</div>
-  <div class="section">📖 boldness 大胆 · sacrificed 牺牲 · functionality 功能性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 03 · 0619 · 🔄倒装</div>
-  <div class="section">> More _______ than the commissioner's ruling <strong>was</strong> the public's indifference to it <strong>;</strong> the decision was met with a collective shrug.</div>
-  <div class="section">🎯 <strong>disheartening</strong> 令人沮丧的 · 🚩;(➡️递进) → shrug=冷漠 → blank=沮丧</div>
-  <div class="section">💡 表语前置：`More+形+than X + was + Y` → 还原 `Y was more 形 than X`</div>
-  <div class="section">📖 commissioner 专员 · ruling 裁决 · indifference 冷漠 · shrug 耸肩</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 04 · 0619 · 🔄倒装</div>
-  <div class="section">> <strong>So</strong> _______ <strong>was</strong> the ambassador's statement <strong>that</strong> it required three subsequent clarifications to undo the diplomatic damage.</div>
-  <div class="section">🎯 <strong>incendiary</strong> 煽动性的 · 🚩so...that(➡️因果) → damage → blank=煽动性</div>
-  <div class="section">💡 so...that倒装：`So+形+was+主+that...` → `主 was so 形 that...`</div>
-  <div class="section">📖 ambassador 大使 · clarifications 澄清 · undo 挽回 · diplomatic 外交的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 05 · 0619 · ➡️递进</div>
-  <div class="section">> The historian's account was <strong>so</strong> _______ <strong>that</strong> even scholars discovered details they had never encountered.</div>
-  <div class="section">🎯 <strong>exhaustive</strong> 详尽的 · 🚩so...that(➡️递进) → new details → blank=详尽</div>
-  <div class="section">💡 逻辑优先：先定方向，再选词 — exhaustive=详尽 / speculative=推测</div>
-  <div class="section">📖 scholars 学者 · encountered 遇到</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 06 · 0619 · 🎭表面对比</div>
-  <div class="section">> The company's commitment to sustainability <strong>proved</strong> _______ <strong>when</strong> a memo revealed plans to <strong>circumvent</strong> regulations.</div>
-  <div class="section">🎯 <strong>illusory</strong> 虚假的 · 🚩proved...when(⏳前后对比) → 背地违规 → blank=虚假</div>
-  <div class="section">💡 时间对比型：前期承诺 vs 后期行为 → 方向相反</div>
-  <div class="section">📖 sustainability 可持续性 · circumvent 规避 · memo 内部备忘录</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 07 · 0622 · ↔️让步</div>
-  <div class="section">> <strong>Even</strong> the most _______ observer would have struggled to detect the subtle forgery; the painting's provenance had fooled experts for decades.</div>
-  <div class="section">🎯 <strong>seasoned</strong> 经验丰富的 · 🚩even(↔️让步) → 专家都被骗 → 最高水平的人也看不出</div>
-  <div class="section">📋 A) indifferent 漠不关心的 · B) amateur 业余的 · C) seasoned 经验丰富的 · D) suspicious 多疑的 · E) disinterested 客观公正的</div>
-  <div class="section">💡 even=让步：连最X都做不到 → blank取X的极端值；suspicious的人反而更易看出是赝品，方向反</div>
-  <div class="section">📖 seasoned 老练的 · subtle 微妙的 · forgery 赝品 · provenance 来源</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 08 · 0622 · ➡️递进</div>
-  <div class="section">> The memoir was criticized for its _______ tone; the author seemed <strong>incapable of acknowledging</strong> any mistake or shortcoming in his own conduct.</div>
-  <div class="section">🎯 <strong>self-justifying</strong> 自我辩护的 · 🚩;(➡️解释) → incapable of acknowledging = 不认错</div>
-  <div class="section">📋 A) elegiac 挽歌式的 · B) self-deprecating 自嘲的 · C) conciliatory 安抚的 · D) self-justifying 自我辩护的 · E) dispassionate 冷静客观的</div>
-  <div class="section">💡 分号后直接复述答案：不承认错误 → self-justifying；elegiac=挽歌的哀伤，跟"不认错"无关</div>
-  <div class="section">📖 memoir 回忆录 · conciliatory 安抚的 · self-deprecating 自嘲的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 09 · 0622 · ↔️转折</div>
-  <div class="section">> <strong>Although</strong> the CEO's public statements projected confidence, her private emails revealed a deeply _______ outlook on the company's future.</div>
-  <div class="section">🎯 <strong>pessimistic</strong> 悲观的 · 🚩although(↔️转折) → public confidence → private必反面</div>
-  <div class="section">💡 信号词前后方向必相反</div>
-  <div class="section">📖 sanguine 乐观的 · bombastic 夸大的 · equivocal 模棱两可的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 10 · 0622 · ➡️递进</div>
-  <div class="section">> The historian's account was <strong>not merely</strong> selective in its use of sources; it was <strong>downright</strong> _______, deliberately omitting evidence that contradicted her thesis.</div>
-  <div class="section">🎯 <strong>fraudulent</strong> 欺诈性的 · 🚩not merely...downright(➡️递进) → selective升级为fraudulent</div>
-  <div class="section">💡 not merely X → downright Y：Y是X的极端版本</div>
-  <div class="section">📖 fastidious 挑剔的 · meticulous 一丝不苟的 · exhaustive 详尽的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 11 · 0622 · 🔄倒装</div>
-  <div class="section">> <strong>Especially</strong> _______ <strong>is</strong> the argument that economic growth alone will remedy inequality, <strong>given that</strong> decades of expansion have only widened the gap.</div>
-  <div class="section">🎯 <strong>tenuous</strong> 脆弱的/站不住脚的 · 🚩倒装还原「The argument is especially _______」→ given that反证 → 论点脆弱 (因果/推理)</div>
-  <div class="section">💡 表语前置：Especially+形+is+主 → 找动词is，交换前后</div>
-  <div class="section">📖 compelling 有说服力的 · equitable 公平的 · pragmatic 务实的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 12 · 0622 · 🎭对比</div>
-  <div class="section">> <strong>Where</strong> her predecessor was known for _______ decrees issued without consultation, the new director made every decision through painstaking consensus-building.</div>
-  <div class="section">🎯 <strong>peremptory</strong> 专横的/不容分说的 · 🚩where X...Y(🎭对比) → predecessor独断 vs new共识 → blank=专横</div>
-  <div class="section">💡 where引导对比：前后两人行为方向对立</div>
-  <div class="section">📖 conciliatory 安抚的 · solicitous 关切的 · deliberative 慎重的 · obsequious 谄媚的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 13 · 0622 · ↔️转折+生词</div>
-  <div class="section">> <strong>Far from</strong> being a _______ of tradition, the composer's later works were <strong>in fact</strong> deeply rooted in the classical forms he claimed to reject.</div>
-  <div class="section">🎯 <strong>repudiation</strong> 否定/摒弃 · 🚩far from...in fact(↔️转折) → rooted in tradition → 远非传统的摒弃者</div>
-  <div class="section">💡 far from being X...in fact Y：表面否定X，实际是Y</div>
-  <div class="section">📖 scion 后代 · pastiche 模仿作品 · resuscitation 复兴 · loath 不情愿的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 14 · 0628 · 🔄倒装</div>
-  <div class="section">> <strong>So</strong> pervasive <strong>was</strong> the culture of secrecy within the organization <strong>that</strong> whistleblowers who came forward found themselves ostracized by colleagues.</div>
-  <div class="section">🎯 <strong>was</strong> · 🚩so...that(➡️因果) → culture of secrecy 单数主谓一致</div>
-  <div class="section">💡 So+形+was+主+that...倒装，主谓一致看主语 `the culture`</div>
-  <div class="section">📖 pervasive 遍及的 · whistleblower 揭发者 · ostracized 被排斥的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 15 · 0628 · ↔️让步</div>
-  <div class="section">> <strong>Despite</strong> the candidate's _______ record on environmental issues, many voters remained skeptical of her commitment, suspecting her stance was merely a campaign ploy.</div>
-  <div class="section">🎯 <strong>impeccable</strong> 无可挑剔的 · 🚩despite(↔️转折) → voters skeptical → 表面记录必须正面</div>
-  <div class="section">📋 A) unwavering 坚定的 · B) indifferent 漠不关心的 · C) ambiguous 模糊的 · D) impeccable 无可挑剔的 · E) deficient 不足的</div>
-  <div class="section">💡 unwavering 通常修饰 commitment/stance，不搭配 record；impeccable record 是固定搭配；A考生凭感觉选了unwavering但搭配不对</div>
-  <div class="section">📖 skeptical 怀疑的 · commitment 承诺 · ploy 策略/伎俩 · impeccable 无瑕疵的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 16 · 0628 · ➡️递进</div>
-  <div class="section">> The report was <strong>not merely</strong> inaccurate in its conclusions; it was _______, fabricating data that had never existed.</div>
-  <div class="section">🎯 <strong>fraudulent</strong> 欺诈性的 · 🚩not merely...it was(➡️递进) → inaccurate升级 → fabricating data直接对应</div>
-  <div class="section">💡 not merely X → Y：Y是X的极端版本；inaccurate→fraudulent, selective→fraudulent(同Q10逻辑)</div>
-  <div class="section">📖 fabricating 伪造</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 17 · 0628 · 🎭对比</div>
-  <div class="section">> <strong>Where</strong> the previous administration pursued a policy of _______ toward foreign competitors, the new government embraced protectionist measures.</div>
-  <div class="section">🎯 <strong>engagement</strong> 接触/往来 · 🚩where X...Y(🎭对比) → new=protectionist(保护主义) → previous=相反=开放/接触</div>
-  <div class="section">📋 A) autarky 自给自足 · B) engagement 接触 · C) isolation 孤立 · D) hostility 敌意 · E) self-sufficiency 自给自足</div>
-  <div class="section">💡 where引导对比：前后方向相反；hostility(敌意)和protectionism(保护主义)是同向，不是对比</div>
-  <div class="section">📖 administration 政府 · pursue 推行 · protectionist 保护主义的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 18 · 0628 · ↔️转折</div>
-  <div class="section">> <strong>Although</strong> the drug showed great promise in early trials, its long-term side effects proved too _______ for regulatory approval.</div>
-  <div class="section">🎯 <strong>severe</strong> 严重的 · 🚩although(↔️转折) → promise(前景好) → 副作用反面 → severe导致无法获批</div>
-  <div class="section">💡 信号词前后方向必相反</div>
-  <div class="section">📖 promise 前景 · trials 试验 · regulatory 监管的 · approval 批准</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 19 · 0629 · ↔️转折</div>
-  <div class="section">> <strong>Although</strong> the scientist's theory was initially _______ by the academic community, subsequent experiments confirmed its validity and eventually earned her a Nobel Prize.</div>
-  <div class="section">🎯 <strong>dismissed</strong> 被否定/被驳回 · 🚩although(↔️转折) → confirmed validity+Nobel → 最初必须被否定</div>
-  <div class="section">📋 A) dismissed 被否定 · B) embraced 被接受 · C) scrutinized 仔细审查 · D) ignored 被忽视 · E) celebrated 被赞扬</div>
-  <div class="section">💡 转折要选最强反差的词：scrutinized(中性)力度不够，dismissed(否定)↔️获奖 反差最大</div>
-  <div class="section">📖 confirmed 证实 · validity 有效性 · academic community 学术界</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 20 · 0629 · 🎭对比</div>
-  <div class="section">> <strong>Where</strong> the author's earlier novels were praised for their _______ prose style, her later work was criticized for being overwrought and excessively ornamented.</div>
-  <div class="section">🎯 <strong>restrained</strong> 克制的/简约的 · 🚩where X...Y(🎭对比) → later=overwrought(过于华丽) → earlier=相反=restrained</div>
-  <div class="section">💡 where对比：前后方向相反；elaborate/flamboyant/baroque/ornate都是华丽方向，跟later同向❌</div>
-  <div class="section">📖 overwrought 过度雕琢的 · ornamented 装饰的 · prose 散文/文风</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 21 · 0629 · ➡️递进</div>
-  <div class="section">> The ambassador's statement was <strong>not merely</strong> provocative; it was _______, threatening to unravel years of painstaking diplomatic progress.</div>
-  <div class="section">🎯 <strong>incendiary</strong> 煽动性的/纵火的 · 🚩not merely...it was(➡️递进) → provocative→同维度升级</div>
-  <div class="section">📋 A) surprising 令人惊讶的 · B) calculated 精心策划的 · C) imprudent 不谨慎的 · D) reckless 鲁莽的 · E) incendiary 煽动性的</div>
-  <div class="section">💡 reckless(鲁莽)跟provocative(挑衅)不是同维度→递进不成立；incendiary是provocative的极端版✅</div>
-  <div class="section">📖 provocative 挑衅的 · unravel 瓦解 · painstaking 艰苦的 · diplomatic 外交的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 22 · 0629 · 🔄倒装</div>
-  <div class="section">> <strong>So</strong> _______ <strong>was</strong> the company's quarterly report <strong>that</strong> even the most optimistic analysts revised their projections downward.</div>
-  <div class="section">🎯 <strong>disappointing</strong> 令人失望的 · 🚩so...that(➡️因果) → revised downward → blank=负面</div>
-  <div class="section">💡 So+形+was+主+that...倒装；后文决定方向</div>
-  <div class="section">📖 quarterly report 季度报告 · analysts 分析师 · projections 预测 · downward 向下</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 23 · 0629 · ↔️让步</div>
-  <div class="section">> <strong>Though</strong> the documentary claimed to offer an objective account, its selection of interviews was far from _______; the filmmakers had clearly chosen subjects who shared their political leanings.</div>
-  <div class="section">🎯 <strong>impartial</strong> 公正的/不偏不倚的 · 🚩though(↔️转折) → claimed objective → far from X → chose subjects with same leaning → X=公正</div>
-  <div class="section">💡 far from + 褒义词 = 实际反面；biased(有偏见的)是far from的反面，方向错</div>
-  <div class="section">📖 documentary 纪录片 · objective 客观的 · subjects 受访者 · leanings 倾向</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 24 · 0629 · ↔️转折（真题 · sec14 easy）</div>
-  <div class="section">> <strong>Despite</strong> the neighborhood's lingering reputation for _____, it has in fact become increasingly varied in its architecture and demographics.</div>
-  <div class="section">🎯 <strong>homogeneity</strong> 同质性/单一性 · 🚩despite(↔️转折) → increasingly varied(日益多样化) → 名声的相反面</div>
-  <div class="section">💡 despite转折：名声是X → 实际上多样了 → X=不多样=homogeneity；boisterousness/unpretentiousness/idiosyncrasy/accessibility都不跟varied直接反义</div>
-  <div class="section">📖 homogeneity 同质性 · lingering 挥之不去的 · demographics 人口结构</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 25 · 0629 · ↔️转折+双空（真题 · sec15 easy）</div>
-  <div class="section">> <strong>Although</strong> movie critic Pauline Kael had a distaste for sycophancy, she also had a need for (i)_____; as a consequence of these competing feelings, she sent very (ii)_____ signals to friends and colleagues.</div>
-  <div class="section">🎯 (i) <strong>flattery</strong> 奉承 · (ii) <strong>contradictory</strong> 矛盾的 · 🚩although(↔️转折) + competing feelings(➡️因果)</div>
-  <div class="section">💡 双空题：分别判断每个blank的方向；blank(i)转折于distaste for sycophancy→need for flattery✅；blank(ii)competing feelings→contradictory signals✅</div>
-  <div class="section">📖 sycophancy 谄媚 · distaste 厌恶 · autonomous 自主的 · solitude 独处 · contradictory 矛盾的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ 26 · 0629 · ➡️递进（真题 · sec16 median）</div>
-  <div class="section">> In protoscientific eras (for example, in ancient Greece), claims about the physical world were often accepted as true if they were reasonable; experimental verification, if thought necessary at all, was _____.</div>
-  <div class="section">🎯 <strong>perfunctory</strong> 敷衍的/走过场的 · 🚩;(➡️解释) → 合理就信 → 实验验证不受重视 → 敷衍了事</div>
-  <div class="section">💡 分号前后递进：前文"合理就信"→后文实验验证只是走过场；inductive(归纳的)像学术词但逻辑不通</div>
-  <div class="section">📖 protoscientific 前科学的 · verification 验证 · perfunctory 敷衍的 · inductive 归纳的 · utilitarian 功利的 · egregious 极其恶劣的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ 27 · 0629 · 🎭对比（真题 · sec37 hard）</div>
-  <div class="section">> <strong>Instead of</strong> demonstrating the _____ of archaeological applications of electronic remote sensing, the pioneering study became, to some skeptics, an illustration of the imprudence of interpreting sites based on virtual archaeology.</div>
-  <div class="section">🎯 <strong>promise</strong> 前景/潜力 · 🚩instead of(🎭对比) → became imprudence(轻率) → 本应展现正面</div>
-  <div class="section">💡 Instead of X → became Y(负面)：X必须是正面词；limitation/redundancy(负面)跟became imprudence(负面)同向不成立；promise↔️imprudence✅</div>
-  <div class="section">📖 archaeological 考古学的 · pioneering 开创性的 · imprudence 轻率 · virtual archaeology 虚拟考古</div>
-<div class="word-card">
-  <div class="word-title">SE</div>
-  <div class="section scene" style="padding-left:1rem;">▸ · 0628 · invidious</div>
-  <div class="section"><strong>invidious</strong> /ɪnˈvɪdiəs/ adj. 令人反感的、不公平且招人反感的</div>
-  <div class="section">💡 核心逻辑：不公平的比较/区别对待 → 引起反感。≠ envious（嫉妒别人），invidious是「让别人嫉妒/反感」</div>
-  <div class="section"><strong>场景1 · 比较类（最常见）</strong></div>
-  <div class="section">> The article drew an <strong>invidious</strong> comparison between the two artists, portraying one as a genius and the other as a mere imitator.</div>
-  <div class="section">🚩 <strong>invidious comparison</strong> 固定搭配：不公平的捧一踩一</div>
-  <div class="section"><strong>场景2 · 处境类</strong></div>
-  <div class="section">> She found herself in an <strong>invidious</strong> position: qualified to judge the competition yet also a close friend of one contestant.</div>
-  <div class="section">🚩 双重角色冲突 → 无论怎么做都招致不满 → invidious position</div>
-  <div class="section"><strong>场景3 · 政策类</strong></div>
-  <div class="section">> The policy created an <strong>invidious</strong> distinction between resident-owned and non-resident-owned businesses.</div>
-  <div class="section">🚩 不合理区别对待 → policy creates invidious distinction</div>
-  <div class="section"><strong>场景4 · 行为类</strong></div>
-  <div class="section">> The manager's habit of singling out employees for public criticism had an <strong>invidious</strong> effect on morale.</div>
-  <div class="section">🚩 不公平的选择性批评 → invidious effect</div>
-  <div class="section">📖 同义 ≈ objectionable / unfair / discriminatory</div>
-  <div class="section">📖 反义 ≠ commendable / equitable</div>
-  <div class="section scene" style="padding-left:1rem;">▸ · 0629 · perfunctory</div>
-  <div class="section"><strong>perfunctory</strong> /pərˈfʌŋktəri/ adj. 敷衍的、走过场的、草率的</div>
-  <div class="section">💡 核心逻辑：为了应付而做的，缺乏投入和诚意</div>
-  <div class="section"><strong>场景1 · 工作/任务类</strong></div>
-  <div class="section">> The intern gave a <strong>perfunctory</strong> review of the report, merely glancing at the title page before signing off.</div>
-  <div class="section">🚩 glance at title page → 敷衍了事</div>
-  <div class="section"><strong>场景2 · 态度/行为类</strong></div>
-  <div class="section">> The waiter's <strong>perfunctory</strong> smile suggested he was going through the motions rather than genuinely welcoming patrons.</div>
-  <div class="section">🚩 going through the motions → perfunctory smile</div>
-  <div class="section"><strong>场景3 · 仪式/义务类</strong></div>
-  <div class="section">> Their relationship had deteriorated to the point where even birthday wishes were exchanged with <strong>perfunctory</strong> texts.</div>
-  <div class="section">🚩 敷衍的问候 — 有义务但无感情</div>
-  <div class="section"><strong>场景4 · 检查/验证类（对应Q26）</strong></div>
-  <div class="section">> In protoscientific eras, experimental verification, if thought necessary at all, was <strong>perfunctory</strong>.</div>
-  <div class="section">🚩 前科学时代：实验验证不受重视，走过场即可</div>
-  <div class="section">📖 同义 ≈ cursory / superficial / half-hearted / mechanical</div>
-  <div class="section">📖 反义 ≠ thorough / meticulous / painstaking / conscientious</div>
-  <div class="section scene" style="padding-left:1rem;">▸ · 0629 · unfounded + unjustified</div>
-  <div class="section"><strong>unfounded</strong> /ʌnˈfaʊndɪd/ adj. 没有根据的、无事实依据的</div>
-  <div class="section"><strong>unjustified</strong> /ʌnˈdʒʌstɪfaɪd/ adj. 不合理的、没有理由的</div>
-  <div class="section">💡 核心逻辑：缺乏事实或合理依据来支持（SE同义词对，在GRE中常配对出现）</div>
-  <div class="section"><strong>场景1 · 情绪/观点类</strong></div>
-  <div class="section">> The initial, widely shared pessimism turned out to be <strong>unfounded</strong> / <strong>unjustified</strong>, because it ignored the many things that could be done with resources left behind.</div>
-  <div class="section">🚩 because后解释原因→悲观没有根据(unfounded/unjustified)</div>
-  <div class="section"><strong>场景2 · 指控类</strong></div>
-  <div class="section">> The allegations against the senator were entirely <strong>unfounded</strong>, lacking any credible evidence.</div>
-  <div class="section">🚩 allegations + lacking evidence → unfounded</div>
-  <div class="section"><strong>场景3 · 恐惧类</strong></div>
-  <div class="section">> Public fears about the new technology proved <strong>unjustified</strong> after safety records were published.</div>
-  <div class="section">🚩 事实证明恐惧是不合理的</div>
-  <div class="section">📖 unfounded 同义 ≈ groundless / baseless / unwarranted</div>
-  <div class="section">📖 unjustified 同义 ≈ unwarranted / unreasonable / uncalled-for</div>
-  <div class="section">📖 反义 ≈ justified / warranted / substantiated / valid</div>
-  <div class="section">⚠️ 两个词在GRE SE中经常配对，意思在语境中一致（'缺乏合理依据'），但日常使用中unfounded偏'没事实依据'，unjustified偏'没道理/不应该'。在同义选句题中注意语境是否同时适合两个词。</div>
+<h2>TC</h2>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#01 · 0619</span>
+<span class="badge badge-sig">🔄倒装</span>
 </div>
-<div class="word-card">
-  <div class="word-title">3. 0629真题 · 考满分 5题（Q28-Q32）— 均为hard</div>
-  <div class="section">### Q28 · sec36 hard · 🔄因果（given that）</div>
-  <div class="section">> Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been _____.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) <strong>diffident</strong> ✅ — 不自信的/畏缩的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) meticulous ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) straightforward ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) implacable ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) tenacious ❌</div>
-  <div class="section"><strong>你的答案：</strong> E) tenacious ❌</div>
-  <div class="section"><strong>逻辑：</strong> given that（➡️因果）= 鉴于/因为。投资人感激总检察长介入，因为监管机构<strong>不敢查</strong>（diffident）。tenacious（顽强的）是正面词——如果监管机构顽强尽责，总检察长就不需要介入了，逻辑不通。</div>
-  <div class="section"><strong>💡</strong> diffident = 畏缩的、不自信的</div>
-  <div class="section">### Q29 · sec37 hard · 🎭对比（while）</div>
-  <div class="section">> While the writer was best known for her much-ballyhooed _____, her impact reached far beyond memorable quips.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) pensiveness ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) <strong>drollness</strong> ✅ — 滑稽/幽默</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) stoicism ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) fastidiousness ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) congeniality ❌</div>
-  <div class="section"><strong>你的答案：</strong> B) drollness ✅</div>
-  <div class="section"><strong>逻辑：</strong> while（🎭对比）= 前后相反。后句说影响力超越了 memorable quips（俏皮话）→ 前句最出名的就是<strong>说俏皮话的能力</strong>。drollness = 诙谐幽默，完美对应 quips ✅</div>
-  <div class="section"><strong>📖</strong> quip = 俏皮话 · ballyhooed = 大肆宣传的 · drollness = 滑稽幽默</div>
-  <div class="section">### Q30 · sec38 hard · ➡️递进（SE）</div>
-  <div class="section">> It's hardly _____ the committee calls for: rudimentary competence would be an improvement on the current chaos.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) accountability ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) disarray ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) unruliness ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) <strong>faultlessness</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) loyalty ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F) <strong>perfection</strong> ✅</div>
-  <div class="section"><strong>你的答案：</strong> A) accountability ❌</div>
-  <div class="section"><strong>正确答案：</strong> D+F) faultlessness + perfection</div>
-  <div class="section"><strong>逻辑：</strong> 分号后解释：rudimentary competence（基本能力）都算 improvement → 委员会要求的根本不是完美/高标准。hardly 表否定 → blank 应是高标准/完美 → faultlessness（完美无缺）+ perfection（完美）同义词对。</div>
-  <div class="section"><strong>💡</strong> SE 注意选两个同义词！accountability（问责制）不是完美维度。</div>
-  <div class="section"><strong>📖</strong> rudimentary = 基本的 · faultlessness = 完美无缺</div>
-  <div class="section">### Q31 · sec39 hard · ↔️转折（yet + wrong to）</div>
-  <div class="section">> The artist is known for making photographs that deal with politically charged subject matter, yet because her art is so evocative and open-ended, it would be wrong to characterize it as _____.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) <strong>polemical</strong> ✅ — 好辩的/有争议性的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) edifying ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) unobservant ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) innovative ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) ambiguous ❌</div>
-  <div class="section"><strong>你的答案：</strong> A) polemical ✅</div>
-  <div class="section"><strong>逻辑：</strong> yet（↔️转折）→ 题材政治性强（按理应该是 polemical）→ but 因为作品 evocative + open-ended（唤起共鸣+开放解读）→ it would be wrong to call it polemical（所以不能简单定性为有立场的/偏袒一方的）。</div>
-  <div class="section"><strong>💡</strong> yet + wrong to = 先建立预期（政治题材→应该 polemical），再否定这个预期。</div>
-  <div class="section"><strong>📖</strong> polemical = 好辩的/有立场的 · evocative = 唤起共鸣的 · open-ended = 开放解读的</div>
-  <div class="section">### Q32 · sec38 hard · ↔️让步（Even if）SE</div>
-  <div class="section">> Even if the story now seems a surprisingly innocuous overture to the author's later, more fully developed narrations, it _____ some of the key traits of those bleaker tales.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) avoids ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) belies ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) undercuts ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) <strong>anticipates</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) possesses ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F) <strong>prefigures</strong> ✅</div>
-  <div class="section"><strong>你的答案：</strong> F) prefigures ❌（只选了一个）</div>
-  <div class="section"><strong>正确答案：</strong> D+F) anticipates + prefigures</div>
-  <div class="section"><strong>逻辑：</strong> Even if（↔️让步）：虽然现在看起来 innocuous（无害的）→ 但它<strong>预示/包含</strong>了后来那些阴暗故事的 key traits。anticipates（预示）+ prefigures（预示）同义词对。</div>
-  <div class="section"><strong>💡</strong> SE 永远要选两个！possesses（具有）含义接近但不是同义词，侧重点不同——possesses 是已有，anticipates/prefigures 是预示。</div>
-  <div class="section"><strong>📖</strong> innocuous = 无害的 · overture = 序曲/开端 · prefigures = 预示 · anticipates = 预期/预示 · bleaker = 更阴郁的</div>
+<div class="logic">💡 表语前置：`形+was+名 → 主语在后`</div>
+<div class="vocab">📖 suspect 可疑的 · testimony 证词 · sole 唯一的 · eyewitness 目击者</div>
+<div class="quote">Particularly suspect in the prosecutor's case **was** the _______ testimony of the sole eyewitness.</div>
+<div class="answer">🎯 **unreliable** 不可靠的 · 🚩无(suspect→负面)</div>
 </div>
-<div class="word-card">
-  <div class="word-title">4. 张巍填空机经2000题 第一组（0630 · 5题）</div>
-  <div class="section">### ① [Easy — test 4 sec 1 #1] 5选1</div>
-  <div class="section">> History teaches us that science is not ______ enterprise; indeed, it is quite the opposite, a motley assortment of tools designed to safeguard researchers against their own biases.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. an opportunistic ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. an anomalous ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. a haphazard ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. a collective ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. <strong>a monolithic</strong> ✅</div>
-  <div class="section"><strong>你的答案：</strong> E ✅</div>
-  <div class="section"><strong>逻辑：</strong> indeed（➡️递进解释）。quite the opposite, a motley assortment（大杂烩）→ blank 应填 motley 的反义词。monolithic = 单一的/铁板一块的。</div>
-  <div class="section"><strong>📖</strong> motley assortment = 混杂的大杂烩 · monolithic = 单一的 · opportunistic = 机会主义的 · anomalous = 异常的</div>
-  <div class="section">### ② [Medium — test 9 sec 2 #5] SE</div>
-  <div class="section">> Taking to the mountains to escape the chaos occasioned by the collapse of the ruling dynasty, artists looked to nature for ______ and a serenity not evident in human society.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. <strong>an order</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. <strong>a stability</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. a fragility ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. a decadence ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. an interaction ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. a degeneracy ❌</div>
-  <div class="section"><strong>你的答案：</strong> A+B ✅</div>
-  <div class="section"><strong>逻辑：</strong> escape chaos（逃离混乱）→ 寻找反义词。order（秩序）+ stability（稳定）与 chaos 反义，serenity（宁静）是平行提示。</div>
-  <div class="section"><strong>📖</strong> serenity = 宁静 · decadence = 颓废 · degeneracy = 堕落</div>
-  <div class="section">### ③ [Medium — test 9 sec 2 #7] SE</div>
-  <div class="section">> The book aims to illuminate how science has changed the meaning of nothingness from ______ philosophical concept to something we can almost put under a microscope.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. a tangible ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. a palpable ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. <strong>a nebulous</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. a nettlesome ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. an incontrovertible ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. <strong>a vague</strong> ✅</div>
-  <div class="section"><strong>你的答案：</strong> C+F ✅</div>
-  <div class="section"><strong>逻辑：</strong> from _____ ... to something we can almost put under a microscope（从模糊到几乎能放显微镜下）。nebulous（模糊的）+ vague（模糊的）与 put under a microscope 构成反义。tangible/palpable（可触摸的）方向反了。</div>
-  <div class="section"><strong>📖</strong> nebulous = 模糊的 · tangible/palpable = 可触摸的/明确的 · nettlesome = 令人恼火的 · incontrovertible = 无可辩驳的</div>
-  <div class="section">### ④ [Hard — test 26 sec 2 #6] SE</div>
-  <div class="section">> Because movie studios, under pressure to generate international sales, have favored big-budget pictures with fantasy plots, the representation of everyday domestic life has largely been ______ other media, such as television and literature.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. <strong>left to</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. <strong>ceded to</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. ascribed to ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. attributed to ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. substituted for ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. replaced with ❌</div>
-  <div class="section"><strong>你的答案：</strong> A+B ✅</div>
-  <div class="section"><strong>逻辑：</strong> 电影公司偏 big-budget fantasy → 日常生活题材的电影少了 → 这个题材被让给/留给了电视和文学。left to（留给）+ ceded to（让给）表示转移。substituted for / replaced with 方向反了（表示电影取代其他媒体）。</div>
-  <div class="section"><strong>📖</strong> ceded to = 让给 · ascribed to = 归因于 · attributed to = 归因于</div>
-  <div class="section">### ⑤ [Hard — test 28 sec 1 #7] SE</div>
-  <div class="section">> Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not ______ his moderate political record.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. defer to ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. <strong>conform to</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. accede to ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. argue with ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. meddle with ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. <strong>square with</strong> ✅</div>
-  <div class="section"><strong>你的答案：</strong> B+F ✅</div>
-  <div class="section"><strong>逻辑：</strong> opponent 想把他描绘成 wild-eyed radical → 但 voters 会 reject 这个指控 → 因为指控和他的 moderate political record 不一致。conform to（符合）+ square with（与……一致）是同义词对。defer to / accede to 是遵从，语义不匹配。</div>
-  <div class="section"><strong>📖</strong> square with = 与……一致 · defer to = 遵从 · accede to = 同意/答应 · meddle with = 干预</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#02 · 0619</span>
+<span class="badge badge-sig">↔️转折</span>
 </div>
-<div class="word-card">
-  <div class="word-title">5. 张巍填空机经2000题 第二组（0701 · 5题）</div>
-  <div class="section">### ① · ↔️转折</div>
-  <div class="section">> Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant: they are a dead end, the _____ of what science ought to be.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) apotheosis ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) archetype ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) paradigm ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) culmination ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) <strong>antithesis</strong> ✅</div>
-  <div class="section"><strong>逻辑：</strong> but（↔️转折）→ 前半句 marvels of architecture（建筑杰作）→ but 中世纪物理化学 irrelevant + dead end → 它们是科学的<strong>反面/对立面</strong>。antithesis = 对立面。</div>
-  <div class="section"><strong>💡</strong> marvel（正面）↔️ antithesis（反面）</div>
-  <div class="section"><strong>📖</strong> antithesis = 对立面 · apotheosis = 典范/神化 · archetype = 原型 · paradigm = 范式 · culmination = 顶点</div>
-  <div class="section">### ② · ↔️转折</div>
-  <div class="section">> The senator's speech was surprisingly _______; rather than the bombastic rhetoric we had come to expect, she spoke with a directness and simplicity that caught everyone off guard.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) grandiloquent ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) <strong>unpretentious</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) pompous ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) histrionic ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) oratorical ❌</div>
-  <div class="section"><strong>逻辑：</strong> surprisingly（出乎意料）+ rather than bombastic rhetoric（而非浮夸辞藻）+ directness and simplicity（直接简洁）→ blank = 不浮夸/朴素 → unpretentious（不矫饰的/朴实的）。</div>
-  <div class="section"><strong>📖</strong> unpretentious = 不矫饰的 · bombastic = 浮夸的 · grandiloquent/pompous/histrionic = 浮夸/做作 · oratorical = 演说术的</div>
-  <div class="section">### ③ · SE · ➡️因果</div>
-  <div class="section">> Poaching and habitat loss have made the survival of many species _______; indeed, their continued existence is anything but secure.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) <strong>precarious</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) <strong>perilous</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) assured ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) guaranteed ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) inevitable ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F) certain ❌</div>
-  <div class="section"><strong>逻辑：</strong> anything but secure = 一点也不安全 → poaching + habitat loss → 物种生存<strong>岌岌可危</strong>。precarious（不稳定的）+ perilous（危险的）同义词对。</div>
-  <div class="section"><strong>📖</strong> precarious = 岌岌可危的 · perilous = 危险的 · anything but = 一点也不</div>
-  <div class="section">### ④ · SE · 🎭对比</div>
-  <div class="section">> Unlike the expansive vision of her predecessor, the new director's agenda was quite _______, focusing narrowly on a few key initiatives.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) comprehensive ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) <strong>confined</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) <strong>circumscribed</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) sweeping ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) ambitious ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F) far-reaching ❌</div>
-  <div class="section"><strong>逻辑：</strong> Unlike（🎭对比）→ predecessor = expansive（广阔的）→ new = 相反 → confined（有限的）+ circumscribed（受限制的）同义词对。</div>
-  <div class="section"><strong>📖</strong> confined = 有限的 · circumscribed = 受限制的 · expansive = 广阔的</div>
-  <div class="section">### ⑤ · SE · ➡️递进</div>
-  <div class="section">> The critic's review was not merely critical; it was filled with _______, targeting not just the book's flaws but the author's character as well.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ A) praise ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B) <strong>animadversion</strong> ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C) appreciation ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D) approval ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E) indifference ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F) admiration ❌</div>
-  <div class="section"><strong>逻辑：</strong> not merely critical → it was filled with _____（不仅仅是批评→充满了___）。criticism 升级版 → animadversion = 批评/指责/非难。</div>
-  <div class="section"><strong>💡</strong> not merely X → Y：Y 是 X 的升级版本，同维度递进。</div>
-  <div class="section"><strong>📖</strong> animadversion = 批评/非难（同义 ≈ criticism / censure）</div>
+<div class="logic">💡 转折句：信号词前后方向必相反</div>
+<div class="vocab">📖 boldness 大胆 · sacrificed 牺牲 · functionality 功能性</div>
+<div class="quote">**Although** the architect's design was widely _______ for its boldness, **critics argued** that it sacrificed functionality for visual impact.</div>
+<div class="answer">🎯 **acclaimed** 受赞誉的 · 🚩although(↔️转折) → critics负面 → blank必正面</div>
 </div>
-<div class="word-card">
-  <div class="word-title">6. 0701以后 · 生词整理（asked words）</div>
-  <div class="section"><strong>diffident</strong> — 不自信的、畏缩的（监管机构不敢履职→总检察长介入）</div>
-  <div class="section"><strong>drollness</strong> — 滑稽幽默、诙谐（quip = 俏皮话）</div>
-  <div class="section"><strong>faultlessness</strong> — 完美无缺（= perfection，SE同义词对）</div>
-  <div class="section"><strong>perfection</strong> — 完美</div>
-  <div class="section"><strong>polemical</strong> — 好辩的、有立场的</div>
-  <div class="section"><strong>anticipates</strong> — 预示/预期（= prefigures，SE同义词对）</div>
-  <div class="section"><strong>prefigures</strong> — 预示/预兆</div>
-  <div class="section"><strong>invidious</strong> — 令人反感的、不公平的（见上方 SE 部分完整笔记）</div>
-  <div class="section"><strong>perfunctory</strong> — 敷衍的、走过场的（见上方 SE 部分完整笔记）</div>
-  <div class="section"><strong>unfounded / unjustified</strong> — 没有根据的/不合理的（见上方 SE 部分完整笔记）</div>
-  <div class="section"><strong>antithesis</strong> — 对立面</div>
-  <div class="section"><strong>unpretentious</strong> — 不矫饰的、朴实的</div>
-  <div class="section"><strong>precarious</strong> — 岌岌可危的（= perilous，SE同义词对）</div>
-  <div class="section"><strong>perilous</strong> — 危险的</div>
-  <div class="section"><strong>confined</strong> — 有限的、受限制的（= circumscribed，SE同义词对）</div>
-  <div class="section"><strong>circumscribed</strong> — 受限制的</div>
-  <div class="section"><strong>animadversion</strong> — 批评、非难</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#03 · 0619</span>
+<span class="badge badge-sig">🔄倒装</span>
 </div>
-<div class="word-card">
-  <div class="word-title">7. 0702 · 张巍 test 1 s1 + test 27 s1/s2</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 1 s1 #1</div>
-  <div class="section">> It is a paradox of the Victorians that they were both [------] and, through their empire, cosmopolitan.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. insular · ❌ A. capricious · ❌ E. intransigent</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 paradox → 空与 cosmopolitan 取反</div>
-  <div class="section scene" style="padding-left:1rem;">▸ insular = 狭隘、封闭（vs cosmopolitan 世界主义）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ capricious = 反复无常 · intransigent = 不妥协 → 都不是 cosmopolitan 的反义</div>
-  <div class="section"><strong>[Easy] [SE]</strong> test 1 s1 #4</div>
-  <div class="section">> ...even when individual researchers do [------] bias or partiality, others can correct them using a framework of evidence on which everyone broadly agrees.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ C. succumb to + E. yield to · ❌ A. overreact to</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 beauty of scientific approach → 即使研究者陷入偏见，别人也能纠正</div>
-  <div class="section scene" style="padding-left:1rem;">▸ succumb to = yield to = 屈服于/陷入（同义词对）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ overreact to = 过度反应 → 语境不符</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. overreact to = 过度反应 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. deviate from = 偏离</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. succumb to = 屈服于、陷入。词根：<em>sub-</em>（下）+ <em>cumbere</em>（躺）→ 躺倒在下面 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. recoil from = 退缩、畏惧</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. yield to = 屈服于、让位于。与 C 为 SE 同义词对 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. shrink from = 回避、退缩</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 3 s2 #6 (原题号)</div>
-  <div class="section">> ...labor relationships are inherently [------] : the interests of business owners are diametrically opposed to those of employees.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. adversarial + D. antagonistic · ❌ 缺 D</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 : 解释关系 → diametrically opposed = 完全对立</div>
-  <div class="section scene" style="padding-left:1rem;">▸ adversarial = antagonistic = 对抗的（同义词对）</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. adversarial = 对抗性的。词根：<em>ad-</em>（向）+ <em>vertere</em>（转）→ 转向对面的 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. exploitative = 剥削性的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. mercenary = 唯利是图的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. antagonistic = 对抗性的。词根：<em>anti-</em>（反对）+ <em>agon</em>（竞赛）→ "与之斗争" ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. variable = 可变的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. changeable = 多变的</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 27 s2 #6</div>
-  <div class="section">> Films that critics have slumbered through rarely generate industry excitement, even though the critics [------] reception may be less the fault of the movie than of its unfortunate time slot near a fatiguing film festival conclusion.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. somnolent + C. lethargic</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 slumbered through（打瞌睡）→ 空内 = 困倦的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ somnolent = lethargic = 昏昏欲睡的（同义词对）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ laconic（简练的）· ❌ befuddled（困惑的）· ❌ evenhanded（公平的）</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. somnolent = 昏昏欲睡的。词根：<em>somnus</em>（睡眠）→ insomnia/somnambulist 同根 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. impartial = 公正的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. lethargic = 无精打采的、昏沉的。词根：<em>lethe</em>（遗忘/忘川）→ 像喝了忘川水一样萎靡 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. laconic = 简练的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. befuddled = 困惑的、迷糊的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. evenhanded = 公平的（= impartial）</div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 27 s1 #1</div>
-  <div class="section">> Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been [------] .</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. diffident · ❌ B. meticulous</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 对比逻辑：AG（检察长）介入查处 → 监管者（本该履职）却 diffident（畏缩/不自信）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ meticulous = 一丝不苟 → 逻辑反了（细心履职就不需要 AG 介入了）</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. diffident = 不自信的、畏缩的。词根：<em>dis-</em>（不）+ <em>fidere</em>（信任）→ 不信任自己 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. meticulous = 一丝不苟的。词根：<em>metus</em>（恐惧）→ 因害怕出错而极其仔细 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. straightforward = 直率的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. implacable = 无法安抚的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. tenacious = 坚韧不拔的</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. capricious = 反复无常的。词根：<em>capra</em>（山羊）→ 像山羊乱跳。与题意不符——不是 cosmopolitan 的反义</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. insular = 狭隘封闭的（像岛屿一样隔绝）。词根：<em>insula</em>（岛）。paradox → 与 cosmopolitan 完美对立 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. mercenary = 唯利是图的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. idealistic = 理想主义的</div>
-  <div class="section">|- E. intransigent = 不妥协的。与题意不符</div>
+<div class="logic">💡 表语前置：`More+形+than X + was + Y` → 还原 `Y was more 形 than X`</div>
+<div class="vocab">📖 commissioner 专员 · ruling 裁决 · indifference 冷漠 · shrug 耸肩</div>
+<div class="quote">More _______ than the commissioner's ruling **was** the public's indifference to it **;** the decision was met with a collective shrug.</div>
+<div class="answer">🎯 **disheartening** 令人沮丧的 · 🚩;(➡️递进) → shrug=冷漠 → blank=沮丧</div>
 </div>
-<div class="word-card">
-  <div class="word-title">8. 0703 · 张巍 test 16 s1 + test 16 s2 + test 15 s1 + test 27 s2</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 16 s1 #1</div>
-  <div class="section">> Though humanitarian emergencies are frequent features of television news, such exposure seldom [------] the public, which rather seems resigned to a sense of impotency.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ D. galvanizes</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 resigned to a sense of impotency（听天由命）→ 很少激发行动</div>
-  <div class="section scene" style="padding-left:1rem;">▸ galvanize = 激励、刺激（使采取行动）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ paralyze/demoralize/exasperate 都是负面方向，但公众本来已 impotent，问题不是"很少打击"而是"很少激发"</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. paralyzes = 使瘫痪。词根：<em>para-</em>（旁）+ <em>lysis</em>（松解）→ 瘫在一边</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. demoralizes = 使气馁。词根：<em>de-</em>（去掉）+ <em>moral</em>（士气）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. assuages = 缓解、平息</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. galvanizes = 激励、刺激（像电流一样激发行动）。词根：来自 Luigi Galvani（发现生物电的科学家）→ 通电后弹起 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. exasperates = 激怒、使恶化</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 16 s2 #1</div>
-  <div class="section">> The theory that the 1908 Tunguska event was the explosion of a cosmic body in the sky over Siberia is [------]: no one has yet found fragments of the object or any impact craters in the affected region.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ E. unproven + F. speculative</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 : 解释关系 → no fragments, no craters → 没有证据</div>
-  <div class="section scene" style="padding-left:1rem;">▸ unproven = 未经证实的 · speculative = 推测性的（同义词对）✅</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. long-standing = 由来已久的 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. indisputable = 无可争辩的 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. plausible = 看似合理的 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. uncontested = 无争议的 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. unproven = 未经证实的。词根：<em>un-</em>（不）+ <em>prove</em>（证明）✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. speculative = 推测性的。词根：<em>spec-</em>（看）→ specula（瞭望台）→ 凭观察推测 ✅</div>
-  <div class="section"><strong>[Medium] [TC]</strong> test 15 s1 #1</div>
-  <div class="section">> There is [------] in the director's most recent film that keeps the melodramatic possibilities latent in its script safely at bay.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ C. an austerity</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 keeps the melodramatic possibilities at bay（压抑住了情节剧的可能）→ 电影风格是克制的/简约的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ austerity = 朴素、克制、简约。mawkishness（多愁善感）、predictability（可预测）、ostentatiousness（炫耀）、emotiveness（情绪化）都跟 keep melodramatic at bay 矛盾</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 at bay = 使无法靠近/抑制住</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. mawkishness = 多愁善感的、矫情的 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. predictability = 可预测性 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. austerity = 简朴、克制。词根：<em>austere</em>（严峻的/简朴的）→ 对应 keep at bay ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. ostentatiousness = 炫耀、铺张 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. emotiveness = 情绪化 ❌</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 27 s2 #4</div>
-  <div class="section">> The Chavez Pass archaeological site was initially interpreted as indicative of [------] society, since it was thought to have been at the center of a cluster of smaller, contemporary settlements that it presumably controlled.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. a hierarchical + F. a stratified · ❌ D. diverse + E. heterogeneous</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 at the center → cluster of smaller settlements → controlled → 等级制社会（中心控制外围）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ hierarchical = 等级制的 · stratified = 分层级的（同义词对）✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ diverse/heterogeneous = 多样的/异质的 → 与"中心控制外围"逻辑无关 ❌</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. expansionist = 扩张主义的。与题意不符</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. hierarchical = 等级制的。词根：<em>hier-</em>（神圣）+ <em>arch-</em>（统治）→ 圣职等级制度 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. urban = 城市的。与题意不符</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. heterogeneous = 异质的。词根：<em>hetero-</em>（不同）+ <em>gen-</em>（种类）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. diverse = 多样的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. stratified = 分层级的。词根：<em>stratum</em>（层）→ 社会分层 ✅</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 27 s2 #5</div>
-  <div class="section">> Although the essayist's arguments did not [------] her most perceptive readers, the extreme subtlety of <strong>the paints she made</strong> explains why she was misinterpreted by most critics of her day.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. confound + E. perplex · ❌ D. persuade + F. enlighten</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 although（↔️转折）→ <strong>两个层面</strong>：arguments（文字论证）vs paints（绘画作品）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 敏锐读者：能读懂她的文字 arguments → 没有被困惑</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 评论家：只看她的绘画（too subtle）→ 误解了</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 虽然文字上 she was clear enough，但绘画太微妙 → 评论家看不懂</div>
-  <div class="section scene" style="padding-left:1rem;">▸ confound = 使困惑 · perplex = 使困惑（同义词对）✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ persuade/enlighten = 说服/启发 — 如果敏锐读者被说服了，矛盾集中在评论家误解，但转折仍然成立（文字说服 vs 绘画误导），但不如 confound+perplex 精准 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ⚠️ 注意原文是 <strong>paints</strong>（绘画），<strong>不是 points（观点）</strong>！两个不同载体</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. convince = 说服 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. confound = 使困惑、使混淆。词根：<em>com-</em>（一起）+ <em>fundere</em>（倒）→ 混在一起分不清 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. entertain = 娱乐；怀有（想法）❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. persuade = 说服 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. perplex = 使困惑。词根：<em>per-</em>（彻底）+ <em>plex</em>（编织）→ 完全缠住 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. enlighten = 启发、启迪 ❌</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#04 · 0619</span>
+<span class="badge badge-sig">🔄倒装</span>
 </div>
-<div class="word-card">
-  <div class="word-title">5. 0704 · 张巍 test 6 s1 / test 10 s1 / test 11 s1 / test 30 s1 / test 31 s1</div>
-  <div class="section"><strong>[Easy] [SE]</strong> test 6 s1 #5</div>
-  <div class="section">> The company is so old-fashioned and opposed to innovation that it can seem downright [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ antediluvian · archaic · ❌ flighty / chauvinistic / capricious / patronizing</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 so... that... 因果结构</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: old-fashioned + opposed to innovation → 极度过时，所以 seem downright _____。填"古老的"同义词对。</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩信号词：so... that...（因果关系），downright（强调程度）</div>
-  <div class="section"><strong>[Medium] [TC]</strong> test 10 s1 #1</div>
-  <div class="section">> Because people expect theater directors to be authoritarians, many were surprised that Clark was so [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ egalitarian · ❌ histrionic / megalomaniacal / indolent / charismatic</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 转折对比：expect authoritarians → surprised</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: 预期是 authoritarian（专制的），但 surprise 提示相反 → egalitarian（平等主义的）</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 11 s1 #4</div>
-  <div class="section">> Well organized and researched and including all significant discoveries and medical scientists, this history of Western medicine has justly been called [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ encyclopedic · exhaustive · ❌ long-winded / rambling / overbearing / undiscriminating</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 同义复现：well organized + researched + including all significant discoveries → 全面性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: 三个正面描述并列 → 总结为"全面详尽的"</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 30 s1 #4</div>
-  <div class="section">> Some have argued that naming scientific discoveries after the people who make them can [------] scientific progress, because the nomenclature lacks useful clarity, having no relationship to the underlying principles that govern nature.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ hamper · impede · ❌ abet / instigate / obscure / nullify</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 因果：nomenclature lacks clarity + no relationship to principles → 阻碍 progress</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: 命名不清晰、与原理无关 → 阻碍科学进步</div>
-  <div class="section scene" style="padding-left:1rem;">▸ nullify（使无效）程度过强，obscure（使模糊）≠ hinder</div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 31 s1 #1</div>
-  <div class="section">> Many creative photographers were delighted to find in instant photography a mode that encouraged them to stop viewing photography as [------] and start viewing it as something they could handle with spontaneity, even derision.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ sacrosanct · ❌ ephemeral / malleable / egalitarian / autonomous</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 对比结构：stop viewing as _____ → start viewing as spontaneous, derision</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: spontaneous（随性随意）的反面 → 神圣不可侵犯的（sacrosanct）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ephemeral（短暂的）是常见陷阱 — spontaneity 的对立面不是"短暂"而是"不可随意触碰"</div>
-  <div class="section"><strong>各词释义（按题顺序）：</strong></div>
-  <div class="section"><strong>Q1:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. antediluvian</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 极其古老的、过时的。ante-（前）+ diluvium（洪水）→ 大洪水前的</div>
-  <div class="section"><strong>GRE场景</strong> 形容公司/技术/观念极度守旧，拒绝改变。常与 old-fashioned, obsolete 同现</div>
-  <div class="section">> The company's antediluvian approach to technology left it far behind competitors.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. flighty</strong> ❌ 轻浮的、反复无常的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. archaic</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 古老的、过时的。<em>archaios</em>（古老的，希腊语）</div>
-  <div class="section"><strong>GRE场景</strong> 指语言用法/制度/工具已过时，比 old 正式。常与 outmoded, antiquated 同现</div>
-  <div class="section">> The archaic filing system made it impossible to find any document quickly.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. chauvinistic</strong> ❌ 沙文主义的、盲目爱国的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. capricious</strong> ❌ 反复无常的、任性的。来自意大利语 <em>capriccio</em>（突发奇想）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>F. patronizing</strong> ❌ 居高临下的、傲慢的</div>
-  <div class="section"><strong>Q2:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. histrionic</strong> ❌ 做作的、戏剧化的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. megalomaniacal</strong> ❌ 妄自尊大的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. egalitarian</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 平等主义的。<em>égal</em>（平等，法语）</div>
-  <div class="section"><strong>GRE场景</strong> 与 authoritarian（专制的）构成经典反义对；常形容领导风格、社会制度、组织文化</div>
-  <div class="section">> The new CEO's egalitarian approach was a welcome change from her predecessor's authoritarian style.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. indolent</strong> ❌ 懒惰的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. charismatic</strong> ❌ 有魅力的</div>
-  <div class="section"><strong>Q3:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. encyclopedic</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 百科全书式的、学识渊博的。<em>en-</em>（在内）+ <em>kyklos</em>（圆）+ <em>paideia</em>（教育）→ 全面教育</div>
-  <div class="section"><strong>GRE场景</strong> 形容知识、著作、记忆的全面广博。常与 comprehensive, exhaustive 同向</div>
-  <div class="section">> Her encyclopedic knowledge of art history made her an invaluable museum curator.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. long-winded</strong> ❌ 冗长的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. exhaustive</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 详尽无遗的。<em>ex-</em>（出）+ <em>haurire</em>（抽、汲取）→ 抽干了，彻底完成</div>
-  <div class="section"><strong>GRE场景</strong> 形容研究/搜索/分析的彻底全面，强调"不漏掉细节"。常与 thorough, meticulous 同现</div>
-  <div class="section">> The detective conducted an exhaustive search of the crime scene, leaving no clue unexamined.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. rambling</strong> ❌ 散漫的、东拉西扯的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. overbearing</strong> ❌ 专横的、傲慢的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>F. undiscriminating</strong> ❌ 不加区分的</div>
-  <div class="section"><strong>Q4:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. hamper</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 阻碍、妨碍。可能与古英语 <em>hamelian</em>（阻挠）有关</div>
-  <div class="section"><strong>GRE场景</strong> 被动受阻（be hampered by...）；常接 progress, effort, communication。与 impede 为经典 SE 同义词对</div>
-  <div class="section">> The lack of funding hampered the research team's ability to complete the study on time.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. abet</strong> ❌ 怂恿、教唆（反义）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. instigate</strong> ❌ 煽动、挑起（反义）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. obscure</strong> ❌ 使模糊、使晦涩（不是"阻碍"）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. nullify</strong> ❌ 使无效、抵消（程度过强）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>F. impede</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 阻碍、妨碍。<em>im-</em>（入）+ <em>pes</em>（脚）→ 绊住脚</div>
-  <div class="section"><strong>GRE场景</strong> 与 hamper 同义，比 obstruct 抽象。常接 progress, development, movement</div>
-  <div class="section">> Heavy bureaucracy impeded the implementation of the new policy.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 hamper / impede 是 GRE SE 高频同义词对，注意与 prevent（完全阻止）区分</div>
-  <div class="section"><strong>Q5:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. sacrosanct</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 神圣不可侵犯的。<em>sacer</em>（神圣）+ <em>sanctus</em>（圣洁）→ 双重神圣</div>
-  <div class="section"><strong>GRE场景</strong> 形容不可挑战的原则/传统/信仰。常与 question, challenge, violate 构成否定搭配</div>
-  <div class="section">> In academia, academic freedom is considered sacrosanct and not to be infringed upon.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. ephemeral</strong> ❌ 短暂的、转瞬即逝的</div>
-  <div class="section"><strong>GRE场景</strong> fame, beauty, joy 的常见修饰词；常与 fleeting, transient, momentary 同义（但本题不对）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. malleable</strong> ❌ 可塑的、易受影响的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. egalitarian</strong> ❌ 平等主义的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. autonomous</strong> ❌ 自主的、自治的</div>
+<div class="logic">💡 so...that倒装：`So+形+was+主+that...` → `主 was so 形 that...`</div>
+<div class="vocab">📖 ambassador 大使 · clarifications 澄清 · undo 挽回 · diplomatic 外交的</div>
+<div class="quote">**So** _______ **was** the ambassador's statement **that** it required three subsequent clarifications to undo the diplomatic damage.</div>
+<div class="answer">🎯 **incendiary** 煽动性的 · 🚩so...that(➡️因果) → damage → blank=煽动性</div>
 </div>
-<div class="word-card">
-  <div class="word-title">6. 0704b · 张巍 test 2 s1 / test 12 s1 / test 33 s1 / test 34 s1</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 2 s1 #1</div>
-  <div class="section">> We often regard natural phenomena like rainfall as mysterious and unpredictable; although for short time spans and particular places they appear so, in fact on a truly global scale, nature has been a model of [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ reliability · ❌ diversity / complexity / plasticity / discontinuity</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 although 转折：看似 unpredictable → 实则 reliable</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: mysterious + unpredictable（短期/局部）→ although 转折 → 全球尺度上是相反的 → reliability（可靠性）</div>
-  <div class="section"><strong>[Medium] [TC]</strong> test 12 s1 #1</div>
-  <div class="section">> Blake's reputation for weakness is [------]: almost all who have worked with him say he is a disciplined, intellectually formidable, and very tough politician.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ specious · ❌ pervasive / irreversible / trivial / ambivalent</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 冒号解释说明：后半句描述实际为 disciplined + tough → reputation 是假的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: reputation for weakness 与实际（disciplined, formidable, tough）矛盾 → 这个 reputation 是 specious（似是而非的）</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 12 s1 #6</div>
-  <div class="section">> Anne Carson's book Nox is, very deliberately, [------] literary object—the opposite of an e-reader, which is designed to vanish in your palm as you read on a train.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ cumbersome · unwieldy · ❌ evanescent / immutable / ephemeral / flexible</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 opposite of "vanish in your palm" → 笨重不便于携带</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: opposite of 轻便（vanish in your palm）→ 笨重的</div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 33 s1 #1</div>
-  <div class="section">> The maps in this volume are meant not as guides but as [------]: they are designed to make the reader think anew about the city.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ provocations · ❌ adornments / references / truisms / valedictions</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 not X but Y 对比 + 冒号解释：make reader think anew</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: not as guides（不是引导）→ but as _____ that makes you think anew → provocations（引发思考的东西）</div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 34 s1 #1</div>
-  <div class="section">> The science community's perennial lament over inadequate budgets has come to seem increasingly [------], because government support for science and engineering has never been greater.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ disingenuous · ❌ vital / hopeless / poignant / condescending</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 because 因果：support has never been greater → lament 不真诚</div>
-  <div class="section scene" style="padding-left:1rem;">▸ Logic breakdown: lament（抱怨）budgets inadequate → 实际 support 空前大 → 抱怨是虚伪的/不真诚的</div>
-  <div class="section"><strong>各词释义（按题顺序）：</strong></div>
-  <div class="section"><strong>Q1:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. reliability</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 可靠性。rely（依赖）+ ability（能力）→ 可依赖的性质</div>
-  <div class="section"><strong>GRE场景</strong> 与 unpredictable 构成反义对；常形容 data, source, measure 的可信赖度</div>
-  <div class="section">> The reliability of the experimental results was confirmed through repeated trials.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. diversity</strong> ❌ 多样性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. complexity</strong> ❌ 复杂性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. plasticity</strong> ❌ 可塑性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. discontinuity</strong> ❌ 不连续性</div>
-  <div class="section"><strong>Q2:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. specious</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 似是而非的、外表好看的但实际不成立的。<em>speci-</em>（看起来）→ 看起来对但实际不对</div>
-  <div class="section"><strong>GRE场景</strong> 常形容 argument, claim, reasoning, reputation — 表面上看合理但有根本缺陷</div>
-  <div class="section">> The lawyer's specious argument sounded convincing but collapsed under scrutiny.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. pervasive</strong> ❌ 普遍的、渗透的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. irreversible</strong> ❌ 不可逆的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. trivial</strong> ❌ 琐碎的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. ambivalent</strong> ❌ 矛盾的（指情绪的复杂混合）</div>
-  <div class="section"><strong>Q3:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. evanescent</strong> ❌ 转瞬即逝的</div>
-  <div class="section"><strong>GRE场景</strong> 常形容 beauty, memory, light — 短暂易逝（但本题需要的是 vanish 的反面）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. cumbersome</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 笨重的、累赘的。cumber（阻碍）+ some（有…性质）→ 碍手碍脚的</div>
-  <div class="section"><strong>GRE场景</strong> 形容设备/流程/制度过于庞大复杂难以处理；常与 unwieldy 同义</div>
-  <div class="section">> The cumbersome bureaucratic process delayed the project by months.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. immutable</strong> ❌ 不变的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. unwieldy</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 笨拙的、不易操作的。un-（不）+ wieldy（易操作的）</div>
-  <div class="section"><strong>GRE场景</strong> 常形容物体太庞大不好拿、系统太复杂不好管理；与 cumbersome 为经典 SE 同义词对</div>
-  <div class="section">> The unwieldy equipment required three people just to move it across the room.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. ephemeral</strong> ❌ 短暂的（与 evanescent 同义）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>F. flexible</strong> ❌ 灵活的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 cumbersome / unwieldy 是高频 SE 同义词对，表示"笨重不便于操作"</div>
-  <div class="section"><strong>Q4:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. adornments</strong> ❌ 装饰品</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. references</strong> ❌ 参考、引用（与 guides 同向）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. truisms</strong> ❌ 老生常谈、不言而喻的道理</div>
-  <div class="section"><strong>GRE场景</strong> 常用来反驳的观点 — "that's just a truism" ⚠️ 但不是本题答案</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. provocations</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 挑衅、激发思考的事物。pro-（向前）+ vocare（呼叫）→ 叫出来、激起反应</div>
-  <div class="section"><strong>GRE场景</strong> 中性偏正面义 — 激发思考/反应/讨论。provocative 为其形容词形式</div>
-  <div class="section">> The artist's work was intended as a provocation, challenging viewers to question their assumptions.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. valedictions</strong> ❌ 告别辞、告别</div>
-  <div class="section"><strong>Q5:</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>A. vital</strong> ❌ 至关重要的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>B. hopeless</strong> ❌ 绝望的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>C. poignant</strong> ❌ 深刻的、辛酸的</div>
-  <div class="section"><strong>GRE场景</strong> 形容记忆/故事/描写生动触动人 👈 但与本题逻辑不符</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>D. condescending</strong> ❌ 居高临下的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ <strong>E. disingenuous</strong> ✅</div>
-  <div class="section"><strong>释义+词根</strong> 不真诚的、虚伪的。dis-（不）+ ingenuous（真诚的、天真的）</div>
-  <div class="section"><strong>GRE场景</strong> 常形容 statement, apology, concern — 表面说一套实际想另一套</div>
-  <div class="section">> The politician's expression of concern seemed disingenuous given his voting record.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 disingenuous 的反义词 ingenuous = 天真的、坦率的（不是 genius）</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#05 · 0619</span>
+<span class="badge badge-sig">➡️递进</span>
 </div>
-<div class="word-card">
-  <div class="word-title">7. 0705 · 张巍 test 37 s1 / test 36 s2 / test 36 s1 / test 38 s2 / test 39 s1</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 37 s1 #1</div>
-  <div class="section">> Some ambitious lawyers are willing to work on Supreme Court cases without charge in an effort to gain [------]; they believe that this increased cachet will help them succeed in the future.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ C. prestige · ❌ A. wisdom / B. certitude / D. integrity / E. humility</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 同义复现：gain → increased cachet（声望/名望）= prestige</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 cachet = 名望、声望（与 blank 同义复现）</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. wisdom = 智慧。词根：<em>wis-</em>（知道）→ 知道得多</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. certitude = 确信、确定性。词根：<em>cert-</em>（确定）→ certain 的名词形式</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. prestige = 声望、威望。词根：拉丁语 <em>praestigiae</em>（幻术/诱骗）→ 原义"令人眼花缭乱的表演"→ 引申为"名望/威信" ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. integrity = 正直、诚实。词根：<em>in-</em>（不）+ <em>tangere</em>（碰）→ 未被触碰→完整→正直</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. humility = 谦逊。词根：<em>humus</em>（泥土）→ 脚踏实地→谦逊</div>
+<div class="logic">💡 逻辑优先：先定方向，再选词 — exhaustive=详尽 / speculative=推测</div>
+<div class="vocab">📖 scholars 学者 · encountered 遇到</div>
+<div class="quote">The historian's account was **so** _______ **that** even scholars discovered details they had never encountered.</div>
+<div class="answer">🎯 **exhaustive** 详尽的 · 🚩so...that(➡️递进) → new details → blank=详尽</div>
 </div>
-  <div class="section"><strong>[Medium] [TC]</strong> test 36 s2 #1</div>
-  <div class="section">> Having regarded Marcus's relationship to their boss as entirely [------], Jo was flabbergasted when Marcus publicly made clear his objections to some changes the boss was introducing.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ D. dissident · ❌ A. professional / B. sycophantic / C. prosaic / E. collegial</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 转折逻辑：Jo 原本以为关系是 dissident（持反对意见的）→ 但 Marcus <strong>公开</strong>表达反对时 Jo 仍 flabbergasted（震惊）→ 惊讶点在<strong>公开化的程度</strong>超出预期</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 本题较绕，理解关键：had regarded...as entirely dissident = Jo 过去（错误地）自以为对 Marcus 和老板的关系了如指掌，以为他们"完全是对抗关系"→ 但实际上 Jo 低估了 Marcus 的对抗程度——当 Marcus 公然在公开场合直接反对老板时，Jo 才意识到这比她想得更严重。</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. professional = 职业的、专业的。不构成翻转逻辑 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. sycophantic = 谄媚的、奉承的。词根：<em>sykophantes</em>（告密者）→ 如果关系是谄媚的，Marcus 公开反对就完全反转 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. prosaic = 平庸的、枯燥的。词根：<em>prosa</em>（散文）→ 像散文一样平铺直叙</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. dissident = 持不同意见的、反对的。词根：<em>dis-</em>（分开）+ <em>sistere</em>（站立）→ 分开站→持异议 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. collegial = 同事间的、友好的。词根：<em>col-</em>（一起）+ <em>leg-</em>（选派）→ 被选在一起的人</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#06 · 0619</span>
+<span class="badge badge-sig">🎭表面对比</span>
 </div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 36 s1 #5</div>
-  <div class="section">> Many people remember a time when cutting-edge architects, who are these days treated like celebrities, had [------] relationship with the public: for much of the 1960s, big new buildings in cities were often cause for hostility, not celebration.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. an antagonistic + B. an inimical · ❌ C. autocratic / D. symbiotic / E. indifferent / F. apathetic</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 冒号解释关系：hostility, not celebration → 敌对的 → antagonistic = inimical</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. antagonistic = 敌对的、对抗性的。词根：<em>anti-</em>（反对）+ <em>agon</em>（竞赛）→ 与之斗争 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. inimical = 敌意的、有害的。词根：拉丁语 <em>inimicus</em>（敌人）← <em>in-</em>（不）+ <em>amicus</em>（朋友）→ 不是朋友 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. autocratic = 独裁的、专制的。词根：<em>auto-</em>（自己）+ <em>kratos</em>（统治）→ 自己统治</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. symbiotic = 共生的、互利的。词根：<em>sym-</em>（一起）+ <em>bios</em>（生命）→ 一起生活 → 与 hostility 方向相反 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. indifferent = 漠不关心的。词根：<em>in-</em>（不）+ <em>differre</em>（区别于）→ 没区别→不在乎</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. apathetic = 冷漠的、无动于衷的。词根：<em>a-</em>（无）+ <em>pathos</em>（感情）→ 没感情</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 indifferent / apathetic 是"冷漠不关心"而非"敌对"，与 hostility 不完全对应 ❌</div>
+<div class="logic">💡 时间对比型：前期承诺 vs 后期行为 → 方向相反</div>
+<div class="vocab">📖 sustainability 可持续性 · circumvent 规避 · memo 内部备忘录</div>
+<div class="quote">The company's commitment to sustainability **proved** _______ **when** a memo revealed plans to **circumvent** regulations.</div>
+<div class="answer">🎯 **illusory** 虚假的 · 🚩proved...when(⏳前后对比) → 背地违规 → blank=虚假</div>
 </div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 38 s2 #1</div>
-  <div class="section">> In the final scene of the movie, the character exhibits an almost unbelievable [------], remaining imperturbable in the face of intense and immediate physical danger.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ D. sangfroid · ❌ A. cunning / B. endurance / C. arrogance / E. percipience</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 同位语解释：remaining imperturbable（保持镇定）→ blank = 镇定/沉着</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. cunning = 狡猾、狡猾。词根：古英语 <em>cunnan</em>（知道/会）→ 知道怎么算计人</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. endurance = 忍耐力。词根：<em>en-</em>（使）+ <em>durus</em>（硬/持久）→ 使持久</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. arrogance = 傲慢。词根：<em>ad-</em>（向）+ <em>rogare</em>（要求）→ 向别人无礼要求</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. sangfroid = 镇定、沉着（法语，字面"冷血"）。法语 <em>sang</em>（血）+ <em>froid</em>（冷）→ 冷静沉着 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. percipience = 洞察力、感知力。词根：<em>per-</em>（彻底）+ <em>cipere</em>（抓）→ 完全抓住</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 sangfroid 是法语借词，GRE 高频词。与 composure、equanimity、aplomb 同义。</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#07 · 0622</span>
+<span class="badge badge-sig">↔️让步</span>
 </div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 39 s1 #4</div>
-  <div class="section">> Despite the general [------] of Roman archaeological studies toward the major cities and their monuments, archaeology has contributed much to a better understanding of rural developments in Roman territory.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ E. bias + F. orientation · ❌ A. openness / B. indifference / C. hostility / D. animus</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 Despite 转折：despite 倾向大城市 → 实际贡献了乡村理解 → blank = 偏向/倾向</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. openness = 开放性 → 与 toward major cities 搭配但逻辑不通（openness toward = 对…开放 → 那就不会忽视乡村）❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. indifference = 漠不关心 → indifference toward 说得通 ✓ 但 Despite 后面不应该接 indifference（无倾向不构成转折）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. hostility = 敌意 → hostility toward 说得通 ✓ 但考古学不可能对大城市有敌意</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. animus = 敌意、恶意 → 同上 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. bias = 偏向、偏好。词根：希腊语 <em>bios</em>（生命）→ 偏向生命→偏见/偏好 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. orientation = 倾向、方向。词根：<em>oriri</em>（升起）→ 朝向东方→定位/倾向 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 bias toward = 偏向/倾向于某方向；orientation toward = 以…为导向。两个词在这里都是"倾向于研究大城市"的意思。indifference 不能接 toward（一般说 indifference to）+ 语义上"尽管对大城市冷漠"也不构成好的转折（冷漠并不会阻碍理解乡村）。</div>
-</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 42 s1 #7</div>
-  <div class="section">> The sociologist argued that criminal behavior is an impermanent condition because it is the result of cyclical forces operating through [------] factors, not the manifestation of deeply rooted personal characteristics.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. contingent + C. circumstantial (SE) · ❌ B. alarming / D. proliferating / E. unsustainable / F. intensifying</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 impermanent + not deeply rooted → blank = 偶然的、情境性的。because 因果逻辑：impermanent → cyclical forces → blank factors → 与 deeply rooted 对立</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. contingent = 偶然的、视情况而定的。词根：<em>com-</em>（一起）+ <em>tangere</em>（触及）→ 碰在一起 → 偶然发生 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. alarming = 令人警觉的 → 不能与 impermanent/circumstantial 构成同义 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. circumstantial = 视情况而定的、环境性的。词根：<em>circum-</em>（环绕）+ <em>stare</em>（站立）→ 周围站着的事物 → 环境/情境 → 情景性的 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. proliferating = 激增的、扩散的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. unsustainable = 不可持续的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. intensifying = 加剧的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 contingent + circumstantial 是 SE 常见搭配，都表示"取决于具体情境的"、"非固有/非本质的"。该句核心对比：cyclical forces × contingent factors ↔ deeply rooted personal characteristics（周期性外力 × 偶然因素 ↔ 根深蒂固的个人特质）。</div>
-</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 17 s1 #1</div>
-  <div class="section">> Many readers today consider the moral sentiments expressed in the ancient writers' work to be quite vapid, and in the seventeenth century they were similarly regarded as [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. jejune · ❌ B. didactic / C. dogmatic / D. tendentious / E. arcane</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 vapid（乏味/空洞）+ similarly regarded as → blank = vapid 的同义词。similarly 表明古今一致评价</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. jejune = 空洞乏味的、幼稚的。词根：拉丁语 <em>jejunus</em>（禁食/饥饿）→ 空乏的 → 空洞无内容 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. didactic = 说教的、教导的 → 与 vapid 不同义</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. dogmatic = 教条的、武断的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. tendentious = 有倾向性的、有偏见的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. arcane = 神秘的、晦涩难懂的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 jejune 是 GRE 高频词，常与 vapid、banal、insipid 构成同义复现。注意 jejune 还有 "幼稚" 的意思（= naive/immature），但此处取 "空洞乏味" 义。</div>
-</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 18 s1 #4</div>
-  <div class="section">> Tompkinson's prior donations to the university, while very generous, failed to [------] the magnitude of her latest gift.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. portend + D. predict · ❌ A. compensate for / C. clarify / E. offset / F. undermine</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 while（虽然让步）+ failed to → 以前的捐赠虽然慷慨，但无法<strong>预示</strong>最近那次捐赠的规模大小。magnitude（规模/巨大）是关键：此前捐赠无法预示最新捐赠的宏大</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 这是 <strong>SE（六选二）</strong> 题，portend + predict 是同义词对：两者都表示\"提前告知/预示\"。主语是 prior donations（事物），portend 是\"事物作为征兆预示\"，predict 在 GRE 中可以用于事物\"预示\"（= forecast/indicate）。</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. compensate for = 补偿 → 虽然 generous 但不能补偿最新捐赠的 magnitude → 逻辑：compensate 强调"弥补不足"，但句意是"不能预示其规模"，不是"不足以补偿"</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. portend = 预示、预兆。词根：<em>por-</em>（向前）+ <em>tendere</em>（伸展）→ 向前伸展→预示 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. clarify = 澄清 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. predict = 预言、预示。词根：<em>pre-</em>（前）+ <em>dicere</em>（说）→ 提前说出。在 GRE 中可用于事物作主语：= forecast / indicate。与 portend 为 SE 同义词对 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. offset = 抵消 → 同 compensate for，逻辑不对 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. undermine = 削弱 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 portend = foreshadow / presage，强调通过现有迹象预示未来的事情。此处 prior donations → latest gift 的大小关系正是"通过已知预示未知"。</div>
-</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 18 s1 #6</div>
-  <div class="section">> Mortoris is dour and [------], seemingly incapable of smiling, let alone laughing.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ E. lugubrious + F. gloomy · ❌ A. mirthful / B. jovial / C. intelligent / D. tepid</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 dour（阴郁/严厉）+ incapable of smiling → blank = dour 的同义词。and 连接并列关系</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. mirthful = 欢乐的 → 反义 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. jovial = 快活的 → 反义 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. intelligent = 聪明的 → 不相关</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. tepid = 微温的、不冷不热的 → 程度不够</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. lugubrious = 忧郁的、悲戚的。词根：拉丁语 <em>lugere</em>（哀悼）→ 哀悼般的阴郁 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. gloomy = 阴郁的、悲观的 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 dour + lugubrious + gloomy 是三连阴郁词。lugubrious 比 gloomy 更夸张/戏剧化一些（过度的悲伤，常带滑稽感）。注意不要混淆 lugubrious 和 lucrative（有利可图的）。</div>
-</div>
-  <div class="section">|<strong>[Hard] [SE]</strong> test 42 s1 #4  ⚠️ 修正版</div>
-  <div class="section">> Although the parents do not think highly of the educational system "as a whole", they fail to treat teachers with [------] equally.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ❌ ~~旧答案：A. consideration + E. reverence（错误分析）~~</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ <strong>正确答案：D. opprobrium + F. disdain</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 <strong>⚠️ 陷阱题！</strong> 关键：`as a whole` + `fail to ... equally`。父母不看好整个教育系统（按理应鄙视老师）→ 但他们 fail to treat teachers with opprobrium/disdain equally（<strong>没有一视同仁地鄙视</strong>）→ 对老师有区别对待。`Although` 前后：不看好系统（整体否定）↔ 没有一致否定老师（差别对待），<strong>方向不同 → 转折 ✅</strong>。错误原因：忽略 `fail to` + `equally` 双重结构 + `as a whole` 语境。`fail to treat with consideration` = <strong>没有</strong>尊重（不是"没有不尊重"），方向反了。</div>
-  <div class="section">||<strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section">||- A. consideration = 尊重、体谅 ❌（父母不希望一视同仁地尊重）</div>
-  <div class="section">|- B. veneration = 崇敬、敬仰 ❌（程度过重，venerate 是对神灵/圣人的崇敬）</div>
-  <div class="section">|- C. lucubration = 刻苦钻研、学究式著作 ❌（罕见词，与题意无关）</div>
-  <div class="section">|- D. opprobrium = 谴责、耻辱 ✅（fail to treat with opprobrium equally = 没有一视同仁地谴责）</div>
-  <div class="section">|- E. reverence = 尊敬、敬畏 ❌（父母既然不看好教育系统，不应选正面词⊗equally 结构）</div>
-  <div class="section">||- F. disdain = 鄙夷 ✅（与 opprobrium 同义配对，fail to treat with disdain equally = 没有一视同仁地鄙夷）</div>
-</div>
-  <div class="section"><strong>[Easy] [TC]</strong> test 54 s1 #1</div>
-  <div class="section">> Some species' camouflage patterns may be [------], granting those species a higher chance of survival in a heterogeneous environment.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. plastic · ❌ E. imitable</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 无信号词，直接因果：camouflage patterns must be adaptable to survive in heterogeneous（异质）environment → plastic = 可塑的/灵活的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 plastic 在 GRE 中常考"可塑的、易变形的"义，与 malleable、pliable 同义。heterogeneous environment（异质环境）需要动物伪装能随环境变化 → 非 persistent/固定不变</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. <strong>plastic</strong> = 可塑的、灵活易变的。词根：希腊语 <em>plastikos</em>（可塑造的）← <em>plassein</em>（塑造）。与 malleable（可锤打的）、pliable（可弯曲的）同属"可塑"词族 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. subtle = 微妙的、不易察觉的 → 在异质环境中反而是劣势（不易察觉意味着固定花纹无法适应不同环境）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. singular = 单一的、独特的 → 与 heterogeneous 矛盾</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. consistent = 一致的、不变的 → 与 heterogeneous 矛盾；固定花纹无法在多变环境中生存</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. imitable = 可模仿的 → 被动属性。不是"自己能变化"而是"能被别人模仿"，逻辑反 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 plastic vs. consistent/plastic vs. fixed 是 GRE 常见对立 pair</div>
-</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 38 s1 #7</div>
-  <div class="section">> What they see in Jimenez is the one candidate capable of decisive leadership, in stark contrast to Diaz, whose team in office has been marred by [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ C. irresolution + D. vacillation (SE) · ❌ DE (vacillation+belligerence)</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 <strong>in stark contrast to</strong>（强烈对比）：Jimenez = decisive leadership → Diaz 的团队必是 indecisive/hesitant。marred by（被...损害）也指向负面特性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 对比类 SE：先找出对比方的极端值。decisive（果断）的反面是 irresolution（犹豫不决）+ vacillation（摇摆不定），不是 belligerence（好斗）。belligerence + pugnacity 是另一对同义词，但与 decisive 无对比关系</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. defensiveness = 防御性 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. corruption = 腐败 → 不匹配；与 decisive 没有直接对比</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. irresolution = 犹豫不决。词根：<em>in-</em>（不）+ <em>resolvere</em>（解决）→ 无法解决 → 犹豫不决 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. vacillation = 摇摆不定、优柔寡断。词根：拉丁语 <em>vacillare</em>（摇摆）→ 像钟摆一样来回晃动 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. belligerence = 好斗、好战。词根：<em>bellum</em>（战争）+ <em>gerere</em>（进行）→ 好战 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. pugnacity = 好斗、爱吵架。词根：拉丁语 <em>pugnax</em>（好斗的）← <em>pugnus</em>（拳头）❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 irresolution + vacillation 是高频 SE 搭配，描述决策无能/优柔寡断。注意 vacillation 强调"来回摇摆"，irresolution 强调"无法做决定"。</div>
-</div>
-  <div class="section"><strong>[Medium] [SE]</strong> test 38 s1 #5</div>
-  <div class="section">> The women's rights movement has been mostly [------] in the Middle East, but it is likely that activists will be newly galvanized by the political upheavals currently sweeping the region.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. quiescent + E. abeyant · ❌ AD (subverted+bootless)</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 <strong>but</strong>（↔️转折）+ <strong>newly galvanized</strong>（重新被激活）→ 之前的状态是<strong>沉寂/暂停的</strong> → quiescent = abeyant</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 张巍答案文件原写 AD（subverted+bootless），经考满分确认答案为 BE（正确率51%，难度4），和 #6 一样是该 section 的笔误条目。galvanized = 给…通电/激励，quiescent = 静止的，abeyant = 暂时中止的——这是最简单的转折取反逻辑。</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. subverted = 被颠覆、被暗中破坏。词根：<em>sub-</em>（下）+ <em>vertere</em>（转）→ 从下面翻转。说"被颠覆"与 but 后"被重新激活"不太构成自然转折 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. quiescent = 静止的、休眠的。词根：拉丁语 <em>quiescere</em>（休息）← <em>quies</em>（安静）→ 暂时安静的 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. interminable = 无休止的、冗长的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. bootless = 徒劳的、无益的。词根：古英语 <em>bōt</em>（补救）+ <em>-less</em>（无）→ 无补救作用的。语义方向可接受但非正确答案 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. abeyant = 暂搁的、中止的。词根：古法语 <em>abéance</em>（期待/悬而未决）→ 暂时搁置状态 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. feckless = 无能的、不负责任的。词根：<em>effect</em> 的苏格兰变体 + <em>-less</em> → 无效果的 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 quiescent / abeyant 都是"暂时不活跃/休眠"的意思，与 but 后 galvanized（被激活）形成最直接的转折对应。注意张巍答案文件已知笔误，和 #6 一样 AD 是错的。</div>
-</div>
-  <div class="section"><strong>[Hard] [TC]</strong> test 38 s2 #1</div>
-  <div class="section">> In the final scene of the movie, the character exhibits an almost unbelievable [------], remaining imperturbable in the face of intense and immediate physical danger.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ D. sangfroid · ❌ E. percipience</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 <strong>remaining imperturbable</strong>（保持镇定自若）= blank 的直接定义。in the face of intense physical danger（面对人身危险时）→ 需要"冷静"而非"洞察力"</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 sangfroid 是法语借词（sang=血 + froid=冷），字面"冷血"，意为"在危险/压力下保持冷静沉着"。GRE 常与 imperturbable、composure、equanimity 同义复现</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. cunning = 狡猾的 → 与 imperturbable 无关</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. endurance = 忍耐力 → 与"镇定自若"不同，更偏"忍受痛苦"</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. arrogance = 傲慢 → 不匹配</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. sangfroid = 冷静沉着、镇定自若。法语 <em>sang-froid</em>（冷血）→ 面临危险时的冷静 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. percipience = 洞察力、感知力。词根：拉丁语 <em>percipere</em>（感知）→ 与镇定无关 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 sangfroid 发音：/sɒŋˈfrwɑː/（松-夫瓦），注意 g 不发音</div>
-</div>
-  <div class="section"><strong>[Hard] [SE]</strong> test 38 s1 #6</div>
-  <div class="section">> Beatified by the Catholic Church in 1765, Italian cleric Ludovico Sabbatini is [------] each year on the day of his death, June 1.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ D. venerated + E. honored · ❌ BF (evoked+christened)</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 <strong>Beatified</strong>（被宣福）+ <strong>each year on the day of his death</strong> → 被宣福的人，信徒会在其忌日<strong>崇敬/纪念</strong>他 → venerated = honored</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 最简单的取同义题：beatified（被宣福/被尊为真福者）→ blank 取 beatified 的广义同义 = venerated（崇敬）/ honored（纪念）。注意张巍答案文件原本写了 BF，经对照考满分（正确率63%，难度3）确认为 DE。</div>
-  <div class="section"><strong>各词释义（按选项顺序）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. pledged = 发誓/承诺 → 完全不相关</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. evoked = 唤起、引起（记忆/情感）。词根：拉丁语 <em>ex-</em>（出）+ <em>vocare</em>（叫）→ 叫出来。被动"被唤起"放在这里说不通——人不能被"唤起" ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. deified = 被神化。词根：<em>deus</em>（神）+ <em>-fy</em>（使）→ 使之成神。程度过重——beatified 只是宣福（真福品），不是 canonized（封圣），更不是变成神 ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. venerated = 被尊崇、被敬奉。词根：拉丁语 <em>venerari</em>（崇拜/敬奉）→ 与 beatified 同义对应 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. honored = 被尊敬、被纪念 → 与 venerated 同义配对 ✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. christened = 被命名为/受洗。词根：拉丁语 <em>christianizare</em>（使成为基督徒）。宣福是在人死后多年才进行的，不可能再"施洗/命名" ❌</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 💡 注意这是张巍答案文件的已知笔误（原写 BF），正确答案为 DE：venerated ≈ honored。</div>
-</div>
-<div class="word-card">
-  <div class="word-title">+ 练习_5题.md 补充题 · SE · ↔️转折</div>
-  <div class="section">> The critic claims that, contrary to its reputation for _____, the novelist's prose is full of opaque language games.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ B. simplicity + D. artlessness</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 contrary to（↔️转折）→ reputation 与实际相反 → 实际是 opaque（晦涩）→ reputation 应是 simple（简单/朴实）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ simplicity = 简单 · artlessness = 朴实无华（同义词对）✅</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 📖 scrupulousness = 审慎 · mendacity = 虚假 · polish = 优雅精致</div>
-</div>
-<div class="word-card">
-  <div class="word-title">8. 0726 · 张巍 test 1 s2 #1, test 9 s2 #1 #5, test 26 s2 #1 #6</div>
-  <div class="section">### ✅ [Easy] [TC] test 1 s2 #1 — numinous (C)</div>
-  <div class="section">> My grandma has a strong belief in all things [------]: she insists, for example, that the house in which she lived as a child was haunted.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ C. numinous · ❌ A/B/D/E</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 冒号解释说明 → haunted（闹鬼）→ 超自然信仰</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：解释说明（冒号后举例）</div>
-  <div class="section"><strong>各词释义（A→E）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. clamorous = 吵闹的，喧嚷的 · 词根：clamor（呼喊）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. invidious = 惹人反感的，招嫉妒的 · 词根：invidia（嫉妒）· GRE 常考：invidious comparison</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. numinous = 超自然的，神圣的，令人敬畏的 · 词根：numen（神祇、灵）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. empirical = 经验主义的，凭经验的 · 词根：empeiria（经验）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. sonorous = 洪亮的，铿锵有力的 · 词根：sonor（声音）</div>
-</div>
-  <div class="section">### ✅ [Medium] [TC] test 9 s2 #1 — confused (A)</div>
-  <div class="section">> In a production process that is complex and often unpredictable, roles that start out discretely defined may become quite [------].</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ A. confused · ❌ B/C/D/E</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 对比转折：discretely defined（界限分明）→ complex/unpredictable → confused（模糊混乱）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：对比转折（起点 vs 结果）</div>
-  <div class="section"><strong>各词释义（A→E）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. confused = 混乱的，模糊不清的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. perfunctory = 敷衍的，草率的 · 词根：perfunctorius（走过场）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. independent = 独立的（与原文相反）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. overt = 公开的，明显的 · 词根：aperire（打开）· 反义：covert</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. exacting = 苛求的，严格的 · 反义：lenient</div>
-</div>
-  <div class="section">### ✅ [Medium] [SE] test 9 s2 #5 — wealth + profusion (AD)</div>
-  <div class="section">> Despite the [------] of medical information available through e-mail, the Internet, and mobile devices, not many patients are taking advantage of the potential of electronic communications for health-related needs.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ AD · ❌ B/C/E/F</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 转折让步：Despite + "not many taking advantage" → 前面必须说信息"多"</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：转折让步</div>
-  <div class="section scene" style="padding-left:1rem;">▸ SE 近义对：wealth（丰富）+ profusion（大量）= 信息极大丰富</div>
-  <div class="section"><strong>各词释义（A→F）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. wealth = 丰富，大量 · 搭配：a wealth of information</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. complexity = 复杂性</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. intricacy = 错综复杂</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. profusion = 大量，充沛 · 词根：profusus（倾泻而出）· 搭配：a profusion of</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. resurgence = 复苏，复兴 · 词根：resurgere（再升起）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. overload = 超负荷，过载</div>
-</div>
-  <div class="section">### ✅ [Hard] [TC] test 26 s2 #1 — antithesis (E)</div>
-  <div class="section">> Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant, at best a dead end, at worst the very [------] of what science is supposed to be.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ E. antithesis · ❌ A/B/C/D</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 递进结构：at best dead end → at worst [极端反面] → antithesis</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：递进（at best... at worst... 程度升级）</div>
-  <div class="section"><strong>各词释义（A→E）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. exemplar = 典范，楷模 · 词根：exemplum（例子）· 反义：antithesis</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. glorification = 颂扬，美化</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. reflection = 反映，映像</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. dilution = 稀释，冲淡 · 词根：diluere（冲掉）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. antithesis = 对立面，反面 · 词根：anti-（反）+ thesis（放置）→ 对立</div>
-</div>
-  <div class="section">### ✅ [Hard] [SE] test 26 s2 #6 — somnolent + lethargic (AC)</div>
-  <div class="section">> Films that critics have slumbered through rarely generate industry excitement, even though the critics' [------] reception may be less the fault of the movie than of its unfortunate time slot near a fatiguing film festival's conclusion.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ AC · ❌ B/D/E/F</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 同义复现：slumbered through → fatiguing → [------] reception → 困倦/昏昏欲睡</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：同义复现（slumbered/fatiguing 呼应空）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ SE 近义对：somnolent（昏昏欲睡的）+ lethargic（无精打采的）</div>
-  <div class="section"><strong>各词释义（A→F）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. somnolent = 昏昏欲睡的 · 词根：somnus（睡眠）· 同根：insomnia, somnolence</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. impartial = 公正的，不偏不倚的 · 词根：im-（不）+ partial（偏袒）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. lethargic = 昏睡的，无精打采的 · 词根：lethargos（健忘+怠惰）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. laconic = 简洁的，精炼的 · 词根：Laconia（斯巴达地区，人说话简洁）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. befuddled = 困惑的，迷糊的 · be- + fuddle（使醉）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. evenhanded = 公正的，不偏不倚的 · 同义于 impartial</div>
-</div>
-  <div class="section">### ✅ [Medium] [SE] test 9 s2 #6 — prescient + prophetic (BC)</div>
-  <div class="section">> The political upheaval caught most people by surprise: despite the [------] warnings of some commentators, it had never seemed that imminent.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ BC · ❌ A/D/E/F</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 转折让步：despite + "caught by surprise / never seemed imminent" → 空 = 预见性的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：转折让步</div>
-  <div class="section scene" style="padding-left:1rem;">▸ SE 近义对：prescient（有先见之明的）+ prophetic（预言的）</div>
-  <div class="section"><strong>各词释义（A→F）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. stern = 严厉的，坚定的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. prescient = 有先见之明的 · 词根：pre-（前）+ scire（知道）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. prophetic = 预言的，先知的 · 词根：prophetes（预言者）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. indifferent = 漠不关心的 · 词根：in-（不）+ differre（区分）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. repeated = 重复的</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. apathetic = 冷漠的 · 词根：a-（无）+ pathos（感情）</div>
-</div>
-  <div class="section">### ✅ [Hard] [SE] test 26 s2 #7 — conform to + square with (BF)</div>
-  <div class="section">> Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not [------] his moderate political record.</div>
-  <div class="section scene" style="padding-left:1rem;">▸ ✅ BF · ❌ A/C/D/E</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 🚩 因果：because → wild-eyed radical ≠ moderate record → 空 = 符合/一致</div>
-  <div class="section scene" style="padding-left:1rem;">▸ 逻辑类型：因果关系</div>
-  <div class="section scene" style="padding-left:1rem;">▸ SE 近义对：conform to（符合）+ square with（一致）</div>
-  <div class="section"><strong>各词释义（A→F）：</strong></div>
-  <div class="section scene" style="padding-left:1rem;">▸ A. defer to = 遵从，听从 · defer（推迟/遵从）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ B. conform to = 符合，遵守 · 词根：con-（共同）+ forma（形状）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ C. accede to = 同意，加入 · 词根：accedere（走近）</div>
-  <div class="section scene" style="padding-left:1rem;">▸ D. argue with = 与…争论</div>
-  <div class="section scene" style="padding-left:1rem;">▸ E. meddle with = 干涉，插手</div>
-  <div class="section scene" style="padding-left:1rem;">▸ F. square with = 与…一致，相符</div>
 
+<div class="logic">💡 even=让步：连最X都做不到 → blank取X的极端值；suspicious的人反而更易看出是赝品，方向反</div>
+<div class="vocab">📖 seasoned 老练的 · subtle 微妙的 · forgery 赝品 · provenance 来源</div>
+<div class="quote">**Even** the most _______ observer would have struggled to detect the subtle forgery; the painting's provenance had fooled experts for decades.</div>
+<div class="answer">🎯 **seasoned** 经验丰富的 · 🚩even(↔️让步) → 专家都被骗 → 最高水平的人也看不出</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#08 · 0622</span>
+<span class="badge badge-sig">➡️递进</span>
+</div>
+
+<div class="logic">💡 分号后直接复述答案：不承认错误 → self-justifying；elegiac=挽歌的哀伤，跟"不认错"无关</div>
+<div class="vocab">📖 memoir 回忆录 · conciliatory 安抚的 · self-deprecating 自嘲的</div>
+<div class="quote">The memoir was criticized for its _______ tone; the author seemed **incapable of acknowledging** any mistake or shortcoming in his own conduct.</div>
+<div class="answer">🎯 **self-justifying** 自我辩护的 · 🚩;(➡️解释) → incapable of acknowledging = 不认错</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#09 · 0622</span>
+<span class="badge badge-sig">↔️转折</span>
+</div>
+<div class="logic">💡 信号词前后方向必相反</div>
+<div class="vocab">📖 sanguine 乐观的 · bombastic 夸大的 · equivocal 模棱两可的</div>
+<div class="quote">**Although** the CEO's public statements projected confidence, her private emails revealed a deeply _______ outlook on the company's future.</div>
+<div class="answer">🎯 **pessimistic** 悲观的 · 🚩although(↔️转折) → public confidence → private必反面</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#10 · 0622</span>
+<span class="badge badge-sig">➡️递进</span>
+</div>
+<div class="logic">💡 not merely X → downright Y：Y是X的极端版本</div>
+<div class="vocab">📖 fastidious 挑剔的 · meticulous 一丝不苟的 · exhaustive 详尽的</div>
+<div class="quote">The historian's account was **not merely** selective in its use of sources; it was **downright** _______, deliberately omitting evidence that contradicted her thesis.</div>
+<div class="answer">🎯 **fraudulent** 欺诈性的 · 🚩not merely...downright(➡️递进) → selective升级为fraudulent</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#11 · 0622</span>
+<span class="badge badge-sig">🔄倒装</span>
+</div>
+<div class="logic">💡 表语前置：Especially+形+is+主 → 找动词is，交换前后</div>
+<div class="vocab">📖 compelling 有说服力的 · equitable 公平的 · pragmatic 务实的</div>
+<div class="quote">**Especially** _______ **is** the argument that economic growth alone will remedy inequality, **given that** decades of expansion have only widened the gap.</div>
+<div class="answer">🎯 **tenuous** 脆弱的/站不住脚的 · 🚩倒装还原「The argument is especially _______」→ given that反证 → 论点脆弱 (因果/推理)</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#12 · 0622</span>
+<span class="badge badge-sig">🎭对比</span>
+</div>
+<div class="logic">💡 where引导对比：前后两人行为方向对立</div>
+<div class="vocab">📖 conciliatory 安抚的 · solicitous 关切的 · deliberative 慎重的 · obsequious 谄媚的</div>
+<div class="quote">**Where** her predecessor was known for _______ decrees issued without consultation, the new director made every decision through painstaking consensus-building.</div>
+<div class="answer">🎯 **peremptory** 专横的/不容分说的 · 🚩where X...Y(🎭对比) → predecessor独断 vs new共识 → blank=专横</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#13 · 0622</span>
+<span class="badge badge-sig">↔️转折+生词</span>
+</div>
+<div class="logic">💡 far from being X...in fact Y：表面否定X，实际是Y</div>
+<div class="vocab">📖 scion 后代 · pastiche 模仿作品 · resuscitation 复兴 · loath 不情愿的</div>
+<div class="quote">**Far from** being a _______ of tradition, the composer's later works were **in fact** deeply rooted in the classical forms he claimed to reject.</div>
+<div class="answer">🎯 **repudiation** 否定/摒弃 · 🚩far from...in fact(↔️转折) → rooted in tradition → 远非传统的摒弃者</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#14 · 0628</span>
+<span class="badge badge-sig">🔄倒装</span>
+</div>
+<div class="logic">💡 So+形+was+主+that...倒装，主谓一致看主语 `the culture`</div>
+<div class="vocab">📖 pervasive 遍及的 · whistleblower 揭发者 · ostracized 被排斥的</div>
+<div class="quote">**So** pervasive **was** the culture of secrecy within the organization **that** whistleblowers who came forward found themselves ostracized by colleagues.</div>
+<div class="answer">🎯 **was** · 🚩so...that(➡️因果) → culture of secrecy 单数主谓一致</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#15 · 0628</span>
+<span class="badge badge-sig">↔️让步</span>
+</div>
+
+<div class="logic">💡 unwavering 通常修饰 commitment/stance，不搭配 record；impeccable record 是固定搭配；A考生凭感觉选了unwavering但搭配不对</div>
+<div class="vocab">📖 skeptical 怀疑的 · commitment 承诺 · ploy 策略/伎俩 · impeccable 无瑕疵的</div>
+<div class="quote">**Despite** the candidate's _______ record on environmental issues, many voters remained skeptical of her commitment, suspecting her stance was merely a campaign ploy.</div>
+<div class="answer">🎯 **impeccable** 无可挑剔的 · 🚩despite(↔️转折) → voters skeptical → 表面记录必须正面</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#16 · 0628</span>
+<span class="badge badge-sig">➡️递进</span>
+</div>
+<div class="logic">💡 not merely X → Y：Y是X的极端版本；inaccurate→fraudulent, selective→fraudulent(同Q10逻辑)</div>
+<div class="vocab">📖 fabricating 伪造</div>
+<div class="quote">The report was **not merely** inaccurate in its conclusions; it was _______, fabricating data that had never existed.</div>
+<div class="answer">🎯 **fraudulent** 欺诈性的 · 🚩not merely...it was(➡️递进) → inaccurate升级 → fabricating data直接对应</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#17 · 0628</span>
+<span class="badge badge-sig">🎭对比</span>
+</div>
+
+<div class="logic">💡 where引导对比：前后方向相反；hostility(敌意)和protectionism(保护主义)是同向，不是对比</div>
+<div class="vocab">📖 administration 政府 · pursue 推行 · protectionist 保护主义的</div>
+<div class="quote">**Where** the previous administration pursued a policy of _______ toward foreign competitors, the new government embraced protectionist measures.</div>
+<div class="answer">🎯 **engagement** 接触/往来 · 🚩where X...Y(🎭对比) → new=protectionist(保护主义) → previous=相反=开放/接触</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#18 · 0628</span>
+<span class="badge badge-sig">↔️转折</span>
+</div>
+<div class="logic">💡 信号词前后方向必相反</div>
+<div class="vocab">📖 promise 前景 · trials 试验 · regulatory 监管的 · approval 批准</div>
+<div class="quote">**Although** the drug showed great promise in early trials, its long-term side effects proved too _______ for regulatory approval.</div>
+<div class="answer">🎯 **severe** 严重的 · 🚩although(↔️转折) → promise(前景好) → 副作用反面 → severe导致无法获批</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#19 · 0629</span>
+<span class="badge badge-sig">↔️转折</span>
+</div>
+
+<div class="logic">💡 转折要选最强反差的词：scrutinized(中性)力度不够，dismissed(否定)↔️获奖 反差最大</div>
+<div class="vocab">📖 confirmed 证实 · validity 有效性 · academic community 学术界</div>
+<div class="quote">**Although** the scientist's theory was initially _______ by the academic community, subsequent experiments confirmed its validity and eventually earned her a Nobel Prize.</div>
+<div class="answer">🎯 **dismissed** 被否定/被驳回 · 🚩although(↔️转折) → confirmed validity+Nobel → 最初必须被否定</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#20 · 0629</span>
+<span class="badge badge-sig">🎭对比</span>
+</div>
+<div class="logic">💡 where对比：前后方向相反；elaborate/flamboyant/baroque/ornate都是华丽方向，跟later同向❌</div>
+<div class="vocab">📖 overwrought 过度雕琢的 · ornamented 装饰的 · prose 散文/文风</div>
+<div class="quote">**Where** the author's earlier novels were praised for their _______ prose style, her later work was criticized for being overwrought and excessively ornamented.</div>
+<div class="answer">🎯 **restrained** 克制的/简约的 · 🚩where X...Y(🎭对比) → later=overwrought(过于华丽) → earlier=相反=restrained</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#21 · 0629</span>
+<span class="badge badge-sig">➡️递进</span>
+</div>
+
+<div class="logic">💡 reckless(鲁莽)跟provocative(挑衅)不是同维度→递进不成立；incendiary是provocative的极端版✅</div>
+<div class="vocab">📖 provocative 挑衅的 · unravel 瓦解 · painstaking 艰苦的 · diplomatic 外交的</div>
+<div class="quote">The ambassador's statement was **not merely** provocative; it was _______, threatening to unravel years of painstaking diplomatic progress.</div>
+<div class="answer">🎯 **incendiary** 煽动性的/纵火的 · 🚩not merely...it was(➡️递进) → provocative→同维度升级</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#22 · 0629</span>
+<span class="badge badge-sig">🔄倒装</span>
+</div>
+<div class="logic">💡 So+形+was+主+that...倒装；后文决定方向</div>
+<div class="vocab">📖 quarterly report 季度报告 · analysts 分析师 · projections 预测 · downward 向下</div>
+<div class="quote">**So** _______ **was** the company's quarterly report **that** even the most optimistic analysts revised their projections downward.</div>
+<div class="answer">🎯 **disappointing** 令人失望的 · 🚩so...that(➡️因果) → revised downward → blank=负面</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#23 · 0629</span>
+<span class="badge badge-sig">↔️让步</span>
+</div>
+<div class="logic">💡 far from + 褒义词 = 实际反面；biased(有偏见的)是far from的反面，方向错</div>
+<div class="vocab">📖 documentary 纪录片 · objective 客观的 · subjects 受访者 · leanings 倾向</div>
+<div class="quote">**Though** the documentary claimed to offer an objective account, its selection of interviews was far from _______; the filmmakers had clearly chosen subjects who shared their political leanings.</div>
+<div class="answer">🎯 **impartial** 公正的/不偏不倚的 · 🚩though(↔️转折) → claimed objective → far from X → chose subjects with same leaning → X=公正</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#24 · 0629</span>
+<span class="badge badge-sig">↔️转折（真题 · sec14 easy）</span>
+</div>
+<div class="logic">💡 despite转折：名声是X → 实际上多样了 → X=不多样=homogeneity；boisterousness/unpretentiousness/idiosyncrasy/accessibility都不跟varied直接反义</div>
+<div class="vocab">📖 homogeneity 同质性 · lingering 挥之不去的 · demographics 人口结构</div>
+<div class="quote">**Despite** the neighborhood's lingering reputation for _____, it has in fact become increasingly varied in its architecture and demographics.</div>
+<div class="answer">🎯 **homogeneity** 同质性/单一性 · 🚩despite(↔️转折) → increasingly varied(日益多样化) → 名声的相反面</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#25 · 0629</span>
+<span class="badge badge-sig">↔️转折+双空（真题 · sec15 easy）</span>
+</div>
+<div class="logic">💡 双空题：分别判断每个blank的方向；blank(i)转折于distaste for sycophancy→need for flattery✅；blank(ii)competing feelings→contradictory signals✅</div>
+<div class="vocab">📖 sycophancy 谄媚 · distaste 厌恶 · autonomous 自主的 · solitude 独处 · contradictory 矛盾的</div>
+<div class="quote">**Although** movie critic Pauline Kael had a distaste for sycophancy, she also had a need for (i)_____; as a consequence of these competing feelings, she sent very (ii)_____ signals to friends and colleagues.</div>
+<div class="answer">🎯 (i) **flattery** 奉承 · (ii) **contradictory** 矛盾的 · 🚩although(↔️转折) + competing feelings(➡️因果)</div>
+</div>
+<div class="entry wrong">
+<div class="entry-header">
+<span class="badge badge-err">❌</span>
+<span class="badge badge-date">#26 · 0629</span>
+<span class="badge badge-sig">➡️递进（真题 · sec16 median）</span>
+</div>
+<div class="logic">💡 分号前后递进：前文"合理就信"→后文实验验证只是走过场；inductive(归纳的)像学术词但逻辑不通</div>
+<div class="vocab">📖 protoscientific 前科学的 · verification 验证 · perfunctory 敷衍的 · inductive 归纳的 · utilitarian 功利的 · egregious 极其恶劣的</div>
+<div class="quote">In protoscientific eras (for example, in ancient Greece), claims about the physical world were often accepted as true if they were reasonable; experimental verification, if thought necessary at all, was _____.</div>
+<div class="answer">🎯 **perfunctory** 敷衍的/走过场的 · 🚩;(➡️解释) → 合理就信 → 实验验证不受重视 → 敷衍了事</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-date">#27 · 0629</span>
+<span class="badge badge-sig">🎭对比（真题 · sec37 hard）</span>
+</div>
+<div class="logic">💡 Instead of X → became Y(负面)：X必须是正面词；limitation/redundancy(负面)跟became imprudence(负面)同向不成立；promise↔️imprudence✅</div>
+<div class="vocab">📖 archaeological 考古学的 · pioneering 开创性的 · imprudence 轻率 · virtual archaeology 虚拟考古</div>
+<div class="quote">**Instead of** demonstrating the _____ of archaeological applications of electronic remote sensing, the pioneering study became, to some skeptics, an illustration of the imprudence of interpreting sites based on virtual archaeology.</div>
+<div class="answer">🎯 **promise** 前景/潜力 · 🚩instead of(🎭对比) → became imprudence(轻率) → 本应展现正面</div>
+</div>
+<h2>SE</h2>
+<h2>3. 0629真题 · 考满分 5题（Q28-Q32）— 均为hard</h2>
+<h2>4. 张巍填空机经2000题 第一组（0630 · 5题）</h2>
+<h2>5. 张巍填空机经2000题 第二组（0701 · 5题）</h2>
+<h2>6. 0701以后 · 生词整理（asked words）</h2>
+<h2>7. 0702 · 张巍 test 1 s1 + test 27 s1/s2</h2>
+<h2>8. 0703 · 张巍 test 16 s1 + test 16 s2 + test 15 s1 + test 27 s2</h2>
+<h2>5. 0704 · 张巍 test 6 s1 / test 10 s1 / test 11 s1 / test 30 s1 / test 31 s1</h2>
+<h2>6. 0704b · 张巍 test 2 s1 / test 12 s1 / test 33 s1 / test 34 s1</h2>
+<h2>7. 0705 · 张巍 test 37 s1 / test 36 s2 / test 36 s1 / test 38 s2 / test 39 s1</h2>
+<h2>+ 练习_5题.md 补充题 · SE · ↔️转折</h2>
+<h2>8. 0726 · 张巍 test 1 s2 #1, test 9 s2 #1 #5, test 26 s2 #1 #6</h2>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Easy</span>
+<span class="badge badge-type">TC</span>
+<span class="badge badge-date">test 1 s2 #1</span>
+</div>
+<div class="answer"><span class="correct-ans">numinous (C)</span></div>
+<div class="answer">- ✅ C. numinous · ❌ A/B/D/E</div>
+<div class="note">- 🚩 冒号解释说明 → haunted（闹鬼）→ 超自然信仰</div>
+<div class="note">- 逻辑类型：解释说明（冒号后举例）</div>
+<div class="note">- A. clamorous = 吵闹的，喧嚷的 · 词根：clamor（呼喊）</div>
+<div class="note">- B. invidious = 惹人反感的，招嫉妒的 · 词根：invidia（嫉妒）· GRE 常考：invidious comparison</div>
+<div class="note">- C. numinous = 超自然的，神圣的，令人敬畏的 · 词根：numen（神祇、灵）</div>
+<div class="note">- D. empirical = 经验主义的，凭经验的 · 词根：empeiria（经验）</div>
+<div class="note">- E. sonorous = 洪亮的，铿锵有力的 · 词根：sonor（声音）</div>
+<div class="quote">My grandma has a strong belief in all things [------]: she insists, for example, that the house in which she lived as a child was haunted.</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Medium</span>
+<span class="badge badge-type">TC</span>
+<span class="badge badge-date">test 9 s2 #1</span>
+</div>
+<div class="answer"><span class="correct-ans">confused (A)</span></div>
+<div class="answer">- ✅ A. confused · ❌ B/C/D/E</div>
+<div class="note">- 🚩 对比转折：discretely defined（界限分明）→ complex/unpredictable → confused（模糊混乱）</div>
+<div class="note">- 逻辑类型：对比转折（起点 vs 结果）</div>
+<div class="note">- A. confused = 混乱的，模糊不清的</div>
+<div class="note">- B. perfunctory = 敷衍的，草率的 · 词根：perfunctorius（走过场）</div>
+<div class="note">- C. independent = 独立的（与原文相反）</div>
+<div class="note">- D. overt = 公开的，明显的 · 词根：aperire（打开）· 反义：covert</div>
+<div class="note">- E. exacting = 苛求的，严格的 · 反义：lenient</div>
+<div class="quote">In a production process that is complex and often unpredictable, roles that start out discretely defined may become quite [------].</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Medium</span>
+<span class="badge badge-type">SE</span>
+<span class="badge badge-date">test 9 s2 #5</span>
+</div>
+<div class="answer"><span class="correct-ans">wealth + profusion (AD)</span></div>
+<div class="answer">- ✅ AD · ❌ B/C/E/F</div>
+<div class="note">- 🚩 转折让步：Despite + "not many taking advantage" → 前面必须说信息"多"</div>
+<div class="note">- 逻辑类型：转折让步</div>
+<div class="note">- SE 近义对：wealth（丰富）+ profusion（大量）= 信息极大丰富</div>
+<div class="note">- A. wealth = 丰富，大量 · 搭配：a wealth of information</div>
+<div class="note">- B. complexity = 复杂性</div>
+<div class="note">- C. intricacy = 错综复杂</div>
+<div class="note">- D. profusion = 大量，充沛 · 词根：profusus（倾泻而出）· 搭配：a profusion of</div>
+<div class="note">- E. resurgence = 复苏，复兴 · 词根：resurgere（再升起）</div>
+<div class="note">- F. overload = 超负荷，过载</div>
+<div class="quote">Despite the [------] of medical information available through e-mail, the Internet, and mobile devices, not many patients are taking advantage of the potential of electronic communications for health-related needs.</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Hard</span>
+<span class="badge badge-type">TC</span>
+<span class="badge badge-date">test 26 s2 #1</span>
+</div>
+<div class="answer"><span class="correct-ans">antithesis (E)</span></div>
+<div class="answer">- ✅ E. antithesis · ❌ A/B/C/D</div>
+<div class="note">- 🚩 递进结构：at best dead end → at worst [极端反面] → antithesis</div>
+<div class="note">- 逻辑类型：递进（at best... at worst... 程度升级）</div>
+<div class="note">- A. exemplar = 典范，楷模 · 词根：exemplum（例子）· 反义：antithesis</div>
+<div class="note">- B. glorification = 颂扬，美化</div>
+<div class="note">- C. reflection = 反映，映像</div>
+<div class="note">- D. dilution = 稀释，冲淡 · 词根：diluere（冲掉）</div>
+<div class="note">- E. antithesis = 对立面，反面 · 词根：anti-（反）+ thesis（放置）→ 对立</div>
+<div class="quote">Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physics and chemistry are simply irrelevant, at best a dead end, at worst the very [------] of what science is supposed to be.</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Hard</span>
+<span class="badge badge-type">SE</span>
+<span class="badge badge-date">test 26 s2 #6</span>
+</div>
+<div class="answer"><span class="correct-ans">somnolent + lethargic (AC)</span></div>
+<div class="answer">- ✅ AC · ❌ B/D/E/F</div>
+<div class="note">- 🚩 同义复现：slumbered through → fatiguing → [------] reception → 困倦/昏昏欲睡</div>
+<div class="note">- 逻辑类型：同义复现（slumbered/fatiguing 呼应空）</div>
+<div class="note">- SE 近义对：somnolent（昏昏欲睡的）+ lethargic（无精打采的）</div>
+<div class="note">- A. somnolent = 昏昏欲睡的 · 词根：somnus（睡眠）· 同根：insomnia, somnolence</div>
+<div class="note">- B. impartial = 公正的，不偏不倚的 · 词根：im-（不）+ partial（偏袒）</div>
+<div class="note">- C. lethargic = 昏睡的，无精打采的 · 词根：lethargos（健忘+怠惰）</div>
+<div class="note">- D. laconic = 简洁的，精炼的 · 词根：Laconia（斯巴达地区，人说话简洁）</div>
+<div class="note">- E. befuddled = 困惑的，迷糊的 · be- + fuddle（使醉）</div>
+<div class="note">- F. evenhanded = 公正的，不偏不倚的 · 同义于 impartial</div>
+<div class="quote">Films that critics have slumbered through rarely generate industry excitement, even though the critics' [------] reception may be less the fault of the movie than of its unfortunate time slot near a fatiguing film festival's conclusion.</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Medium</span>
+<span class="badge badge-type">SE</span>
+<span class="badge badge-date">test 9 s2 #6</span>
+</div>
+<div class="answer"><span class="correct-ans">prescient + prophetic (BC)</span></div>
+<div class="answer">- ✅ BC · ❌ A/D/E/F</div>
+<div class="note">- 🚩 转折让步：despite + "caught by surprise / never seemed imminent" → 空 = 预见性的</div>
+<div class="note">- 逻辑类型：转折让步</div>
+<div class="note">- SE 近义对：prescient（有先见之明的）+ prophetic（预言的）</div>
+<div class="note">- A. stern = 严厉的，坚定的</div>
+<div class="note">- B. prescient = 有先见之明的 · 词根：pre-（前）+ scire（知道）</div>
+<div class="note">- C. prophetic = 预言的，先知的 · 词根：prophetes（预言者）</div>
+<div class="note">- D. indifferent = 漠不关心的 · 词根：in-（不）+ differre（区分）</div>
+<div class="note">- E. repeated = 重复的</div>
+<div class="note">- F. apathetic = 冷漠的 · 词根：a-（无）+ pathos（感情）</div>
+<div class="quote">The political upheaval caught most people by surprise: despite the [------] warnings of some commentators, it had never seemed that imminent.</div>
+</div>
+<div class="entry correct">
+<div class="entry-header">
+<span class="badge badge-ok">✅</span>
+<span class="badge badge-diff">Hard</span>
+<span class="badge badge-type">SE</span>
+<span class="badge badge-date">test 26 s2 #7</span>
+</div>
+<div class="answer"><span class="correct-ans">conform to + square with (BF)</span></div>
+<div class="answer">- ✅ BF · ❌ A/C/D/E</div>
+<div class="note">- 🚩 因果：because → wild-eyed radical ≠ moderate record → 空 = 符合/一致</div>
+<div class="note">- 逻辑类型：因果关系</div>
+<div class="note">- SE 近义对：conform to（符合）+ square with（一致）</div>
+<div class="note">- A. defer to = 遵从，听从 · defer（推迟/遵从）</div>
+<div class="note">- B. conform to = 符合，遵守 · 词根：con-（共同）+ forma（形状）</div>
+<div class="note">- C. accede to = 同意，加入 · 词根：accedere（走近）</div>
+<div class="note">- D. argue with = 与…争论</div>
+<div class="note">- E. meddle with = 干涉，插手</div>
+<div class="note">- F. square with = 与…一致，相符</div>
+<div class="quote">Even though his opponent is currently trying to portray him as a wild-eyed radical, voters will likely reject this charge because it does not [------] his moderate political record.</div>
+</div>
 </body>
 </html>
