@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>GRE Notes</title>
+<style>
+:root {
+    --bg: #1a1a2e; --card: #16213e; --text: #e0e0e0;
+    --accent: #7c9ff5; --accent2: #f59e7c; --divider: #2a3a5e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+    font-family: 'Segoe UI',system-ui,sans-serif;
+    background: var(--bg); color: var(--text);
+    max-width: 600px; margin: 0 auto; padding: 2rem 1.5rem;
+    line-height: 1.6;
+}
+h1 {
+    text-align: center; color: var(--accent);
+    font-size: 1.8rem; margin-bottom: 0.3rem;
+}
+.sub { text-align: center; color: #8090a8; margin-bottom: 2rem; font-size: 0.9rem; }
+.section { margin: 2rem 0 1rem; }
+.section-title {
+    color: var(--accent2); font-size: 1.2rem;
+    padding-bottom: 0.4rem; border-bottom: 1px solid var(--divider);
+    margin-bottom: 0.8rem;
+}
+.card {
+    display: block; background: var(--card);
+    border-radius: 8px; padding: 1rem 1.2rem; margin: 0.6rem 0;
+    text-decoration: none; color: var(--text);
+    border-left: 4px solid var(--accent);
+    transition: background 0.15s;
+}
+.card:hover { background: #1e2a44; }
+.card:nth-child(even) { border-left-color: var(--accent2); }
+.card-title { font-size: 1.1rem; font-weight: 600; color: #bdceff; }
+.card-desc { font-size: 0.85rem; color: #8090a8; margin-top: 0.2rem; }
+.badge {
+    display: inline-block; padding: 0.1rem 0.5rem; border-radius: 4px;
+    font-size: 0.75rem; margin-left: 0.5rem; font-weight: 600;
+}
+.badge-words { background: #1a3a2a; color: #4caf84; }
+.badge-tcse { background: #3a2a1a; color: #e0b860; }
+.footer {
+    text-align: center; color: #506080; font-size: 0.8rem;
+    margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--divider);
+}
+</style>
+</head>
+<body>
+
+<h1>📚 GRE Notes</h1>
+<div class="sub">luke0628/notes</div>
+
+<div class="section">
+<div class="section-title">📖 单词学习</div>
+
+<a class="card" href="gre-asked-words.html">
+    <div class="card-title">gre-asked-words <span class="badge badge-words">107 words</span></div>
+    <div class="card-desc">GRE 高频单词 · 词根 · 场景 · 近反义词</div>
+</a>
+
+<a class="card" href="gre-asked-words-2.html">
+    <div class="card-title">gre-asked-words-2 <span class="badge badge-words">85 words</span></div>
+    <div class="card-desc">GRE 高频单词 卷二 · 词根 · 场景 · 近反义词</div>
+</a>
+
+<a class="card" href="gre-asked-words-3.html">
+    <div class="card-title">gre-asked-words-3 <span class="badge badge-words">39 words</span></div>
+    <div class="card-desc">GRE 高频单词 卷三 · 词根 · 场景 · 近反义词</div>
+</a>
+</div>
+
+<div class="section">
+<div class="section-title">📝 TC & SE 错题笔记</div>
+
+<a class="card" href="gre-tc-se-notes.html">
+    <div class="card-title">gre-tc-se-notes <span class="badge badge-tcse">78 条</span></div>
+    <div class="card-desc">填空题 + 等价题 · 信号词 · 逻辑分析 · 选项释义</div>
+</a>
+
+<a class="card" href="gre-tc-se-notes-2.html">
+    <div class="card-title">gre-tc-se-notes-2 <span class="badge badge-tcse">35 条</span></div>
+    <div class="card-desc">填空题 + 等价题 卷二 · 信号词 · 逻辑分析 · 选项释义</div>
+</a>
+</div>
+
+<div class="footer">
+    Auto-generated · Updated daily · luke0628/notes
+</div>
+
+</body>
+</html>
