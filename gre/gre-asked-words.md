@@ -1813,6 +1813,23 @@ GRE必杀技：看到题目里有 inform, notify 同义线索 → 选 apprise。
 - **spurious vs. apocryphal：** *apocryphal* 专指"真实性可疑的传说"，*spurious* 范围更广
 - **spurious vs. specious：** *specious* 偏"看似有理实则谬误的论证"，*spurious* 可以指实物也可指论点
 
+**spurious relationship / spurious correlation（GRE 阅读核心概念）：**
+
+两个变量看似相关但关系是虚假的——纯属巧合或由第三变量（confounding variable）同时驱动。
+
+经典例子：冰淇淋销量 ↑ 和鲨鱼攻击人数 ↑ 正相关。不是冰淇淋导致鲨鱼攻击，是天气热（第三变量）同时导致更多人吃冰淇淋 + 更多人游泳。
+
+GRE 文章套路：先抛一个看似有因果的统计发现 → 作者论证此关系为 spurious → 提出真正的 confounding variable。
+
+**关键词汇链：**
+- correlation ≠ causation
+- confounding variable（第三变量/混杂变量）
+- coincidental（纯属巧合）
+- merely correlational（仅仅是相关的，非因果）
+- the apparent link is misleading（表面联系有误导性）
+
+**填空例题逻辑：** The researchers acknowledged that the correlation might be entirely spurious. / Far from establishing causality, the data suggested a spurious relationship at best.
+
 ---
 
 ## genial

@@ -777,3 +777,293 @@
 **区分：**
 - *factionalism* vs *sectarianism* — factionalism = 任何组织内的派系内斗，sectarianism = 特指宗教/教派之间的对立冲突
 - *factionalism* vs *partisanship* — partisanship = 盲目的党派忠诚（支持己方不管对错），factionalism = 派系分裂和内斗（多方互斗而非二元对立）
+
+---
+
+## abominate
+
+**释义：** v. 憎恶、深恶痛绝（比 hate 更强烈，带道德谴责意味）— GRE 填空中表示对某事物有强烈反感或道德上的厌恶
+
+**词根：** 拉丁语 abominari = ab-（away from，远离）+ omen（预兆/凶兆）。原意是「远离凶兆」→ 因不祥而厌恶 → 极度憎恶。同根词：ominous（不祥的）、omen（预兆）。
+
+**场景：**
+- **道德/义务：** 填空常考一个人「abominates injustice/corruption」，强调道德上的强烈反感，与 tolerate/condone 构成逻辑对立
+- **阅读人物刻画：** 描述某个 reformer/critic 对旧制度或社会陋习的 abhorrence（名词形式 abomination），与 complacency/apathy 形成对比
+- **学术论证：** 作者可能 abominate 某种研究方法（如数据造假、伪科学），暗示立场鲜明
+
+**画面：** 一个戴着白手套的人用两根手指捏起一只死蟑螂，满脸「我为什么活着」的表情，手臂伸到最远——不是怕，是发自灵魂深处的憎恶。
+
+**Synonyms:** detest, loathe, abhor, execrate
+**Antonyms:** adore, cherish, revere, esteem
+
+**区分：** abominate vs abhor vs loathe — 三者都是「极度厌恶」。abominate 带道德/宗教的「不洁」色彩（源出凶兆）；abhor 强调本能排斥、避之不及；loathe 偏生理反胃感。三者可互换，都是 tolerate/embrace 的反面。
+
+---
+
+## discredit / deflect / disparage / denigrate / depreciate
+
+**释义：**
+- **discredit (v.):** 损害…的信誉/名声；使…不被相信。搭配：discredit a theory/witness/testimony（推翻理论/证人可信度/证词）
+- **deflect (v.):** 使偏转、转移（方向/注意力/责任）。搭配：deflect blame/criticism/attention
+- **disparage (v.):** 贬低、轻视（言语上让人觉得不重要/没价值）。搭配：disparage someone's efforts/achievements
+- **denigrate (v.):** 诋毁、抹黑（字面义「涂黑」→ 恶意贬低名誉）。搭配：denigrate someone's character/reputation
+- **depreciate (v.):** ① 贬值（客观价值下降，如货币/资产）；② 贬低/轻视。搭配：currency depreciates / depreciate someone's contribution
+
+**词根：**
+- discredit: dis-（剥夺/否定）+ credit（信用/相信）→ 拿走信用
+- deflect: de-（离开）+ flectere（弯曲）→ 弯曲离开 → 偏转。同根词：reflect（反射）、inflect（使曲折/变调）、flexible（灵活的）
+- disparage: dis-（否定）+ parage（等级/地位，来自拉丁语 par = 平等）→ 否定平等地位 → 贬低。与 parity（平等）、compare（比较）同源
+- denigrate: de-（完全/向下）+ nigr-（黑色）+ -ate → 完全涂黑 → 抹黑。同根词：denigration（n. 诋毁）、niger（黑色）
+- depreciate: de-（向下）+ preti-（价值/价格）+ -ate → 价值向下 → 贬值。同根词：appreciate（升值/欣赏）、precious（珍贵的）
+
+**场景：**
+- **填空逻辑对立（核心考点）：** 所有词都常与 praise/extol/laud/acclaim/endorse/validate 构成反义对立
+- **阅读人物刻画：** 描述 critics/skeptics 对某个理论或人物的态度变化——discredit a hypothesis ↔ validate it；disparage someone's work ↔ praise it
+- **政治/媒体语境：** 政治人物在丑闻中的标准反应链——先 deflect blame（推卸责任）、再 denigrate accusers（抹黑指控者）
+- **学术论证：** 作者可能 depreciate 前人的贡献以突出自己的创新，或指出方法论缺陷 detract from 研究结论的有效性
+- **统计/伪相关：** 某个控制变量可能 discredit 看似显著的统计结果
+
+**画面：** 一个政客在新闻发布会上被问到丑闻：他先试图 deflect the question（转移话题），然后 disparaged the journalist's credentials（贬低记者资格），接着 denigrated the whistleblower's character（抹黑举报人），最后承认这些手段 detract from his credibility（减损信誉）→ 整个发布会 discredited him completely（彻底毁了他的公信力）。
+
+**核心区分：**
+- discredit 针对 credibility（可信度）；detract 针对 value/worth（价值）；deflect 针对 direction/attention（方向/注意力）
+- disparage（轻蔑贬低）< denigrate（恶意抹黑）：disparage someone's cooking vs denigrate their entire moral character
+- depreciate 有双重含义：客观贬值（financial）+ 主观轻视（rhetorical）。与 deprecate 的区别：deprecate = 表达不赞成（态度），depreciate = 价值下降或主观轻视
+
+**Synonyms 汇总：** disparage ≈ belittle ≈ deprecate ≈ demean；denigrate ≈ defame ≈ malign ≈ vilify；detract ≈ diminish；discredit ≈ undermine ≈ impeach
+**Antonyms：** extol, praise, acclaim, endorse, validate, enhance, augment
+
+**另见：** detract（gre-asked-words.md:2214）、deprecate（gre-asked-words-2.md:1018）
+
+---
+
+## abrogate / abdicate
+
+**释义：**
+- **abrogate (v.):** 正式废除、取消（法律、条约、权利、习俗等）。核心是权威地废止一个有约束力的东西。搭配：abrogate a treaty/law/right/agreement
+- **abdicate (v.):** 正式放弃（王位、权力、责任）。核心是主动交出本应承担的职位或义务。搭配：abdicate the throne / abdicate responsibility
+
+**词根：**
+- abrogate: 拉丁语 abrogare = ab-（away，离开）+ rogare（提议/要求法律）→ 把法律提议拿走 → 废除。同根词：arrogate（僭取/冒称拥有——"向自己提出要求"，方向相反！）、prerogative（特权——"先被要求投票的权利"）、interrogate（审问——"在中间追问"）
+- abdicate: 拉丁语 abdicare = ab-（away）+ dicare（宣告/声明）→ 宣告离开 → 放弃。同根词：indicate（指出）、predicate（断言/基于）、dictate（命令/口述）
+
+**场景：**
+- **填空逻辑对立：** abrogate ↔ ratify/enact/establish；abdicate ↔ assume/claim/seize
+- **阅读政治/历史：** 描述政权行为——abrogate civil rights（废除民权）vs abdicate moral responsibility（逃避责任）
+- **阅读人物刻画：** "The king abdicated the throne but refused to abrogate the oppressive laws" — 同句中同时出现两词，ETS 经典出法
+- **道德/义务（比喻用法）：** abdicate one's duty/responsibility —— 不能用 abrogate
+
+**画面：** 一个国王左手把王冠摘下来放桌上（abdicate the throne），右手拿起大印啪地盖在法典上宣布「作废」（abrogate the law）——一个放下自己的东西，另一个废掉别人的东西。
+
+**核心区分：**
+| | abrogate | abdicate |
+|---|---|---|
+| 废除/放弃什么？ | 法律、条约、权利、规则 | 王位、权力、责任、义务 |
+| 谁做？ | 掌权者/机构（自上而下废止） | 在位者/当事人（自己放下） |
+| 关键词 | abolish, annul, repeal | renounce, relinquish, step down |
+| 经典对立 | abrogate ↔ ratify/enact | abdicate ↔ assume/claim |
+
+**Synonyms:** abrogate: abolish, annul, repeal, revoke, rescind
+**Antonyms:** abrogate: ratify, enact, establish, institute
+
+**Synonyms:** abdicate: renounce, relinquish, resign, cede
+**Antonyms:** abdicate: assume, claim, seize, assert
+
+**记忆窍门：**
+- abrogate → "ab-ROGUE-ate" → 一个 rogue（流氓）上位后把旧规则全废了 → 废除法令
+- abdicate → "ab-DIC-tate" → dic = speak/say（同 dictate, dictionary）→ 开口说自己不干了 → 放弃王位/责任
+
+---
+
+## acquit / exonerate / vindicate / absolve
+
+**释义：**
+- **acquit (v.):** 宣判无罪（法律语境）。法庭正式裁决被告无罪释放。搭配：be acquitted of murder / the jury acquitted him。关键：动作发出者是法庭/陪审团。
+- **exonerate (v.):** 免除罪责/洗清冤屈。在被怀疑/指控后，通过证据证明无罪。比 acquit 更强调「冤屈被洗刷」。搭配：be exonerated of all charges / DNA evidence exonerated him。关键：动作发出者是证据/调查结果。
+- **vindicate (v.):** 证明…正确/正当。在被质疑后，用事实证明自己是对的。核心不是「无罪」而是「正确」。搭配：the results vindicated her approach / feel vindicated。关键：vindicate 的不是罪责而是立场/判断。
+- **absolve (v.):** 赦免/免除（罪责、义务、责任）。强调从罪责中释放，常带道德/宗教色彩。搭配：absolve someone of blame/sin/responsibility。关键：动作发出者可以是权威/神职/自己，不一定是法庭。
+
+**词根：**
+- acquit: 古法语 acquiter = ad-（to）+ quietare（使安静/自由）→ 使自由 → 无罪释放。同根词：quit（离开/放弃）、quiet（安静）、quittance（免除债务）
+- exonerate: 拉丁语 exonerare = ex-（out，出去）+ onus/oneris（负担）→ 把负担拿掉 → 洗清罪责。同根词：onerous（繁重的/麻烦的）、onus（责任/负担）
+- vindicate: 拉丁语 vindicare = vim（力量）+ dicare（宣称）→ 用力量宣称 → 为…辩护/证明正确。同根词：vindictive（报复性的——用力量还击）、revenge（复仇）、avenge（报仇）
+- absolve: 拉丁语 absolvere = ab-（away）+ solvere（松开/释放）→ 松绑、释放 → 赦免。同根词：solve（解决——松开问题）、dissolve（溶解——松开解散）、resolve（决心/解决——反复松开）、absolute（绝对的——不受约束的）
+
+**场景（GRE 考点）：**
+- **法律/司法（acquit vs exonerate）：** 一个人可能被 acquitted（无罪释放）但社会舆论不认为他被 exonerated（真清白）。或反过来：被 exonerate 前已被 acquit 但名声毁了。
+- **填空逻辑对立：** acquit ↔ convict/indict；exonerate ↔ incriminate/implicate；vindicate ↔ discredit/disprove；absolve ↔ blame/condemn
+- **道德/义务（absolve）：** 填空常考「absolve someone of responsibility」——不代表没错，只是不再背责任了
+- **阅读人物刻画（vindicate）：** 被主流学界嘲笑的科学家，三十年后新发现 vindicated his theory——满腔「我早就说了！」
+
+**统一画面：** 一个被冤枉坐了二十年冤狱的人：法庭最初 acquitted 了真凶，DNA 证据最终 exonerated 了他，事实证明他的辩护策略被 vindicated 了，但他仍无法 absolve 自己浪费了二十年的负罪感。
+
+**核心区分：**
+| | 谁发出？ | 清除什么？ | 关键词 |
+|---|---|---|---|
+| acquit | 法庭/陪审团 | 刑事指控 | found not guilty |
+| exonerate | 证据/调查 | 冤屈/罪名 | clear one's name |
+| vindicate | 事实/结果 | 质疑/怀疑 | prove right |
+| absolve | 权威/神职 | 罪责/义务 | forgive, release |
+
+**Synonyms:**
+- acquit: clear, discharge, release ↔ convict, indict, incriminate
+- exonerate: clear, absolve, vindicate ↔ incriminate, implicate
+- vindicate: justify, substantiate, corroborate ↔ discredit, disprove, refute
+- absolve: forgive, pardon, exempt ↔ blame, condemn, charge
+
+**记忆窍门：**
+- acquit → a + quit → 无罪「退出」法庭
+- exonerate → ex（out）+ onus（负担）→ 把罪名的负担拿掉
+- vindicate → vin（force）+ dic（说）→ 强力证据「说」出真相
+- absolve → ab（away）+ solve（松开）→ 松绑释放
+
+---
+
+## abstruse
+
+**释义：** adj. 深奥难懂的、晦涩的。形容事物本身极其复杂、难以理解——不是因为你笨，是它真的太难了。
+
+**词根：** 拉丁语 abstrudere = abs-（away，离开）+ trudere（推/塞）→ 被推到远处、够不着 → 深奥难解。同根词：intrude（闯入——往里推）、extrude（挤出——往外推）、protrude（突出——往前推）、obtrude（强加——硬推过去）。
+
+**场景：**
+- **学术论证（阅读高频）：** 描述某学者的文风——an abstruse philosophical treatise（一份晦涩的哲学论著）。与 lucid/accessible 构成对立
+- **填空逻辑对立：** abstruse ↔ lucid/clear/perspicuous/accessible。题目中作者可能一开始抱怨理论太 abstruse，后来有人把它讲清楚了
+- **阅读人物刻画：** 某个教授以 abstruse lectures 闻名——学生抱怨听不懂，他反而以此为荣
+
+**画面：** 你翻开一本量子力学教材，每一页上都写着「显然…」——对你来说这四个字本身就是最 abstruse 的部分。
+
+**Synonyms:** recondite, esoteric, arcane, cryptic, opaque, inscrutable
+**Antonyms:** lucid, clear, perspicuous, accessible, straightforward, pellucid
+
+**区分（GRE 陷阱）：**
+- **abstruse vs obtuse：** 只差一个字母！abstruse 形容东西难懂（an abstruse theory）；obtuse 形容人迟钝愚钝（an obtuse student）。你读不懂 abstruse 的书不代表你 obtuse——反过来，obtuse 的人连 lucid 的东西也读不懂。
+- **abstruse vs recondite：** 几乎同义。recondite 偏「偏僻冷门的专业知识」，abstruse 偏「内在复杂导致的理解困难」。
+
+---
+
+## accolade
+
+**释义：** n. 荣誉、赞扬、嘉奖。公开给予的高度认可或表彰——不一定是实体的奖品，更多是口头的或象征性的荣誉。
+
+**词根：** 法语 accolade ← 拉丁语 ad-（to）+ collum（脖子）→ 原指骑士授勋仪式中，君主双臂环抱骑士脖子的动作 → "授勋" → 引申为任何形式的荣誉表彰。同根词：collar（衣领/项圈——套在脖子上的东西）、col（山坳——山之间的"脖子"形通道）。
+
+**场景：**
+- **填空逻辑对立（高频）：** accolade/praise ↔ criticism/censure/opprobrium/denunciation。如：The film won accolades from critics but was denounced by audiences.
+- **阅读人物刻画：** 描述某人的职业生涯——she garnered numerous accolades for her groundbreaking research。常与 garner/receive/win/earn 搭配
+- **学术/艺术评价：** The novel received critical accolades but failed commercially.
+
+**画面：** 颁奖典礼上，获奖者站在聚光灯下，主持人把奖杯递过去的同时用手拍了拍他的肩膀——这个拍肩动作就是 accolade 的本源，而满场的掌声就是它的现代含义。
+
+**Synonyms:** honor, tribute, praise, commendation, laurels, kudos, plaudits
+**Antonyms:** criticism, censure, condemnation, opprobrium, denunciation, rebuke
+
+**区分：**
+- accolade vs award：award 是具体奖项（奖杯/奖牌/证书），accolade 更偏抽象的赞扬和荣誉。科学家可以拿 awards（奖杯），但更看重同行的 accolades（认可）。
+- accolade vs tribute：tribute 是对已故者或离开者的致敬，accolade 是对在世者成就的嘉奖。tribute 有追忆/告别味，accolade 是当下的荣誉。
+
+---
+
+## rein
+
+**释义：**
+- n. 缰绳（控制马的皮带）
+- v. 控制、约束、抑制（= restrain, curb）
+
+**核心搭配：**
+- rein in — 控制/收紧（≈ curb/restrain）：rein in spending/enthusiasm
+- free rein — 完全自由、放任：give someone free rein
+- give rein to — 放任、纵容：give rein to one's imagination
+
+**词根：** 拉丁语 retinēre（保持/约束）← re-（back）+ tenēre（hold）→ "向后拉住" → 缰绳。同根词：retain（保留）、detain（扣留）、tenacious（抓牢的）。
+
+**场景：**
+- **填空逻辑对立（高频）：** rein in ↔ unleash / give free rein to。The committee voted to rein in the director's authority rather than give him free rein.
+- **经济/政策（阅读高频）：** rein in inflation / rein in spending / rein in executive power
+- **阅读人物刻画：** 描述一个人无法自控——unable to rein in his impulses, refused to rein in her ambition
+
+**画面：** 一匹烈马狂奔，骑手猛拉缰绳向后拽——那个收缰的动作就是 rein，而"松开缰绳"就是 free rein。
+
+**Synonyms:** curb, restrain, check, bridle, control, limit
+**Antonyms:** unleash, release, liberate, free, indulge
+
+**区分（GRE 陷阱⚠️）：**
+- rein vs reign：同音词！rein = 缰绳/控制；reign = 统治/君主在位期。free rein（松开缰绳→自由）不能写成 free reign！填空里看到 rein in 一定取"约束"义，别被谐音带偏。
+
+---
+
+## acquiesce / fleece
+
+**acquiesce (v.):** 默许、勉强同意。不是真正同意，是不情愿地接受、不抗议——心里不认可但放弃抵抗。搭配：acquiesce to + 名词 / acquiesce in + 决定。
+
+**fleece (v.):** 敲竹杠、宰客、骗取钱财。字面义"剪羊毛"→ 把人当羊一样剃光所有钱。搭配：fleece customers/tourists/investors。
+
+**词根：**
+- acquiesce: 拉丁语 acquiescere = ad-（to）+ quiescere（安静/休息）→ "安静下来" → 不再争了 → 默许。同根词：quiescent（静止的）、quiet（安静的）、requiem（安魂曲）。
+- fleece: 来自名词 fleece（羊毛）。动词义来自"剪羊毛"→ 把人像羊一样剃光 → 骗取钱财。GRE 只考动词义。
+
+**场景：**
+- **填空逻辑对立：** acquiesce ↔ resist/protest/object。fleece ↔ deal fairly/compensate justly。
+- **阅读人物刻画：** acquiesce — 描述弱者/下属在权威面前的顺从。The workers acquiesced to the pay cut, fearing worse reprisals.
+- **经济/消费语境：** fleece — Tourists were fleeced by the taxi drivers.
+
+**画面：** 一只羊站在柜台前，剃毛器嗡嗡响——羊毛没了，钱包也空了。"acquiesce to my own fleecing" = 羊不但不跑，还默默低下了头。
+
+**GRE 陷阱（acquiesce）：** acquiesce ≠ agree。agree 是真心赞同，acquiesce 是无奈接受。He didn't agree with the decision, but he acquiesced to it.
+
+**Synonyms:**
+- acquiesce: comply, concede, accede, submit, yield, relent ↔ resist, protest, object, defy
+- fleece: swindle, cheat, overcharge, rip off, defraud ↔ compensate, reimburse, deal fairly
+
+---
+
+## abate
+
+**释义：**
+1. 减弱、消退（不及物）：强度/数量自然降低 — the storm abated, his fury abated
+2. 减少、减轻（及物）：主动降低 — abate taxes/pollution
+3. 法律：消除、终止（及物）：法定地消除妨害 — abate a nuisance
+
+**搭配：** abate a nuisance（法律术语：消除妨害——终止对他人财产使用权的干扰，如噪音、污染、违建）
+
+**词根：** 古法语 abattre = a-（to）+ battre（打）→ "打倒、打下去" → 减弱、消退。同根词：bate（减弱——如 bated breath 屏息）、batter（连续猛击）、battle（战斗）、abattoir（屠宰场）。
+
+**场景：**
+- **填空逻辑对立（高频⚠️）：** abate ↔ intensify/wax/escalate/mount/surge。Her enthusiasm for the project showed no signs of abating.
+- **天气/环境（阅读）：** The storm abated overnight. / efforts to abate pollution
+- **法律/财产：** The city ordered the factory to abate the noise nuisance.
+- **情绪描写：** His anger abated once he heard the full explanation.
+
+**画面：** 暴风雨过后，水面波浪从汹涌翻腾逐渐变成微波荡漾——那个下降的过程就是 abate。法律语境则是城管拿着责令通知书往违建工地一拍——"限期内 abate this nuisance"。
+
+**Synonyms:** subside, wane, diminish, recede, ebb, relent, mitigate
+**Antonyms:** intensify, escalate, wax, mount, surge, swell, amplify
+
+**区分：**
+- abate vs allay：abate = 自己消退（the noise abated）；allay = 你去平息别人的（allay someone's fears）。abate 偏自然过程，allay 偏人为安抚。
+- abate vs attenuate：attenuate 指"变稀薄/变弱"，常用于物理/信号/微生物（attenuated vaccine 减毒疫苗），abate 更日常。
+
+---
+
+## nuisance
+
+**释义：** n. 妨害、讨厌的人/事/状况。① 日常生活中令人烦恼的事物；② 法律上指对他人财产使用权构成干扰的行为或状况。
+
+**词根：** 古法语 nuisance ← nuire（伤害/烦扰）← 拉丁语 nocēre（伤害）。同根词：noxious（有害的/有毒的）、innocuous（无害的）、obnoxious（令人反感的）、nocuous（有害的）。
+
+**场景：**
+- **法律/财产（阅读可考）：** public nuisance（公害）、private nuisance（私人妨害）、attractive nuisance（引诱性妨害——如未设围栏的游泳池吸引儿童进入导致事故）。考点：abate a nuisance（消除妨害）是标准法律搭配。
+- **日常语境（填空/阅读）：** 形容轻微的烦扰——The construction noise was more than a mere nuisance.
+- **逻辑对立：** nuisance ↔ amenity / benefit / blessing
+
+**画面：** 楼上邻居深夜搬家具，你拿扫帚捅天花板——你就是被 nuisance 折磨的受害者；而从法律上讲，邻居的行为就是 actionable nuisance。
+
+**Synonyms:** annoyance, irritation, bother, pest, inconvenience, vexation
+**Antonyms:** amenity, benefit, blessing, convenience, pleasure
+
+**区分（⚠️ GRE 陷阱）：**
+- nuisance vs noxious：同源但意义不同。nuisance = 烦人的东西（annoying），noxious = 有毒有害的东西（toxic/harmful）。noxious fumes ≠ nuisance fumes——前者让你中毒，后者只是让你不爽。
+- nuisance vs nuisance lawsuit：后者特指"滥诉/无理取闹的诉讼"——律师界的黑话。
+
+**另见：** abate（gre-asked-words-3.md:1019）—— abate a nuisance 为标准法律搭配。
+
+---

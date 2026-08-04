@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GRE Word Picker</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #1a1a2e; color: #e0e0e0; min-height: 100vh;
+  }
+  .header {
+    position: sticky; top: 0; z-index: 100;
+    background: linear-gradient(135deg, #16213e, #0f3460);
+    padding: 16px 20px; display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 12px; border-bottom: 2px solid #e94560;
+  }
+  .header h1 { font-size: 1.4em; color: #e94560; }
+  .stats { font-size: 0.9em; color: #aaa; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; }
+  button {
+    background: #0f3460; color: #e0e0e0; border: 1px solid #e94560;
+    padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 0.9em;
+    transition: all 0.2s;
+  }
+  button:hover { background: #e94560; color: white; }
+  button.export { background: #e94560; color: white; font-weight: bold; }
+  button.export:hover { background: #c73e54; }
+  input[type="text"] {
+    background: #16213e; color: #e0e0e0; border: 1px solid #555;
+    padding: 8px 12px; border-radius: 6px; font-size: 0.9em; min-width: 200px;
+  }
+  input[type="text"]:focus { outline: none; border-color: #e94560; }
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 10px; padding: 16px;
+  }
+  .card {
+    background: #16213e; border: 2px solid #2a2a4a; border-radius: 8px;
+    padding: 12px 14px; cursor: pointer; transition: all 0.15s;
+    user-select: none;
+  }
+  .card:hover { border-color: #e94560; transform: translateY(-1px); }
+  .card.selected { border-color: #e94560; background: #1a0a2e; box-shadow: 0 0 12px rgba(233,69,96,0.3); }
+  .card .word { font-size: 1.1em; font-weight: bold; color: #e94560; margin-bottom: 4px; }
+  .card .preview { font-size: 0.85em; color: #aaa; line-height: 1.4; max-height: 3em; overflow: hidden; }
+  .card .expanded { margin-top: 10px; font-size: 0.85em; color: #ccc; line-height: 1.6;
+    border-top: 1px solid #333; padding-top: 8px; white-space: pre-wrap; display: none; }
+  .card.expanded .expanded { display: block; }
+  .card .expand-hint { font-size: 0.75em; color: #666; margin-top: 6px; }
+  #export-preview {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.85); z-index: 200; padding: 40px;
+    overflow-y: auto;
+  }
+  #export-preview.show { display: block; }
+  #export-preview pre {
+    background: #16213e; color: #e0e0e0; padding: 20px; border-radius: 8px;
+    font-size: 0.85em; line-height: 1.6; white-space: pre-wrap; max-width: 800px; margin: 0 auto;
+  }
+  .close-btn { position: sticky; top: 10px; float: right; font-size: 1.5em; cursor: pointer; }
+  #review-mode {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.9); z-index: 200; padding: 10px 40px 40px;
+    overflow-y: auto;
+  }
+  #review-mode.show { display: block; }
+  #review-mode .entry {
+    background: #16213e; border: 1px solid #333; border-radius: 8px;
+    padding: 20px 24px; margin: 16px auto; max-width: 800px;
+    line-height: 1.7; font-size: 0.9em; white-space: pre-wrap;
+  }
+  #review-mode .entry .rword { font-size: 1.3em; font-weight: bold; color: #e94560; margin-bottom: 12px; }
+  .review-header {
+    position: sticky; top: 0; z-index: 10; background: rgba(0,0,0,0.9);
+    padding: 16px 0; text-align: center; margin-bottom: 10px;
+    border-bottom: 1px solid #333; display: flex; justify-content: center; gap: 12px; align-items: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>📚 GRE Word Picker</h1>
+    <div class="stats">
+      <span id="total-count">0</span> words ·
+      <span id="selected-count" style="color:#e94560">0 selected</span>
+    </div>
+  </div>
+  <input type="text" id="search" placeholder="🔍 filter words...">
+  <div class="controls">
+    <button onclick="selectAll()">Select All</button>
+    <button onclick="deselectAll()">Deselect All</button>
+    <button onclick="selectUnfamiliar()" style="color:#ffcc00;border-color:#ffcc00;">⭐ Unfamiliar Only</button>
+    <button onclick="toggleReview()" style="color:#00e5ff;border-color:#00e5ff;">📖 Review (<span id="review-count">0</span>)</button>
+    <button class="export" onclick="showExport()">📥 Export Selected</button>
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div id="export-preview">
+  <span class="close-btn" onclick="hideExport()">✕</span>
+  <pre id="export-content"></pre>
+</div>
+
+<div id="review-mode">
+  <div class="review-header">
+    <span style="font-size:1.1em;">📖 <span id="review-title-count">0</span> words</span>
+    <button onclick="toggleReview()">✕ Close</button>
+    <button onclick="showExport()" class="export">📥 Export</button>
+  </div>
+  <div id="review-content"></div>
+</div>
+
+<script>
+let allWords = [];
+let selected = new Set();
+let expanded = new Set();
+
+async function init() {
+  const resp = await fetch("gre-words.json");
+  allWords = await resp.json();
+  // Load saved selections from localStorage
+  const saved = JSON.parse(localStorage.getItem("gre-selected") || "[]");
+  selected = new Set(saved);
+  const savedExp = JSON.parse(localStorage.getItem("gre-expanded") || "[]");
+  expanded = new Set(savedExp);
+  render();
+}
+
+function render() {
+  const search = document.getElementById("search").value.toLowerCase();
+  const filtered = search ? allWords.filter(w =>
+    w.word.toLowerCase().includes(search) || w.preview.toLowerCase().includes(search)
+  ) : allWords;
+
+  const grid = document.getElementById("grid");
+  grid.innerHTML = filtered.map(w => {
+    const sel = selected.has(w.word) ? " selected" : "";
+    const exp = expanded.has(w.word) ? " expanded" : "";
+    return `<div class="card${sel}${exp}" onclick="toggleWord(event, '${w.word.replace(/'/g, "\\'")}')">
+      <div class="word">${w.word}</div>
+      <div class="preview">${w.preview || "—"}</div>
+      <div class="expanded">${escapeHtml(w.body)}</div>
+      <div class="expand-hint">${expanded.has(w.word) ? "▲ click to collapse" : "▼ click to expand"}</div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("total-count").textContent = allWords.length;
+  document.getElementById("selected-count").textContent = selected.size;
+  document.getElementById("review-count").textContent = selected.size;
+}
+
+function toggleWord(e, word) {
+  // If clicking on a word that's already expanded, toggle expansion
+  // Ctrl/Cmd+click = expand/collapse; regular click = select/deselect
+  if (e.ctrlKey || e.metaKey) {
+    // Expand/collapse
+    if (expanded.has(word)) expanded.delete(word);
+    else expanded.add(word);
+  } else {
+    // Select/deselect
+    if (selected.has(word)) selected.delete(word);
+    else selected.add(word);
+  }
+  save();
+  render();
+}
+
+// Allow right-click to expand
+document.addEventListener("contextmenu", e => {
+  const card = e.target.closest(".card");
+  if (card) {
+    e.preventDefault();
+    const wordEl = card.querySelector(".word");
+    if (wordEl) {
+      const word = wordEl.textContent;
+      if (expanded.has(word)) expanded.delete(word);
+      else expanded.add(word);
+      save();
+      render();
+    }
+  }
+});
+
+function selectAll() {
+  allWords.forEach(w => selected.add(w.word));
+  save(); render();
+}
+function deselectAll() {
+  selected.clear();
+  save(); render();
+}
+function selectUnfamiliar() {
+  // Select unselected words (presumably unfamiliar)
+  allWords.forEach(w => { if (!selected.has(w.word)) selected.add(w.word); });
+  save(); render();
+}
+function save() {
+  localStorage.setItem("gre-selected", JSON.stringify([...selected]));
+  localStorage.setItem("gre-expanded", JSON.stringify([...expanded]));
+}
+
+function showExport() {
+  if (selected.size === 0) { alert("No words selected!"); return; }
+  const parts = [];
+  parts.push("# GRE 不熟悉词汇\n");
+  parts.push(`> 导出时间: ${new Date().toISOString().slice(0,10)}\n`);
+  parts.push(`> 共 ${selected.size} 个词\n`);
+
+  for (const word of [...selected].sort()) {
+    const w = allWords.find(x => x.word === word);
+    if (!w) continue;
+    parts.push("");
+    parts.push("---");
+    parts.push("");
+    parts.push(`## ${w.word}`);
+    parts.push("");
+    parts.push(w.body);
+  }
+  parts.push("");
+
+  document.getElementById("export-content").textContent = parts.join("\n");
+  document.getElementById("export-preview").classList.add("show");
+}
+
+function hideExport() {
+  document.getElementById("export-preview").classList.remove("show");
+}
+
+function escapeHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function toggleReview() {
+  const rv = document.getElementById("review-mode");
+  if (rv.classList.contains("show")) {
+    rv.classList.remove("show");
+  } else {
+    renderReview();
+    rv.classList.add("show");
+  }
+}
+
+function renderReview() {
+  const sorted = [...selected].sort();
+  document.getElementById("review-title-count").textContent = sorted.length;
+  const container = document.getElementById("review-content");
+  if (sorted.length === 0) {
+    container.innerHTML = '<p style="text-align:center;color:#888;padding:60px;">No words selected. Go back and click cards to select unfamiliar words.</p>';
+    return;
+  }
+  container.innerHTML = sorted.map(word => {
+    const w = allWords.find(x => x.word === word);
+    if (!w) return "";
+    return `<div class="entry">
+      <div class="rword">${w.word}</div>
+      ${escapeHtml(w.body)}
+    </div>`;
+  }).join("\n");
+}
+
+init();
+</script>
+</body>
+</html>
