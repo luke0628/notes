@@ -1067,3 +1067,92 @@
 **另见：** abate（gre-asked-words-3.md:1019）—— abate a nuisance 为标准法律搭配。
 
 ---
+
+## abscond
+
+**释义：** v. 潜逃、卷款逃跑。秘密地、匆忙地离开，通常为了逃避法律追究或携带赃物消失。
+
+**核心搭配：** abscond with + 钱/物（卷款潜逃）、abscond from + 地点（从某处逃跑）
+
+**词根：** 拉丁语 abscondere = abs-（away）+ condere（放置/储藏/隐藏）→ "把自己藏起来放到远处" → 潜逃。同根词：recondite（深奥的——"被藏回去的"）、condiment（调味品——"被储藏起来的东西"）、ensconce（安置/安坐——"藏进舒适位置"）。
+
+**场景：**
+- **金融犯罪（GRE 阅读高频）：** The CFO absconded with millions of dollars.
+- **司法/法律（填空）：** The suspect absconded while on bail.（保释期间潜逃）
+- **逻辑对立：** abscond ↔ surrender / turn oneself in / remain / face the music
+
+**画面：** 公司会计深夜拎着两个大行李箱溜出后门，第二天财务部发现钱和人一起蒸发了。
+
+**Synonyms:** flee, decamp, bolt, make off, escape, run away
+**Antonyms:** remain, stay, surrender, turn oneself in
+
+**区分：**
+- abscond vs escape：escape 只是"逃脱"，不一定要藏起来；abscond 强调秘密消失 + 通常带东西/逃避责任。
+- abscond vs flee：flee 是仓皇逃跑（快）；abscond 是秘密潜逃（隐蔽 + 快）。flee 不一定违法，abscond 几乎总是违法/违规。
+
+---
+
+## convene / concede
+
+**释义：**
+- **convene (v.):** 召集、集会、开会。把人聚到一起（开正式会议）。搭配：convene a meeting/committee/conference/summit。
+- **concede (v.):** ① 承认（勉强承认对方是对的）；② 让步/认输；③ 给予/授予（权力/权利）。搭配：concede defeat / concede a point / concede the election。
+
+**词根：**
+- convene: 拉丁语 convenire = con-（together）+ venire（to come）→ "走到一起" → 集会。同根词：convention（大会/惯例）、convenient（方便的）、venue（场地）、advent（到来）、intervene（介入）。
+- concede: 拉丁语 concedere = con-（completely）+ cedere（to yield/give way）→ "完全让步" → 承认/认输。同根词：cede（割让）、recede（后退）、precede（在前）、concession（让步）、accede（同意/即位）。
+
+**场景：**
+- convene — 政治/机构：The board convened an emergency session. Parliament convened to debate the bill.
+- concede — 辩论/竞赛（填空高频）：He refused to concede defeat even when the evidence was overwhelming.
+- concede — 政治/选举：The candidate conceded the election after the final tally.
+
+**核心区分：**
+| | convene | concede |
+|---|---|---|
+| 动作 | 把人叫到一起 | 认输/让步/承认 |
+| 核心意象 | 聚 → 散（adjourn） | 退让 → 坚持（insist） |
+| 经典搭配 | convene a meeting | concede defeat |
+| 词根 | venire（来） | cedere（让步/走） |
+
+**统一画面：** 董事会 convened（召开）紧急会议，CEO 在会上终于 conceded（承认）他的战略失败了——人走到了一起，他退了那一步。
+
+**Synonyms:**
+- convene: assemble, gather, summon, convoke ↔ adjourn, disperse, dissolve
+- concede: admit, acknowledge, yield, surrender, grant ↔ insist, maintain, deny, refuse
+
+---
+
+## abjure / conjure
+
+**释义：**
+- **abjure (v.):** 公开/正式放弃、发誓断绝（信仰、权利、主张、国籍等）。用于抛弃曾经坚持的东西。搭配：abjure a belief / abjure one's citizenship / abjure violence。经典用例：Galileo was forced to abjure his heliocentric theory.（伽利略被迫放弃日心说）
+- **conjure (v.):** ① 变魔术（变出、召唤出）；② 想象出、唤起（记忆/画面）。用于召唤不存在的东西。搭配：conjure up an image / conjure a rabbit from a hat / a name that conjures memories。
+
+**词根：** 同根 -jure（来自拉丁语 jurare = to swear，发誓），前缀决定方向：
+- abjure: 拉丁语 abjurare = ab-（away）+ jurare（to swear）→ "发誓远离" → 公开放弃。同根词：jury（陪审团——宣誓裁判的人）、perjury（伪证——假发誓）、adjure（恳求）。
+- conjure: 拉丁语 conjurare = con-（together）+ jurare（to swear）→ "一起发誓" → 密谋/召唤 → 变魔术/唤起。同根词：conjurer（魔术师）、conjuration（咒语）。
+
+**场景：**
+- abjure — 宗教/历史（阅读）：Galileo was forced to abjure his heliocentric theory.
+- abjure — 政治/身份（填空）：abjure one's citizenship / abjure violence as a political tool
+- conjure — 文学/描写：The scent conjured up childhood memories.
+- conjure — 魔术/幻想语境：conjure an image / conjure a solution out of thin air
+
+**核心区分：**
+| | abjure | conjure |
+|---|---|---|
+| 方向 | 发誓远离 → 抛弃 | 发誓聚在一起 → 召唤 |
+| 对信仰/主张 | abjure it（放弃） | — |
+| 对记忆/画面 | — | conjure it up（唤起） |
+| 前缀 | ab- = away | con- = together |
+
+**统一画面：** 魔术师在台上 conjured（变出）一只鸽子——下一秒观众席上有个牧师站起来当众 abjured（发誓放弃）了自己的无神论信仰。
+
+**Synonyms:**
+- abjure: renounce, repudiate, forswear, recant, relinquish ↔ embrace, adopt, affirm, avow
+- conjure: evoke, summon, invoke, call forth, produce ↔ banish, dismiss, dispel
+
+**记忆窍门：** ab- = away → 推开 → abjure = 放弃；con- = together → 聚在一起 → conjure = 召唤出来。jury（陪审团）、perjury（伪证）都是同一家族的。
+
+---
