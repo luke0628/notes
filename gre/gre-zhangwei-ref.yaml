@@ -395,6 +395,7 @@ test_6_s1:
       blanks: 1
       ans: D
       preview: The province has long claimed to be just another dev...
+      completed: '2026-08-05'
     q2:
       type: TC
       blanks: 2
@@ -1220,6 +1221,7 @@ test_16_s2:
       blanks: 2
       ans: BD
       preview: Collecting such fragment of contemporary popular cul...
+      completed: '2026-08-05'
     q4:
       type: TC3
       blanks: 3
@@ -3401,6 +3403,7 @@ test_44_s2:
       blanks: 1
       ans: EF
       preview: Flash floods are common in desert regions and were w...
+      completed: '2026-08-05'
 test_45_s1:
   difficulty: medium
   questions:
@@ -6137,6 +6140,7 @@ test_80_s2:
       blanks: 1
       ans: BD
       preview: Some consider the theorem Emmy Noether first publish...
+      completed: '2026-08-05'
     q7:
       type: SE
       blanks: 1
@@ -6692,6 +6696,7 @@ test_88_s1:
       blanks: 3
       ans: BDG
       preview: Genetic researchers have recently suggested that our...
+      completed: '2026-08-05'
     q4:
       type: SE
       blanks: 1

@@ -517,20 +517,20 @@ D. a contentious 有争议的 ✅ | E. a distinguished 卓越的 | F. a fraught 
 
 ## 71. 2026-07-31 · test_88_s1 #3, test_6_s1 #1, test_16_s2 #3, test_80_s2 #6, test_44_s2 #7
 
-### ❌ [Easy] [TC3] test_88_s1 #3 — recoil from + deliberative + defies (BDG) · answered ADH
+### ❌ [Easy] [TC3] test_88_s1 #3 — revel in + deliberative + defies (BDG) · answered ADG (8/5) / ADH (7/31)
 
 > Genetic researchers have recently suggested that our political leanings may be determined by our DNA, a view that tends to undermine our reflective self-flattery. We (i)[------] the idea that personal politics are entirely (ii)[------]. The genetic explanation for ideology (iii)[------] our belief that we are persuaded only by rational arguments.
 
-- ✅ BDG · ❌ ADH（(iii) 错）
-- **信号：** "undermine our reflective self-flattery" → DNA 决定论打击了我们的自恋 → 因为我们相信政治立场是理性思考的结果
-- **逻辑：** (i) 我们**排斥**（recoil from）政治立场纯属 (ii)**理性思考**（deliberative）的观点 → (iii) 基因解释**颠覆**（defies）我们只被理性说服的信念
-- ⚠️ 错因：H. entails（蕴含/导致）方向反了——基因解释不"蕴含"理性信念，而是"推翻"它
+- ✅ BDG · ❌ ADG（(i) 错：A→B）
+- **信号：** "undermine our reflective self-flattery" → DNA 决定论打击了我们的自恋；self-flattery = 认为自己理性自决
+- **逻辑：** (i) DNA 决定论 undermining self-flattery → 我们反而**陶醉于**（revel in）政治是 (ii)**理性思考**（deliberative）的观点（因为这样才能维护自我形象）；(iii) 基因解释**违背**（defies）"我们只被理性说服"的信念
+- ⚠️ 错因（两次都错(i)）：选了 recoil from，方向反了。"recoil from deliberative" = 抗拒理性思考 → 与 self-flattery 矛盾。应该是 revel in: 拥抱"政治是理性思考"的幻觉来维护自尊
 
 **各词释义：**
 ```
-A. recoil from 排斥、畏缩 ✅         | D. deliberative 深思熟虑的、理性的 ✅ | G. defies 挑战、违抗 ✅
-B. revel in 陶醉于                   | E. inexpensive 廉价的                  | H. entails 必然包含、导致
-C. puzzle over 困惑于                | F. self-serving 利己的                  | I. parallels 与...平行
+A. recoil from 排斥、畏缩 ❌ (两次都错选)  | D. deliberative 深思熟虑的、理性的 ✅     | G. defies 挑战、违抗 ✅
+B. revel in 陶醉于 ✅                       | E. inexpensive 廉价的                      | H. entails 必然包含、导致
+C. puzzle over 困惑于                       | F. self-serving 利己的                      | I. parallels 与...平行
 ```
 
 ---
@@ -568,15 +568,14 @@ C. archaic 古老的、过时的                | F. banality 平庸、陈腐
 
 ---
 
-### ❌ [Medium] [SE] test_80_s2 #6 — undergirded by + dependent on (BD) · answered DE
+### ✅ [Medium] [SE] test_80_s2 #6 — undergirded by + dependent on (BD) · answered BD (8/5) / DE (7/31)
 
 > Some consider the theorem Emmy Noether first published in 1918 to be as important as Einstein's theory of relativity, since much of today's vanguard research in physics is [------] Noether's theorem.
 
-- ✅ BD · ❌ DE（E 错）
+- ✅ BD · ✅ BD
 - **信号：** "as important as" + "since..." → 原因解释：前沿研究**基于**Noether定理
 - **逻辑：** 因果 — 定理很重要，因为当今研究依赖于它
 - **SE 近义对：** undergirded by（由...支撑）+ dependent on（依赖于）= 基于、依赖
-- ⚠️ 错因：devoted to = 致力于/专注于（投入方向），与 dependent on（理论依赖）不构成近义 pair
 
 **各词释义：**
 ```
