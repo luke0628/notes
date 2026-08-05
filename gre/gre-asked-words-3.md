@@ -873,6 +873,18 @@
 - abrogate → "ab-ROGUE-ate" → 一个 rogue（流氓）上位后把旧规则全废了 → 废除法令
 - abdicate → "ab-DIC-tate" → dic = speak/say（同 dictate, dictionary）→ 开口说自己不干了 → 放弃王位/责任
 
+**rog- 词根家族补充（拉丁语 rogare = to ask, to propose law）：**
+
+与 abrogate 同根的 rog- 家族词：
+- **abrogate** = ab-（away）+ rogare → "把法律提议拿走" → 废除
+- **arrogate** = ad-（to oneself）+ rogare → "向自己提议" → 僭取、冒称拥有
+- **derogate** = de-（down）+ rogare → "往下问" → 贬低（→ derogatory 贬义的）
+- **interrogate** = inter-（between）+ rogare → "在中间问" → 审问
+- **prerogative** = pre-（before）+ rogare → "比别人先问" → 特权
+- **surrogate** = sub-（in place of）+ rogare → "替别人问" → 替代者
+
+**造句统记：** The dictator arrogated emergency powers to himself, then abrogated the constitution — when journalists tried to interrogate his motives, he claimed it was his prerogative as head of state, calling any criticism derogatory to national security.（独裁者先僭取紧急权力，再废除宪法——记者试图质问其动机，他声称这是国家元首的特权，并将任何批评定性为对国家安全的贬损。）
+
 ---
 
 ## acquit / exonerate / vindicate / absolve
@@ -988,6 +1000,29 @@
 
 **区分（GRE 陷阱⚠️）：**
 - rein vs reign：同音词！rein = 缰绳/控制；reign = 统治/君主在位期。free rein（松开缰绳→自由）不能写成 free reign！填空里看到 rein in 一定取"约束"义，别被谐音带偏。
+
+**reign (n./v.) — 同音词对比：**
+
+**reign 释义：**
+- n. 统治时期、在位期：the reign of Queen Victoria
+- v. 统治、占主导地位：chaos reigned / silence reigned
+- [比喻] 盛行、支配：confusion reigned supreme
+
+**rein vs reign 核心区分：**
+| | rein | reign |
+|---|---|---|
+| 意象 | 🐴 拉缰绳 | 👑 戴王冠 |
+| 动词义 | 约束、控制 | 统治、主宰 |
+| 经典搭配 | rein in spending | reign over a kingdom |
+| 经典错误 | ~~free reign~~ ❌ | free rein ✅ |
+
+free rein = 松开缰绳、给自由 ≠ free reign（自由统治）
+
+**填空经典对立：**
+- rein: rein in ↔ unleash / give free rein ↔ restrict
+- reign: reign ↔ serve / submit / be subordinate to
+
+**考场记忆法：** 骑马用 rein（缰绳），戴王冠用 reign（统治）。给员工 free rein = 松缰绳让他自己跑，不是给他 free reign = 不是让他当皇帝。
 
 ---
 
@@ -1154,5 +1189,63 @@
 - conjure: evoke, summon, invoke, call forth, produce ↔ banish, dismiss, dispel
 
 **记忆窍门：** ab- = away → 推开 → abjure = 放弃；con- = together → 聚在一起 → conjure = 召唤出来。jury（陪审团）、perjury（伪证）都是同一家族的。
+
+---
+
+## abstract
+
+**词性：** adj. / n. / v. — 三种词性 GRE 都可能考
+
+**释义：**
+- **adj. 抽象的：** 理论层面的、不具体的。对立面：concrete / tangible。如：abstract concepts / abstract art / abstract reasoning。
+- **n. 摘要：** 论文或报告的简要概括。如：the abstract of a research paper。
+- **v. 提取/抽取/移除：** 从某物中抽出来。如：abstract water from a river / abstract data from the report。罕用义：偷走。
+- **固定搭配：** in the abstract = 理论上、抽象地 ↔ in practice。
+
+**词根：** 拉丁语 abstrahere = abs-（away）+ trahere（to draw/pull）→ "拉出来、抽离出来" → 抽象的（从具体中抽离）。同根词：extract（提取）、detract（减损）、attract（吸引）、subtract（减去）、contract（合同/收缩）、retract（撤回）、protract（拖延）。
+
+**场景（GRE 考点）：**
+- **填空逻辑对立：** abstract ↔ concrete / tangible / practical。His theories remained frustratingly abstract, offering no concrete solutions.
+- **学术语境（阅读高频）：** The paper's abstract summarizes the key findings.
+- **提取义（填空少见但可考）：** The researchers abstracted patterns from the vast dataset.
+- **in the abstract vs in practice：** The policy sounds good in the abstract but fails in practice.
+
+**画面：** 你给一个小孩解释"爱"是什么——你说了一堆 abstract 的概念，小孩一脸茫然。最后你抱了抱他。那个拥抱就是 concrete。
+
+**Synonyms:**
+- adj.: theoretical, conceptual, intangible, metaphysical ↔ concrete, tangible, specific, practical
+- n.: summary, synopsis, précis, digest
+- v.: extract, remove, withdraw, draw out ↔ insert, inject, add
+
+**区分：**
+- abstract vs abstruse：常混淆但不同源不同义。abstract = 抽象的（脱离具体，但不一定难）；abstruse = 深奥难懂的。一篇 abstract 的文章可能在讲 abstract 的概念——但 abstract ≠ abstruse。
+- abstract vs extract：同根。extract 更主动、更有力地"拔出来"（extract a tooth），abstract 更轻柔地"抽离"（abstract ideas from experience）。
+- in the abstract vs in theory：几乎同义，但 in the abstract 更偏"脱离实际去谈"，in theory 更偏"按道理讲"。
+
+---
+
+## accede
+
+**释义：** v. ① 同意、应允（正式同意某个请求/要求）；② 即位、就任（王位/职位）；③ 加入（条约/协议）。
+
+**核心搭配：** accede to + 请求/要求（同意）、accede to + 王位/职位（即位）、accede to + 条约（加入）
+
+**词根：** 拉丁语 accedere = ad-（to，靠近）+ cedere（to go/yield，走/让）→ "走向、靠近" → 同意/加入/即位。同根词（ced- 家族）：concede（让步/承认——完全退让）、recede（后退）、precede（在前）、exceed（超过——走出去）、intercede（调解/求情——走到中间）、secede（脱离——分开走）。
+
+**场景（GRE 考点）：**
+- **政治/外交（阅读高频）：** The government refused to accede to the protesters' demands.
+- **历史/王室（阅读）：** Elizabeth II acceded to the throne in 1952.
+- **国际法：** The country acceded to the Geneva Convention.
+- **填空逻辑对立：** accede to ↔ resist / refuse / defy / reject
+
+**画面：** 甲方拍桌子提了一堆要求，乙方沉默良久、最终走近一步握了握手——那一"步"就是 ced-，走近就是 accede。
+
+**Synonyms:** agree, consent, assent, comply, acquiesce ↔ resist, refuse, defy, reject, rebuff
+**即位义：** ascend, assume, inherit ↔ abdicate, renounce
+
+**区分（GRE 陷阱⚠️）：**
+- accede vs concede：同根但方向不同。accede = 同意对方的要求（走向对方）；concede = 承认自己错了/放弃自己的立场（自己退让）。accede to demands vs concede defeat
+- accede vs exceed：完全无关！拼写相近。exceed = 超过（走出去了）。
+- accede vs assent：assent 是点头同意（态度），accede 是正式应允（行动）。
 
 ---
