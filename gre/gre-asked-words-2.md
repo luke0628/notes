@@ -1569,6 +1569,11 @@
 **Synonyms:** friendly, peaceable, cordial, harmonious, congenial, cooperative
 **Antonyms:** inimical, hostile, antagonistic, belligerent, contentious, unfriendly
 
+**另见：**
+- **amiable (adj.)** — 只用于形容人：和蔼可亲的（an amiable host ✅）。词根同源 amicus（朋友），但分工不同：amiable = 人的性格友善，amicable = 关系/安排友善。经典错误：She is amicable ❌ → She is amiable ✅
+- **amendable (adj.)** — 完全不同的词根！源自 emendare（纠正），意为「可修正的、可修改的」。与 amicable 同形似但无关。
+- **amenable (adj.)** — 又一根源！古法语 amener（引导），意为「顺从的、愿意接受的」（amenable to suggestions）。GRE 经典四词陷阱。
+
 ---
 
 ## dyspeptic

@@ -1249,3 +1249,99 @@ free rein = 松开缰绳、给自由 ≠ free reign（自由统治）
 - accede vs assent：assent 是点头同意（态度），accede 是正式应允（行动）。
 
 ---
+
+## snub / snob / snobbish
+
+**snub（v./n.）**
+**释义：** 冷落、怠慢、故意无视 — 社交场合中有意不理会某人以示轻蔑
+**词根：** 古诺尔斯语 snubba（斥责、打断）
+**场景：**
+- 阅读人物刻画 — 社交冷落：The CEO snubbed his former partner at the gala, refusing even to make eye contact.（考点：人际关系张力）
+- 填空逻辑对立 — 期望 vs 现实：期望被热情接待却遭冷遇（expectation → snub）
+**画面：** 宴会上你伸手要握，对方看了你一眼，转身和旁边的人聊天 — 那只悬在半空的手就是 snub。
+**Synonyms:** rebuff, slight, cold-shoulder, spurn, ostracize
+**Antonyms:** embrace, welcome, acknowledge, greet
+
+**snob（n.）**
+**释义：** 势利眼、自命不凡的人 — 认为自己品味/地位高人一等，瞧不起「低端」事物的人
+**词源：** 可能源自拉丁语 sine nobilitate（无贵族身份），18世纪剑桥俚语指「鞋匠学徒」→ 后来演变为模仿上流社会、看不起同类的人
+**场景：**
+- 阅读人物刻画 — 文化精英批判：The wine snob dismissed the affordable vintage without tasting it.
+- 填空逻辑对立 — 精英主义 vs 平民主义：snobbery vs egalitarianism
+**画面：** 一个人点咖啡时必须说「single-origin Ethiopian pour-over, no sugar」，听到「latte」就翻白眼。
+**Synonyms:** elitist, pretentious person
+**Antonyms:** egalitarian, everyman
+
+**snobbish（adj.）**
+**释义：** 势利的、自命不凡的 — 表现出 snob 的态度
+**场景：**
+- 阅读人物刻画 — 态度描写：Her snobbish insistence on only reading "serious literature" alienated her book club.
+- 填空逻辑对立 — 精英光环 vs 实际价值
+**Synonyms:** pretentious, condescending, elitist, haughty
+**Antonyms:** unpretentious, down-to-earth, humble
+
+**核心区分：**
+- snub = 行为：故意不理人（记：b = back，背对）
+- snob = 人：瞧不起别人的人
+- snobbish = 态度：势利的
+
+**画面统记：** The snob gave a condescending lecture on wine, then snubbed the host's cheap merlot — his snobbish behavior cleared the room.
+
+---
+
+## amendable / amenable
+
+**amendable（adj.）**
+**释义：** 可修改的、可修正的、愿意接受改正的
+**词根：** 拉丁语 emendare（纠正）← e-（出来）+ menda（错误）。与 amicable/amiable 完全无关！同根词：amend（修改）、emend（校订）、mend（修补）
+**场景：**
+- 法律/政策 — 可修正条款：The bylaws are amendable by a two-thirds vote.
+- 填空逻辑对立 — 可改 vs 僵化：amendable ↔ intractable / immutable / rigid
+**画面：** 合同条款旁边有个 ✏️ 图标，告诉你「这条可以改」—— amendable。
+**Synonyms:** revisable, correctable, modifiable, alterable
+**Antonyms:** immutable, unalterable, fixed, intractable
+
+**amenable（adj.）**
+**释义：** 顺从的、愿意接受的、有义务的 — 愿意听从建议/服从规则
+**词根：** 古法语 amener（带来、引导）← a- + mener（to lead），与 amend/amiable 都无关
+**场景：**
+- 阅读人物刻画 — 顺从态度：amenable to suggestions / amenable to reason
+- 法律语境 — 负有责任：amenable to the law（受法律约束）
+- 填空逻辑对立 — amenable ↔ recalcitrant / refractory / intransigent
+**画面：** 你想换餐馆，朋友说「都行，你定」—— amenable。
+**Synonyms:** agreeable, compliant, tractable, responsive
+**Antonyms:** recalcitrant, refractory, intransigent, obstinate
+
+**核心区分（GRE 四词陷阱）：**
+- amiable — amicus（朋友），用于人：和蔼可亲的
+- amicable — amicus（朋友），用于关系/安排：友好的（分手、协议）
+- amendable — emendare（纠正）：可修改的
+- amenable — amener（引导）：顺从的、愿意的
+
+**画面统记：** The amiable mediator made both parties amenable to compromise, leading to an amicable settlement — though the amendable clauses took three more drafts.
+
+---
+
+## anarchism
+
+**释义：** n. 无政府主义 — 主张废除一切强制性政府和等级制度的政治哲学。不等同于"混乱"（那是 anarchy 的通俗义）
+
+**词根：** 希腊语 an-（无）+ arkhos（统治者）= 没有统治者
+
+**场景：**
+- 政治哲学/思想史 — 阅读中作为极端政治立场出现：anarchism, socialism, and other radical ideologies of the 19th century（考点：政治光谱定位）
+- 填空逻辑对立 — 秩序 vs 无序：anarchism ↔ authoritarianism / statism / totalitarianism
+- 人物刻画 — 反权威知识分子：The writer's anarchism was not mere rebelliousness but a principled rejection of state coercion.
+
+**相关词族：**
+- anarchy (n.) — 无政府状态；混乱（通俗义）
+- anarchist (n./adj.) — 无政府主义者
+- anarchic / anarchical (adj.) — 无政府的、混乱无序的
+- anarchism (n.) — 无政府主义（政治哲学）
+
+**区分：** anarchy ≠ anarchism — anarchy 是状态（街上没人管），anarchism 是主义/学说（一本书里的理论）。anarchic ≠ chaotic — anarchic 暗示缺少权威结构，chaotic 只是纯粹的混乱。
+
+**画面：** 政治哲学课上，教授在黑板上画了一个圈，里面没有金字塔——那个圈就是 anarchism。
+
+**Synonyms:** libertarian socialism, anti-statism
+**Antonyms:** authoritarianism, statism, totalitarianism
