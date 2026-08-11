@@ -1345,3 +1345,47 @@ free rein = 松开缰绳、给自由 ≠ free reign（自由统治）
 
 **Synonyms:** libertarian socialism, anti-statism
 **Antonyms:** authoritarianism, statism, totalitarianism
+
+---
+
+## allegiance
+
+**释义：** n. 忠诚、效忠（formal loyalty to a person, group, cause, or government）；常带正式/宣誓的意味，强调义务性。
+
+**词根：** 拉丁 ligare = 绑、缚（ad- = to + ligare = bind）。同根词：ligament（韧带）、oblige（迫使/使感激）、ligature（结扎）、alliance（联盟）、liaison（联络）。
+
+**场景：**
+- （填空·政治/权力）allegiance shifted from monarch to revolutionary council — 忠诚转移
+- （阅读·人物刻画）allegiance to empirical data over ideological dogma
+- （填空·对立）cannot reconcile allegiance to party with dismay at its policies
+
+**画面：** The knight knelt and pledged allegiance to the throne — but his eyes drifted to the queen's cook, to whom his real loyalty belonged, one roast duck at a time.
+
+**Synonyms:** fidelity, fealty, devotion, loyalty, commitment
+**Antonyms:** disloyalty, treachery, sedition, perfidy
+
+**区分：** allegiance vs fidelity（政治组织 vs 人际关系/精准度）；allegiance vs fealty（现代 vs 古封建）；allegiance vs alliance（单向效忠 vs 双向联盟）
+
+---
+
+## anesthetic / analgesic
+
+**anesthetic（n. / adj.）**
+**释义：** 麻醉剂 / 麻醉的 — 使全部或部分身体失去知觉，包括痛觉、触觉、意识。
+
+**analgesic（n. / adj.）**
+**释义：** 止痛药 / 止痛的 — 只阻断疼痛，不阻断触觉、不使人失去意识。
+
+**词根：** an- = without；esthetic → esthes- = sensation（同根：aesthete, synesthesia）；analgesic → alges- = pain（同根：nostalgia, neuralgia）
+
+**核心区分：** anesthetic 阻断全部感觉+意识 | analgesic 只阻断疼痛、保持清醒
+
+**场景：**
+- （填空·对立）drug was analgesic rather than anesthetic — pain relief but retained full tactile sensation
+- （阅读·医学）analgesic without respiratory depression risks of opioid anesthetics
+
+**画面：** Under anesthetic, you feel nothing — surgeon could be juggling your organs. On analgesic, you're wide awake watching, pain-free but horrified.
+
+**Synonyms:** anesthetic: numbing, deadening | analgesic: painkiller, anodyne
+
+**口诀：** anesthetic → esthes = aesthete 审美家（关感觉）；analgesic → alges = nostalgia 乡愁（关疼痛）
