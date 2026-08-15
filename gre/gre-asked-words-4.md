@@ -207,3 +207,54 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **区分：** ameliorate（使变好，正面提升，最宽泛）vs mitigate（缓解严重性，让坏的程度降低，不一定变好）vs alleviate（减轻痛苦/负担，对象是 pain/suffering/burden）。一句记：ameliorate 越改越好，mitigate 别那么糟，alleviate 少受点罪。
 
 ---
+
+## apoplexy / apoplectic
+
+**释义：**
+- apoplexy (n.)
+  - 本义：中风、脑溢血（stroke / cerebral hemorrhage）
+  - GRE 引申义：暴怒、狂怒（= rage, fury）
+- apoplectic (adj.)
+  - 本义：中风的、脑溢血的
+  - GRE 引申义：怒不可遏的、气得像要中风的（= furious, enraged, livid）
+
+**词根：** 希腊语 apoplēxia ← apo-（away，离开/向下）+ plēssein（to strike，打击）→ 字面"被击倒" → 中风 / 气得倒地。同根词：plague（瘟疫，本义"打击/灾祸"）、plectrum（拨片，用来"敲击"弦之物）。
+
+**场景：**
+- **阅读人物刻画（高频）：** 形容人物极端愤怒——The coach was apoplectic after the blown call.（裁判误判后教练暴怒）
+- **填空情绪词：** apoplectic with rage / went apoplectic / flew into an apoplexy
+- **媒体/评论：** critics went apoplectic over the decision（评论员对决定怒不可遏）
+
+**画面：** 一个人气得脸红脖子粗、太阳穴青筋暴起，仿佛下一秒就要中风倒地——这就是 apoplectic 的具象化。
+
+**Synonyms:** apoplexy → fury, rage, wrath, indignation；apoplectic → furious, livid, incensed, irate
+**Antonyms:** calm, composed, placid, serene
+
+**区分：**
+- GRE 几乎不考「中风」本义，看到 apoplexy/apoplectic 直接取「暴怒」。
+- ⚠️ 勿与 apathy（冷漠）混淆：apoplectic 是极端愤怒，与冷漠完全相反。
+- 形近：apoplexy ≠ apostrophe（撇号/呼语）、≠ apocalypse（末日）。
+
+---
+
+**apo- 词根家族：**
+| 词 | 拆解 | 含义 |
+|---|---|---|
+| apoplexy | apo-（away）+ plēssein（strike） | 中风 / 暴怒 |
+| apostasy | apo-（away）+ stasis（stand） | 叛教、背弃信仰 |
+| apostate | 同上 | 叛教者、变节者 |
+| apocryphal | apo-（away）+ kryptein（hide） | 杜撰的、真实性可疑 |
+| apogee | apo-（away）+ gē（earth） | 远地点 → 顶峰 |
+| apotheosis | apo- + theos（god） | 神化 → 极致 |
+| apocalypse | apo-（away）+ kalyptein（cover） | 揭开面纱 → 末日启示 |
+| apology | apo-（away）+ logos（speech） | 辩护 / 辩解（非"道歉"） |
+| apostrophe | apo-（away）+ strophein（turn） | 撇号 / 呼语 |
+
+**核心反义对（GRE 高频）：**
+- apogee ↔ nadir（最高点 ↔ 最低点）
+- apocryphal ↔ canonical / authentic（杜撰 ↔ 正统/真实）
+- apostate ↔ orthodox / faithful（变节者 ↔ 正统/忠实）
+
+**造句统记：** The apostate's apocryphal apology was dismissed by orthodox clerics, whose apogee of faith found its apotheosis in the apocalypse they preached.（叛教者那份杜撰的辩解被正统神职人员驳回——后者信仰的顶峰，在他们宣扬的末日启示中臻于神化。）
+
+**画面：** apo- = 手从某物"拿开/远离"——离信仰=叛教，离地球=远地点，离真相=杜撰，揭开遮盖=启示。
