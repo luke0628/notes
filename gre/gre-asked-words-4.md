@@ -491,3 +491,66 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **口诀：** ascetic 拼写简朴（少个 a）→ 生活也简朴苦行；aesthetic 多个 a → 更"花哨"审美。
 
 ---
+
+## asperity / aspersion
+
+**asperity（名词）**
+**释义：** 粗暴、尖刻（语气/态度）；粗糙（表面质地）。harshness / roughness
+**词根：** asper- = rough（拉丁 asper 粗糙）。同根：exasperate（激怒）、exasperation
+
+**aspersion（名词）**
+**释义：** 诽谤、中伤、诋毁（贬损性言论），常用复数 cast aspersions on = 诋毁某人
+**词根：** ad- + spargere（撒、散播）。原义「洒圣水」，后引申「泼脏水」→ 诽谤。同根：disperse（散开）、sparse（稀疏）、intersperse（散布）
+
+**核心区分：**
+- asperity = 态度/质地「糙、刺」→ 尖刻、严厉
+- aspersion = 言语「泼脏水」→ 诽谤、中伤
+
+**场景：**
+- 阅读人物刻画：critic 的 asperity（评论尖刻不留情面）
+- 法律/媒体：cast aspersions on sb's integrity（诋毁某人名誉）
+- 填空逻辑对立：asperity ↔ civility/gentleness；aspersion ↔ praise/vindication
+
+**画面：** 老板语气带 asperity（尖刻如砂纸），员工背后 cast aspersions（泼脏水）诋毁他。
+
+**Synonyms:** asperity = acrimony, harshness, severity, roughness；aspersion = slander, defamation, slur, calumny
+**Antonyms:** asperity = gentleness, mildness, civility；aspersion = praise, compliment, vindication
+
+**区分：** 同为 asp- 形近陷阱。asperity 抓「粗糙」意象（砂纸、态度刺耳）；aspersion 抓「泼洒」意象（脏水、诋毁）。勿混 aspiration（抱负）。
+
+---
+
+## aspire / aspirant
+
+**aspire（动词）**
+**释义：** 渴望、追求（抱负高远）；to seek ambitiously
+**词根：** ad- + spirare（呼吸）→ 向着某物呼吸 = 向往。同根家族见下。
+
+**aspirant（名词/形容词）**
+**释义：** 有志者、追求者、求职者（尤指盯着某职位/事业的人）
+**搭配：** aspirant to/for（某职位的觊觎者）
+
+**spir-（呼吸）词根家族：**
+- aspire：渴望、追求
+- aspiration：抱负、志向（医学低频义：吸气）
+- inspire：吸气入内 → 鼓舞、激发灵感
+- expire：呼气出去 → 到期、断气
+- respire / respiration：呼吸
+- perspire：透过皮肤呼吸 → 出汗
+- conspire：一起呼吸 → 共谋、密谋
+- transpire：透过 → 发生、泄露
+- spirit：精神（呼吸 = 生命之气）
+
+**场景：**
+- 阅读人物刻画：aspiring artist（有抱负的艺术家）
+- 填空/政治：aspirant 常指「觊觎职位的人」，职场/政坛语境
+- 逻辑对立：aspiration ↔ apathy / complacency
+
+**画面：** 宇航员仰头深吸一口气（aspire = 向往高处的呼吸），精神一振。
+
+**Synonyms:** aspire = yearn, strive, aim；aspirant = candidate, contender, seeker
+**Antonyms:** apathy, indifference, complacency
+
+**区分：** 三个 asp- 根别混——spirare（呼吸）→ aspire 追求/抱负；asper（粗糙）→ asperity 尖刻；spargere（泼洒）→ aspersion 诽谤。
+
+---
