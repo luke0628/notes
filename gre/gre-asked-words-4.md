@@ -324,6 +324,12 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 - apprehension vs comprehension：同源 prehend-，但 apprehension 主考"忧虑"、comprehension 只有"理解"
 - apprehension vs trepidation/misgiving：都是"忧虑"，apprehension 最通用中性
 
+**例句（三义项各一，GRE 风格）：**
+- 忧虑（主考义）：Despite her outward composure, she awaited the biopsy results with mounting apprehension.（尽管表面镇定，她等待活检结果时内心的不安与日俱增。）
+- 填空对立版：The diplomat's air of equanimity concealed an apprehension he dared not voice.（外交官那份镇定自若，掩盖了他不敢说出口的忧虑。）—— equanimity ↔ apprehension 经典对立
+- 理解：A full apprehension of the theory requires mastering its mathematical foundations.（要完全领会这套理论，必须掌握它的数学基础。）
+- 逮捕（低频）：The suspect's apprehension occurred without incident near the border.（嫌疑人于边境附近被顺利逮捕。）
+
 ---
 
 ## anathema
