@@ -554,3 +554,26 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **区分：** 三个 asp- 根别混——spirare（呼吸）→ aspire 追求/抱负；asper（粗糙）→ asperity 尖刻；spargere（泼洒）→ aspersion 诽谤。
 
 ---
+
+## temptation
+
+**释义：** 诱惑、引诱（名词）；做错事/不智之事的冲动。核心是「被吸引去做不该做的事」。
+
+**词根：** 拉丁 temptare = 「试探、尝试、测试」。tempt 本义是「去试探」，引申为「引诱」。同根家族：
+- tempt（v）引诱、试探
+- tempting（adj）诱人的、吸引人的
+- attempt（v/n）ad- + tempt → 尝试、企图
+- tentative（adj）试探性的、暂定的（tent- = try）
+
+**场景：**
+- 填空逻辑对立：succumb to / yield to temptation（屈从诱惑）↔ resist temptation（抗拒诱惑）；temptation ↔ restraint / forbearance
+- 阅读人物刻画：a tempting offer（诱人的提议）、tempt fate（冒险、玩火）
+
+**画面：** 节食者面对蛋糕内心拉锯——succumb to temptation 就前功尽弃，resist it 才守住底线。
+
+**Synonyms:** enticement, lure, allure, seduction
+**Antonyms:** restraint, forbearance, resistance, willpower
+
+**区分：** 同根 tent- = try（试）。tempt = 引诱（诱你「试试」犯错）；attempt = 尝试（去试一把）；tentative = 试探性的、暂定的（试着来，没定死）。别把 attempt 的「尝试」义和 temptation 的「诱惑」义混在一起。
+
+---
