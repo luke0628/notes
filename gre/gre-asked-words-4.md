@@ -657,3 +657,53 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **区分：** protract（拖延时间）vs retract（收回/撤回）vs detract（贬低、减损）——都是 -tract 家族，核心都是「拉」，方向不同
 
 ---
+
+
+---
+
+## badger
+
+**释义：** 纠缠、不断烦扰、软磨硬泡（v.，pester, nag persistently）
+
+**词源：** 本义是「獾」这种动物。动词义来自英国旧时残忍娱乐 badger-baiting（放狗逗獾）——狗围着獾不停撕咬骚扰 → 引申为「没完没了地烦扰人」
+
+**场景：**
+- 填空逻辑对立：badger（纠缠）vs 放手 / leave alone
+- 人物刻画：pushy salespeople badgering customers（推销员死缠烂打顾客）
+- 固定搭配：badger sb into doing sth = 缠着某人直到他做某事
+
+**画面：** 狗群围着獾洞狂吠不止，salesperson 像那只獾一样被缠得毫无还手之力——直到你掏钱
+
+**Synonyms:** pester, nag, harass, hound, importune
+**Antonyms:** leave alone, let be, leave in peace
+
+**词组：** badger sb into purchasing = 软磨硬泡直到对方掏钱购买（She badgered him into purchasing the extended warranty. 她缠着他买了延长保修）。同类结构：talk/pressure/coax sb into doing
+
+---
+
+
+## penchant / proclivity / propensity
+
+**释义：**
+- penchant (n.) — 强烈的嗜好、沉迷（比 predilection 更浓，带点上瘾的味道）；搭配 penchant for sth（a penchant for gambling 嗜赌）
+- proclivity (n.) — 倾向、癖好（偏贬义，多指向坏习惯/不良倾向）；搭配 proclivity for/to sth（a proclivity for lying 爱撒谎的癖性）
+- propensity (n.) — 固有倾向（最中性、最学术，指人或事物本身的倾向）；搭配 propensity to do / for sth（propensity to save 储蓄倾向）
+
+**词根：**
+- penchant — 法语 pencher（倾斜）→ 身子不自觉地往那边倾
+- proclivity — pro-（向前）+ cliv（斜坡 clivus）→ 顺坡往下溜
+- propensity — pro-（向前）+ pend（悬挂）→ 身体前倾；同根 depend、suspend
+
+**场景：**
+- 填空近义选词：四个都是「倾向/偏好」，按色彩定答案——proclivity 偏贬（坏习惯）、propensity 中性学术（经济/统计）、penchant 沉迷嗜好、predilection 审美文化偏好
+- 学术论证：economists study the propensity to save（经济学家研究储蓄倾向）
+- 逻辑对立：常与 aversion / antipathy（厌恶）构成反义
+
+**画面：** He has a predilection for classic cinema, a penchant for late-night snacks, a proclivity for procrastination, and a propensity to panic under deadline pressure.（偏爱经典电影、嗜好深夜零食、有拖延坏癖、deadline 前恐慌的固有倾向。）
+
+**Synonyms:** preference, inclination, leaning, bent, disposition, tendency
+**Antonyms:** aversion, antipathy, distaste, dislike
+
+**区分：** 参见 predilection 词条（gre-asked-words.md:853，已含五词完整对照）。核心：predilection 审美/文化偏好（最文雅）、penchant 强烈嗜好上瘾（程度最深）、proclivity 坏习惯癖好（贬义最强）、propensity 中性学术固有倾向。
+
+---
