@@ -577,3 +577,83 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **区分：** 同根 tent- = try（试）。tempt = 引诱（诱你「试试」犯错）；attempt = 尝试（去试一把）；tentative = 试探性的、暂定的（试着来，没定死）。别把 attempt 的「尝试」义和 temptation 的「诱惑」义混在一起。
 
 ---
+
+## asunder
+
+**释义：** 分离地、散开地、成碎片地（adv./adj.）
+
+**词根：** a-（on, in）+ sunder（分开、分裂，来自古英语 sundrian，本身也是 GRE 词 =「分离、割裂」）
+
+**场景：**
+- 填空逻辑对立：被外力劈开、撕裂（torn asunder）
+- 社会/国家分裂：a nation torn asunder by civil war
+- 婚姻/宗教「使分离」：to cleave asunder
+
+**画面：** 闪电劈开一棵树，树干从中间 asunder 裂成两半，各自倒向一边 — 再也合不拢
+
+**Synonyms:** apart, in two, separated, to pieces
+**Antonyms:** together, united, intact
+
+**词组：** as the poles asunder — 如南北两极相隔，引申「（观点/立场）截然相反、天差地别」（Our opinions are wide as the poles asunder = 我们的意见相差得像南北两极那样远）
+
+---
+
+## sequester
+
+**释义：** ① 使隔离、使退隐（set apart, isolate, seclude）②（法律）扣押、查封财产 ③ 隔离陪审团
+
+**用法：** 表「自我隔离/闭门不出」时是反身动词，须加反身代词：sequester oneself（She sequestered herself in her room = 她把自己关在房间里与世隔绝）。不可译作「退役」（退役=retire）。区分：sequester=暂时性隔离躲清净，retire=正式退出军役/岗位。
+
+**词根：** se-（apart）+ quest/quer（seek, ask）→ 拉丁 sequestrare「移交保管、隔开」。同根词：sequestered（adj. 隐居的、与世隔绝的）、sequestration（n. 隔离/扣押）、sequestrate（英式法律「破产扣押」，同义）
+
+**场景：**
+- 法律/司法：sequester a jury（隔离陪审团免受舆论影响）；sequester assets（扣押财产）
+- 人物刻画：a sequestered life in the countryside（归隐乡野、与世隔绝）
+- 填空逻辑对立：sequester（隔绝）vs 公开 / 融入
+
+**画面：** 证人被送进无窗小屋，切断所有外界信息，防止被媒体舆论「污染」——他被 sequester 了，与世隔绝
+
+**Synonyms:** isolate, seclude, quarantine, confiscate, seize
+**Antonyms:** integrate, release, restore, free
+
+**区分：** sequester（通用，美式）vs sequestrate（英式法律术语，偏破产/财产扣押）；sequestered 是形容词，考「与世隔绝的」义更多
+
+---
+
+## protrude
+
+**释义：** 突出、伸出、凸出（stick out, jut out）
+
+**词根：** pro-（forward, 向前）+ trud（thrust, 推）→ 向前推出去。同根词：intrude（闯入）、extrude（挤出/压出）、obtrude（强加/强行闯入视野）、abstruse（深奥难懂的 = ab- 推离 + trud）
+
+**场景：**
+- 物体/空间描写：a nail protruding from the board（凸出的钉子）；a rock protruding above the water（露出水面的岩石）
+- 解剖/医学：protruding teeth / eyes（突出的牙齿/眼球）
+- 人物刻画（外貌）：a protruding chin（突出的下巴）
+
+**画面：** 木板里戳出一截钉子，你不小心摸过去被扎一下——那截 protrude 出来的就是「突出物」
+
+**Synonyms:** stick out, jut out, project, bulge
+**Antonyms:** recede, retract, sink, withdraw
+
+**区分：** protrude（突出/伸出）vs intrude（闯入/打扰）vs obtrude（强加/硬凑到眼前）vs extrude（挤出）——都是 -trud（推）家族。另注意 protrude（推出去）vs protract（拉长拖时间），pro- 都表「向前」，但一个「推」一个「拉」
+
+## protract
+
+**释义：** 延长、拖延、拖长（时间上拉长，尤其指不必要地拖）
+
+**词根：** pro-（forward, 向前）+ tract（draw, 拉）→ 向前拉长。同根词：protracted（adj. 旷日持久的、拖延的，GRE 高频）、retract（缩回）、extract（抽出）、attract（吸引）、distract（分心）、abstract（抽象的）
+
+**场景：**
+- 填空逻辑对立 / 时间维度：protract the negotiation（拖延谈判）；protracted debate（旷日持久的辩论）
+- 负面色彩：protract a decision unnecessarily（不必要地拖决策）
+- 常考搭配：protracted conflict / war / illness（拖长的冲突/战争/病）
+
+**画面：** 一根橡皮筋被越拉越长，谈判桌上的时钟一圈圈转——事情被 protract 得没完没了
+
+**Synonyms:** prolong, extend, lengthen, drag out, draw out
+**Antonyms:** shorten, curtail, abbreviate, truncate
+
+**区分：** protract（拖延时间）vs retract（收回/撤回）vs detract（贬低、减损）——都是 -tract 家族，核心都是「拉」，方向不同
+
+---
