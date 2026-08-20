@@ -707,3 +707,25 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 **区分：** 参见 predilection 词条（gre-asked-words.md:853，已含五词完整对照）。核心：predilection 审美/文化偏好（最文雅）、penchant 强烈嗜好上瘾（程度最深）、proclivity 坏习惯癖好（贬义最强）、propensity 中性学术固有倾向。
 
 ---
+
+## preposterous
+
+**释义：** adj. 荒谬的、荒唐的、违背常理到可笑的程度（contrary to reason or common sense）；GRE 中常形容 claim/idea/notion 等「离谱到不可信」的观点
+
+**词根：** pre-（在前）+ posterus（在后）= 前在后、后在前，次序颠倒 → 荒唐。同根词：posterior（后面的）、posterity（后代）——这个词根的本来意思是「后面的」，preposterous 字面就是「把后面的放到前面」
+
+**场景：**
+- 填空逻辑对立（高频）：preposterous ↔ sensible / reasonable / plausible / rational；常考 It would be preposterous to claim/suggest that...
+- 学术论证（阅读）：a preposterous theory/claim——作者或学者批判的荒谬观点，常是论证中要驳倒的对象
+- 与 idea/notion/assertion 搭配：荒唐的主张（不是形容人外貌，而是形容观点/行为离谱）
+
+**画面：** 一个人倒着走路、帽子穿在脚上——preposterous 就是那张「前后颠倒」的荒谬图，词根字面就是答案
+
+**Synonyms:** absurd, ridiculous, ludicrous, nonsensical, outrageous, irrational, foolish
+**Antonyms:** sensible, reasonable, rational, plausible, sound, judicious
+
+**区分：**
+- preposterous vs absurd：absurd 强调「荒诞不合理」（存在即不合理）；preposterous 强调「颠倒常理、悖于常识」（本末倒置），词根 front-before-back 就是记忆锚点
+- preposterous vs ludicrous：ludicrous 强调「滑稽可笑」（laughable，让人发笑）；preposterous 更强调「逻辑上荒唐离谱」（让人无法相信）
+
+---

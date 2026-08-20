@@ -1724,6 +1724,7 @@
 **区分：**
 - vicissitudes vs fluctuations：fluctuations 偏数字/量的起伏波动（中立），vicissitudes 带有强烈的\"命运感\"（人生的得失/幸与不幸交替）
 - vicissitudes vs volatility：volatility 强调变化的速度和不可预测性，vicissitudes 强调\"从顺境到逆境的重大交替 /转折\"（不以速度衡量，属于状态或命运的转折）
+- vicissitudes vs wax and wane：wax and wane 是动词短语「盈虚/增减」（月亮圆缺、势力消长），中性、偏周期性；vicissitudes 是名词「兴衰/浮沉」，带命运感——顺逆交替且不受个人控制。可互换公式：the vicissitudes of fortune ≈ the waxing and waning of fortune
 
 ---
 
