@@ -2006,6 +2006,8 @@
 **Synonyms:** amiability, affability, agreeableness, compatibility, geniality
 **Antonyms:** animosity, hostility, incompatibility, aloofness
 
+**补充（congenial adj.）：** adj. 意气相投的、宜人的、相宜的 — 与 congeniality 同根同义族：con-（共同）+ genius（天性）→「天性相合的」。高频搭配：a congenial atmosphere/host（令人舒适的氛围/主人）、be congenial to one's tastes（合某人口味）。GRE 场景：填空·人际氛围（愉悦舒适）、填空·性质匹配（be congenial to X）、阅读·人物刻画（随和好相处）。区分：congenial（双向契合）vs genial（单方面和蔼可亲）；反义 uncongenial。Synonyms: agreeable, genial, affable, compatible。Antonyms: uncongenial, disagreeable, hostile。
+
 ---
 
 ## ballyhoo / ballyhooed

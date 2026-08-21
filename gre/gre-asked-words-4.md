@@ -729,3 +729,22 @@ mitigate + abate = SE 近义对（减轻/减弱），但 preclude = 完全阻止
 - preposterous vs ludicrous：ludicrous 强调「滑稽可笑」（laughable，让人发笑）；preposterous 更强调「逻辑上荒唐离谱」（让人无法相信）
 
 ---
+
+## fortnight
+
+**释义：** n. 两星期、十四天 — 英式英语常用时间单位（美式多用 two weeks）。GRE 阅读（尤其英式作者文章）偶见。
+
+**词根：** 古英语 fēowertīene niht（fourteen nights）→ 按「夜」计日的日耳曼传统（同构古词 sennight = seven nights 七天）。
+
+**场景（GRE 考点）：**
+- 阅读·时间线索 — in a fortnight（两周后）、fortnightly（每两周一次的），定位事件先后顺序
+- 填空·时间逻辑 — 时间跨度词是填空逻辑链的锚点，注意 fortnight 是 14 天不是 7 天
+
+**画面：** 英剧里房东说 "I'll be back in a fortnight" — 两个星期的漫长期待。
+
+**Synonyms:** two weeks
+**Antonyms:** —
+
+**区分：** fortnightly（每两周一次）≠ semimonthly（每月两次，间隔未必 14 天）；sennight（七天）为古语，GRE 几乎不考。
+
+---
